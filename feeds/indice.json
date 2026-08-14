@@ -1,6 +1,6 @@
 {
-  "generado_en": "2026-08-14T19:15:45+00:00",
-  "total": 24,
+  "generado_en": "2026-08-14T20:04:28+00:00",
+  "total": 25,
   "feeds": [
     {
       "archivo": "mundo.xml",
@@ -36,7 +36,7 @@
       "archivo": "tema-cultura.xml",
       "titulo": "Noticias del Mundo — Cultura",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-cultura.xml",
-      "items": 100
+      "items": 104
     },
     {
       "archivo": "tema-deportes.xml",
@@ -66,7 +66,7 @@
       "archivo": "tema-salud.xml",
       "titulo": "Noticias del Mundo — Salud",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-salud.xml",
-      "items": 43
+      "items": 47
     },
     {
       "archivo": "tema-sociedad.xml",
@@ -102,7 +102,7 @@
       "archivo": "region-bolivia.xml",
       "titulo": "Noticias del Mundo — Bolivia",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-bolivia.xml",
-      "items": 68
+      "items": 95
     },
     {
       "archivo": "region-europa.xml",
@@ -126,7 +126,7 @@
       "archivo": "region-oceania.xml",
       "titulo": "Noticias del Mundo — Oceanía",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-oceania.xml",
-      "items": 91
+      "items": 95
     },
     {
       "archivo": "region-africa.xml",
@@ -145,6 +145,12 @@
       "titulo": "Noticias del Mundo — ES",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/idioma-es.xml",
       "items": 120
+    },
+    {
+      "archivo": "idioma-pt.xml",
+      "titulo": "Noticias del Mundo — PT",
+      "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/idioma-pt.xml",
+      "items": 12
     }
   ]
 }
