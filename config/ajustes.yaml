@@ -13,8 +13,16 @@ sitio:
   enlace: https://github.com/GustavoMix/cron-rss-noticias
   # Base pública desde donde se sirven los feeds ya generados. Se usa para el
   # <atom:link rel="self">, que es lo que mira un lector de RSS para saber si
-  # el feed se mudó. Cambiala si publicás con GitHub Pages o un dominio propio.
-  base_feeds: https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/main/feeds
+  # el feed se mudó.
+  #
+  # Tiene que terminar en la rama por defecto del repo: hoy es la rama de
+  # trabajo porque el repositorio se creó vacío. Si la renombrás a main,
+  # cambiá también esta línea. Y si publicás con GitHub Pages o un dominio
+  # propio, poné esa URL en su lugar.
+  #
+  # OJO: mientras el repositorio sea privado, esta URL pide autenticación y
+  # ningún lector de RSS va a poder abrirla. Ver docs/CRON.md.
+  base_feeds: https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds
   idioma: es
   zona_horaria: UTC
 

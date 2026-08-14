@@ -62,11 +62,23 @@ el tiempo y algunos medios responden 403 a clientes automatizados. Lo que está
 en `error` se corrige o se marca `activa: false`; lo que está en `bloqueada`
 **no** es un problema de configuración.
 
-## Permisos y repositorio privado
+## Permisos, rama por defecto y repositorio privado
 
-El workflow usa el `GITHUB_TOKEN` del propio repo con `contents: write`. Puede
-ser privado sin problemas —solo que entonces las URLs `raw.githubusercontent`
-de los feeds no van a ser públicas—.
+El workflow usa el `GITHUB_TOKEN` del propio repo con `contents: write`.
+
+**El cron programado solo se dispara en la rama por defecto del repositorio.**
+Como este repo se creó vacío, GitHub dejó como rama por defecto la primera que
+recibió: `claude/cron-rss-news-feed-hwyv4o`. Es decir que el cron funciona tal
+como está. Si preferís renombrarla a `main` (Settings → Branches), acordate de
+actualizar `sitio.base_feeds` en `config/ajustes.yaml`, que lleva el nombre de
+la rama en la URL.
+
+El repositorio es **privado** hoy. Eso implica dos cosas:
+
+- Las URLs `raw.githubusercontent.com/...` de los feeds piden autenticación, así
+  que **ningún lector de RSS puede suscribirse todavía**. Para publicarlos:
+  hacer público el repo, o servir `feeds/` por GitHub Pages / hosting estático.
+- Los minutos de Actions se descuentan del cupo mensual (ver *Costo*, abajo).
 
 Si la rama tiene reglas de protección que bloquean pushes directos de Actions,
 el paso de guardar va a fallar: hay que permitir a `github-actions[bot]` o
@@ -89,7 +101,15 @@ el feed se mudó.
 ## Costo
 
 Con 19 jobs por corrida y ~7 minutos de reloj, una corrida por hora consume del
-orden de 20-25 minutos-runner. **En un repositorio público los minutos de
-Actions son gratis**; en uno privado se descuentan del cupo mensual, así que
-conviene bajar la frecuencia (cada 3 o 6 horas) o usar `saltar_facebook` en las
-corridas intermedias.
+orden de 20-25 minutos-runner, casi todo en los jobs de Facebook.
+
+**En un repositorio público los minutos de Actions son gratis.** En uno privado
+—como está hoy— se descuentan del cupo mensual, y a una corrida por hora ese
+cupo se agota rápido. Tres formas de bajarlo, de menos a más agresiva:
+
+1. Bajar la frecuencia del cron a cada 3 o 6 horas (`0 */3 * * *`). La rotación
+   sigue funcionando, solo tarda más vueltas en cubrir todas las páginas.
+2. Correr solo RSS en las corridas intermedias: los jobs de RSS son 3 y rápidos
+   (no instalan Chromium), y son los que traen la mayor parte del volumen.
+3. Hacer público el repositorio, que además resuelve la publicación de los
+   feeds.

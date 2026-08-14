@@ -29,8 +29,14 @@ Corre solo, cada hora, con GitHub Actions. No necesita servidor.
 Para suscribirse desde un lector, la URL es la del archivo crudo del repo:
 
 ```
-https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/main/feeds/mundo.xml
+https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/<rama-por-defecto>/feeds/mundo.xml
 ```
+
+**Mientras el repositorio sea privado esa URL pide autenticación**, así que
+ningún lector de RSS va a poder abrirla. Para que los feeds sean públicos hay
+que hacer público el repo o servir `feeds/` por GitHub Pages o un hosting
+estático; en cualquiera de esos casos hay que actualizar `sitio.base_feeds` en
+`config/ajustes.yaml`. Ver [`docs/CRON.md`](docs/CRON.md).
 
 ## Por qué está partido en tantos jobs
 
