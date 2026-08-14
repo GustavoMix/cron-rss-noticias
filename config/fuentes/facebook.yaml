@@ -7,10 +7,10 @@
 #
 #     jobs = ceil(cantidad_de_fuentes / 2)
 #
-# y ese número no puede pasar de `facebook.max_paralelo` sin que los grupos
-# empiecen a hacer cola (los que esperan corren igual, solo que más tarde).
-# Si querés sumar muchas páginas, la palanca es subir IPs -más jobs, o proxies
-# con NOTICIAS_PROXIES-, no meter más fuentes por grupo.
+# `facebook.max_paralelo` es el tope de grupos que genera el planificador.
+# Con las 80 páginas actuales y tamaño 2 se necesitan 40 grupos. En el workflow,
+# `max-parallel: 16` controla cuántos de esos grupos corren simultáneamente; los
+# demás quedan en cola sin agrandar los grupos.
 #
 # `orden_preferido` (opcional, menor = más temprano) solo desempata cuando dos
 # fuentes tienen la misma urgencia histórica; la prioridad real la decide la
@@ -288,4 +288,459 @@ fuentes:
     idioma: es
     categoria: mundo
     region: Bolivia
+    peso: 3
+
+  # --- Ampliación Bolivia: TV, prensa, radio y digitales ------------------
+  - id: fb_bolivision
+    nombre: Noticias Bolivisión
+    tipo: facebook
+    url: https://www.facebook.com/NoticiasBolivision/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_atb_digital
+    nombre: ATB Digital
+    tipo: facebook
+    url: https://www.facebook.com/ATBDigital/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_bolivia_tv
+    nombre: Bolivia Tv Oficial
+    tipo: facebook
+    url: https://www.facebook.com/BTVCanalOficial/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_rtp_bolivia
+    nombre: RTP Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/rtpbolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_abya_yala
+    nombre: Abya Yala Tv
+    tipo: facebook
+    url: https://www.facebook.com/AbyaYalaTv/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_pat_bolivia
+    nombre: PAT Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/patboliviahd/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_gigavision
+    nombre: RED Gigavisión Noticias
+    tipo: facebook
+    url: https://www.facebook.com/redgigavisionnoticias/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_cadena_a
+    nombre: Cadena A - Red Nacional
+    tipo: facebook
+    url: https://www.facebook.com/cadenaabolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_brujula_digital
+    nombre: Brújula Digital Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/brujuladigitalbolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_bolivia_verifica
+    nombre: Bolivia Verifica
+    tipo: facebook
+    url: https://www.facebook.com/BoliviaVerifica/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_correo_del_sur
+    nombre: Correo del Sur
+    tipo: facebook
+    url: https://www.facebook.com/correodelsur/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_el_potosi
+    nombre: El Potosí
+    tipo: facebook
+    url: https://www.facebook.com/elpotosi.noticias/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_los_tiempos
+    nombre: Los Tiempos Digital
+    tipo: facebook
+    url: https://www.facebook.com/lostiemposbol1/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: fb_radio_fides
+    nombre: Radio Fides de Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/RadioFidesBolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_panamericana
+    nombre: Radio Panamericana
+    tipo: facebook
+    url: https://www.facebook.com/NoticiasPanamericana/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_radio_companera
+    nombre: Radio Compañera 106.3
+    tipo: facebook
+    url: https://www.facebook.com/radiocompanera106.3/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_urgente_bo
+    nombre: Urgente.bo
+    tipo: facebook
+    url: https://www.facebook.com/Urgente.boPeriodico/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_la_patria
+    nombre: La Patria Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/LaPatriaBolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_el_pais_tarija
+    nombre: El País Tarija
+    tipo: facebook
+    url: https://www.facebook.com/elpais.bo/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_el_diario_bolivia
+    nombre: El Diario - Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/eldiario.bolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  # --- Brasil -------------------------------------------------------------
+  - id: fb_g1_brasil
+    nombre: g1
+    tipo: facebook
+    url: https://www.facebook.com/g1/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_globonews
+    nombre: GloboNews
+    tipo: facebook
+    url: https://www.facebook.com/GloboNews/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_cnn_brasil
+    nombre: CNN Brasil
+    tipo: facebook
+    url: https://www.facebook.com/cnnbrasil/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_record_news
+    nombre: Record News
+    tipo: facebook
+    url: https://www.facebook.com/recordnews/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: fb_folha
+    nombre: Folha de S.Paulo
+    tipo: facebook
+    url: https://www.facebook.com/folhadesp/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_estadao
+    nombre: Estadão
+    tipo: facebook
+    url: https://www.facebook.com/estadao/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_o_globo
+    nombre: O Globo
+    tipo: facebook
+    url: https://www.facebook.com/jornaloglobo/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_uol_noticias
+    nombre: UOL Notícias
+    tipo: facebook
+    url: https://www.facebook.com/UOLNoticias/
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  # --- Argentina ----------------------------------------------------------
+  - id: fb_tn_argentina
+    nombre: TN - Todo Noticias
+    tipo: facebook
+    url: https://www.facebook.com/todonoticias/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_c5n
+    nombre: C5N
+    tipo: facebook
+    url: https://www.facebook.com/C5N.Noticias/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: fb_la_nacion_ar
+    nombre: LA NACION
+    tipo: facebook
+    url: https://www.facebook.com/lanacion/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_perfil
+    nombre: Perfil
+    tipo: facebook
+    url: https://www.facebook.com/perfilcom/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: fb_cronica_tv
+    nombre: Crónica TV
+    tipo: facebook
+    url: https://www.facebook.com/cronicatelevision/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  # --- Colombia -----------------------------------------------------------
+  - id: fb_noticias_caracol
+    nombre: Noticias Caracol
+    tipo: facebook
+    url: https://www.facebook.com/NoticiasCaracol/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_noticias_rcn
+    nombre: Noticias RCN
+    tipo: facebook
+    url: https://www.facebook.com/NoticiasRCN/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_ntn24
+    nombre: NTN24
+    tipo: facebook
+    url: https://www.facebook.com/NTN24/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_el_tiempo_col
+    nombre: EL TIEMPO
+    tipo: facebook
+    url: https://www.facebook.com/eltiempo/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_revista_semana
+    nombre: Revista Semana
+    tipo: facebook
+    url: https://www.facebook.com/RevistaSemana/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  # --- Internacional: más señales y agencias -----------------------------
+  - id: fb_nbc_news
+    nombre: NBC News
+    tipo: facebook
+    url: https://www.facebook.com/NBCNews/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_abc_news
+    nombre: ABC News
+    tipo: facebook
+    url: https://www.facebook.com/ABCNews/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_cbs_news
+    nombre: CBS News
+    tipo: facebook
+    url: https://www.facebook.com/CBSNews/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_npr
+    nombre: NPR
+    tipo: facebook
+    url: https://www.facebook.com/NPR/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_washington_post
+    nombre: The Washington Post
+    tipo: facebook
+    url: https://www.facebook.com/washingtonpost/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_bloomberg
+    nombre: Bloomberg
+    tipo: facebook
+    url: https://www.facebook.com/Bloomberg/
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: fb_financial_times
+    nombre: Financial Times
+    tipo: facebook
+    url: https://www.facebook.com/financialtimes/
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: fb_economist
+    nombre: The Economist
+    tipo: facebook
+    url: https://www.facebook.com/TheEconomist/
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: fb_politico
+    nombre: POLITICO
+    tipo: facebook
+    url: https://www.facebook.com/politico/
+    idioma: en
+    categoria: politica
+    region: América del Norte
+    peso: 4
+
+  - id: fb_sky_news
+    nombre: Sky News
+    tipo: facebook
+    url: https://www.facebook.com/skynews/
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: fb_cbc_news
+    nombre: CBC News
+    tipo: facebook
+    url: https://www.facebook.com/cbcnews/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_meganoticias_chile
+    nombre: Meganoticias
+    tipo: facebook
+    url: https://www.facebook.com/meganoticiascl/
+    idioma: es
+    categoria: mundo
+    region: América Latina
     peso: 3

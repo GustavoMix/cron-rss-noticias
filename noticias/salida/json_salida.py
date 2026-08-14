@@ -13,11 +13,138 @@ from __future__ import annotations
 
 import json
 from collections import Counter
+from datetime import timezone
 from pathlib import Path
 from typing import Any, Dict, Iterable, List
+from urllib.parse import parse_qs, urlparse
+from zoneinfo import ZoneInfo
 
 from ..config import Fuente
 from ..modelos import Noticia, ResultadoFuente
+from ..util import fechas
+
+
+ZONA_APP = ZoneInfo("America/La_Paz")
+
+
+def _usuario_fuente(url: str) -> str | None:
+    try:
+        partes = [p for p in urlparse(url).path.split("/") if p]
+    except Exception:
+        return None
+    if not partes or partes[0].lower() in {"pages", "groups", "profile.php"}:
+        return None
+    return partes[0]
+
+
+def _post_id_facebook(url: str) -> str | None:
+    """Extrae un id útil del permalink cuando Facebook lo deja en la URL."""
+    try:
+        parsed = urlparse(url)
+        partes = [p for p in parsed.path.split("/") if p]
+        for marca in ("posts", "videos", "reel"):
+            if marca in partes:
+                i = partes.index(marca)
+                if i + 1 < len(partes):
+                    return partes[i + 1].split("?")[0] or None
+        query = parse_qs(parsed.query)
+        for clave in ("story_fbid", "v", "fbid"):
+            if query.get(clave):
+                return str(query[clave][0])
+    except Exception:
+        return None
+    return None
+
+
+def _fecha_kotlin(valor: str | None) -> Dict[str, Any]:
+    momento = fechas.parsear(valor)
+    if momento is None:
+        return {
+            "iso_utc": valor,
+            "epoch_ms": None,
+            "fecha_utc": None,
+            "hora_utc": None,
+            "iso_bolivia": None,
+            "fecha_bolivia": None,
+            "hora_bolivia": None,
+            "zona_bolivia": "America/La_Paz",
+        }
+    utc = momento.astimezone(timezone.utc)
+    local = momento.astimezone(ZONA_APP)
+    return {
+        "iso_utc": utc.isoformat(timespec="seconds"),
+        "epoch_ms": int(utc.timestamp() * 1000),
+        "fecha_utc": utc.date().isoformat(),
+        "hora_utc": utc.strftime("%H:%M:%S"),
+        "iso_bolivia": local.isoformat(timespec="seconds"),
+        "fecha_bolivia": local.date().isoformat(),
+        "hora_bolivia": local.strftime("%H:%M:%S"),
+        "zona_bolivia": "America/La_Paz",
+    }
+
+
+def _noticia_para_app(n: Noticia) -> Dict[str, Any]:
+    """JSON estable y redundante a propósito para clientes Android/Kotlin.
+
+    Conserva todos los campos planos históricos y suma bloques anidados. Eso
+    permite migrar DTOs sin romper versiones anteriores de la app.
+    """
+    base = n.a_dict()
+    tipo_contenido = "video" if n.video_url else ("imagen" if n.imagen_url else "texto")
+    base.update({
+        "plataforma": n.tipo_fuente,
+        "collector": "public_web" if n.tipo_fuente == "facebook" else "rss",
+        "post_id": _post_id_facebook(n.url) if n.tipo_fuente == "facebook" else None,
+        "tipo_contenido": tipo_contenido,
+        "canal": {
+            "id": n.fuente_id,
+            "nombre": n.fuente_nombre,
+            "tipo": n.tipo_fuente,
+            "pagina_url": n.fuente_url,
+            "usuario": _usuario_fuente(n.fuente_url) if n.tipo_fuente == "facebook" else None,
+            "icono_url": n.fuente_icono_url,
+            "idioma": n.idioma,
+            "region": n.fuente_region,
+            "categoria_base": n.fuente_categoria,
+            "peso": n.peso_fuente,
+        },
+        "fecha_hora": _fecha_kotlin(n.publicado_en),
+        "detectado_fecha_hora": _fecha_kotlin(n.detectado_en),
+        "media": {
+            "imagen_principal": n.imagen_url,
+            "imagenes": list(n.imagenes or []),
+            "video_url": n.video_url,
+            "tiene_imagen": bool(n.imagen_url or n.imagenes),
+            "tiene_video": bool(n.video_url),
+        },
+        "metricas": {
+            "reacciones": n.reacciones,
+            "comentarios": n.comentarios,
+            "compartidos": n.compartidos,
+        },
+        "clasificacion": {
+            "categoria_principal": n.categoria,
+            "categorias": list(n.categorias or []),
+            "regiones": list(n.regiones or []),
+            "etiquetas": list(n.etiquetas or []),
+            "importancia": n.importancia,
+        },
+        "duplicados": {
+            "cantidad_fuentes": n.cantidad_fuentes,
+            "tambien_en": [
+                {
+                    "id": f.id,
+                    "nombre": f.nombre,
+                    "url": f.url,
+                    "tipo": f.tipo,
+                    "peso": f.peso,
+                    "publicado_en": f.publicado_en,
+                }
+                for f in (n.tambien_en or [])
+            ],
+        },
+    })
+    return base
 
 
 def escribir_noticias(
@@ -29,8 +156,14 @@ def escribir_noticias(
 ) -> Path:
     seleccion = noticias[:maximo]
     payload = {
-        "version_esquema": "1.0",
+        "version_esquema": "1.1",
+        "compatibilidad": {
+            "campos_planos_legacy": True,
+            "bloques_kotlin": ["canal", "fecha_hora", "media", "metricas", "clasificacion", "duplicados"],
+            "zona_horaria_app": "America/La_Paz",
+        },
         "generado_en": generado_en,
+        "generado_fecha_hora": _fecha_kotlin(generado_en),
         "resumen": {
             "noticias": len(seleccion),
             "en_historial": len(noticias),
@@ -40,7 +173,7 @@ def escribir_noticias(
             "por_tipo_fuente": dict(Counter(n.tipo_fuente for n in seleccion).most_common()),
         },
         "feeds": feeds,
-        "noticias": [n.a_dict() for n in seleccion],
+        "noticias": [_noticia_para_app(n) for n in seleccion],
     }
     destino = Path(ruta)
     destino.parent.mkdir(parents=True, exist_ok=True)

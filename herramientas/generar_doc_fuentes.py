@@ -47,8 +47,9 @@ def main() -> int:
         f"{len(config.por_tipo('rss'))} RSS y {len(facebook)} páginas de Facebook.",
         "",
         f"Las {len(facebook)} páginas de Facebook se reparten en grupos de {tamano}, "
-        f"o sea **{jobs} jobs de CI ({jobs} IPs)** por corrida "
-        f"(tope actual: {ajustes.get('max_paralelo')}).",
+        f"o sea **{jobs} grupos de CI** por corrida "
+        f"(tope del planificador: {ajustes.get('max_paralelo')}; "
+        f"el workflow limita la concurrencia por separado).",
         "",
         "`peso` (1-5) decide qué versión gana cuando varios medios traen la misma "
         "historia, y suma a la importancia del item.",

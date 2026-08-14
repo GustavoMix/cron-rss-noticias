@@ -54,9 +54,10 @@ facebook:
   # la palanca es "más IPs y grupos más chicos", no más trucos dentro de un job.
   # ---------------------------------------------------------------------------
   tamano_grupo: 2
-  # Jobs simultáneos = IPs simultáneas. El plan gratuito de GitHub permite 20
-  # jobs en paralelo por cuenta; dejamos margen para el resto del workflow.
-  max_paralelo: 16
+  # Tope de GRUPOS que el planificador puede crear por corrida. Con 80 páginas
+  # y grupos de 2 hacen falta 40 grupos. El workflow ejecuta como máximo 16 de
+  # esos jobs a la vez; los demás esperan turno, pero conservan grupos de 2.
+  max_paralelo: 40
   max_items_por_fuente: 12
   scrolls: 2
   espera_carga_segundos: 2.5

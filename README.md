@@ -10,7 +10,7 @@ Corre solo, cada hora, con GitHub Actions. No necesita servidor.
 ```
      RSS (61 fuentes)  ─┐
                         ├─→  normalizar → deduplicar → clasificar  →  feeds/*.xml
-     Facebook (30 pág.) ─┘                                             datos/*.json
+     Facebook (80 pág.) ─┘                                             datos/*.json
 ```
 
 ## Lo que genera
@@ -48,7 +48,7 @@ tráfico.
 La única palanca real es **más IPs y grupos más chicos**. Un job de GitHub
 Actions es un runner, y un runner es una IP. Así que:
 
-- 30 páginas ÷ 2 por grupo = **15 jobs en paralelo**, cada uno con su IP.
+- 80 páginas ÷ 2 por grupo = **40 grupos de trabajo**; el workflow ejecuta **hasta 16 a la vez** y el resto queda en cola.
 - Detrás de una página bloqueada queda **como mucho una sola** página más.
 - La rotación guardada en el repo le da el primer turno de cada grupo —el que
   casi siempre pasa— a la fuente que lleva más tiempo sin traer datos.
@@ -103,11 +103,11 @@ Una fuente RSS es una entrada más en el YAML:
     peso: 3          # 1-5; decide qué versión gana cuando hay duplicados
 ```
 
-Para Facebook vale lo mismo con `tipo: facebook`, **pero cada página cuesta
-cupo de IP**: sumar dos páginas es sumar un job. Si la cuenta de jobs supera
-`facebook.max_paralelo` en `config/ajustes.yaml`, los grupos se agrandan solos
-y vuelve el problema de perder fuentes en cascada. Hay un test que falla si eso
-pasa (`test_la_configuracion_real_no_pide_mas_jobs_de_los_permitidos`).
+Para Facebook vale lo mismo con `tipo: facebook`. Con `tamano_grupo: 2`, cada
+dos páginas forman un grupo. `facebook.max_paralelo` en `config/ajustes.yaml`
+es el tope de grupos que genera el planificador; hoy está en 40 para las 80
+páginas. El workflow mantiene `max-parallel: 16`, por lo que GitHub ejecuta 16
+grupos a la vez y deja los demás en cola sin agrandar los grupos.
 
 Después de tocar la lista:
 

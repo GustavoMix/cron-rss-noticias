@@ -82,10 +82,17 @@ def normalizar_item(
         categorias=[],
         regiones=[item.region_fuente] if item.region_fuente else [],
         autor=item.autor,
+        contenido=t.compactar(item.texto),
+        fuente_icono_url=item.fuente_icono_url,
+        fuente_region=item.region_fuente,
+        fuente_categoria=item.categoria_fuente,
         imagen_url=imagenes[0] if imagenes else None,
         imagenes=imagenes[:6],
         video_url=item.video_url,
         etiquetas=[t.compactar(x) for x in (item.etiquetas or []) if t.compactar(x)][:8],
+        reacciones=item.reacciones,
+        comentarios=item.comentarios,
+        compartidos=item.compartidos,
     )
 
 

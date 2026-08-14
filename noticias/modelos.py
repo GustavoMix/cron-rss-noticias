@@ -36,9 +36,13 @@ class ItemCrudo:
     region_fuente: Optional[str] = None
     tipo_fuente: str = "rss"
     peso_fuente: int = 3
+    fuente_icono_url: Optional[str] = None
     imagenes: List[str] = field(default_factory=list)
     video_url: Optional[str] = None
     etiquetas: List[str] = field(default_factory=list)
+    reacciones: Optional[int] = None
+    comentarios: Optional[int] = None
+    compartidos: Optional[int] = None
 
     def a_dict(self) -> Dict[str, Any]:
         return asdict(self)
@@ -82,10 +86,17 @@ class Noticia:
     regiones: List[str] = field(default_factory=list)
     importancia: int = 0
     autor: Optional[str] = None
+    contenido: str = ""
+    fuente_icono_url: Optional[str] = None
+    fuente_region: Optional[str] = None
+    fuente_categoria: Optional[str] = None
     imagen_url: Optional[str] = None
     imagenes: List[str] = field(default_factory=list)
     video_url: Optional[str] = None
     etiquetas: List[str] = field(default_factory=list)
+    reacciones: Optional[int] = None
+    comentarios: Optional[int] = None
+    compartidos: Optional[int] = None
     # Otros medios que trajeron la misma historia en esta corrida.
     tambien_en: List[FuenteEnNoticia] = field(default_factory=list)
     cantidad_fuentes: int = 1

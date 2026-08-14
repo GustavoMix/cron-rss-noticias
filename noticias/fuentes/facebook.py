@@ -195,6 +195,97 @@ async def _imagenes_del_post(nodo) -> List[str]:
     return urls[:6]
 
 
+def _numero_metrica(texto: str | None) -> int | None:
+    """Convierte contadores sociales como ``1,2 mil`` / ``3.4K`` / ``2 M``.
+
+    Facebook cambia bastante el marcado, por eso esto es deliberadamente
+    tolerante y solo devuelve un valor cuando hay un número reconocible.
+    """
+    if not texto:
+        return None
+    bajo = texto.lower().replace("\u00a0", " ")
+    m = re.search(r"(\d+(?:[.,]\d+)?)\s*(mil|k|m|mi|mill[oó]n(?:es)?|thousand)?", bajo)
+    if not m:
+        return None
+    bruto = m.group(1)
+    sufijo = (m.group(2) or "").lower()
+    # Sin sufijo, 1.234 / 1,234 suele ser separador de miles en contadores.
+    if not sufijo and re.fullmatch(r"\d{1,3}[.,]\d{3}", bruto):
+        return int(bruto.replace(".", "").replace(",", ""))
+    # Con sufijo, una sola coma/punto se trata como decimal: 1,2 mil / 1.4K.
+    try:
+        valor = float(bruto.replace(",", "."))
+    except ValueError:
+        return None
+    if sufijo in {"mil", "k", "thousand"}:
+        valor *= 1_000
+    elif sufijo in {"m", "mi", "millón", "millon", "millones"}:
+        valor *= 1_000_000
+    return max(0, int(valor))
+
+
+async def _metricas_del_post(nodo) -> Tuple[int | None, int | None, int | None]:
+    """Recupera reacciones/comentarios/compartidos en modo best-effort.
+
+    Se prefieren aria-label/title porque suelen contener el nombre de la
+    métrica aun cuando el texto visible sea solo un número.
+    """
+    encontrados: Dict[str, int] = {}
+    try:
+        loc = nodo.locator("[aria-label], [title]")
+        cantidad = min(await loc.count(), 100)
+        for i in range(cantidad):
+            el = loc.nth(i)
+            texto = " ".join(filter(None, [
+                await el.get_attribute("aria-label"),
+                await el.get_attribute("title"),
+            ])).strip()
+            bajo = texto.lower()
+            if not bajo:
+                continue
+            valor = _numero_metrica(texto)
+            if valor is None:
+                continue
+            if any(x in bajo for x in ("reacci", "reaction", "reaç")):
+                encontrados["reacciones"] = max(valor, encontrados.get("reacciones", 0))
+            elif any(x in bajo for x in ("coment", "comment")):
+                encontrados["comentarios"] = max(valor, encontrados.get("comentarios", 0))
+            elif any(x in bajo for x in ("compart", "share")):
+                encontrados["compartidos"] = max(valor, encontrados.get("compartidos", 0))
+    except Exception:
+        pass
+    return (
+        encontrados.get("reacciones"),
+        encontrados.get("comentarios"),
+        encontrados.get("compartidos"),
+    )
+
+
+async def _icono_de_pagina(pagina) -> str | None:
+    """Intenta obtener una imagen representativa de la página/canal una vez.
+
+    En páginas públicas, ``og:image`` suele ser la imagen que Facebook expone
+    para compartir la propia página. Si Facebook cambia ese detalle, el campo
+    simplemente queda ``null`` y la app puede usar su placeholder.
+    """
+    for selector in (
+        'meta[property="og:image"]',
+        'meta[name="twitter:image"]',
+        'link[rel="image_src"]',
+    ):
+        try:
+            loc = pagina.locator(selector)
+            if not await loc.count():
+                continue
+            atributo = "href" if selector.startswith("link") else "content"
+            url = _limpiar_imagen(await loc.first.get_attribute(atributo))
+            if url:
+                return url
+        except Exception:
+            continue
+    return None
+
+
 async def _fecha_del_post(nodo) -> str | None:
     try:
         marcas = nodo.locator("abbr, time")
@@ -306,6 +397,7 @@ async def _leer_pagina(fuente: Fuente, ajustes: Dict[str, Any], contexto) -> Lis
     try:
         await pagina.goto(fuente.url, wait_until="domcontentloaded", timeout=30000)
         await pagina.wait_for_timeout(int(espera * 1000))
+        fuente_icono = await _icono_de_pagina(pagina)
 
         for _ in range(scrolls):
             try:
@@ -329,6 +421,7 @@ async def _leer_pagina(fuente: Fuente, ajustes: Dict[str, Any], contexto) -> Lis
             enlace = await _permalink(nodo, fuente.url)
             publicado = await _fecha_del_post(nodo)
             imagenes = await _imagenes_del_post(nodo)
+            reacciones, comentarios, compartidos = await _metricas_del_post(nodo)
 
             primera_linea = cuerpo.split("\n", 1)[0]
             items.append(ItemCrudo(
@@ -345,8 +438,12 @@ async def _leer_pagina(fuente: Fuente, ajustes: Dict[str, Any], contexto) -> Lis
                 region_fuente=fuente.region,
                 tipo_fuente="facebook",
                 peso_fuente=fuente.peso,
+                fuente_icono_url=fuente_icono,
                 imagenes=imagenes,
                 video_url=enlace if any(x in enlace.lower() for x in ("/videos/", "/reel/", "watch?v=")) else None,
+                reacciones=reacciones,
+                comentarios=comentarios,
+                compartidos=compartidos,
             ))
 
         if not items:

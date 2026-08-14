@@ -3,9 +3,9 @@
 > Generado con `python herramientas/generar_doc_fuentes.py`.
 > La verdad está en `config/fuentes/*.yaml`.
 
-**Total: 91 fuentes** — 61 RSS y 30 páginas de Facebook.
+**Total: 141 fuentes** — 61 RSS y 80 páginas de Facebook.
 
-Las 30 páginas de Facebook se reparten en grupos de 2, o sea **15 jobs de CI (15 IPs)** por corrida (tope actual: 16).
+Las 80 páginas de Facebook se reparten en grupos de 2, o sea **40 grupos de CI** por corrida (tope del planificador: 40; el workflow limita la concurrencia por separado).
 
 `peso` (1-5) decide qué versión gana cuando varios medios traen la misma historia, y suma a la importancia del item.
 
@@ -24,39 +24,89 @@ Las 30 páginas de Facebook se reparten en grupos de 2, o sea **15 jobs de CI (1
 
 ## Páginas públicas de Facebook
 
-`config/fuentes/facebook.yaml` — 30 fuentes
+`config/fuentes/facebook.yaml` — 80 fuentes
 
 | id | nombre | tema | región | idioma | peso |
 |---|---|---|---|---|---|
+| `fb_abc_news` | [ABC News](https://www.facebook.com/ABCNews/) | mundo | América del Norte | en | 4 |
+| `fb_abya_yala` | [Abya Yala Tv](https://www.facebook.com/AbyaYalaTv/) | mundo | Bolivia | es | 3 |
 | `fb_afp` | [AFP News Agency](https://www.facebook.com/AFPnewsenglish/) | mundo | Global | en | 4 |
 | `fb_aljazeera` | [Al Jazeera English](https://www.facebook.com/aljazeera/) | mundo | Medio Oriente | en | 4 |
 | `fb_anf` | [Agencia de Noticias Fides - ANF](https://www.facebook.com/ANFidesBolivia/) | mundo | Bolivia | es | 3 |
 | `fb_ap` | [The Associated Press](https://www.facebook.com/APNews/) | mundo | Global | en | 5 |
+| `fb_atb_digital` | [ATB Digital](https://www.facebook.com/ATBDigital/) | mundo | Bolivia | es | 4 |
 | `fb_bbc_mundo` | [BBC News Mundo](https://www.facebook.com/bbcmundo/) | mundo | Global | es | 5 |
 | `fb_bbc_news` | [BBC News](https://www.facebook.com/bbcnews/) | mundo | Global | en | 5 |
+| `fb_bloomberg` | [Bloomberg](https://www.facebook.com/Bloomberg/) | economia | Global | en | 4 |
+| `fb_bolivia_tv` | [Bolivia Tv Oficial](https://www.facebook.com/BTVCanalOficial/) | mundo | Bolivia | es | 4 |
+| `fb_bolivia_verifica` | [Bolivia Verifica](https://www.facebook.com/BoliviaVerifica/) | mundo | Bolivia | es | 4 |
+| `fb_bolivision` | [Noticias Bolivisión](https://www.facebook.com/NoticiasBolivision/) | mundo | Bolivia | es | 4 |
+| `fb_brujula_digital` | [Brújula Digital Bolivia](https://www.facebook.com/brujuladigitalbolivia/) | mundo | Bolivia | es | 4 |
+| `fb_c5n` | [C5N](https://www.facebook.com/C5N.Noticias/) | mundo | América Latina | es | 3 |
+| `fb_cadena_a` | [Cadena A - Red Nacional](https://www.facebook.com/cadenaabolivia/) | mundo | Bolivia | es | 3 |
+| `fb_cbc_news` | [CBC News](https://www.facebook.com/cbcnews/) | mundo | América del Norte | en | 4 |
+| `fb_cbs_news` | [CBS News](https://www.facebook.com/CBSNews/) | mundo | América del Norte | en | 4 |
 | `fb_clarin` | [Clarín](https://www.facebook.com/clarincom/) | mundo | América Latina | es | 3 |
 | `fb_cnn` | [CNN](https://www.facebook.com/cnn/) | mundo | América del Norte | en | 4 |
+| `fb_cnn_brasil` | [CNN Brasil](https://www.facebook.com/cnnbrasil/) | mundo | América Latina | pt | 4 |
 | `fb_cnn_espanol` | [CNN en Español](https://www.facebook.com/cnnee/) | mundo | América Latina | es | 4 |
+| `fb_correo_del_sur` | [Correo del Sur](https://www.facebook.com/correodelsur/) | mundo | Bolivia | es | 4 |
+| `fb_cronica_tv` | [Crónica TV](https://www.facebook.com/cronicatelevision/) | mundo | América Latina | es | 3 |
 | `fb_dw_espanol` | [DW Español](https://www.facebook.com/dw.espanol/) | mundo | Europa | es | 4 |
+| `fb_economist` | [The Economist](https://www.facebook.com/TheEconomist/) | economia | Global | en | 4 |
+| `fb_el_diario_bolivia` | [El Diario - Bolivia](https://www.facebook.com/eldiario.bolivia/) | mundo | Bolivia | es | 3 |
+| `fb_el_pais_tarija` | [El País Tarija](https://www.facebook.com/elpais.bo/) | mundo | Bolivia | es | 3 |
+| `fb_el_potosi` | [El Potosí](https://www.facebook.com/elpotosi.noticias/) | mundo | Bolivia | es | 3 |
+| `fb_el_tiempo_col` | [EL TIEMPO](https://www.facebook.com/eltiempo/) | mundo | América Latina | es | 4 |
 | `fb_eldeber` | [EL DEBER](https://www.facebook.com/GrupoELDEBER/) | mundo | Bolivia | es | 3 |
 | `fb_elpais` | [El País](https://www.facebook.com/elpais/) | mundo | Europa | es | 4 |
 | `fb_erbol` | [Periódico Digital ERBOL](https://www.facebook.com/ErbolDigital/) | mundo | Bolivia | es | 3 |
 | `fb_espn` | [ESPN](https://www.facebook.com/espn/) | deportes | Global | en | 3 |
+| `fb_estadao` | [Estadão](https://www.facebook.com/estadao/) | mundo | América Latina | pt | 4 |
 | `fb_euronews_es` | [Euronews en Español](https://www.facebook.com/euronews.es/) | mundo | Europa | es | 3 |
+| `fb_financial_times` | [Financial Times](https://www.facebook.com/financialtimes/) | economia | Global | en | 4 |
+| `fb_folha` | [Folha de S.Paulo](https://www.facebook.com/folhadesp/) | mundo | América Latina | pt | 4 |
 | `fb_france24_es` | [France 24 Español](https://www.facebook.com/France24.Espanol/) | mundo | Europa | es | 4 |
+| `fb_g1_brasil` | [g1](https://www.facebook.com/g1/) | mundo | América Latina | pt | 4 |
+| `fb_gigavision` | [RED Gigavisión Noticias](https://www.facebook.com/redgigavisionnoticias/) | mundo | Bolivia | es | 3 |
+| `fb_globonews` | [GloboNews](https://www.facebook.com/GloboNews/) | mundo | América Latina | pt | 4 |
 | `fb_guardian` | [The Guardian](https://www.facebook.com/theguardian/) | mundo | Europa | en | 4 |
 | `fb_infobae` | [Infobae](https://www.facebook.com/infobae/) | mundo | América Latina | es | 3 |
+| `fb_la_nacion_ar` | [LA NACION](https://www.facebook.com/lanacion/) | mundo | América Latina | es | 4 |
+| `fb_la_patria` | [La Patria Bolivia](https://www.facebook.com/LaPatriaBolivia/) | mundo | Bolivia | es | 3 |
+| `fb_los_tiempos` | [Los Tiempos Digital](https://www.facebook.com/lostiemposbol1/) | mundo | Bolivia | es | 4 |
 | `fb_marca` | [Marca](https://www.facebook.com/MARCA/) | deportes | Global | es | 3 |
+| `fb_meganoticias_chile` | [Meganoticias](https://www.facebook.com/meganoticiascl/) | mundo | América Latina | es | 3 |
 | `fb_nasa` | [NASA](https://www.facebook.com/NASA/) | ciencia | Global | en | 4 |
 | `fb_natgeo` | [National Geographic](https://www.facebook.com/natgeo/) | ciencia | Global | en | 3 |
+| `fb_nbc_news` | [NBC News](https://www.facebook.com/NBCNews/) | mundo | América del Norte | en | 4 |
+| `fb_noticias_caracol` | [Noticias Caracol](https://www.facebook.com/NoticiasCaracol/) | mundo | América Latina | es | 4 |
+| `fb_noticias_rcn` | [Noticias RCN](https://www.facebook.com/NoticiasRCN/) | mundo | América Latina | es | 4 |
+| `fb_npr` | [NPR](https://www.facebook.com/NPR/) | mundo | América del Norte | en | 4 |
+| `fb_ntn24` | [NTN24](https://www.facebook.com/NTN24/) | mundo | América Latina | es | 4 |
 | `fb_nytimes` | [The New York Times](https://www.facebook.com/nytimes/) | mundo | América del Norte | en | 4 |
+| `fb_o_globo` | [O Globo](https://www.facebook.com/jornaloglobo/) | mundo | América Latina | pt | 4 |
+| `fb_panamericana` | [Radio Panamericana](https://www.facebook.com/NoticiasPanamericana/) | mundo | Bolivia | es | 3 |
+| `fb_pat_bolivia` | [PAT Bolivia](https://www.facebook.com/patboliviahd/) | mundo | Bolivia | es | 3 |
+| `fb_perfil` | [Perfil](https://www.facebook.com/perfilcom/) | mundo | América Latina | es | 3 |
+| `fb_politico` | [POLITICO](https://www.facebook.com/politico/) | politica | América del Norte | en | 4 |
+| `fb_radio_companera` | [Radio Compañera 106.3](https://www.facebook.com/radiocompanera106.3/) | mundo | Bolivia | es | 3 |
+| `fb_radio_fides` | [Radio Fides de Bolivia](https://www.facebook.com/RadioFidesBolivia/) | mundo | Bolivia | es | 3 |
+| `fb_record_news` | [Record News](https://www.facebook.com/recordnews/) | mundo | América Latina | pt | 3 |
 | `fb_reduno` | [Red Uno de Bolivia](https://www.facebook.com/RedUnotv/) | mundo | Bolivia | es | 3 |
 | `fb_reuters` | [Reuters](https://www.facebook.com/Reuters/) | mundo | Global | en | 5 |
+| `fb_revista_semana` | [Revista Semana](https://www.facebook.com/RevistaSemana/) | mundo | América Latina | es | 3 |
+| `fb_rtp_bolivia` | [RTP Bolivia](https://www.facebook.com/rtpbolivia/) | mundo | Bolivia | es | 3 |
+| `fb_sky_news` | [Sky News](https://www.facebook.com/skynews/) | mundo | Europa | en | 4 |
 | `fb_techcrunch` | [TechCrunch](https://www.facebook.com/techcrunch/) | tecnologia | Global | en | 3 |
 | `fb_telemundo` | [Noticias Telemundo](https://www.facebook.com/noticiastelemundo/) | mundo | América del Norte | es | 3 |
 | `fb_theverge` | [The Verge](https://www.facebook.com/verge/) | tecnologia | Global | en | 3 |
+| `fb_tn_argentina` | [TN - Todo Noticias](https://www.facebook.com/todonoticias/) | mundo | América Latina | es | 4 |
 | `fb_unitel` | [UNITEL Bolivia](https://www.facebook.com/unitelbolivia/) | mundo | Bolivia | es | 3 |
 | `fb_univision` | [Univision Noticias](https://www.facebook.com/UnivisionNoticias/) | mundo | América del Norte | es | 3 |
+| `fb_uol_noticias` | [UOL Notícias](https://www.facebook.com/UOLNoticias/) | mundo | América Latina | pt | 4 |
+| `fb_urgente_bo` | [Urgente.bo](https://www.facebook.com/Urgente.boPeriodico/) | mundo | Bolivia | es | 3 |
+| `fb_washington_post` | [The Washington Post](https://www.facebook.com/washingtonpost/) | mundo | América del Norte | en | 4 |
 | `fb_who` | [World Health Organization](https://www.facebook.com/WHO/) | salud | Global | en | 4 |
 
 ## Medios globales en inglés

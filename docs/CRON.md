@@ -14,15 +14,15 @@ Workflow: `.github/workflows/noticias.yml`
 
 ```
 planificar ──┬──→ rss        (3 jobs)   ──┐
-             └──→ facebook  (15 jobs)  ──┴──→ construir → commit
+             └──→ facebook  (40 grupos; máx. 16 simultáneos)  ──┴──→ construir → commit
 ```
 
 1. **planificar** — lee la rotación guardada y reparte las fuentes en grupos.
    Imprime dos matrices para `fromJSON()`. No toca la red.
 2. **rss** — 3 jobs en paralelo, ~20 feeds cada uno. Reparto solo para no
    depender de un job lento.
-3. **facebook** — 15 jobs, 2 páginas cada uno. **Cada job es una IP**: es la
-   razón de ser de todo el fan-out. Ver
+3. **facebook** — 40 grupos de 2 páginas. El workflow deja correr hasta 16
+   simultáneamente y encola los restantes. Ver
    [`ESTRATEGIA_FACEBOOK.md`](ESTRATEGIA_FACEBOOK.md).
 4. **construir** — baja los artefactos de todos los jobs, arma feeds y JSON, y
    commitea. Corre con `always()`: lo que llegó se publica aunque algún job

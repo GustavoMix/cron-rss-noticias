@@ -57,9 +57,18 @@ def _mas_completa(nueva: Noticia, vieja: Noticia) -> Noticia:
     vieja.cantidad_fuentes = 1 + len(vieja.tambien_en)
     if len(nueva.resumen) > len(vieja.resumen):
         vieja.resumen = nueva.resumen
+    if len(nueva.contenido) > len(vieja.contenido):
+        vieja.contenido = nueva.contenido
+    if not vieja.fuente_icono_url and nueva.fuente_icono_url:
+        vieja.fuente_icono_url = nueva.fuente_icono_url
     if not vieja.imagen_url and nueva.imagen_url:
         vieja.imagen_url = nueva.imagen_url
         vieja.imagenes = nueva.imagenes
+    for campo in ("reacciones", "comentarios", "compartidos"):
+        nuevo = getattr(nueva, campo, None)
+        viejo = getattr(vieja, campo, None)
+        if nuevo is not None and (viejo is None or nuevo > viejo):
+            setattr(vieja, campo, nuevo)
     # La importancia puede haber subido al aparecer en más medios.
     vieja.importancia = max(vieja.importancia, nueva.importancia)
     for region in nueva.regiones:

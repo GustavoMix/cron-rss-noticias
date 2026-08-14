@@ -33,7 +33,7 @@ La conclusión no es "hay que insistir mejor". Es que el recurso escaso son las
 ### 1. Más IPs: un job de CI por grupo
 
 Cada job de GitHub Actions corre en un runner nuevo, con su propia IP de
-salida. 15 jobs son 15 IPs, o sea ~30 páginas de cupo por corrida.
+salida. Con 80 páginas y grupos de 2, la matriz contiene 40 grupos; el workflow limita la concurrencia a 16.
 
 Está en `.github/workflows/noticias.yml`, en la matriz del job `facebook`.
 
@@ -87,10 +87,9 @@ Implementado en `noticias/fuentes/facebook.py`, función `proxy_para_grupo`.
 
 ## Higiene dentro del job
 
-No son trucos para esquivar el bloqueo —no lo esquivan— pero evitan que los 15
-jobs se lean como una sola flota:
+No son trucos para esquivar el bloqueo —no lo esquivan—; son decisiones operativas del scraper:
 
-- **Arranque escalonado.** 15 runners golpeando en el mismo segundo desde
+- **Arranque escalonado.** Varios runners golpeando en el mismo segundo desde
   rangos contiguos de Azure es un patrón, aunque las IPs sean distintas.
 - **Viewport variado.** Si todos los runners reportan 1280x900 clavado, esa
   medida agrupa la flota entera bajo una misma huella.
@@ -112,13 +111,14 @@ La cuenta es directa:
 jobs necesarios = ceil(cantidad_de_páginas / tamano_grupo)
 ```
 
-y ese número tiene que quedar por debajo de `facebook.max_paralelo` en
-`config/ajustes.yaml` (16 hoy; el plan gratuito de GitHub permite 20 jobs
-simultáneos por cuenta).
+Ese número tiene que quedar por debajo o igual a `facebook.max_paralelo` en
+`config/ajustes.yaml`. Hoy el planificador permite 40 grupos para cubrir 80
+páginas. La concurrencia real está separada: `.github/workflows/noticias.yml`
+usa `max-parallel: 16`, así que los demás grupos esperan su turno.
 
 Si querés sumar páginas y ya no entran:
 
-1. **Subí `max_paralelo`** si tu plan lo permite. Es lo primero.
+1. **Subí el tope de grupos del planificador** (`max_paralelo`) si agregás más páginas.
 2. **Agregá proxies** con `NOTICIAS_PROXIES`. Multiplica IPs sin tocar jobs.
 3. **Bajá la frecuencia del cron** y dejá que la rotación cubra más fuentes en
    más vueltas.

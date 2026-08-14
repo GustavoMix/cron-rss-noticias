@@ -3,7 +3,7 @@ name: Actualizar noticias
 # El diseño de este workflow es la estrategia, no un detalle de plomería:
 #
 #   planificar  ->  rss (3 jobs)          ->  construir
-#                   facebook (15 jobs)
+#                   facebook (40 grupos; máx. 16 simultáneos)
 #
 # Cada job de Facebook corre en su propio runner y por lo tanto sale por su
 # propia IP. Como Facebook deja pasar ~2 páginas públicas por IP, los grupos
@@ -133,7 +133,7 @@ jobs:
         run: python -m playwright install --with-deps chromium
 
       - name: Escalonar el arranque
-        # Quince runners golpeando en el mismo segundo desde rangos contiguos
+        # Los grupos que arranquen juntos no deberían golpear en el mismo segundo
         # de Azure se leen como una sola flota, aunque cada IP sea distinta.
         # Separarlos unos segundos no cuesta nada.
         run: sleep $(( ${{ matrix.orden }} * 4 + RANDOM % 7 ))

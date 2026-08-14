@@ -1,10 +1,11 @@
 """Los feeds son el producto: si el XML sale mal, no hay error visible en CI,
 simplemente ningún lector muestra nada. Por eso se valida el XML de verdad."""
 
+import json
 import xml.etree.ElementTree as ET
 
 from noticias.modelos import FuenteEnNoticia, Noticia
-from noticias.salida import feed_rss
+from noticias.salida import feed_rss, json_salida
 
 NS = {"atom": "http://www.w3.org/2005/Atom", "media": "http://search.yahoo.com/mrss/"}
 
@@ -123,3 +124,39 @@ def test_un_tema_con_pocas_notas_no_genera_feed_propio(tmp_path):
 
 def test_el_nombre_de_archivo_no_lleva_acentos_ni_espacios():
     assert feed_rss.nombre_archivo("region", "América Latina") == "region-america-latina.xml"
+
+
+def test_json_para_kotlin_conserva_legacy_y_agrega_bloques_estables(tmp_path):
+    n = noticia(
+        tipo_fuente="facebook",
+        fuente_nombre="Canal Demo",
+        fuente_url="https://www.facebook.com/canaldemo/",
+        publicado_en="2026-08-14T15:30:00+00:00",
+        contenido="Texto completo del post",
+        fuente_icono_url="https://demo.test/icono.jpg",
+        fuente_region="Bolivia",
+        fuente_categoria="mundo",
+        imagen_url="https://demo.test/foto.jpg",
+        imagenes=["https://demo.test/foto.jpg"],
+        reacciones=123,
+        comentarios=45,
+        compartidos=6,
+    )
+    ruta = tmp_path / "noticias.json"
+    json_salida.escribir_noticias(
+        ruta, [n], "2026-08-14T16:00:00+00:00", [], maximo=10
+    )
+    payload = json.loads(ruta.read_text(encoding="utf-8"))
+    item = payload["noticias"][0]
+
+    assert payload["version_esquema"] == "1.1"
+    assert payload["compatibilidad"]["campos_planos_legacy"] is True
+    assert item["fuente_nombre"] == "Canal Demo"       # campo plano anterior
+    assert item["canal"]["nombre"] == "Canal Demo"
+    assert item["canal"]["usuario"] == "canaldemo"
+    assert item["canal"]["icono_url"].endswith("icono.jpg")
+    assert item["contenido"] == "Texto completo del post"
+    assert item["fecha_hora"]["epoch_ms"] == 1786721400000
+    assert item["fecha_hora"]["hora_bolivia"] == "11:30:00"
+    assert item["media"]["tiene_imagen"] is True
+    assert item["metricas"] == {"reacciones": 123, "comentarios": 45, "compartidos": 6}
