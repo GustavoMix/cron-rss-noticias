@@ -1,0 +1,40 @@
+name: Tests
+
+on:
+  push:
+    paths:
+      - "noticias/**"
+      - "tests/**"
+      - "config/**"
+      - "requirements.txt"
+      - ".github/workflows/tests.yml"
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt pytest
+
+      - name: Tests
+        run: python -m pytest tests -q
+
+      - name: La configuración carga y se puede planificar
+        # Barato y atrapa el error más común: un YAML de fuentes mal escrito o
+        # un id repetido, que rompería la corrida de las 00:17 y no antes.
+        run: |
+          python main.py fuentes >/dev/null
+          python main.py planificar --tipo facebook >/dev/null
+          python main.py planificar --tipo rss >/dev/null

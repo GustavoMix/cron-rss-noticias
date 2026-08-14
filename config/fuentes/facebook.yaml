@@ -1,0 +1,291 @@
+# Páginas públicas de Facebook.
+#
+# ATENCIÓN antes de agregar fuentes acá: cada página cuesta cupo de IP.
+# Facebook deja pasar ~2 páginas públicas por IP antes de cortar, y el
+# planificador arma un job de CI (= una IP) cada `facebook.tamano_grupo`
+# fuentes. Con tamaño 2, esta lista se traduce directo en jobs paralelos:
+#
+#     jobs = ceil(cantidad_de_fuentes / 2)
+#
+# y ese número no puede pasar de `facebook.max_paralelo` sin que los grupos
+# empiecen a hacer cola (los que esperan corren igual, solo que más tarde).
+# Si querés sumar muchas páginas, la palanca es subir IPs -más jobs, o proxies
+# con NOTICIAS_PROXIES-, no meter más fuentes por grupo.
+#
+# `orden_preferido` (opcional, menor = más temprano) solo desempata cuando dos
+# fuentes tienen la misma urgencia histórica; la prioridad real la decide la
+# rotación en datos/_interno/rotacion_facebook.json.
+
+fuentes:
+  # --- Medios globales ----------------------------------------------------
+  - id: fb_bbc_news
+    nombre: BBC News
+    tipo: facebook
+    url: https://www.facebook.com/bbcnews/
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: fb_bbc_mundo
+    nombre: BBC News Mundo
+    tipo: facebook
+    url: https://www.facebook.com/bbcmundo/
+    idioma: es
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: fb_cnn
+    nombre: CNN
+    tipo: facebook
+    url: https://www.facebook.com/cnn/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_cnn_espanol
+    nombre: CNN en Español
+    tipo: facebook
+    url: https://www.facebook.com/cnnee/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: fb_aljazeera
+    nombre: Al Jazeera English
+    tipo: facebook
+    url: https://www.facebook.com/aljazeera/
+    idioma: en
+    categoria: mundo
+    region: Medio Oriente
+    peso: 4
+
+  - id: fb_reuters
+    nombre: Reuters
+    tipo: facebook
+    url: https://www.facebook.com/Reuters/
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: fb_ap
+    nombre: The Associated Press
+    tipo: facebook
+    url: https://www.facebook.com/APNews/
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: fb_afp
+    nombre: AFP News Agency
+    tipo: facebook
+    url: https://www.facebook.com/AFPnewsenglish/
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 4
+
+  - id: fb_guardian
+    nombre: The Guardian
+    tipo: facebook
+    url: https://www.facebook.com/theguardian/
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: fb_nytimes
+    nombre: The New York Times
+    tipo: facebook
+    url: https://www.facebook.com/nytimes/
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: fb_dw_espanol
+    nombre: DW Español
+    tipo: facebook
+    url: https://www.facebook.com/dw.espanol/
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: fb_france24_es
+    nombre: France 24 Español
+    tipo: facebook
+    url: https://www.facebook.com/France24.Espanol/
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: fb_euronews_es
+    nombre: Euronews en Español
+    tipo: facebook
+    url: https://www.facebook.com/euronews.es/
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: fb_elpais
+    nombre: El País
+    tipo: facebook
+    url: https://www.facebook.com/elpais/
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: fb_infobae
+    nombre: Infobae
+    tipo: facebook
+    url: https://www.facebook.com/infobae/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: fb_clarin
+    nombre: Clarín
+    tipo: facebook
+    url: https://www.facebook.com/clarincom/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: fb_univision
+    nombre: Univision Noticias
+    tipo: facebook
+    url: https://www.facebook.com/UnivisionNoticias/
+    idioma: es
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: fb_telemundo
+    nombre: Noticias Telemundo
+    tipo: facebook
+    url: https://www.facebook.com/noticiastelemundo/
+    idioma: es
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  # --- Temas --------------------------------------------------------------
+  - id: fb_nasa
+    nombre: NASA
+    tipo: facebook
+    url: https://www.facebook.com/NASA/
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 4
+
+  - id: fb_natgeo
+    nombre: National Geographic
+    tipo: facebook
+    url: https://www.facebook.com/natgeo/
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 3
+
+  - id: fb_who
+    nombre: World Health Organization
+    tipo: facebook
+    url: https://www.facebook.com/WHO/
+    idioma: en
+    categoria: salud
+    region: Global
+    peso: 4
+
+  - id: fb_techcrunch
+    nombre: TechCrunch
+    tipo: facebook
+    url: https://www.facebook.com/techcrunch/
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  - id: fb_theverge
+    nombre: The Verge
+    tipo: facebook
+    url: https://www.facebook.com/verge/
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  - id: fb_espn
+    nombre: ESPN
+    tipo: facebook
+    url: https://www.facebook.com/espn/
+    idioma: en
+    categoria: deportes
+    region: Global
+    peso: 3
+
+  - id: fb_marca
+    nombre: Marca
+    tipo: facebook
+    url: https://www.facebook.com/MARCA/
+    idioma: es
+    categoria: deportes
+    region: Global
+    peso: 3
+
+  # --- Bolivia (mismas páginas que ya funcionan en el repo vial) ----------
+  - id: fb_reduno
+    nombre: Red Uno de Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/RedUnotv/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_unitel
+    nombre: UNITEL Bolivia
+    tipo: facebook
+    url: https://www.facebook.com/unitelbolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_eldeber
+    nombre: EL DEBER
+    tipo: facebook
+    url: https://www.facebook.com/GrupoELDEBER/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_erbol
+    nombre: Periódico Digital ERBOL
+    tipo: facebook
+    url: https://www.facebook.com/ErbolDigital/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: fb_anf
+    nombre: Agencia de Noticias Fides - ANF
+    tipo: facebook
+    url: https://www.facebook.com/ANFidesBolivia/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3

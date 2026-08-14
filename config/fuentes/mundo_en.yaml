@@ -1,0 +1,164 @@
+# Medios globales en inglés.
+
+fuentes:
+  - id: rss_bbc_world
+    nombre: BBC News - World
+    tipo: rss
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: rss_guardian_world
+    nombre: The Guardian - World
+    tipo: rss
+    url: https://www.theguardian.com/world/rss
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 4
+
+  - id: rss_aljazeera
+    nombre: Al Jazeera English
+    tipo: rss
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    idioma: en
+    categoria: mundo
+    region: Medio Oriente
+    peso: 4
+
+  - id: rss_dw_en
+    nombre: Deutsche Welle - World
+    tipo: rss
+    url: https://rss.dw.com/rdf/rss-en-world
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_france24_en
+    nombre: France 24 - English
+    tipo: rss
+    url: https://www.france24.com/en/rss
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_euronews
+    nombre: Euronews
+    tipo: rss
+    url: https://www.euronews.com/rss?level=theme&name=news
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_nyt_world
+    nombre: The New York Times - World
+    tipo: rss
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: rss_wapo_world
+    nombre: The Washington Post - World
+    tipo: rss
+    url: https://feeds.washingtonpost.com/rss/world
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 4
+
+  - id: rss_npr_world
+    nombre: NPR - World
+    tipo: rss
+    url: https://feeds.npr.org/1004/rss.xml
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_cbc_world
+    nombre: CBC News - World
+    tipo: rss
+    url: https://www.cbc.ca/webfeed/rss/rss-world
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_sky_world
+    nombre: Sky News - World
+    tipo: rss
+    url: https://feeds.skynews.com/feeds/rss/world.xml
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_independent_world
+    nombre: The Independent - World
+    tipo: rss
+    url: https://www.independent.co.uk/news/world/rss
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_abc_au
+    nombre: ABC News Australia
+    tipo: rss
+    url: https://www.abc.net.au/news/feed/51120/rss.xml
+    idioma: en
+    categoria: mundo
+    region: Oceanía
+    peso: 3
+
+  - id: rss_scmp
+    nombre: South China Morning Post
+    tipo: rss
+    url: https://www.scmp.com/rss/91/feed
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_times_of_india
+    nombre: The Times of India - World
+    tipo: rss
+    url: https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_the_hindu_intl
+    nombre: The Hindu - International
+    tipo: rss
+    url: https://www.thehindu.com/news/international/feeder/default.rss
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_africanews
+    nombre: Africanews
+    tipo: rss
+    url: https://www.africanews.com/feed/rss
+    idioma: en
+    categoria: mundo
+    region: África
+    peso: 3
+
+  - id: rss_jpost_intl
+    nombre: The Jerusalem Post - International
+    tipo: rss
+    url: https://www.jpost.com/rss/rssfeedsinternational
+    idioma: en
+    categoria: mundo
+    region: Medio Oriente
+    peso: 3

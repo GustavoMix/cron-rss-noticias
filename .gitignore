@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Resultados intermedios de los jobs de fan-out: se regeneran en cada corrida.
+crudo/*.json

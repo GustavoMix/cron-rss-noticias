@@ -1,0 +1,91 @@
+# Ajustes globales del agregador.
+#
+# Todo lo que sea "cuánto/cada cuánto/hasta dónde" vive acá. Las fuentes viven
+# en config/fuentes/*.yaml, un archivo por familia, para poder tocar la lista de
+# medios sin abrir este archivo (y al revés).
+
+sitio:
+  titulo: Noticias del Mundo
+  descripcion: >-
+    Agregador de noticias internacionales: agencias, medios globales, prensa en
+    español, temas (tecnología, ciencia, economía, deportes) y páginas públicas
+    de Facebook. Generado automáticamente cada hora.
+  enlace: https://github.com/GustavoMix/cron-rss-noticias
+  # Base pública desde donde se sirven los feeds ya generados. Se usa para el
+  # <atom:link rel="self">, que es lo que mira un lector de RSS para saber si
+  # el feed se mudó. Cambiala si publicás con GitHub Pages o un dominio propio.
+  base_feeds: https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/main/feeds
+  idioma: es
+  zona_horaria: UTC
+
+red:
+  timeout_segundos: 20
+  reintentos: 2
+  espera_reintento_segundos: 3
+  user_agent: >-
+    NoticiasMundoBot/1.0 (+https://github.com/GustavoMix/cron-rss-noticias)
+
+rss:
+  # Los feeds RSS no tienen el problema de IP que tiene Facebook: son archivos
+  # estáticos servidos por CDN. Se pueden pedir muchos a la vez desde un mismo
+  # runner sin que nadie se moleste.
+  concurrencia: 8
+  max_items_por_fuente: 40
+  # En cuántos jobs de CI se reparte la lectura de RSS. No es por bloqueo, es
+  # solo para que la corrida entera no dependa de un único job lento.
+  lotes: 3
+  # Guardar ETag/Last-Modified y mandarlos en la siguiente corrida: si el feed
+  # no cambió, el servidor responde 304 y no se transfiere nada.
+  usar_cache_condicional: true
+
+facebook:
+  # ---------------------------------------------------------------------------
+  # El número que manda en todo este bloque: Facebook deja pasar ~2 páginas
+  # públicas por IP antes de cortar. No se arregla con pausas más largas ni con
+  # otro User-Agent; el límite lo lleva la IP, no el patrón de tráfico. Por eso
+  # la palanca es "más IPs y grupos más chicos", no más trucos dentro de un job.
+  # ---------------------------------------------------------------------------
+  tamano_grupo: 2
+  # Jobs simultáneos = IPs simultáneas. El plan gratuito de GitHub permite 20
+  # jobs en paralelo por cuenta; dejamos margen para el resto del workflow.
+  max_paralelo: 16
+  max_items_por_fuente: 12
+  scrolls: 2
+  espera_carga_segundos: 2.5
+  # Pausa entre las (pocas) fuentes de un mismo grupo.
+  pausa_entre_fuentes_segundos: 9
+  # Si una fuente devuelve pantalla de bloqueo, esperar esto y reintentarla.
+  pausa_tras_bloqueo_segundos: 35
+  intentos_por_fuente: 2
+  # Con grupos de 2, detrás de una fuente bloqueada queda como mucho una sola
+  # fuente más. Vale la pena intentarla igual tras una pausa larga: el job ya
+  # está levantado y el costo es de segundos.
+  seguir_tras_bloqueo: true
+  # Abrir el permalink del post para recuperar texto completo cuando el feed
+  # dejó solo un resumen cortado. Cada apertura gasta cupo de la IP, así que va
+  # con límite bajo.
+  enriquecer_posts: true
+  enriquecer_max_por_fuente: 2
+  enriquecer_timeout_ms: 12000
+
+proceso:
+  # Ventana en la que dos notas pueden considerarse la misma historia.
+  ventana_agrupado_horas: 36
+  # Similitud de títulos (Jaccard sobre tokens) para agrupar la misma historia
+  # publicada por medios distintos.
+  umbral_similitud: 0.5
+  # Descartar cualquier cosa más vieja que esto al construir los feeds.
+  antiguedad_maxima_horas: 96
+  titulo_minimo_caracteres: 18
+
+salida:
+  items_por_feed: 120
+  # Los feeds se arman con el historial acumulado, no solo con lo de esta
+  # corrida: un lector que consulta cada 6 horas no debe perderse nada.
+  historial_dias: 7
+  historial_max_items: 4000
+  generar_feeds_por_categoria: true
+  generar_feeds_por_region: true
+  generar_feed_por_fuente: false
+  # Un feed de categoría/región se genera solo si tiene al menos esto.
+  minimo_items_por_feed: 3

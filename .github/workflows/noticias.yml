@@ -1,0 +1,243 @@
+name: Actualizar noticias
+
+# El diseño de este workflow es la estrategia, no un detalle de plomería:
+#
+#   planificar  ->  rss (3 jobs)          ->  construir
+#                   facebook (15 jobs)
+#
+# Cada job de Facebook corre en su propio runner y por lo tanto sale por su
+# propia IP. Como Facebook deja pasar ~2 páginas públicas por IP, los grupos
+# son de 2 y hay muchos. Sumar páginas al proyecto significa sumar jobs, no
+# agrandar los grupos: ver docs/ESTRATEGIA_FACEBOOK.md.
+
+on:
+  workflow_dispatch:
+    inputs:
+      tamano_grupo:
+        description: "Páginas de Facebook por job (IP). Default 2."
+        required: false
+        default: "2"
+      saltar_facebook:
+        description: "Correr solo las fuentes RSS"
+        type: boolean
+        required: false
+        default: false
+  schedule:
+    # Cada hora en un minuto poco concurrido: a las en punto todo GitHub
+    # dispara sus crons y los runners tardan más en asignarse.
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticias-cron
+  cancel-in-progress: true
+
+env:
+  PYTHON_VERSION: "3.12"
+
+jobs:
+  planificar:
+    name: Planificar grupos
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      matriz_facebook: ${{ steps.plan.outputs.matriz_facebook }}
+      matriz_rss: ${{ steps.plan.outputs.matriz_rss }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Repartir fuentes en grupos
+        id: plan
+        run: |
+          # La rotación guardada en el repo decide a qué fuente le toca el
+          # primer turno de cada grupo -el que casi siempre esquiva el bloqueo-.
+          python main.py planificar --tipo facebook \
+            --tamano-grupo "${{ github.event.inputs.tamano_grupo || 2 }}" \
+            | sed 's/^matriz=/matriz_facebook=/' >> "$GITHUB_OUTPUT"
+          python main.py planificar --tipo rss \
+            | sed 's/^matriz=/matriz_rss=/' >> "$GITHUB_OUTPUT"
+
+  rss:
+    name: RSS ${{ matrix.nombre }}
+    needs: planificar
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.planificar.outputs.matriz_rss) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Leer feeds
+        run: |
+          python main.py traer-rss \
+            --lote "${{ matrix.nombre }}" \
+            --fuentes "${{ matrix.fuentes }}" \
+            --salida "crudo/rss_${{ matrix.nombre }}.json"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: crudo-rss-${{ matrix.nombre }}
+          path: crudo/rss_${{ matrix.nombre }}.json
+          if-no-files-found: error
+          retention-days: 1
+
+  facebook:
+    name: Facebook ${{ matrix.nombre }}
+    needs: planificar
+    if: ${{ github.event.inputs.saltar_facebook != 'true' }}
+    strategy:
+      fail-fast: false
+      # Jobs simultáneos = IPs simultáneas. Este número es la palanca real
+      # cuando crece la lista de páginas.
+      max-parallel: 16
+      matrix: ${{ fromJSON(needs.planificar.outputs.matriz_facebook) }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Instalar Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Escalonar el arranque
+        # Quince runners golpeando en el mismo segundo desde rangos contiguos
+        # de Azure se leen como una sola flota, aunque cada IP sea distinta.
+        # Separarlos unos segundos no cuesta nada.
+        run: sleep $(( ${{ matrix.orden }} * 4 + RANDOM % 7 ))
+
+      - name: Leer páginas del grupo
+        env:
+          # Opcional: lista de proxies separados por coma. Si está definida,
+          # cada grupo sale por uno distinto y el cupo por IP se multiplica.
+          NOTICIAS_PROXIES: ${{ secrets.NOTICIAS_PROXIES }}
+        run: |
+          python main.py traer-facebook \
+            --grupo "${{ matrix.nombre }}" \
+            --orden "${{ matrix.orden }}" \
+            --fuentes "${{ matrix.fuentes }}" \
+            --salida "crudo/fb_${{ matrix.nombre }}.json"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: crudo-fb-${{ matrix.nombre }}
+          path: crudo/fb_${{ matrix.nombre }}.json
+          if-no-files-found: error
+          retention-days: 1
+
+  construir:
+    name: Construir feeds
+    needs: [planificar, rss, facebook]
+    # always(): un grupo de Facebook bloqueado o un feed caído no puede impedir
+    # que se publique todo lo que sí llegó. Si falló el planificador, en cambio,
+    # no hubo corrida en absoluto y no hay nada que construir.
+    if: always() && needs.planificar.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Bajar los crudos de todos los jobs
+        uses: actions/download-artifact@v4
+        with:
+          pattern: crudo-*
+          path: crudo/
+          merge-multiple: true
+
+      - name: Construir feeds y JSON
+        run: |
+          if ! ls crudo/*.json >/dev/null 2>&1; then
+            echo "::error::Ningún job dejó datos; no hay nada que construir."
+            exit 1
+          fi
+          python main.py construir
+
+      - name: Guardar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add feeds datos
+
+          if git diff --cached --quiet; then
+            echo "Sin cambios para guardar."
+          else
+            git commit -m "Actualizar noticias"
+            # El cron corre cada hora; si otra corrida escribió antes, se
+            # reintegra en vez de fallar.
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - name: Resumen de la corrida
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, pathlib
+
+          estado = pathlib.Path("datos/estado_fuentes.json")
+          if not estado.exists():
+              print("No se generó datos/estado_fuentes.json.")
+              raise SystemExit(0)
+
+          datos = json.loads(estado.read_text(encoding="utf-8"))
+          resumen = datos["resumen"]
+          print("## Fuentes\n")
+          print(f"- Total: **{resumen['fuentes']}**")
+          for nombre, cantidad in resumen["por_estado"].items():
+              print(f"- {nombre}: {cantidad}")
+          if resumen["bloqueadas"]:
+              print(
+                  f"\n> {resumen['bloqueadas']} página(s) de Facebook quedaron sin cupo de IP. "
+                  "No son fuentes rotas: la rotación les da el primer turno en la próxima "
+                  "corrida. Si el número no baja, hacen falta más jobs (más IPs)."
+              )
+
+          fallidas = [f for f in datos["fuentes"] if f["estado"] == "error"]
+          if fallidas:
+              print("\n## Fuentes con error\n")
+              for fuente in fallidas[:25]:
+                  print(f"- `{fuente['id']}`: {(fuente['error'] or '')[:160]}")
+          PY

@@ -1,0 +1,198 @@
+# Fuentes por tema. La `categoria` de la fuente es solo el punto de partida:
+# el clasificador puede moverla si el texto dice otra cosa.
+
+fuentes:
+  # --- Tecnología ---------------------------------------------------------
+  - id: rss_ars_technica
+    nombre: Ars Technica
+    tipo: rss
+    url: https://feeds.arstechnica.com/arstechnica/index
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 4
+
+  - id: rss_the_verge
+    nombre: The Verge
+    tipo: rss
+    url: https://www.theverge.com/rss/index.xml
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  - id: rss_techcrunch
+    nombre: TechCrunch
+    tipo: rss
+    url: https://techcrunch.com/feed/
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  - id: rss_hacker_news
+    nombre: Hacker News - Portada
+    tipo: rss
+    url: https://hnrss.org/frontpage
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 2
+
+  - id: rss_xataka
+    nombre: Xataka
+    tipo: rss
+    url: https://www.xataka.com/feedburner.xml
+    idioma: es
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  # --- Ciencia ------------------------------------------------------------
+  - id: rss_nature
+    nombre: Nature
+    tipo: rss
+    url: https://www.nature.com/nature.rss
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 5
+
+  - id: rss_science_daily
+    nombre: ScienceDaily
+    tipo: rss
+    url: https://www.sciencedaily.com/rss/all.xml
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 3
+
+  - id: rss_phys_org
+    nombre: Phys.org
+    tipo: rss
+    url: https://phys.org/rss-feed/
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 3
+
+  - id: rss_nasa
+    nombre: NASA
+    tipo: rss
+    url: https://www.nasa.gov/news-release/feed/
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 4
+
+  - id: rss_esa
+    nombre: European Space Agency
+    tipo: rss
+    url: https://www.esa.int/rssfeed/Our_Activities/Space_News
+    idioma: en
+    categoria: ciencia
+    region: Europa
+    peso: 3
+
+  # --- Economía -----------------------------------------------------------
+  - id: rss_cnbc_world
+    nombre: CNBC - World
+    tipo: rss
+    url: https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100727362
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: rss_marketwatch
+    nombre: MarketWatch
+    tipo: rss
+    url: https://feeds.content.dowjones.io/public/rss/mw_topstories
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 3
+
+  - id: rss_bbc_business
+    nombre: BBC News - Business
+    tipo: rss
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: rss_expansion
+    nombre: Expansión - Economía
+    tipo: rss
+    url: https://e00-expansion.uecdn.es/rss/economia.xml
+    idioma: es
+    categoria: economia
+    region: Europa
+    peso: 3
+
+  # --- Deportes -----------------------------------------------------------
+  - id: rss_bbc_sport
+    nombre: BBC Sport
+    tipo: rss
+    url: https://feeds.bbci.co.uk/sport/rss.xml
+    idioma: en
+    categoria: deportes
+    region: Global
+    peso: 4
+
+  - id: rss_espn
+    nombre: ESPN
+    tipo: rss
+    url: https://www.espn.com/espn/rss/news
+    idioma: en
+    categoria: deportes
+    region: Global
+    peso: 3
+
+  - id: rss_marca
+    nombre: Marca
+    tipo: rss
+    url: https://e00-marca.uecdn.es/rss/portada.xml
+    idioma: es
+    categoria: deportes
+    region: Global
+    peso: 3
+
+  # --- Cultura y entretenimiento -----------------------------------------
+  - id: rss_guardian_culture
+    nombre: The Guardian - Culture
+    tipo: rss
+    url: https://www.theguardian.com/culture/rss
+    idioma: en
+    categoria: cultura
+    region: Global
+    peso: 3
+
+  - id: rss_variety
+    nombre: Variety
+    tipo: rss
+    url: https://variety.com/feed/
+    idioma: en
+    categoria: cultura
+    region: Global
+    peso: 2
+
+  # --- Ambiente y clima ---------------------------------------------------
+  - id: rss_guardian_environment
+    nombre: The Guardian - Environment
+    tipo: rss
+    url: https://www.theguardian.com/environment/rss
+    idioma: en
+    categoria: ambiente
+    region: Global
+    peso: 3
+
+  - id: rss_mongabay
+    nombre: Mongabay
+    tipo: rss
+    url: https://news.mongabay.com/feed/
+    idioma: en
+    categoria: ambiente
+    region: Global
+    peso: 3

@@ -1,0 +1,60 @@
+# Agencias y organismos internacionales.
+#
+# Peso alto: son las que publican primero y las que el resto termina citando.
+# `peso` se usa para elegir la versión canónica cuando varias fuentes traen la
+# misma historia, y suma a la importancia del ítem.
+
+fuentes:
+  - id: rss_un_news
+    nombre: UN News
+    tipo: rss
+    url: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: rss_un_noticias_es
+    nombre: Noticias ONU
+    tipo: rss
+    url: https://news.un.org/feed/subscribe/es/news/all/rss.xml
+    idioma: es
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: rss_who
+    nombre: World Health Organization
+    tipo: rss
+    url: https://www.who.int/rss-feeds/news-english.xml
+    idioma: en
+    categoria: salud
+    region: Global
+    peso: 5
+
+  - id: rss_reliefweb
+    nombre: ReliefWeb - Emergencias
+    tipo: rss
+    url: https://reliefweb.int/updates/rss.xml
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 4
+
+  - id: rss_ap_top
+    nombre: The Associated Press
+    tipo: rss
+    url: https://rsshub.app/apnews/topics/apf-topnews
+    idioma: en
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: rss_efe_portada
+    nombre: Agencia EFE
+    tipo: rss
+    url: https://efe.com/feed/
+    idioma: es
+    categoria: mundo
+    region: Global
+    peso: 5

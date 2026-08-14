@@ -1,0 +1,146 @@
+# Prensa en español: internacional, España y América Latina.
+
+fuentes:
+  - id: rss_bbc_mundo
+    nombre: BBC News Mundo
+    tipo: rss
+    url: https://feeds.bbci.co.uk/mundo/rss.xml
+    idioma: es
+    categoria: mundo
+    region: Global
+    peso: 5
+
+  - id: rss_dw_es
+    nombre: Deutsche Welle - Español
+    tipo: rss
+    url: https://rss.dw.com/rdf/rss-es-all
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_france24_es
+    nombre: France 24 - Español
+    tipo: rss
+    url: https://www.france24.com/es/rss
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_elpais_internacional
+    nombre: El País - Internacional
+    tipo: rss
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_elmundo_internacional
+    nombre: El Mundo - Internacional
+    tipo: rss
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_abc_es_internacional
+    nombre: ABC España - Internacional
+    tipo: rss
+    url: https://www.abc.es/rss/2.0/internacional/
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_rtve_internacional
+    nombre: RTVE - Internacional
+    tipo: rss
+    url: https://api2.rtve.es/rss/temas_internacional.xml
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_cnn_espanol
+    nombre: CNN en Español
+    tipo: rss
+    url: https://cnnespanol.cnn.com/feed/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: rss_infobae
+    nombre: Infobae
+    tipo: rss
+    url: https://www.infobae.com/feeds/rss/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_clarin_mundo
+    nombre: Clarín - Mundo
+    tipo: rss
+    url: https://www.clarin.com/rss/mundo/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_lanacion_mundo
+    nombre: La Nación - El Mundo
+    tipo: rss
+    url: https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_pagina12_mundo
+    nombre: Página/12 - El Mundo
+    tipo: rss
+    url: https://www.pagina12.com.ar/rss/secciones/el-mundo/notas
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 2
+
+  - id: rss_eluniversal_mx
+    nombre: El Universal México
+    tipo: rss
+    url: https://www.eluniversal.com.mx/rss.xml
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_lostiempos_bo
+    nombre: Los Tiempos (Bolivia)
+    tipo: rss
+    url: https://www.lostiempos.com/rss.xml
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: rss_eldeber_bo
+    nombre: El Deber (Bolivia)
+    tipo: rss
+    url: https://eldeber.com.bo/rss/
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: rss_erbol_bo
+    nombre: ERBOL (Bolivia)
+    tipo: rss
+    url: https://erbol.com.bo/rss.xml
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
