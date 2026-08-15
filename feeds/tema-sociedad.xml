@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 15 Aug 2026 22:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:41:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -484,19 +484,6 @@
       <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
       <media:content url="https://imagenes.elpais.com/resizer/v2/VCYNVI3NSBAFPAE3N2E42K4SXA.jpg?auth=8c60a1956c99344c1c783600c3c036a1f5eb34462c3095d6c4c7244a5e00708e" medium="image" />
       <enclosure url="https://imagenes.elpais.com/resizer/v2/VCYNVI3NSBAFPAE3N2E42K4SXA.jpg?auth=8c60a1956c99344c1c783600c3c036a1f5eb34462c3095d6c4c7244a5e00708e" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>¿Se abrirá la frontera de Ceuta el 15 de agosto? : las noticias falsas se propagan por las redes sociales</title>
-      <link>https://www.france24.com/es/europa/20260814-se-abrir%C3%A1-la-frontera-de-ceuta-el-15-de-agosto-las-noticias-falsas-se-propagan-por-las-redes-sociales</link>
-      <description>Tras la llegada masiva de migrantes marroquíes los días 30 y 31 de julio a Ceuta, el enclave español vuelve a ser víctima de una campaña de desinformación en las redes sociales. Hay mensajes procedentes de cuentas falsas que afirman que la frontera se abrirá el sábado 15 de agosto, día festivo en España. Las autoridades marroquíes y españolas han reforzado las medidas de seguridad. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:adae3e57e6017800</guid>
-      <pubDate>Fri, 14 Aug 2026 17:07:55 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>Assiya Hamza</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/0487eda8-943d-11f1-8468-005056bf30b7/w:1024/p:16x9/2026-08-07T125050Z-2084180962-RC22TMADKWTO-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-ITALY.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/0487eda8-943d-11f1-8468-005056bf30b7/w:1024/p:16x9/2026-08-07T125050Z-2084180962-RC22TMADKWTO-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA-ITALY.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
