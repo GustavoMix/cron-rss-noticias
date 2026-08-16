@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 16 Aug 2026 07:52:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:54:25 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-africa.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -33,6 +33,20 @@
       <category>África</category>
       <category>Europa</category>
       <source url="https://www.facebook.com/skynews/">Sky News</source>
+    </item>
+    <item>
+      <title>UN warns South Sudan refugees at risk as aid funding runs short</title>
+      <link>http://www.africanews.com/2026/08/16/un-warns-south-sudan-refugees-at-risk-as-aid-funding-runs-short/</link>
+      <description>Two United Nations agencies warned on Friday that hundreds of thousands of refugees in South Sudan are at risk of losing much needed humanitarian assistance due to a lack of funding. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:eb6fc4dcefd069b2</guid>
+      <pubDate>Sun, 16 Aug 2026 07:26:44 +0000</pubDate>
+      <category>conflictos</category>
+      <category>sociedad</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/87/55/07/640x360_cmsv2_fcc78546-b058-50f6-a67e-3193b58f34f4-9875507.jpg?1786786440" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/87/55/07/640x360_cmsv2_fcc78546-b058-50f6-a67e-3193b58f34f4-9875507.jpg?1786786440" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Zimbabwe ferry death toll rises to 68 after Lake Kariba capsizing</title>
