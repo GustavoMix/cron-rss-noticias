@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 16 Aug 2026 07:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:52:58 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -50,6 +50,21 @@
       <category>Asia</category>
       <category>América del Norte</category>
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Jason Arday, professor at center of Cambridge plagiarism scandal, found dead at 41</title>
+      <link>https://www.jpost.com/international/article-905622</link>
+      <description>Arday died after being found unresponsive in south London, according to British media; the plagiarism scandal erupted after some academics and media reports accused Arday, who became Cambridge’s youngest black professor in 2023, of plagiarising parts of his doctoral thesis Publicado también por: NPR - World, The Hindu - International, The New York Times - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3782f1ad56e14f75</guid>
+      <pubDate>Sun, 16 Aug 2026 10:30:14 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>América del Norte</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/fpm89x/article71347281.ece/alternates/LANDSCAPE_1200/Jason-Arday-at-GFIGC4NU7.3.jpg.jpg" type="image/jpeg" length="0" />
     </item>
@@ -185,22 +200,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/mn24tq/article71348359.ece/alternates/LANDSCAPE_1200/AP08_15_2026_000003A.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Strong 7.7-magnitude earthquake strikes eastern Indonesia</title>
-      <link>https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake</link>
-      <description>Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading... Publicado también por: The Hindu - International, NPR - World, Euronews, Al Jazeera English, BBC News - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6174f144a3dfcaa2</guid>
-      <pubDate>Fri, 14 Aug 2026 23:43:18 +0000</pubDate>
-      <category>ambiente</category>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Guardian staff and agencies</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e186c85e7f3c4228eab36d269321262" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/80101e7c2032931fe50acd0e603b5a3ec3c75bc1/386_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e186c85e7f3c4228eab36d269321262" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Colombia's new president asks Trump to suspend tariffs after deadly earthquake</title>
       <link>https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake</link>
       <description>Colombia’s new President Abelardo de la Espriella on Saturday called on his US counterpart Donald Trump to suspend tariffs currently targeting the South American nation, which is reeling after a deadly earthquake. US tariffs on Colombian products rose from 10 per cent to 12.5 per cent in late July, with a few exceptions including coffee and oil. “I asked him to consider to temporarily suspend the high tariffs that are affecting Colombian products, in order to give some relief to our business... Publicado también por: South China Morning Post, Al Jazeera English. Fuente: France 24 - English.</description>
@@ -243,18 +242,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>British cyclist dies in Volta a Portugal accident... Ver más</title>
-      <link>https://www.facebook.com/Reuters/posts/pfbid027Ppf1AgZS8uAmUo85CwrCdn1R67rUXkoSHirWs9QjXmFQe7QwU7JdzffyJAeZjLLl?__cft__%5B0%5D=AZY06Qr5urBI98xxYcZ20hsgNieb40BOPfc2EbZq2tmy5DdKvpV5vxN4E0kBsFW4As-aDVJAx-FyFLp2VTcuLs5vu3nZrv0aAD7StEE_RTh21DIjinv6q1NN1Q5fM9TlPiFLQgB3p4VHElWLNXGpTuMOuy0wzi8HhtwAz6FQBm6Nq5nAYmSC7AFIDOQ8C9RGFlk&amp;__tn__=%2CO%2CP-R</link>
-      <description>19-year-old British cyclist Finlay ⁠Tarling died ​following a "serious accident" during the eighth stage ​of the Tour of Portugal race, tour organisers and his team said on Friday. Publicado también por: France 24 - English, Sky News - World. Fuente: Reuters.</description>
-      <guid isPermaLink="false">cron-rss-noticias:67b1c1c67cf84059</guid>
-      <pubDate>Fri, 14 Aug 2026 23:21:49 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/Reuters/">Reuters</source>
-      <media:content url="https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/774407279_1045618301437863_105442380650247107_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=4aZuBVBgq7IQ7kNvwGVb4fe&amp;_nc_oc=Ado1-eaWNfFCY0iN1FabQo_kbioxSxoIvx2-iydPCQP811YHNfjoVsm8hSBlIqy69Lo&amp;_nc_zt=14&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=BUntGtL-AxQnNjRXJTC9kA&amp;_nc_ss=7f289&amp;oh=00_AQE3lWxWu8EKtLySQGcfFrNjqpCX2M-T7nT7ZwNlw0CaVQ&amp;oe=6A858267" medium="image" />
-      <enclosure url="https://scontent-ams2-1.xx.fbcdn.net/v/t39.99422-6/774407279_1045618301437863_105442380650247107_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=4aZuBVBgq7IQ7kNvwGVb4fe&amp;_nc_oc=Ado1-eaWNfFCY0iN1FabQo_kbioxSxoIvx2-iydPCQP811YHNfjoVsm8hSBlIqy69Lo&amp;_nc_zt=14&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=BUntGtL-AxQnNjRXJTC9kA&amp;_nc_ss=7f289&amp;oh=00_AQE3lWxWu8EKtLySQGcfFrNjqpCX2M-T7nT7ZwNlw0CaVQ&amp;oe=6A858267" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Un terremoto de magnitud 7,7 sacude el mar frente a Indonesia; hay cinco muertos y numerosos daños</title>
@@ -443,21 +430,6 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/15/95688c10-3a07-4dfa-bdcd-902ac5b36871_4a1a8e91.jpg?itok=PU5jtMnK&amp;v=1786762495" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Strong 7.7-magnitude quake strikes off Indonesia: USGS</title>
-      <link>https://www.thehindu.com/news/international/indonesia-earthquake-august-15-2026/article71347456.ece</link>
-      <description>A powerful magnitude 7.7 earthquake struck off the coast of Indonesia early Saturday, killing at least 38 people, collapsing buildings as well as causing panic in a region prone to deadly quakes. Publicado también por: NPR - World, Euronews. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:53bbeed264c234cc</guid>
-      <pubDate>Fri, 14 Aug 2026 23:25:57 +0000</pubDate>
-      <category>ambiente</category>
-      <category>conflictos</category>
-      <category>América Latina</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/news/national/3qgnk9/article71347457.ece/alternates/LANDSCAPE_1200/iStock-2172126887.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/news/national/3qgnk9/article71347457.ece/alternates/LANDSCAPE_1200/iStock-2172126887.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>At least 38 dead after 7.7-magnitude quake strikes Indonesia</title>
       <link>https://www.washingtonpost.com/world/2026/08/15/77-magnitude-earthquake-off-flores-island-indonesia-kills-least-38/</link>
       <description>The earthquake took place around 5 a.m. local time and was centered off the coast of Flores Island in the quake-prone archipelago. Publicado también por: CNBC - World. Fuente: The Washington Post - World.</description>
@@ -572,6 +544,46 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least 10 injured, 12 killed after Polish bus overturned into ditch in Hungary</title>
+      <link>https://www.jpost.com/international/article-905617</link>
+      <description>"My sincere condolences to the families of the victims. I am grateful to everyone who took part in the rescue efforts," Hungarian Prime Minister Péter Magyar wrote. Publicado también por: The Hindu - International. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2a099ace957b7e9e</guid>
+      <pubDate>Sun, 16 Aug 2026 09:08:24 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/m15ojm/article71352283.ece/alternates/LANDSCAPE_1200/Hungary_Bus_Crash_882_3.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/m15ojm/article71352283.ece/alternates/LANDSCAPE_1200/Hungary_Bus_Crash_882_3.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Suben a 51 los muertos tras terremoto de magnitud de 7,7 en Indonesia</title>
+      <link>https://www.elmundo.es/internacional/2026/08/16/6a816546e85ece38018b457c.html</link>
+      <description>Un potente sismo de magnitud 7,7 ha sacudido la madrugada del sábado la sisla de Flores, al este de Indonesia. La Agencia Nacional de Gestión de Desastres (BNPB) ha cifrado en al menos 47 las víctimas mortales. Otras 2.000 personas han tenido que evacuar sus hogares como consecuencia del seísmoEl epicentro del terremoto, que se produjo a las 05.58 hora local (medianoche en España) a poca profundidad frente a la isla de Flores, se encuentra a 68 kilómetros de la ciudad de Ende, en la provincia de Nusa Tenggara Oriental, según el USGS. El sismo inicial fue seguido por dos fuertes réplicas en la… Publicado también por: ABC España - Internacional. Fuente: El Mundo - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:eb6cd8a22c97a589</guid>
+      <pubDate>Sun, 16 Aug 2026 07:26:39 +0000</pubDate>
+      <category>ambiente</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Efe</dc:creator>
+      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/16/17868651761409.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/16/17868651761409.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Twelve killed as Polish bus veers off Hungarian motorway</title>
+      <link>https://www.bbc.co.uk/news/articles/ckg4424zd7go</link>
+      <description>Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e0904532dd7f0917</guid>
+      <pubDate>Sun, 16 Aug 2026 07:04:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Alex Brint ha comentado: Don’t put the pressure on the kid let him live his life</title>
@@ -1047,47 +1059,6 @@
       <enclosure url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-afghanistan-women-1-fjtm/13int-afghanistan-women-1-fjtm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>El chavismo anuncia 131 excarcelaciones de presos políticos en medio del diálogo con la oposición</title>
-      <link>https://elpais.com/america/2026-08-14/el-chavismo-anuncia-131-excarcelaciones-en-medio-del-dialogo-con-la-oposicion-venezolana.html</link>
-      <description>El gobierno de Delcy Rodríguez cumple así con parte de lo acordado en la mesa de diálogo que se instaló días atrás bajo auspicio de Estados Unidos. El jefe de la diplomacia de EE.UU., Marco Rubio, celebró las liberaciones. Publicado también por: Clarín - Mundo. Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:20f2e383dcb1fe9d</guid>
-      <pubDate>Fri, 14 Aug 2026 23:33:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>América Latina</category>
-      <dc:creator>Florantonia Singer</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/YUTGM74RMRD2JOZLK4CH6GPT7I.jpeg?auth=3afefe1d4371b321478aade816ebc6e011bf6209c316729cfdb5e013e3aef404" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/YUTGM74RMRD2JOZLK4CH6GPT7I.jpeg?auth=3afefe1d4371b321478aade816ebc6e011bf6209c316729cfdb5e013e3aef404" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Lebanon’s PM urges timetable for Israeli withdrawal as Hezbollah slams deal</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02rntxT2B4f3SiyXsKyebEUQZjBC9sseFfKjBPQbVGU3UksszmwhZzAvzkQzCo9wJ5l?__cft__%5B0%5D=AZb3VlOeulQPHkvJ6eTSoeq5z0VkvMAkiu_GmvRnB3UUko-6uRFuqIDpzdoMEavq2Dd8h25fzj7SN8RiSsCpFVbFoMoWCOzvYAIW1-LI34I2JYFo20UQdu0_qU9_pkxA6LSOGpBRJb3DMZvkxYZwC9No9MD-nJ7bx6ZkSA4BAhmO4oyTeQ55-RqRMr-87x3AjRo&amp;__tn__=%2CO%2CP-R</link>
-      <description>Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:17190d9797c022c5</guid>
-      <pubDate>Fri, 14 Aug 2026 23:30:21 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/774496510_847387148339776_779052648526017373_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=wdENrFiFGm4Q7kNvwF39UPv&amp;_nc_oc=AdqJK2IZYig_fCreC7JejYaSYtoeuoQMENkGdVtKdHodtvvrxIAxyWtZfL3EeANSHXg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=SWvMNTCmtKNmmng-EsvGtw&amp;_nc_ss=7f289&amp;oh=00_AQHgO7Jc53Q80x5s_Sk96RYO2qz1liZzmPHG5LkvTdx-0A&amp;oe=6A857759" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/774496510_847387148339776_779052648526017373_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=wdENrFiFGm4Q7kNvwF39UPv&amp;_nc_oc=AdqJK2IZYig_fCreC7JejYaSYtoeuoQMENkGdVtKdHodtvvrxIAxyWtZfL3EeANSHXg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=SWvMNTCmtKNmmng-EsvGtw&amp;_nc_ss=7f289&amp;oh=00_AQHgO7Jc53Q80x5s_Sk96RYO2qz1liZzmPHG5LkvTdx-0A&amp;oe=6A857759" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>President Donald Trump asks the Supreme Court to allow him to continue construction of a sprawling ballroom adjacent to the White House.</title>
-      <link>https://www.facebook.com/NBCNews/posts/pfbid0375FnTVUiBQ4eobmbXMdYGYQiwJxcoR29RXkh5BE4jqBLk9k88838CjZgiqRQDUmyl?__cft__%5B0%5D=AZbmU9v59E1Ck0mMxbhniMjgRPtFyk6dZ-oKUu31B4Tgnd3ulTJn6ib61_kiscprrJP817Q_tOYqONaZn47wr-raKcZpLhdFZsbM1DIEnRr7zXmh3gMncIGbbaNWpwhVyOXB388rjRbOXBk6E26nIcfgr-E4NF9RKkEzwscvsP-BugcSWLzD-xUwvKKkJmrOvRw&amp;__tn__=%2CO%2CP-R</link>
-      <description>President Donald Trump asks the Supreme Court to allow him to continue construction of a sprawling ballroom adjacent to the White House. In fairness he was deployed in a catering cart for 20 minutes NBCNEWS.COM Trump asks Supreme Court to allow White House ballroom construction to continue Ver más comentarios Innocent Bulirani Ver las 3 respuestas Publicado también por: Deutsche Welle - World. Fuente: NBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f5fa14bc1d622c83</guid>
-      <pubDate>Fri, 14 Aug 2026 23:20:57 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/7479467867401898631?url=https%3A%2F%2Fimage.trueanthem.com%2F80wN44k6avq5Exv_Dec_mxC1_nd8aWNSNv-11VN5WA4%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDgvMjYwODA3LWJhbGxyb29tLWNoLTExMTItNzk3ZmM1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Wp-dOd04LTK2VfbtqNUdCA&amp;_nc_oc=AdodDwE2DBuuAVkEOJvzP8GIoxxvUoBzn9kWhGMLKjpaVPV8na8IPAZ-xrfBgipk33E&amp;ccb=13-1&amp;oh=06_Q3_CAfeaK4LdDttv1hQsfitcFYKzYW9UcdfkKdT_xlo6LK84&amp;oe=6A817A1A&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/7479467867401898631?url=https%3A%2F%2Fimage.trueanthem.com%2F80wN44k6avq5Exv_Dec_mxC1_nd8aWNSNv-11VN5WA4%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDgvMjYwODA3LWJhbGxyb29tLWNoLTExMTItNzk3ZmM1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Wp-dOd04LTK2VfbtqNUdCA&amp;_nc_oc=AdodDwE2DBuuAVkEOJvzP8GIoxxvUoBzn9kWhGMLKjpaVPV8na8IPAZ-xrfBgipk33E&amp;ccb=13-1&amp;oh=06_Q3_CAfeaK4LdDttv1hQsfitcFYKzYW9UcdfkKdT_xlo6LK84&amp;oe=6A817A1A&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>This real-life plot twist feels straight out of a mesmerizing literary masterpiece where breaking a wall unveils pure serendipity and timeless mysteries.</title>
       <link>https://www.facebook.com/bbcnews/posts/pfbid02VP4ySxMyqy1kgrT5zALCvRXZebsgJZWxfqg5RaQgk9WxSDB4wvuPFmB5HPsyVyWml?comment_id=1350840357221774&amp;__cft__%5B0%5D=AZZOAf0N2RFb53RD3M2PFGOQVyEH-FaESJYc-Mivd-6oJopIbjumJHYfRT_9KALAHDCy3AfC-tlE8IMvfJKEPgw573XhqqtkOP4E5LAoCYfbfg6HH6BRPYb8Bc10pybIVr7BWd4m6eLhECBRmy7zFR3ZZSt7fRbxinTseydL5Vet4sfOllPwQB1TKJOVc8Auuw0&amp;__tn__=R-R</link>
       <description>Fuente: BBC News.</description>
@@ -1143,6 +1114,45 @@
     </item>
     <item>
       <title>1250 reproducciones · 26 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1058881843195599/?comment_id=4089532411345800&amp;__cft__%5B0%5D=AZY4UQWXCCgXEDYCJZTgReTpuAHBNmvBCXTHNMb8njwj-fIvRiZfHi9693mWafRmaEoj9DmdSKHWPdLKydB35mm5o1B-5KDUcjksV5s-p4EPZLGHB-AK50PBi75chyxNdNbSa_lKZ0AMnDveDIm6mTQq3IPtAUGhKUZw1cr8T8nwefG5sWmn_sXhnAGfb0VzW2eZ59Zps93BLICPu4F0ZtS9&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6d3b1860d315cc53</guid>
+      <pubDate>Sun, 16 Aug 2026 07:52:58 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwFYO81j&amp;_nc_oc=AdqwDX73Ge4NXVW42gN829LINEdI2VQKTS2aOKSwiMXE6lTVA0ynMuRxRb39SM7iYyc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ZfM8pgpzjBr6bVTYrK4Fhg&amp;_nc_ss=7f289&amp;oh=00_AQGxvx8819K6KDEluwFZ_XOqWnnnd2mmxVnTvdkGLItw8g&amp;oe=6A873847" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwFYO81j&amp;_nc_oc=AdqwDX73Ge4NXVW42gN829LINEdI2VQKTS2aOKSwiMXE6lTVA0ynMuRxRb39SM7iYyc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ZfM8pgpzjBr6bVTYrK4Fhg&amp;_nc_ss=7f289&amp;oh=00_AQGxvx8819K6KDEluwFZ_XOqWnnnd2mmxVnTvdkGLItw8g&amp;oe=6A873847" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>“El Gobierno lanza mensajes contradictorios: la ministra de Defensa viaja al lugar del problema mientras Sánchez recomienda libros”. La crisis de Ceuta aviva el debate ... Ver más</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid02xC7TCk2tuCVv2qygn8qZcZ2keiRdSXNVtEkAR6EH8c4W3f6ARr75D3EzAqARjPrml?__cft__%5B0%5D=AZYsLs_IHO6778fRzUCirCUoq5P9sQbJwr3djk4zM9lNyo3LS7oaCQ1caovkau0nHx-K2mlWEyLFGA049oxHhy7BKf4eyq9YZYdwfGcOc8shdAqfYPciPPp5FA63_MBVcvst7dbcYf47CnQ2DIi8rXAhFGV7B7wuGaB5vfQGa_LlOL0PSwGOS96Y6ijuj4zDwpI&amp;__tn__=%2CO%2CP-R</link>
+      <description>“El Gobierno lanza mensajes contradictorios: la ministra de Defensa viaja al lugar del problema mientras Sánchez recomienda libros”. La crisis de Ceuta aviva el debate ... Ver más Sánchez debe y puede estar de vacaciones igual que todos los españoles, son necesarias. ELPAIS.COM La crisis de Ceuta aviva el debate sobre las vacaciones de los políticos: demagogia y problemas reales de gestión Ver… Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:27c340d29b57e3ff</guid>
+      <pubDate>Sun, 16 Aug 2026 07:47:57 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/10981410163650790615?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FPZTHTWA2BRDPRL4RCJNNOCZKJM.jpg%3Fauth%3D87ac96a855e7071e710dadc6d8834849f69483c4bbddda57bc3fb03aae5797a9%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Vi2VtKALjGPDAV3ZlRgvYA&amp;_nc_oc=AdrUshsqg--cQLrKJKWSKfMNrJAbJpXINcWq4_UG4KIXV6S5RiXKssDNA91AlAjcsVo&amp;ccb=13-1&amp;oh=06_Q3_CAXsZ05mNAHwGqIw25x-Ki3SWD90Y7A_O5Py9USMFJYv-&amp;oe=6A834482&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/10981410163650790615?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FPZTHTWA2BRDPRL4RCJNNOCZKJM.jpg%3Fauth%3D87ac96a855e7071e710dadc6d8834849f69483c4bbddda57bc3fb03aae5797a9%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Vi2VtKALjGPDAV3ZlRgvYA&amp;_nc_oc=AdrUshsqg--cQLrKJKWSKfMNrJAbJpXINcWq4_UG4KIXV6S5RiXKssDNA91AlAjcsVo&amp;ccb=13-1&amp;oh=06_Q3_CAXsZ05mNAHwGqIw25x-Ki3SWD90Y7A_O5Py9USMFJYv-&amp;oe=6A834482&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Bangladesh have stunned Australia with a historic nine-wicket victory in Darwin.... Ver más</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02PnH6zDnEsXQ1DQrRWjtCvxyCga25gBLTZV9x2LzYH1UW5LvMyjfKS4jooKNPVzoRl?__cft__%5B0%5D=AZb8z6MW5iSI2vFfWcARkiuXzUgSvWPc4tYkliTfiRwIOPGWgrjc0U3DrpeNVrVWYmsklTTAqCmo50s87DhuYaoAjJhfxaSwcf21VngYoIiYIXMXZFmjiJ6HVEohv7qdsSS1qNEcrgU7PnxObvn9KIj2Wtz4EDd-ColKJ9b7cbFooIfwaH-WVSV6wWGPHR7GCfY&amp;__tn__=%2CO%2CP-R</link>
+      <description>Bangladesh have stunned Australia with a historic nine-wicket victory in Darwin.... Ver más অস্ট্রেলিয়াকে অস্ট্রেলিয়ার মাটিতে টেস্ট হারানো। সম্ভবত এটাই বাংলাদেশের ক্রিকেট ইতিহাসের শ্রেষ্ঠতম দিনের একটা। Ver más comentarios Suruj Sheikh Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fbc22d91f37f6e0e</guid>
+      <pubDate>Sun, 16 Aug 2026 07:10:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Oceanía</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778124127_27862759646685118_3942074005304615946_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=kGjJKgjxwNAQ7kNvwFVTpe9&amp;_nc_oc=Adpe8HE0iPk6drYgPP-3KEdbrV716RK4eW_F0pEUdSbtwTS3JIMAHJKq9f3FBffSTVk&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=7-DuQVKNwXGrZsvIhYRHQQ&amp;_nc_ss=7f289&amp;oh=00_AQEZb6dHVYitbMZ4Qt196n4KIf_HeS7ovNBZTEgcSLM8HA&amp;oe=6A8738B7" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778124127_27862759646685118_3942074005304615946_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=kGjJKgjxwNAQ7kNvwFVTpe9&amp;_nc_oc=Adpe8HE0iPk6drYgPP-3KEdbrV716RK4eW_F0pEUdSbtwTS3JIMAHJKq9f3FBffSTVk&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=7-DuQVKNwXGrZsvIhYRHQQ&amp;_nc_ss=7f289&amp;oh=00_AQEZb6dHVYitbMZ4Qt196n4KIf_HeS7ovNBZTEgcSLM8HA&amp;oe=6A8738B7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1250 reproducciones · 26 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 | ATB Digital</title>
       <link>https://www.facebook.com/ATBDigital/videos/1058881843195599/?comment_id=4089532411345800&amp;__cft__%5B0%5D=AZbP5vxIhEJtKT1pyWLzkmjHzO5bYKwDiXRoaYUivKl5SmTJ7Bh9JX_JCpdXGICYXdOg-ftTa9tXQBe2kOREoVnjaAdwWu_e-ppGwUmLzuzkB_6kSsnqYMdd50xwsaid_CbtAmwk9SzjZYpq7Z_c_lWhLffimaO-j1aMOSkhXn71YXM0AsceaqHQ3IkXRxxWnFB_Wkqpmr6iwnIE7Syjyg9a&amp;__tn__=R-R</link>
       <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 Fuente: ATB Digital.</description>
       <guid isPermaLink="false">cron-rss-noticias:6bffd93b2a921f83</guid>
@@ -1153,6 +1163,18 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwEFvHoY&amp;_nc_oc=AdpNEXetboe7jY84jfEvsjxQyygur6mFL9MggCKqfnfDikzFIFMtRXmKWNL6Md6XQeY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=Nl5XbpFexgM_xYaTOfaM3Q&amp;_nc_ss=7f289&amp;oh=00_AQG7Ih-CTbln_C7SjUGPjsuG0V0V4XVnbW0vA-kR2dI0IQ&amp;oe=6A873847" medium="image" />
       <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwEFvHoY&amp;_nc_oc=AdpNEXetboe7jY84jfEvsjxQyygur6mFL9MggCKqfnfDikzFIFMtRXmKWNL6Md6XQeY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=Nl5XbpFexgM_xYaTOfaM3Q&amp;_nc_ss=7f289&amp;oh=00_AQG7Ih-CTbln_C7SjUGPjsuG0V0V4XVnbW0vA-kR2dI0IQ&amp;oe=6A873847" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Discord diz à ANPD que não consegue suspender lives em 3 dias úteis e pede revogação de medida</title>
+      <link>https://www.facebook.com/jornaloglobo/posts/pfbid02SUzgkHTvvS85Xd9xVvQdfES8bfLWUuU7DwK8cVQ9wfU5ugZ3NiQGz5aHAdPD1Y7Tl?__cft__%5B0%5D=AZZOghfz-Hq0VH_EH5xjZ5Su9OHrFnUeIGMRv318I6gPptFunq1q4GX_CFP6sVHyIDIuEFa-HPyvmTd5KNzYm_CO4Vi59gAnZDzz_X1SJaozjGkalJ2NQ8NG9byc7Mti1aSE1Za2fB7P27xaOgyndqmiZ6JAsJhd0nRCIy1LLjgJbfDvSP1jQ4VEuqHjZrEAMVc&amp;__tn__=%2CO%2CP-R</link>
+      <description>Discord diz à ANPD que não consegue suspender lives em 3 dias úteis e pede revogação de medida OGLOBO.GLOBO.COM Fuente: O Globo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:60b6581a2580138c</guid>
+      <pubDate>Sun, 16 Aug 2026 06:48:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/14246650309481749413?url=https%3a%2f%2fs2-oglobo.glbimg.com%2fH8IeSxfjO3Mphphw0Dxu5aWsLEM%3d%2f4000x0%2ffilters%3aformat%28jpeg%29%2fhttps%3a%2f%2fi.s3.glbimg.com%2fv1%2fAUTH_da025474c0c44edd99332dddb09cabe8%2finternal_photos%2fbs%2f2026%2fW%2fM%2fBJTYFeRPGeDLz4f2Y9pA%2fdiscord-bloomberg.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=2bZRt7d7CcnQNKg8c7bSOw&amp;_nc_oc=Ado1ItINRXtDI5V-GM0E-kswf5UnjNpPeOBT1yHj3qZV-HDRfiDA8MQsH0wgc07-0Ok&amp;ccb=13-1&amp;oh=06_Q3_CAeeRcGMO-yphgzcU6TW0mLpmPsEsboqWn66CfWBOhZAU&amp;oe=6A8330B6&amp;_nc_sid=867500" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/14246650309481749413?url=https%3a%2f%2fs2-oglobo.glbimg.com%2fH8IeSxfjO3Mphphw0Dxu5aWsLEM%3d%2f4000x0%2ffilters%3aformat%28jpeg%29%2fhttps%3a%2f%2fi.s3.glbimg.com%2fv1%2fAUTH_da025474c0c44edd99332dddb09cabe8%2finternal_photos%2fbs%2f2026%2fW%2fM%2fBJTYFeRPGeDLz4f2Y9pA%2fdiscord-bloomberg.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=2bZRt7d7CcnQNKg8c7bSOw&amp;_nc_oc=Ado1ItINRXtDI5V-GM0E-kswf5UnjNpPeOBT1yHj3qZV-HDRfiDA8MQsH0wgc07-0Ok&amp;ccb=13-1&amp;oh=06_Q3_CAeeRcGMO-yphgzcU6TW0mLpmPsEsboqWn66CfWBOhZAU&amp;oe=6A8330B6&amp;_nc_sid=867500" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>The Israeli military claims it has killed Abu Hassan Alaa, whom it described as a senior commander in Hezbollah’s “Badder Unit” in southern Lebanon.... Ver más</title>
@@ -1560,32 +1582,6 @@
       <source url="https://www.facebook.com/lostiemposbol1/">Los Tiempos Digital</source>
       <media:content url="https://scontent.ftlv23-1.fna.fbcdn.net/v/t15.5256-10/773875923_1798454578236719_4144204026045751352_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=aHIeP7Dps2oQ7kNvwF-cjxn&amp;_nc_oc=AdoAZs3KlAoTACuAFTqumm-oPVRoBwq5yNz45CWvUTjQsxM2k6KHLzVPpp8KQr44r08&amp;_nc_zt=23&amp;_nc_ht=scontent.ftlv23-1.fna&amp;_nc_gid=9u2CUa3WdkBEvhuIlEMqrw&amp;_nc_ss=7f289&amp;oh=00_AQGue88YHilbKIwGUZxiyr_Q7VkWLbQtBRgNTp7oJHXocg&amp;oe=6A866CC4" medium="image" />
       <enclosure url="https://scontent.ftlv23-1.fna.fbcdn.net/v/t15.5256-10/773875923_1798454578236719_4144204026045751352_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=aHIeP7Dps2oQ7kNvwF-cjxn&amp;_nc_oc=AdoAZs3KlAoTACuAFTqumm-oPVRoBwq5yNz45CWvUTjQsxM2k6KHLzVPpp8KQr44r08&amp;_nc_zt=23&amp;_nc_ht=scontent.ftlv23-1.fna&amp;_nc_gid=9u2CUa3WdkBEvhuIlEMqrw&amp;_nc_ss=7f289&amp;oh=00_AQGue88YHilbKIwGUZxiyr_Q7VkWLbQtBRgNTp7oJHXocg&amp;oe=6A866CC4" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>2060 reproducciones · 47 reacciones | #LaRedDeportivaDeBolivia #FútbolBoliviano 🏙️LA PAZ 🏟️ HERNANDO SILES 🔴EN VIVO🔴 #ClubBolívar 🆚️ #SanAntoniodeBuloBulo | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1362013602579087/?comment_id=3723392827792859&amp;__cft__%5B0%5D=AZakNZO93G006DzySe4XXVXSXAhiSiI4E2NkZzDK4TGZcPdgx7ptOgK47jJGPQ6jwjk7M04lK15vwLCvOZPQ2FJixVCf1RoRUsmV0rZf1HYyddaeRGFa0fhEMq4REd5-lqwQKBJ59kKLqUVT5i5QUIPgYEcex5oKfWJG2u1BwpGK23NZe9J38ja-SbIAIxBSLiYqZ_BEWWp1otsZx5_VcvCJ&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivaDeBolivia #FútbolBoliviano 🏙️LA PAZ 🏟️ HERNANDO SILES 🔴EN VIVO🔴 #ClubBolívar 🆚️ #SanAntoniodeBuloBulo Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6e02dde770f85b67</guid>
-      <pubDate>Sat, 15 Aug 2026 18:55:32 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-hkg1-1.xx.fbcdn.net/v/t15.5256-10/775739899_2144647753060842_1745119215505581397_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=QwcX1aPNYfQQ7kNvwHYqIjR&amp;_nc_oc=Adrs5jqGjSnrmbQKq4GTq_krAdaEdMiz8RYFj78nQh5evwQzDlTi-Gm0P5zJbUEfrNo&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg1-1.xx&amp;_nc_gid=oWm3mlLXF5yhnyGjIOyG6w&amp;_nc_ss=7f289&amp;oh=00_AQHqHG__DLpUso7xDiNEbrsx1x0hDPC9SlwibRoXKIcDMg&amp;oe=6A8674F7" medium="image" />
-      <enclosure url="https://scontent-hkg1-1.xx.fbcdn.net/v/t15.5256-10/775739899_2144647753060842_1745119215505581397_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=QwcX1aPNYfQQ7kNvwHYqIjR&amp;_nc_oc=Adrs5jqGjSnrmbQKq4GTq_krAdaEdMiz8RYFj78nQh5evwQzDlTi-Gm0P5zJbUEfrNo&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg1-1.xx&amp;_nc_gid=oWm3mlLXF5yhnyGjIOyG6w&amp;_nc_ss=7f289&amp;oh=00_AQHqHG__DLpUso7xDiNEbrsx1x0hDPC9SlwibRoXKIcDMg&amp;oe=6A8674F7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Liebmann and Douglass set world records on same day</title>
-      <link>https://www.bbc.co.uk/sport/swimming/articles/crk55emx3yjo</link>
-      <description>Germany's Johannes Liebmann and American Kate Douglass set swimming world records on Saturday, dazzling crowds at events in Paris and California. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c2e06b85404d2b90</guid>
-      <pubDate>Sat, 15 Aug 2026 18:52:30 +0000</pubDate>
-      <category>deportes</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f05/live/f71a90e0-98d7-11f1-8216-1399f248beea.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f05/live/f71a90e0-98d7-11f1-8216-1399f248beea.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
