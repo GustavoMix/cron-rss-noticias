@@ -7,23 +7,9 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 16 Aug 2026 11:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:09:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Five dead after 7.7 magnitude earthquake strikes Indonesia</title>
-      <link>https://www.bbc.co.uk/news/articles/c5y0zz63gero</link>
-      <description>Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami A 7.7-magnitude earthquake struck eastern Indonesia early on Saturday, killing at least 38 people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events. Authorities issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one of magnitude of 6.1. Indonesian authorities said that monitoring showed no significant sea level changes that could indicate a tsunami. Continue reading... Publicado también por: Al Jazeera English, Sky News - World, The New York Times - World, CNBC - World, The Guardian - World, Euronews. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1d684ba2e3dc3349</guid>
-      <pubDate>Sat, 15 Aug 2026 04:12:55 +0000</pubDate>
-      <category>ambiente</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ae3/live/73539fc0-984d-11f1-92c4-9d3840de4561.jpg" type="image/jpeg" length="0" />
-    </item>
     <item>
       <title>Jason Arday, Cambridge professor accused of plagiarism, is found dead</title>
       <link>https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead</link>
@@ -375,6 +361,32 @@
       <category>Asia</category>
       <category>América del Norte</category>
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>World’s Ugliest Dog contest crowns its 2026 winner</title>
+      <link>http://www.euronews.com/video/2026/08/16/worlds-ugliest-dog-contest-crowns-its-2026-winner</link>
+      <description>Jinny Lu, a rescued pug originally from South Korea, has won the 50th annual World’s Ugliest Dog Contest in Santa Rosa, California. Publicado también por: BBC News - World. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4d6ac3c2106dd7d1</guid>
+      <pubDate>Sun, 16 Aug 2026 12:27:48 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d93/live/aed19be0-98ae-11f1-9a0b-ef36d15fc6b3.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Europe's tallest Virgin Mary statue unveiled in rural Poland</title>
+      <link>https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo</link>
+      <description>A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals. Publicado también por: Euronews. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:272499ffc992accc</guid>
+      <pubDate>Sun, 16 Aug 2026 11:35:25 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iran-US war latest: Qatar denies detaining Iranian fighter pilots after downing jets</title>
@@ -764,28 +776,31 @@
       <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/12951734915161101?url=https%3A%2F%2Fimage.trueanthem.com%2FhYHN3Z81OYzHqOkzoeUwBH8bV07wDcqmvamwSZA9TGI%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC8yOTVjMzI5LzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzY3NXg0NTArMTIrMC9yZXNpemUvOTgweDY1MyEvcXVhbGl0eS85MC8_dXJsPWh0dHBzJTNBJTJGJTJGYXNzZXRzLmFwbmV3cy5jb20lMkY5MCUyRjI5JTJGNGUzYzFjYzc0NDYwODlhOTEwMWE3YmRmZjRjOCUyRmRlZmF1bHRzaGFyZWltYWdlLWNvcHkucG5n.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=qKfozXvc5oSbcvNz6Q6wZw&amp;_nc_oc=AdpJGkhmpjKAO0ZF8sQM3yvg444hiw2rmsL7kVaDtI9Co-kIvw6HWi-k2BEqEQ4GA_w&amp;ccb=13-1&amp;oh=06_Q3_CAUsiRpsvuKogc_GOvczNxvcybb4tHacTKmkgRwnI2buf&amp;oe=6A8203A4&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>A British sociologist who resigned from the University of Cambridge last week following plagiarism accusations was found dead Friday.</title>
-      <link>https://www.facebook.com/APNews/posts/pfbid02PTpaRVx8JN7BxUkK34GnZ1eZTdUrHiDBAvgCNtN9pNkgZV6SdM42S3yjYN66uZRFl?__cft__%5B0%5D=AZZm2bpVQwi3EuCCNP6Puy07mbVZoW66cMd8cJRVPaGGHPkZeD_NMNZDkPaW58rV0FTeYZLM2GS9ZSTXL2nJdoxcoz_hv0oTilg5QeRvBAoc_YXzWd30uFEP5G9_2PLKO06jOKXBnjuXmsYbgx-sZnziNujQvwEkatV3gL78yUHI8OiJO8QX86Z6O_qvCO9Cim0&amp;__tn__=%2CO%2CP-R</link>
-      <description>A British sociologist who resigned from the University of Cambridge last week following plagiarism accusations was found dead Friday. APNEWS.COM Youngest Black professor at Cambridge who faced plagiarism claims is found dead Fuente: The Associated Press.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8f47941a71fcd758</guid>
-      <pubDate>Sat, 15 Aug 2026 04:30:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/APNews/">The Associated Press</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/6840650772321766553?url=https%3A%2F%2Fimage.trueanthem.com%2Fr28Sd6Rf3G2lMFqEUxj8H5Eth4kMz2w9yg-9Yojp9Kg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9kZDA1ZGY0LzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzIzMDJ4MTUzNCsxKzAvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGZTMlMkZjNyUyRmRkNGZkMjEyOGMzMzY5NTJkYTM1YjIzMDA4YTQlMkZlM2EwMTA4NDM5YmM0OTMyOWM1YzZiNTg5YjU5Y2RhYQ.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=9Xer-NvLRQIhv6i6IVEG2Q&amp;_nc_oc=AdouwsYw-q4IqBmK5ilDpQohB66APO7DyodyTKXuBYhnTASSQyUa4E2MdN7TVSCamow&amp;ccb=13-1&amp;oh=06_Q3_CAZ8qZpAMje8OcNP4lfVcSMS_NtdwxqVf1m_OGYUz_qz-&amp;oe=6A81C007&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/6840650772321766553?url=https%3A%2F%2Fimage.trueanthem.com%2Fr28Sd6Rf3G2lMFqEUxj8H5Eth4kMz2w9yg-9Yojp9Kg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9kZDA1ZGY0LzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzIzMDJ4MTUzNCsxKzAvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGZTMlMkZjNyUyRmRkNGZkMjEyOGMzMzY5NTJkYTM1YjIzMDA4YTQlMkZlM2EwMTA4NDM5YmM0OTMyOWM1YzZiNTg5YjU5Y2RhYQ.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=9Xer-NvLRQIhv6i6IVEG2Q&amp;_nc_oc=AdouwsYw-q4IqBmK5ilDpQohB66APO7DyodyTKXuBYhnTASSQyUa4E2MdN7TVSCamow&amp;ccb=13-1&amp;oh=06_Q3_CAZ8qZpAMje8OcNP4lfVcSMS_NtdwxqVf1m_OGYUz_qz-&amp;oe=6A81C007&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+      <title>Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud. Las autoridades elevan a 51 los fallecidos y miles de personas siguen ev... Ver más</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid02byrJBJi3nEsJAJ9RrUWaVURpAgCQ6iZhUwMDKptUF54C6MsvDd6dEsfcCPAXR3J2l?__cft__%5B0%5D=AZZZ5UW-3mmOStpaxwQCl_R_fKKh8c0ABZNQNyqqFmRZAXZAr3QtNg8F66aoeSsryEqWBozWXW3L_YK-jDh3ZGSzc11HxsPS5PjJAPxHAhhokiOwf-pu1N0wxWrsosWiqzwSDYVLhnsReqGR9335G9LYMVRQjbXoWIEn5gQAE79FnziOVLATriEfZ9umDuc3qq0&amp;__tn__=%2CO%2CP-R</link>
+      <description>Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud. Las autoridades elevan a 51 los fallecidos y miles de personas siguen ev... Ver más Por qué hay tantos terremotos y tan seguidos? ELPAIS.COM Los equipos de rescate de Indonesia buscan supervivientes tras el terremoto de 7,7 de magnitud Antonio Lecumberri Gracia Publicado también por: El País - Internacional. Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7697363223c3577d</guid>
+      <pubDate>Sun, 16 Aug 2026 12:54:36 +0000</pubDate>
+      <category>ambiente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external.ftlv23-1.fna.fbcdn.net/emg1/v/t13/16740740299278363796?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F5N7E3LGHMVJRPJWXKYEIGMSUCY.jpg%3Fauth%3D0671d91b1ce22dfae6df99245ad1d0d82796b797a8ddf1445b0778f78be51052%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YMB89kkU6XOt_BRojBE5jg&amp;_nc_oc=AdqLYKa-bpQTzjX1zGdb8tt_8-fBqGnqhXwSJ8WYHPasdceQVZVOcDDnwgmZP1dlcEU&amp;ccb=13-1&amp;oh=06_Q3_CAZSubWwBXfWebuO_8V0Ncad12oGFn0BIk7AH3uMKLpmQ&amp;oe=6A839B0B&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external.ftlv23-1.fna.fbcdn.net/emg1/v/t13/16740740299278363796?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F5N7E3LGHMVJRPJWXKYEIGMSUCY.jpg%3Fauth%3D0671d91b1ce22dfae6df99245ad1d0d82796b797a8ddf1445b0778f78be51052%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YMB89kkU6XOt_BRojBE5jg&amp;_nc_oc=AdqLYKa-bpQTzjX1zGdb8tt_8-fBqGnqhXwSJ8WYHPasdceQVZVOcDDnwgmZP1dlcEU&amp;ccb=13-1&amp;oh=06_Q3_CAZSubWwBXfWebuO_8V0Ncad12oGFn0BIk7AH3uMKLpmQ&amp;oe=6A839B0B&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>The BBC's Top Comment podcast has identified dozens of Instagram profiles that are fuelling the Ceuta crisis with paid advice.... Ver más</title>
-      <link>https://www.facebook.com/bbcnews/posts/pfbid02AwaEmkxreKwid4vsj5nz8hERy5KeLT3TtQrsivo6GcANug4zRnB8BSjBRXYXjaoal?__cft__%5B0%5D=AZZ1tSwI1q9L-ftmSufi3Nmi7Eyfer9EzSRTspMTU99_mNU-iqS3WpI1SZz6alx0OhmOBnRG2aFrwpaXxm2JZtfmjd-Za7inn6gJgCpYfCWUjUhiXlIJBBDoeRwTwZf6cwLg5qqCQuC7MgmYmAY94eQTHErqPOXJz0vkXLoO9um8DdkcV_xSqHCn_iwszvITbhE&amp;__tn__=%2CO%2CP-R</link>
-      <description>The BBC's Top Comment podcast has identified dozens of Instagram profiles that are fuelling the Ceuta crisis with paid advice.... Ver más If bbc say its from everywhere but the uk it must be true Ver más comentarios Mat Moreau Fuente: BBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cab2542554259727</guid>
-      <pubDate>Sat, 15 Aug 2026 04:02:23 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/774471217_2016885092333345_4585901549201484242_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Q4Kdc5UzbNsQ7kNvwFPlNWJ&amp;_nc_oc=Adq_bPhq5xYhdkzKSrxlMgp3Y0s_IBNmbxaGh_pduj3MbWitqMX_8wTK2QKknHXo8Kc&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=lTucwyC1j7hPmsMrpd_wJw&amp;_nc_ss=7f289&amp;oh=00_AQH1X9Vg8Fh-4UV5NRM4A6mABFzMoQt5GGqKC7XOFRU_jw&amp;oe=6A85D1E4" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/774471217_2016885092333345_4585901549201484242_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Q4Kdc5UzbNsQ7kNvwFPlNWJ&amp;_nc_oc=Adq_bPhq5xYhdkzKSrxlMgp3Y0s_IBNmbxaGh_pduj3MbWitqMX_8wTK2QKknHXo8Kc&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=lTucwyC1j7hPmsMrpd_wJw&amp;_nc_ss=7f289&amp;oh=00_AQH1X9Vg8Fh-4UV5NRM4A6mABFzMoQt5GGqKC7XOFRU_jw&amp;oe=6A85D1E4" type="image/jpeg" length="0" />
+      <title>Hundreds of migrants intercepted near Morocco's border with Ceuta</title>
+      <link>http://www.africanews.com/2026/08/16/hundreds-of-migrants-intercepted-near-moroccos-border-with-ceuta/</link>
+      <description>Morocco has deployed heavy security around the border city of Fnideq after false social media rumours claimed the border to Spain's Ceuta enclave would open. Hundreds of migrants, mostly from sub-Saharan Africa, have gathered nearby, raising fears of another mass crossing just weeks after tens of thousands attempted to enter the Spanish territory. Publicado también por: France 24 - English. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:990afc9219e755c4</guid>
+      <pubDate>Sun, 16 Aug 2026 12:18:59 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/87/59/92/640x360_cmsv2_b2528d49-bac3-5f99-9d7d-97eea0871679-9875992.jpg?1786868436" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/87/59/92/640x360_cmsv2_b2528d49-bac3-5f99-9d7d-97eea0871679-9875992.jpg?1786868436" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Leé más: https://tinyurl.com/24v5repy ... Ver más</title>
@@ -1247,6 +1262,55 @@
       <enclosure url="https://static.independent.co.uk/2026/08/16/08/Hungary_Bus_Crash_21981.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>17 mil reproducciones · 477 reacciones | Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission will study the lives and deaths of boys buried in the forgotten graveyard in Maryland. | NBC News</title>
+      <link>https://www.facebook.com/reel/1373379324747015/?comment_id=1292143212861127&amp;__cft__%5B0%5D=AZa3-1uTcLzLMXZ3BvIR1NQpYQQumRSDx9rEBlRDgEZdeCK1aPXNsYwx0X-vnUnZSmimSLWoVkXKlhBVDulTrtWV4i5fUJzfoVM_10vb9A7LAfHCBFHBQpeDyf8069LqnGIT3z_oMP4XEBA5ox7S7ywwtm2zDFhJEMP4YvhdbPym1HJH_bNN-Gb7IDqxJwbx5du39_peKaBdSuguZFoCZbuJ&amp;__tn__=R-R</link>
+      <description>Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission will study the lives and deaths of boys buried in... Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission... Fuente: NBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7b4c61ed6fa8e67a</guid>
+      <pubDate>Sun, 16 Aug 2026 13:09:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/765996510_1373380038080277_3328940047708606065_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=eukw8_nlH4MQ7kNvwHeWYIE&amp;_nc_oc=AdqG_8Qa8p79aLQ4haBw7Y-68w4XQiXnDr8ZBkan4HZRZwf4OZMVjnEJoFe_xjZ6QXU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=kfm8YdmswTSB2pkaIrtpmQ&amp;_nc_ss=7f289&amp;oh=00_AQGymc7cwz3cRin7NXc9Rvzn_u8OjpcKIQRdYVWhWuOjPw&amp;oe=6A878A4B" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/765996510_1373380038080277_3328940047708606065_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=eukw8_nlH4MQ7kNvwHeWYIE&amp;_nc_oc=AdqG_8Qa8p79aLQ4haBw7Y-68w4XQiXnDr8ZBkan4HZRZwf4OZMVjnEJoFe_xjZ6QXU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=kfm8YdmswTSB2pkaIrtpmQ&amp;_nc_ss=7f289&amp;oh=00_AQGymc7cwz3cRin7NXc9Rvzn_u8OjpcKIQRdYVWhWuOjPw&amp;oe=6A878A4B" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>17 mil reproducciones · 477 reacciones | Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission will study the lives and deaths of boys buried in the forgotten graveyard in Maryland. | NBC News</title>
+      <link>https://www.facebook.com/reel/1373379324747015/?comment_id=1292143212861127&amp;reply_comment_id=2571395126623696&amp;__cft__%5B0%5D=AZa3-1uTcLzLMXZ3BvIR1NQpYQQumRSDx9rEBlRDgEZdeCK1aPXNsYwx0X-vnUnZSmimSLWoVkXKlhBVDulTrtWV4i5fUJzfoVM_10vb9A7LAfHCBFHBQpeDyf8069LqnGIT3z_oMP4XEBA5ox7S7ywwtm2zDFhJEMP4YvhdbPym1HJH_bNN-Gb7IDqxJwbx5du39_peKaBdSuguZFoCZbuJ&amp;__tn__=R-R</link>
+      <description>Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission will study the lives and deaths of boys buried in... Hundreds of Black teens were buried at a 1800s state-run segregated juvenile detention facility called "House of Reformation." Now a state commission... Fuente: NBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9d97bbfe7cf18c0e</guid>
+      <pubDate>Sun, 16 Aug 2026 13:09:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/765996510_1373380038080277_3328940047708606065_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=eukw8_nlH4MQ7kNvwHeWYIE&amp;_nc_oc=AdqG_8Qa8p79aLQ4haBw7Y-68w4XQiXnDr8ZBkan4HZRZwf4OZMVjnEJoFe_xjZ6QXU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=FcB7hZKn7oDJoX1il6kCmg&amp;_nc_ss=7f289&amp;oh=00_AQG9sJOL1lSsxstGZ1zgx_YQAVC1H8Ptc28eteCYXz12rQ&amp;oe=6A878A4B" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/765996510_1373380038080277_3328940047708606065_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=eukw8_nlH4MQ7kNvwHeWYIE&amp;_nc_oc=AdqG_8Qa8p79aLQ4haBw7Y-68w4XQiXnDr8ZBkan4HZRZwf4OZMVjnEJoFe_xjZ6QXU&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=FcB7hZKn7oDJoX1il6kCmg&amp;_nc_ss=7f289&amp;oh=00_AQG9sJOL1lSsxstGZ1zgx_YQAVC1H8Ptc28eteCYXz12rQ&amp;oe=6A878A4B" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1284 reproducciones · 26 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1058881843195599/?comment_id=4089532411345800&amp;__cft__%5B0%5D=AZY_7aL_KdXvCya93L-4_JH24CmqZmkjSAIVQxhcr3mjSNP40Y7xyS3wMr_5UBoaSLpsF1ejFlf3QwztY62KrtMVL21ge16Ynh9zpP6HoWKKcMVKiagJbQkcGsXHQ5WziJc9faJDfk0jCUya6ORiAjj8nnb_g2vQM4XPbnJyznYlyMqb8OHSyApwAoSIFv8TnNRUZGSfXtA4AnnSQecQ3uTd&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8a3ab752e9a1685c</guid>
+      <pubDate>Sun, 16 Aug 2026 13:09:17 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwG3aamA&amp;_nc_oc=Ado8VR3S0668Dxl0MwcH600yaRf2uyTsU8xWrWSYe4zbVe-aPScn7QJOFdomcDc1xZo&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=bYmWova4DUyiR9-mCZJfIw&amp;_nc_ss=7f289&amp;oh=00_AQHCte8rXb3W7jPcMigu9Ipn547CRj7oMhtKc3C0v0mWEA&amp;oe=6A877087" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwG3aamA&amp;_nc_oc=Ado8VR3S0668Dxl0MwcH600yaRf2uyTsU8xWrWSYe4zbVe-aPScn7QJOFdomcDc1xZo&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=bYmWova4DUyiR9-mCZJfIw&amp;_nc_ss=7f289&amp;oh=00_AQHCte8rXb3W7jPcMigu9Ipn547CRj7oMhtKc3C0v0mWEA&amp;oe=6A877087" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>European Championship marathon records fall in men's and women's races</title>
+      <link>https://www.bbc.co.uk/sport/athletics/videos/cevmmn3jy1ro</link>
+      <description>Germany's Amanal Petros and Finland's Alisa Vainio both set new championship records on their way to gold in the men and women's marathons, on the final day of the 2026 European Athletics Championships in Birmingham. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3ed352be16be4d31</guid>
+      <pubDate>Sun, 16 Aug 2026 12:14:17 +0000</pubDate>
+      <category>deportes</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ce/live/c37c9c30-996b-11f1-870d-5d08c49babb2.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ce/live/c37c9c30-996b-11f1-870d-5d08c49babb2.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>8381 reproducciones · 98 reacciones | Twelve people have been killed after a Polish tourist bus crashed in Hungary. Police say the driver likely fell asleep. The vehicle left the road, went into a ditch and overturned around 1am local time on Sunday (midnight UK time). The driver has since been arrested | Sky News</title>
       <link>https://www.facebook.com/reel/1599388478400151/?comment_id=946026578512208&amp;__cft__%5B0%5D=AZarYFF-3PImxrlwSGgwWBVP7ssCPnx0YL0p2pVUHNCA8o-s4dQ27wGBrTA_HTk5tGt3JwvZzFmgQzN-rf7fSVEBAZrDgbpOmL9sscyHPlcpUOUqGGKd_2fpE9BfgYKbWqg8T3g2hycC5Nml3C8Z5GPC2CfrGDnNt_SDKveYrEHo8BwoHBxLOzPHlxhx-H8lbjm8wXIC0kbZvnT9KYTyJLcO&amp;__tn__=R-R</link>
       <description>Twelve people have been killed after a Polish tourist bus crashed in Hungary. Police say the driver likely fell asleep. The vehicle left the road, went into a ditch and overturned around 1am local... Twelve people have been killed after a Polish tourist bus crashed in Hungary. Police say the driver likely fell asleep. The vehicle left the road, went... Fuente: Sky News.</description>
@@ -1497,70 +1561,6 @@
       <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
       <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778124127_27862759646685118_3942074005304615946_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=kGjJKgjxwNAQ7kNvwFVTpe9&amp;_nc_oc=Adpe8HE0iPk6drYgPP-3KEdbrV716RK4eW_F0pEUdSbtwTS3JIMAHJKq9f3FBffSTVk&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=7-DuQVKNwXGrZsvIhYRHQQ&amp;_nc_ss=7f289&amp;oh=00_AQEZb6dHVYitbMZ4Qt196n4KIf_HeS7ovNBZTEgcSLM8HA&amp;oe=6A8738B7" medium="image" />
       <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778124127_27862759646685118_3942074005304615946_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=kGjJKgjxwNAQ7kNvwFVTpe9&amp;_nc_oc=Adpe8HE0iPk6drYgPP-3KEdbrV716RK4eW_F0pEUdSbtwTS3JIMAHJKq9f3FBffSTVk&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=7-DuQVKNwXGrZsvIhYRHQQ&amp;_nc_ss=7f289&amp;oh=00_AQEZb6dHVYitbMZ4Qt196n4KIf_HeS7ovNBZTEgcSLM8HA&amp;oe=6A8738B7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1250 reproducciones · 26 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1058881843195599/?comment_id=4089532411345800&amp;__cft__%5B0%5D=AZbP5vxIhEJtKT1pyWLzkmjHzO5bYKwDiXRoaYUivKl5SmTJ7Bh9JX_JCpdXGICYXdOg-ftTa9tXQBe2kOREoVnjaAdwWu_e-ppGwUmLzuzkB_6kSsnqYMdd50xwsaid_CbtAmwk9SzjZYpq7Z_c_lWhLffimaO-j1aMOSkhXn71YXM0AsceaqHQ3IkXRxxWnFB_Wkqpmr6iwnIE7Syjyg9a&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 15 🏙️MONTERO 🏟️ GILBERTO PARADA 🔥¡EN VIVO!🔥 #Guabirá 🆚 #TheStrongest 17:15 Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6bffd93b2a921f83</guid>
-      <pubDate>Sun, 16 Aug 2026 07:06:53 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwEFvHoY&amp;_nc_oc=AdpNEXetboe7jY84jfEvsjxQyygur6mFL9MggCKqfnfDikzFIFMtRXmKWNL6Md6XQeY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=Nl5XbpFexgM_xYaTOfaM3Q&amp;_nc_ss=7f289&amp;oh=00_AQG7Ih-CTbln_C7SjUGPjsuG0V0V4XVnbW0vA-kR2dI0IQ&amp;oe=6A873847" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/772216982_1371750661776072_1452726021863846415_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=dsmsK8HgneIQ7kNvwEFvHoY&amp;_nc_oc=AdpNEXetboe7jY84jfEvsjxQyygur6mFL9MggCKqfnfDikzFIFMtRXmKWNL6Md6XQeY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=Nl5XbpFexgM_xYaTOfaM3Q&amp;_nc_ss=7f289&amp;oh=00_AQG7Ih-CTbln_C7SjUGPjsuG0V0V4XVnbW0vA-kR2dI0IQ&amp;oe=6A873847" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Discord diz à ANPD que não consegue suspender lives em 3 dias úteis e pede revogação de medida</title>
-      <link>https://www.facebook.com/jornaloglobo/posts/pfbid02SUzgkHTvvS85Xd9xVvQdfES8bfLWUuU7DwK8cVQ9wfU5ugZ3NiQGz5aHAdPD1Y7Tl?__cft__%5B0%5D=AZZOghfz-Hq0VH_EH5xjZ5Su9OHrFnUeIGMRv318I6gPptFunq1q4GX_CFP6sVHyIDIuEFa-HPyvmTd5KNzYm_CO4Vi59gAnZDzz_X1SJaozjGkalJ2NQ8NG9byc7Mti1aSE1Za2fB7P27xaOgyndqmiZ6JAsJhd0nRCIy1LLjgJbfDvSP1jQ4VEuqHjZrEAMVc&amp;__tn__=%2CO%2CP-R</link>
-      <description>Discord diz à ANPD que não consegue suspender lives em 3 dias úteis e pede revogação de medida OGLOBO.GLOBO.COM Fuente: O Globo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:60b6581a2580138c</guid>
-      <pubDate>Sun, 16 Aug 2026 06:48:58 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/14246650309481749413?url=https%3a%2f%2fs2-oglobo.glbimg.com%2fH8IeSxfjO3Mphphw0Dxu5aWsLEM%3d%2f4000x0%2ffilters%3aformat%28jpeg%29%2fhttps%3a%2f%2fi.s3.glbimg.com%2fv1%2fAUTH_da025474c0c44edd99332dddb09cabe8%2finternal_photos%2fbs%2f2026%2fW%2fM%2fBJTYFeRPGeDLz4f2Y9pA%2fdiscord-bloomberg.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=2bZRt7d7CcnQNKg8c7bSOw&amp;_nc_oc=Ado1ItINRXtDI5V-GM0E-kswf5UnjNpPeOBT1yHj3qZV-HDRfiDA8MQsH0wgc07-0Ok&amp;ccb=13-1&amp;oh=06_Q3_CAeeRcGMO-yphgzcU6TW0mLpmPsEsboqWn66CfWBOhZAU&amp;oe=6A8330B6&amp;_nc_sid=867500" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/14246650309481749413?url=https%3a%2f%2fs2-oglobo.glbimg.com%2fH8IeSxfjO3Mphphw0Dxu5aWsLEM%3d%2f4000x0%2ffilters%3aformat%28jpeg%29%2fhttps%3a%2f%2fi.s3.glbimg.com%2fv1%2fAUTH_da025474c0c44edd99332dddb09cabe8%2finternal_photos%2fbs%2f2026%2fW%2fM%2fBJTYFeRPGeDLz4f2Y9pA%2fdiscord-bloomberg.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=2bZRt7d7CcnQNKg8c7bSOw&amp;_nc_oc=Ado1ItINRXtDI5V-GM0E-kswf5UnjNpPeOBT1yHj3qZV-HDRfiDA8MQsH0wgc07-0Ok&amp;ccb=13-1&amp;oh=06_Q3_CAeeRcGMO-yphgzcU6TW0mLpmPsEsboqWn66CfWBOhZAU&amp;oe=6A8330B6&amp;_nc_sid=867500" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Israeli military claims it has killed Abu Hassan Alaa, whom it described as a senior commander in Hezbollah’s “Badder Unit” in southern Lebanon.... Ver más</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02igdzxoZimuXQsKGZkk9VgaWNhXSn7nkWphGdAip5ZqhKRU4Ev5G24r7Tm8BuNYCvl?__cft__%5B0%5D=AZbAFtmAQL4xl1JX82zrpwDyaZvaFJ-zZYua3HcT6jQCBOVhMG1nwX1sytNwE8tHs6u7w3lB9P5qLXRoy0Xl8_VyRIzVA1pPwo84f4rUygMUuG7CwgjQgoLC4o05pZGt6zG19QVQC1Eb05Bt3urMRn1cnSAUKa930jjkgYUCWLZ2qpoIYUn7ktEe0lnajuiRMzI&amp;__tn__=%2CO%2CP-R</link>
-      <description>The Israeli military claims it has killed Abu Hassan Alaa, whom it described as a senior commander in Hezbollah’s “Badder Unit” in southern Lebanon.... Ver más That's good news David Sunday depuis 25 ans maintenant Ver más comentarios David Sunday Zongo Aziz Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9c417abb1f0d9af5</guid>
-      <pubDate>Sun, 16 Aug 2026 06:41:30 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/774089706_2098290737753889_73539269511690593_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CRPYkBU4b2MQ7kNvwFzOzUh&amp;_nc_oc=Adrxg5EWim9inHcxnt-bnlgQ1hZaHUaao3lty83yk_k6SjIP-e9kfljaPvV-J3pTcHM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=eE8e2RScr4aysi38avdo3A&amp;_nc_ss=7f289&amp;oh=00_AQHKEl530ckzpGtUDkqLxuxehpw-wFbWEnolWZEpvwuqkw&amp;oe=6A873C16" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/774089706_2098290737753889_73539269511690593_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CRPYkBU4b2MQ7kNvwFzOzUh&amp;_nc_oc=Adrxg5EWim9inHcxnt-bnlgQ1hZaHUaao3lty83yk_k6SjIP-e9kfljaPvV-J3pTcHM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=eE8e2RScr4aysi38avdo3A&amp;_nc_ss=7f289&amp;oh=00_AQHKEl530ckzpGtUDkqLxuxehpw-wFbWEnolWZEpvwuqkw&amp;oe=6A873C16" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Thousands of evacuees await aid after deadly quake on Indonesia's Flores island</title>
-      <link>https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake</link>
-      <description>Thousands of evacuees on Indonesia's Flores island began receiving aid on Sunday after a 7.7-magnitude quake killed 48 people, injured dozens and damaged hundreds of houses and buildings. Some 5,000 people fled their homes and in some areas people were left without electricity and telecommunications. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:45ce0cfeda6b0927</guid>
-      <pubDate>Sun, 16 Aug 2026 06:25:43 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/da9ed9f0-9939-11f1-b7c7-005056bf30b7/w:1024/p:16x9/AP26228200984600.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/da9ed9f0-9939-11f1-b7c7-005056bf30b7/w:1024/p:16x9/AP26228200984600.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>EU sends aircraft and villagers evacuate as Belgium battles record wildfire</title>
-      <link>https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire</link>
-      <description>Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 2,700 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a06a96ed64db55b0</guid>
-      <pubDate>Sun, 16 Aug 2026 06:03:53 +0000</pubDate>
-      <category>ambiente</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/e99410cc-9936-11f1-8571-005056bf30b7/w:1024/p:16x9/000-C4R76G6.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/e99410cc-9936-11f1-8571-005056bf30b7/w:1024/p:16x9/000-C4R76G6.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
