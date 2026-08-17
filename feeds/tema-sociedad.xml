@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 17 Aug 2026 04:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:05:52 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -427,6 +427,18 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
     </item>
     <item>
+      <title>Morocco detains dozens of migrants trying to cross into Ceuta, reports say</title>
+      <link>https://www.bbc.co.uk/news/articles/ckg44x2ey1ro</link>
+      <description>Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a84dcafb17e0794a</guid>
+      <pubDate>Sat, 15 Aug 2026 20:58:31 +0000</pubDate>
+      <category>sociedad</category>
+      <category>África</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Security forces in Fnideq have scaled back operations at the border with the Spanish enclave of Ceuta.</title>
       <link>https://www.facebook.com/reel/1364340298581878/?comment_id=1751842035836165&amp;__cft__%5B0%5D=AZYo6SM5QzIcARCmy_xa2V_0U_JX_O1VLeT1EzFySZNFtMKwtzsrosPAjZ5XKCycOfAV8nCr1DQZrROhpQ-jQdLBKMpR31ugsP059R43Z3ql6o8gpWjUTqNql-H04wuzUIJM06AwRqMCRa1f4J4Xux2ZLhdOwoyChMOhUiEEydz6Uxqs0PJh_tOzSnHBm-I5oQopFQuLrA9cGM2vFgLsolDu&amp;__tn__=R-R</link>
       <description>Security forces in Fnideq have scaled back operations at the border with the Spanish enclave of Ceuta. Despite calls for tighter controls, the reduced presence in the Tarajal border region has led to renewed movement of migrants attempting to cross. ... Ver más Mafdhum Azwati Security forces in Fnideq have scaled back operations at the border with the Spanish enclave of Ceuta. Despite calls for… Fuente: Al Jazeera English.</description>
@@ -435,36 +447,6 @@
       <category>sociedad</category>
       <category>Medio Oriente</category>
       <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Security forces in Fnideq have stepped up operations to prevent migrants from crossing into the neighboring Spanish enclave of Ceuta. ... Ver más</title>
-      <link>https://www.facebook.com/reel/1364340298581878/?__cft__%5B0%5D=AZYo6SM5QzIcARCmy_xa2V_0U_JX_O1VLeT1EzFySZNFtMKwtzsrosPAjZ5XKCycOfAV8nCr1DQZrROhpQ-jQdLBKMpR31ugsP059R43Z3ql6o8gpWjUTqNql-H04wuzUIJM06AwRqMCRa1f4J4Xux2ZLhdOwoyChMOhUiEEydz6Uxqs0PJh_tOzSnHBm-I5oQopFQuLrA9cGM2vFgLsolDu&amp;__tn__=%2CO%2CP-R</link>
-      <description>Security forces in Fnideq have stepped up operations to prevent migrants from crossing into the neighboring Spanish enclave of Ceuta. ... Ver más Security forces in Fnideq have scaled back operations at the border with the Spanish enclave of Ceuta. Despite calls for tighter controls, the reduced presence in the Tarajal border region has led to renewed movement of migrants attempting to cross… Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:663413d13c8ec758</guid>
-      <pubDate>Sat, 15 Aug 2026 20:32:05 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Moroccan Police Intercept Migrants Heading for Ceuta Enclave</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss</link>
-      <description>Security forces in Fnideq have stepped up operations to prevent migrants from crossing into Ceuta. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b628d3bedb815548</guid>
-      <pubDate>Sat, 15 Aug 2026 20:07:07 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Moroccan police arrest over 100 migrants trying to reach Spanish enclave</title>
-      <link>https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss</link>
-      <description>A social media campaign encouraged people to flock to Ceuta just weeks after many died while making the crossing. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ceb5e65e14eeff35</guid>
-      <pubDate>Sat, 15 Aug 2026 19:46:20 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
   </channel>
 </rss>
