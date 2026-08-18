@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 18 Aug 2026 19:17:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:55:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -154,6 +154,7 @@
       <category>conflictos</category>
       <category>Europa</category>
       <category>Asia</category>
+      <category>Global</category>
       <dc:creator>Jakub Krupa</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/e06fa2750a79bff1d70998d5a0ca9c6dcb04bc8c/906_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b66ceeff7f1bdba02abb1945578f0e51" medium="image" />
@@ -197,6 +198,19 @@
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
       <media:content url="https://static.independent.co.uk/2026/08/16/15/34/GettyImages-2196996771-(1).jpg?width=1200&amp;auto=webp&amp;trim=1%2C0%2C1%2C0" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/08/16/15/34/GettyImages-2196996771-(1).jpg?width=1200&amp;auto=webp&amp;trim=1%2C0%2C1%2C0" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US announces new sanctions on top ICC figures</title>
+      <link>https://www.bbc.co.uk/news/articles/cnvnl0elz47o</link>
+      <description>Article URL: https://www.bbc.com/news/articles/cnvnl0elz47o Comments URL: https://news.ycombinator.com/item?id=49350955 Points: 41 # Comments: 5 Publicado también por: Hacker News - Portada. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4db54f02c8d8d108</guid>
+      <pubDate>Tue, 18 Aug 2026 17:40:09 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd44/live/c84cee60-9b2b-11f1-9a2c-6d6ac3827d20.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Disney and ABC sue Trump's media regulator to stop early licence renewal</title>
@@ -440,18 +454,6 @@
       <source url="https://www.facebook.com/bbcnews/">BBC News</source>
       <media:content url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/8902711605978446993?url=https%3a%2f%2fs3.amazonaws.com%2fprod-cust-photo-posts-jfaikqealaka%2f0b35e8e0-41cf-d72f-b2fe-b8d7df8569d9.png&amp;fb_obo=1&amp;utld=amazonaws.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=nMMJQ-6uYf8soSp7lx2P_A&amp;_nc_oc=Adqv06IDboJCMAikWj7oMq5nUUVLhFlbUUMcItqdtqW4oFOUJk8OBJJ6FnltjVFtj5o&amp;ccb=13-1&amp;oh=06_Q3_CAdHp4hnV2r1MIvudV78asC7etsSZ82QQsGAK7kpcJGqr&amp;oe=6A8534F2&amp;_nc_sid=867500" medium="image" />
       <enclosure url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/8902711605978446993?url=https%3a%2f%2fs3.amazonaws.com%2fprod-cust-photo-posts-jfaikqealaka%2f0b35e8e0-41cf-d72f-b2fe-b8d7df8569d9.png&amp;fb_obo=1&amp;utld=amazonaws.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=nMMJQ-6uYf8soSp7lx2P_A&amp;_nc_oc=Adqv06IDboJCMAikWj7oMq5nUUVLhFlbUUMcItqdtqW4oFOUJk8OBJJ6FnltjVFtj5o&amp;ccb=13-1&amp;oh=06_Q3_CAdHp4hnV2r1MIvudV78asC7etsSZ82QQsGAK7kpcJGqr&amp;oe=6A8534F2&amp;_nc_sid=867500" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Duane "Keffe D" Davis, 63, faces one count of murder with a deadly weapon over the death of Tupac Shakur.</title>
-      <link>https://www.facebook.com/bbcnews/posts/pfbid05QcFMWttnyANCtW4s4g6XanEv8fbtzrjSuKSG4EuraYJbjVzjxfxCm2L9ZXMuHd5l?__cft__%5B0%5D=AZaEincp2lmFf0ra2E7yV0uqKLM8xPqmsPNAKiMqqCpgxgKoUkR0w_Kjks8u7XAoIjZU3NqeohLMhVMSMaVTi9rOUEhA-PQ5yiO9UCP7dkCxVSyZ5RKXtnqLEq8d7NfXwvG48s73fE6S3jwoBXpXjWS5xziS4dVKKNOtUz2NW2HNyi2yy2H-o8NxRdoSQ-4gDLw&amp;__tn__=%2CO%2CP-R</link>
-      <description>Duane "Keffe D" Davis, 63, faces one count of murder with a deadly weapon over the death of Tupac Shakur. Greatest rapper to ever live BBC.CO.UK Tupac Shakur murder trial begins in Las Vegas 30 years after rapper's shooting Ver más comentarios Luke Brown Fuente: BBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2a890be4093c1bfa</guid>
-      <pubDate>Mon, 17 Aug 2026 17:39:19 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
-      <media:content url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/8902711605978446993?url=https%3A%2F%2Fs3.amazonaws.com%2Fprod-cust-photo-posts-jfaikqealaka%2F0b35e8e0-41cf-d72f-b2fe-b8d7df8569d9.png&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=tCe6HDZwM_fW-v4ZRBTpyw&amp;_nc_oc=Adqv06IDboJCMAikWj7oMq5nUUVLhFlbUUMcItqdtqW4oFOUJk8OBJJ6FnltjVFtj5o&amp;ccb=13-1&amp;oh=06_Q3_CAU0MfszGQ0W66cFGzCVAKF3pJqvrCAVs22Od_TxlCM2E&amp;oe=6A8534F2&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/8902711605978446993?url=https%3A%2F%2Fs3.amazonaws.com%2Fprod-cust-photo-posts-jfaikqealaka%2F0b35e8e0-41cf-d72f-b2fe-b8d7df8569d9.png&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=tCe6HDZwM_fW-v4ZRBTpyw&amp;_nc_oc=Adqv06IDboJCMAikWj7oMq5nUUVLhFlbUUMcItqdtqW4oFOUJk8OBJJ6FnltjVFtj5o&amp;ccb=13-1&amp;oh=06_Q3_CAU0MfszGQ0W66cFGzCVAKF3pJqvrCAVs22Od_TxlCM2E&amp;oe=6A8534F2&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pivotal Meta trial over social media addiction in children gets underway</title>
@@ -892,28 +894,6 @@
       <enclosure url="https://s.france24.com/media/display/72894c50-9a66-11f1-936e-005056bf30b7/w:1024/p:16x9/ES-20260817-123159-123541-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Yemen’s drone war: Rivals flex growing aerial muscle</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0cEvYnCgQr4MXB7as8EH5BxHju28wKhF3Mg2UXrqY7pkJSJUN5Pf2rbQ7R8HybDfbl?__cft__%5B0%5D=AZYysDJ1iJXzMLrIxVH1FGylSnLKYK1EbwWIWvDfjUhvxtrMcn-Lo8K-OG_hbUxk6UoUMEtfVUvxGtDOR1gykSsWn5yF26W-rN7oZWGS9qE178Hsnk2jEiDiX9hUoRS-zvTee5FD6nuZqrlUS0s9dt4Ybvdu_j_W2pjrZNYGE8ZTBKSR8lDull-tcd7q5QWVF1U&amp;__tn__=%2CO%2CP-R</link>
-      <description>Houthi and government forces exchange drone attacks, marking a major shift in war tactics. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cbad8b098bdc91db</guid>
-      <pubDate>Mon, 17 Aug 2026 17:30:37 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/778074097_1506809467918554_5105850933993853967_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=o4ajdns3wRwQ7kNvwERNlu8&amp;_nc_oc=AdqtkM__aLTbSjT8wqu1SsciB3j9dH7J1GzRGf00uMif-VMvPCVnnkyhRgEwkfCxcbo&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=zzGlTRIS3VdgsP3tTReM2Q&amp;_nc_ss=7f289&amp;oh=00_AQFG2yHGqt5ami12BUAZdTOMKpxKauB3Uu2fijghFhht6g&amp;oe=6A8925A0" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/778074097_1506809467918554_5105850933993853967_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=o4ajdns3wRwQ7kNvwERNlu8&amp;_nc_oc=AdqtkM__aLTbSjT8wqu1SsciB3j9dH7J1GzRGf00uMif-VMvPCVnnkyhRgEwkfCxcbo&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=zzGlTRIS3VdgsP3tTReM2Q&amp;_nc_ss=7f289&amp;oh=00_AQFG2yHGqt5ami12BUAZdTOMKpxKauB3Uu2fijghFhht6g&amp;oe=6A8925A0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The trial begins for Duane "Keffe D" Davis, charged with one count of murder with a deadly weapon for his alleged role in leading a group of men to kill Tupac Shakur in... Ver más</title>
-      <link>https://www.facebook.com/Reuters/videos/25860769560287141/?__cft__%5B0%5D=AZY32Eujq97BuIwrzgnsfg8WfHLp3jJIpDWabGa2oHH-mw1VBX87kuRVwTwHvASAPImj3KmdgDbhpho64etojZM1pl2JMVxZf5Mr6M4sagyCiNL5jm84eMYjNL3fcABwv7xyOAKEQufKVQhUo25jjt__oLe1daTVK9qwLWTFWrHU8GfbRmsyXsRPV5XURnNt_A4ZY_LR2oOE9-Ct1-GjkXhm&amp;__tn__=%2CO%2CP-R</link>
-      <description>The trial begins for Duane "Keffe D" Davis, charged with one count of murder with a deadly weapon for his alleged role in leading a group of men to kill Tupac Shakur in... Ver más Tenemos problemas para reproducir este vídeo. Más información Fuente: Reuters.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3d92e174e8a357cc</guid>
-      <pubDate>Mon, 17 Aug 2026 16:53:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/Reuters/">Reuters</source>
-    </item>
-    <item>
       <title>Palestinian American returns to his West Bank home, under siege by Israeli settlers</title>
       <link>https://www.npr.org/2026/08/18/nx-s1-5936098/palestinian-american-return-west-bank</link>
       <description>The Palestinian American whose home in the occupied West Bank has been besieged by Israeli settlers traveled to his property on Monday to join other family members who have been defending it. Publicado también por: Al Jazeera English. Fuente: NPR - World.</description>
@@ -960,6 +940,42 @@
       <category>Medio Oriente</category>
       <category>Asia</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>Breaking news: The Trump administration proposed a full repeal of a rule that has prevented road-building and logging inside tens of millions of acres of national fores... Ver más</title>
+      <link>https://www.facebook.com/washingtonpost/posts/pfbid021qmGHgAgsUH16H2T6i3B6tfRMoa6jhiAQhXchi5UUTtuSFEh1j2veR8eBpVgojFNl?__cft__%5B0%5D=AZaVteEPxFMO7WAGDTgB2YLpkEaXnclRQnXyWU700env7DjIYiRX4sjRLr13fTZYYHcauVwQ7vI-yPif8WaMouf4IDD-La2iTGAam8biEyD3E88P42Hszn4g0rEldIS2BrnSV8q8kxFFD09Uf9mXj1IJbk5XYeSZUV1L_Ui-7PG15I5IdIIOKkLvq7mosZeCNZA&amp;__tn__=%2CO%2CP-R</link>
+      <description>Breaking news: The Trump administration proposed a full repeal of a rule that has prevented road-building and logging inside tens of millions of acres of national fores... Ver más “He knows the price of everything and the value of nothing.” — Oscar Wilde WASHINGTONPOST.COM Trump seeks to open millions of acres of national forests to roads Ver más comentarios Jordan Costa “He knows the price of… Fuente: The Washington Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:068f21eeb899a028</guid>
+      <pubDate>Tue, 18 Aug 2026 19:55:35 +0000</pubDate>
+      <category>cultura</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/1668803792872645904?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-08-18%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F8c7f69a1-ca44-42a2-833e-0d2472834f05&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=UP4MEu1f_GrPFiraeo0eqg&amp;_nc_oc=AdqMeKFLiK6ZVR0PxEHfR24ltAASUN3F1VWdHq5ZvBStLnZqhpORPgsfpHri6Vgl1dc&amp;ccb=13-1&amp;oh=06_Q3_CAQTDLlAQgIi5K8cuPbohFrPXDsP0kNkllN3LVlKN-lwd&amp;oe=6A868C12&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/1668803792872645904?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-08-18%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F8c7f69a1-ca44-42a2-833e-0d2472834f05&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=UP4MEu1f_GrPFiraeo0eqg&amp;_nc_oc=AdqMeKFLiK6ZVR0PxEHfR24ltAASUN3F1VWdHq5ZvBStLnZqhpORPgsfpHri6Vgl1dc&amp;ccb=13-1&amp;oh=06_Q3_CAQTDLlAQgIi5K8cuPbohFrPXDsP0kNkllN3LVlKN-lwd&amp;oe=6A868C12&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>11 reacciones | Santa Rosa de Cabal es uno de los municipios de Risaralda que más afectaciones ha registrado después del terremoto. En Noticias Caracol en vivo, hablamos con el alcalde Paulo César Gómez. Le pide a los turistas no dejar de visitar su región para contribuir con la reconstrucción de la misma. Siga la señal de Noticias Caracol en vivo 👉 https://tinyurl.com/52mwka9w | Noticias Caracol</title>
+      <link>https://www.facebook.com/reel/1943019186619142/?comment_id=1829576421785666&amp;__cft__%5B0%5D=AZYw-BoEFc9hJrLUHDWAhiH0u5R7DgOvDuX0HC-zoUh7BIVo3comlJhfNVDfMpIQaA7iMbE4dF2aEvFmnyaFAScypAI-SM6GI0FDtSmf2VGp0ZpGArCggSeLAxwBR0KGw_fNq7ET1ZVxIrbMpoAhfl-0pMDgMPV9BL4hW0hxngXTZ2eeitVbfW7J4HGJt9hyYkdpj5Fg4R3Q7bffwCL8GtSr&amp;__tn__=R-R</link>
+      <description>Santa Rosa de Cabal es uno de los municipios de Risaralda que más afectaciones ha registrado después del terremoto. En Noticias Caracol en vivo, hablamos con el alcalde Paulo César Gómez. Le pide a... Santa Rosa de Cabal es uno de los municipios de Risaralda que más afectaciones ha registrado después del terremoto. En Noticias Caracol en vivo, hablamos... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:77833ea2164a210c</guid>
+      <pubDate>Tue, 18 Aug 2026 19:55:35 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/775544115_2064015437548659_2140063451740179840_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=td57WdJ6wHsQ7kNvwHib3iH&amp;_nc_oc=AdoqZ6OcNPH1Mh-_U4JTlnlWDAFYdCEAvfvSHeSKaWnu7EKlqz4yp9JbOqycNkVDlDo&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=0SSPQ_fh6NxS3AHO7ssZww&amp;_nc_ss=7f289&amp;oh=00_AQGqnp-7pqhT2kwVye-YievlO7qdoy3vG5QEGrKgqkWqvA&amp;oe=6A8A8910" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/775544115_2064015437548659_2140063451740179840_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=td57WdJ6wHsQ7kNvwHib3iH&amp;_nc_oc=AdoqZ6OcNPH1Mh-_U4JTlnlWDAFYdCEAvfvSHeSKaWnu7EKlqz4yp9JbOqycNkVDlDo&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=0SSPQ_fh6NxS3AHO7ssZww&amp;_nc_ss=7f289&amp;oh=00_AQGqnp-7pqhT2kwVye-YievlO7qdoy3vG5QEGrKgqkWqvA&amp;oe=6A8A8910" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1169 reproducciones · 30 reacciones | 🔴EN VIVO🔴 ➡️Sao Paolo vs Bolívar ➡️Actualidad The Strongest ➡️Actualidad Real Potosí SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1352468547056686/?comment_id=1095604603028544&amp;__cft__%5B0%5D=AZYmWAnet3Oo-XIbwz1Pa02viMkYWW6Z0HL9bQo4g3-GgavCQllDGC265pH843SI_qQbvzNUpdyITJaLdw86oYt7YGBhF2mxnfCKgj6xTVUzmnkb6gZ2SgWQ9cBuBws-PS7ZdBLPt2EjUwt9BuqVEDBqtyk4YFoNILbdWkJjoNY4tIKOnCrXY-_fF5kcNGJFUdH-GWIIePGH40zrv8ZKCRna&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡️Sao Paolo vs Bolívar ➡️Actualidad The Strongest ➡️Actualidad Real Potosí SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bdac692de4baf7fa</guid>
+      <pubDate>Tue, 18 Aug 2026 19:55:35 +0000</pubDate>
+      <category>deportes</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/778401123_1375976334509066_8606621910170452455_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=KwMTW7N25JMQ7kNvwGfrnQT&amp;_nc_oc=Adp9_w3EXm1dN44KZUpwMauLHsVqK3G1ZoeC8TokIZ3MOoBeLG_PoEYSMFRcJkx0gLQ&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.xx&amp;_nc_gid=Gy1zMVAeENdXyaOp1qTm6A&amp;_nc_ss=7f289&amp;oh=00_AQG3AkxXskynuLCUuIiQkIqKlZyFBdn9dDqVrkuWqOCpfA&amp;oe=6A8A81F0" medium="image" />
+      <enclosure url="https://scontent-dfw5-1.xx.fbcdn.net/v/t15.5256-10/778401123_1375976334509066_8606621910170452455_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=KwMTW7N25JMQ7kNvwGfrnQT&amp;_nc_oc=Adp9_w3EXm1dN44KZUpwMauLHsVqK3G1ZoeC8TokIZ3MOoBeLG_PoEYSMFRcJkx0gLQ&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-1.xx&amp;_nc_gid=Gy1zMVAeENdXyaOp1qTm6A&amp;_nc_ss=7f289&amp;oh=00_AQG3AkxXskynuLCUuIiQkIqKlZyFBdn9dDqVrkuWqOCpfA&amp;oe=6A8A81F0" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1113 reproducciones · 30 reacciones | 🔴EN VIVO🔴 ➡️Sao Paolo vs Bolívar ➡️Actualidad The Strongest ➡️Actualidad Real Potosí SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO | ATB Digital</title>
@@ -1529,19 +1545,6 @@
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/c5586fe0-9aef-11f1-aacc-005056a90284/w:1024/p:16x9/EN-20260818-091159-092021-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/c5586fe0-9aef-11f1-aacc-005056a90284/w:1024/p:16x9/EN-20260818-091159-092021-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece</title>
-      <link>https://www.theguardian.com/world/2026/aug/18/mechanical-fault-helicopter-crash-killed-british-newlyweds-sifnos-greece</link>
-      <description>Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of Sifnos Greek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot. Authorities were focusing on Tuesday on the “strange noise” the aircraft, a privately chartered Bell 206, is reported to have made before falling to the ground and exploding on impact. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:191d39bf6406c122</guid>
-      <pubDate>Tue, 18 Aug 2026 10:36:42 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <dc:creator>Helena Smith in Athens</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/72a4b460e5e4d7932dabda79cb27226726aa5d09/0_0_4869_3897/master/4869.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3671698a9e90206bb8cc42e44940e895" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/72a4b460e5e4d7932dabda79cb27226726aa5d09/0_0_4869_3897/master/4869.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3671698a9e90206bb8cc42e44940e895" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
