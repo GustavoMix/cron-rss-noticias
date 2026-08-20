@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 20 Aug 2026 10:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:49:55 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-oceania.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Missing 18-year-old Sydney hiker found dead after 8-day search in Australian bushland</title>
+      <link>https://timesofindia.indiatimes.com/world/rest-of-world/missing-18-year-old-sydney-hiker-found-dead-after-8-day-search-in-australian-bushland/articleshow/133374218.cms</link>
+      <description>The state premier initially said Lily Hooper had been found alive before police confirmed her death. Publicado también por: BBC News - World. Fuente: The Times of India - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e8768107089a7209</guid>
+      <pubDate>Thu, 20 Aug 2026 10:58:06 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <category>Asia</category>
+      <dc:creator>TOI World Desk</dc:creator>
+      <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
+      <media:content url="https://static.toiimg.com/photo/msid-133375044,imgsize-615398.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-133375044,imgsize-615398.cms" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Russian missile strikes kill 13 in Kyiv, more than 30 injured</title>
       <link>https://www.abc.net.au/news/2026-08-20/russian-strikes-kill-13-in-kyiv-as-ukraine-war-intensifies/107060814</link>
@@ -1566,18 +1580,6 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/80ac4229d3f770ccfa04cae9ebe809b9?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/80ac4229d3f770ccfa04cae9ebe809b9?impolicy=wcms_crop_resize&amp;cropH=2268&amp;cropW=4032&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AFL Players Association labels Swans allegations 'very serious'</title>
-      <link>https://www.abc.net.au/news/2026-08-20/afl-players-association-labels-swans-allegations-serious/107055982</link>
-      <description>The players' body is the latest organisation to express concern over the scandal, with club and player sponsors on Wednesday also acknowledging the incident. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f6c0e33220fc5568</guid>
-      <pubDate>Wed, 19 Aug 2026 20:17:40 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/61ba4da5c478a81b92b375b6e901ad07?impolicy=wcms_crop_resize&amp;cropH=1179&amp;cropW=2096&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/61ba4da5c478a81b92b375b6e901ad07?impolicy=wcms_crop_resize&amp;cropH=1179&amp;cropW=2096&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
