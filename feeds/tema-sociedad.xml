@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 20 Aug 2026 08:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:04:36 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -267,20 +267,6 @@
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/7db2f44e-9bad-11f1-b54c-005056a97e36/w:1024/p:16x9/EN-20260819-091826-092016-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/7db2f44e-9bad-11f1-b54c-005056a97e36/w:1024/p:16x9/EN-20260819-091826-092016-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Decapitados sin intérprete. ¿Todos son iguales?</title>
-      <link>https://elpais.com/opinion/2026-08-19/decapitados-sin-interprete-todos-son-iguales.html</link>
-      <description>Emigrantes etíopes que trabajan en Arabia Saudí están siendo condenados y ejecutados en juicios sin abogados ni traductores Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c0d404bcdac586bc</guid>
-      <pubDate>Wed, 19 Aug 2026 03:30:01 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <dc:creator>Manuela Carmena</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/6IFH4O3BUNDZTNBVILEZEYOZS4.jpg?auth=22e70e36b63a2475770a53a5843dffeabd5a01cdbd51b57ede2bc5b2c0e15e28" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/6IFH4O3BUNDZTNBVILEZEYOZS4.jpg?auth=22e70e36b63a2475770a53a5843dffeabd5a01cdbd51b57ede2bc5b2c0e15e28" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
