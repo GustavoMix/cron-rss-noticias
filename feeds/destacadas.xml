@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 20 Aug 2026 17:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:07:16 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -256,20 +256,6 @@
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/f035d2f7575e290e296163bba2560e32?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Angélique Kidjo becomes the first Black African honored with a star on the Hollywood Walk of Fame</title>
-      <link>https://www.france24.com/en/video/20260819-ang%C3%A9lique-kidjo-becomes-the-first-black-african-honored-with-a-star-on-the-hollywood-walk-of-fame</link>
-      <description>Five-time Grammy winner Angelique Kidjo on Tuesday became the first Black African to be honoured with a star on the Hollywood Walk of Fame. Born in Benin, Kidjo has built an international career spanning more than 40 years and 18 albums. Her star is the 2,853th on the famous Los Angeles sidewalk. Publicado también por: BBC News - World, Africanews. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:18fa25cb0c879434</guid>
-      <pubDate>Wed, 19 Aug 2026 15:25:04 +0000</pubDate>
-      <category>cultura</category>
-      <category>África</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/7224837e-9bdd-11f1-95c7-005056bf30b7/w:1024/p:16x9/Ang%C3%A9lique-Kidjo0.png" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/7224837e-9bdd-11f1-95c7-005056bf30b7/w:1024/p:16x9/Ang%C3%A9lique-Kidjo0.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Ocho muertos y decenas de heridos en un ataque ruso contra Kiev</title>
       <link>https://elpais.com/internacional/2026-08-20/varios-muertos-y-decenas-de-heridos-en-un-ataque-ruso-contra-kiev.html</link>
       <description>Kiev vivió una madrugada de ataques con misiles y drones que dejaron al menos 16 muertos y más de 40 heridos. La ofensiva rusa golpeó zonas residenciales y otras instalaciones de la capital y volvió a exponer las dificultades de Ucrania para interceptar misiles balísticos. Zelenski reclama a sus aliados más munición para los sistemas Patriot, mientras países de la OTAN activaron medidas para proteger su espacio aéreo. Por su parte, Rusia aseguró que 250 drones se dirigieron hacia la región de Moscú. Publicado también por: El Mundo - Internacional, France 24 - Español. Fuente: El País - Internacional.</description>
@@ -336,6 +322,20 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77bb10ea209f5bca327bd536e3f79d13" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/f8230805cca357ae6ff4dce57acf9547484cc359/52_27_1153_922/master/1153.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77bb10ea209f5bca327bd536e3f79d13" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Un terremoto de magnitud 7.2 sacude la región andina de Ayacucho,</title>
+      <link>https://www.elmundo.es/internacional/2026/08/20/6a874cf5fc6c83507c8b4570.html</link>
+      <description>Un terremoto de magnitud 7,2 en la escala de Richter ha sacudido la región de Ayacucho, en el sur del Perú, ha informado el Instituto Geofísico de Perú (IGP).El organismo ha precisado en un mensaje difundido en redes sociales que el seísmo ha tenido lugar a las 13.00 horas (hora local) y ha tenido una profundidad de 108 kilómetros.El epicentro ocurrió en un distrito de la provincia de Parinacochas, en el sureño departamento de Ayacucho, unos 791 kilómetros al este de la capital Lima, Hasta el momento, no se han registrado víctimas mortales ni heridos. Publicado también por: ABC España - Internacional, El País - Internacional. Fuente: El Mundo - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:09246e6b8095fb27</guid>
+      <pubDate>Thu, 20 Aug 2026 18:55:08 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Agencias</dc:creator>
+      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/20/17872520555324.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/20/17872520555324.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Why are Prince Harry and Meghan moving back to the UK? – The Latest</title>
@@ -520,6 +520,20 @@
       <enclosure url="https://s.france24.com/media/display/b2e4fe7a-9b7e-11f1-8eee-005056a90284/w:1024/p:16x9/8243b038211f88ebf691c494912cd62dec0bef90.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project</title>
+      <link>https://www.bbc.co.uk/news/articles/c998evlgz8ko</link>
+      <description>Paris, Berlin, London and Rome on Thursday condemned Israel's decision to open bidding for a planned settlement project in the occupied West Bank. The sprawling "E1" development, which like all Israeli settlements in the occupied Palestinian territory is illegal under international law, would further cut Palestinian-majority east Jerusalem off from the West Bank. Publicado también por: France 24 - English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:54e679d166cacce8</guid>
+      <pubDate>Thu, 20 Aug 2026 18:55:14 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e405/live/b1ef1300-9be4-11f1-ba30-ddd78081057f.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Como mayor bans 'beasts' in city centre after being hit by bike</title>
       <link>https://www.bbc.co.uk/news/articles/cn8n077vxd7o</link>
       <description>Alessandro Rapinese denies he is waging personal vendetta against cyclists amid a public backlash The mayor of Como has set the wheels of controversy in motion for banning bikes in the walled historical centre of the lakeside city after being hit by one. Alessandro Rapinese’s ban, which comes into force in September, targets about 30 streets and means cyclists, whether on e-bikes or push bikes, will have to dismount and walk through those areas. Continue reading... Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
@@ -634,19 +648,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd23/live/184fdf20-9bf0-11f1-8470-d18257d2d589.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Christian metal band sues Netflix over KPop Demon Hunters name</title>
-      <link>https://www.theguardian.com/film/2026/aug/19/kpop-demon-hunters-netflix-lawsuit</link>
-      <description>25-year-old band Demon Hunter says name of streamer’s hit movie creates ‘substantial confusion’ among consumers Christian metal band Demon Hunter is suing Netflix , accusing the entertainment giant of trademark infringement and unfair competition tied to the blockbuster “KPop Demon Hunters” name. The lawsuit was filed on Tuesday by Hyde Lane, the company behind Demon Hunter, and alleges that Netflix Studios and concert promoter AEG Presents have created “substantial confusion” among consumers. Continue reading... Publicado también por: BBC News - World. Fuente: The Guardian - Culture.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bcb71fa921f13bb5</guid>
-      <pubDate>Wed, 19 Aug 2026 15:31:55 +0000</pubDate>
-      <category>cultura</category>
-      <category>Global</category>
-      <dc:creator>Marina Dunbar</dc:creator>
-      <source url="https://www.theguardian.com/culture/rss">The Guardian - Culture</source>
-      <media:content url="https://i.guim.co.uk/img/media/8d52c9987a783a4e6bae04ff8f4e78510bbeb878/0_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9eca520267953b2284201ac3bcf3bf7c" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/8d52c9987a783a4e6bae04ff8f4e78510bbeb878/0_0_1200_960/master/1200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9eca520267953b2284201ac3bcf3bf7c" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Plane pilot killed in US collision with police helicopter</title>
@@ -861,6 +862,33 @@
       <source url="https://www.facebook.com/Reuters/">Reuters</source>
       <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/778124138_2031127017544240_2255274238264219635_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=O63nwe6ThQEQ7kNvwGjFQkr&amp;_nc_oc=Adq8XB1ey2FtpGlbhkFbnOLV-Q2Pk9jj6Px8ifOVuOatiIKlp7wweZacWY4JZQELcyk&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=RWmNsGzK17xr_aOEGhiAtA&amp;_nc_ss=7f289&amp;oh=00_AQEarv8aSeMRxx7Xp_rS2E352AEA8jr9zcAc1VPHQlV52A&amp;oe=6A8BF432" medium="image" />
       <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/778124138_2031127017544240_2255274238264219635_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=O63nwe6ThQEQ7kNvwGjFQkr&amp;_nc_oc=Adq8XB1ey2FtpGlbhkFbnOLV-Q2Pk9jj6Px8ifOVuOatiIKlp7wweZacWY4JZQELcyk&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=RWmNsGzK17xr_aOEGhiAtA&amp;_nc_ss=7f289&amp;oh=00_AQEarv8aSeMRxx7Xp_rS2E352AEA8jr9zcAc1VPHQlV52A&amp;oe=6A8BF432" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>First group of US deportees, out of an expected 1,200, arrive in Liberia</title>
+      <link>https://www.aljazeera.com/news/2026/8/20/first-group-of-us-deportees-out-of-an-expected-1200-arrive-in-liberia?traffic_source=rss</link>
+      <description>The Liberia-U.S. deal is expected to mark some of the largest third-country deportations resulting from the Trump administration’s crackdown on immigration Publicado también por: The Independent - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:95d0efe9a9acc872</guid>
+      <pubDate>Thu, 20 Aug 2026 18:22:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://static.independent.co.uk/2026/08/20/17/2290658332..?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
+      <enclosure url="https://static.independent.co.uk/2026/08/20/17/2290658332..?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Academic who accused Jason Arday of plagiarism suspended by his university</title>
+      <link>https://www.theguardian.com/uk-news/2026/aug/20/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university</link>
+      <description>Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracy Nathan Cofnas, the academic who made plagiarism allegations against Prof Jason Arday before his death, has been suspended by a university. Arday, 41, resigned from his role at the University of Cambridge this month after Cofnas accused him of plagiarism. The allegations, which were not proven in any formal investigation, triggered questions about Arday’s achievements. Continue reading... Publicado también por: The New York Times - World. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2ebab453d7dd6f4a</guid>
+      <pubDate>Thu, 20 Aug 2026 18:12:13 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <dc:creator>Chris Osuh and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/1703_797_3574_2860/master/3574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27162924459227420240b631b04b84cd" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/e43550ba5e2245323342c27646ca576dbdd814e0/1703_797_3574_2860/master/3574.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27162924459227420240b631b04b84cd" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Swiss tourist jailed for insulting Bali’s sacred Day of Silence</title>
@@ -1375,21 +1403,6 @@
       <enclosure url="https://i.guim.co.uk/img/media/b33fb79c9eacef017f9c62bdb51d0ac3a1717aa0/868_0_4840_3872/master/4840.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=120922e6cc6c3af33917fe8e87426d29" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Israeli military probes killings of Hind Rajab and Palestinian paramedics</title>
-      <link>https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics</link>
-      <description>Israel’s military on Wednesday announced its first criminal investigations into troop conduct in the war in Gaza, focusing on the killings of 5-year-old Hind Rajab and her family and of 15 Palestinian paramedics. The military said it would not launch criminal investigations into three other attacks that killed aid workers from World Central Kitchen and Doctors Without Borders. FRANCE 24's Noga Tarnopolsky reports from Jerusalem. Publicado también por: The Hindu - International. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8d3e90b5dc6306d7</guid>
-      <pubDate>Wed, 19 Aug 2026 15:47:52 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/397ece9c-9be4-11f1-a4ee-005056a90284/w:1024/p:16x9/EN-20260819-170110-170755-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/397ece9c-9be4-11f1-a4ee-005056a90284/w:1024/p:16x9/EN-20260819-170110-170755-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>I used to live in a rented room. The entire floor was covered with a red carpet. There was a pillow for my head. A long rope for hanging clothes. A large white plastic bag for…</title>
       <link>https://www.facebook.com/reel/2120828912176269/?comment_id=1062958399649819&amp;__cft__%5B0%5D=AZbErhkJ0ZT44TWgSP3-xXD0b_u65Oi84KPH6pZDnJaWVthOc7-RuAc1XTp6ZMayRbpoANH_JMHyr01K4Uve7yhNPc0Wy9NFRPnXDSBOaAVaXTNCwFUg00jLqj-e6eca0tjPZBoLejqYRTslBs5EYLylrh9WvkvWQeHUwqItAjZKyMd9KX3L1kgRZbhPtP4K32ikyaAyHaxN8gt84JCpSSgj&amp;__tn__=R-R</link>
       <description>I used to live in a rented room. The entire floor was covered with a red carpet. There was a pillow for my head. A long rope for hanging clothes. A large white plastic bag for storing some good clothes. Some old newspapers for keeping shoes. A plastic ... Ver más The white flag. Fuente: Reuters.</description>
@@ -1483,6 +1496,43 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a318/live/339ec150-9bc9-11f1-98c6-93bfcdb08681.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>El crimen, ocurrido que siempre estuvo rodeado de dudas. Medio siglo después, Massachusetts reconoció que no habían recibido un juicio justo.</title>
+      <link>https://www.facebook.com/todonoticias/posts/pfbid0i5uwJzJA2GqD7zVJhFcJkAoq7v36CrwUN9Kmye5zYkYYA4B87yipWQ85MQjQSjDFl?__cft__%5B0%5D=AZaNOe8ly0eC193zCs2imUuNUMJcx7fhxdk6VF01vCRDPbkkiy_s9rCP01tXZiLDtQoft6T5oUs0p3jsOKxUrgsRgGhGqRXsZVQZfgukOzKwFsql97DiDQiSOsZXu_3my2VkOmFfSNnUfjAVfgdtMK2tgJlz29cc3nHRLRTFREMaDsQxPuHqrbtb2GhNKrZeZ94&amp;__tn__=%2CO%2CP-R</link>
+      <description>El crimen, ocurrido que siempre estuvo rodeado de dudas. Medio siglo después, Massachusetts reconoció que no habían recibido un juicio justo. TN.COM.AR Sacco y Vanzetti: la historia de los anarquistas italianos condenados sin un juicio justo Fuente: TN - Todo Noticias.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b7eda5649d6d3e45</guid>
+      <pubDate>Thu, 20 Aug 2026 19:07:16 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/todonoticias/">TN - Todo Noticias</source>
+      <media:content url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/16354228214418279190?url=https%3A%2F%2Ftn.com.ar%2Fresizer%2Fv2%2Fen-1971-se-estreno-la-pelicula-sacco-y-vanzetti-basada-en-hechos-reales-protagonizada-por-gian-maria-volonte-y-ricardo-cucciolla-foto-captura-de-la-pelicula-sacco-y-vanzetti-filmaffinity-LKZNAEX2WFF55JOUGKVSJF2RPU.JPG%3Fauth%3Dfe8b870975430f28bf4839d55ddc7155380e359b4169c6f0c763bf3e25881305%26width%3D1023&amp;fb_obo=1&amp;utld=tn.com.ar&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=G9JqkI-hG5wbVKGmBWsCkA&amp;_nc_oc=AdoRPeNEL3JLnabz6P2yaPd5BUvNY13ehDmv_lTN1tbGY_cczOa3H9w7ZzOcXFFal1s&amp;ccb=13-1&amp;oh=06_Q3_CASEuaWokpXfyQ80f8SM9ilAR7M4DVp2z8YF56JIkMHph&amp;oe=6A892DD7&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/16354228214418279190?url=https%3A%2F%2Ftn.com.ar%2Fresizer%2Fv2%2Fen-1971-se-estreno-la-pelicula-sacco-y-vanzetti-basada-en-hechos-reales-protagonizada-por-gian-maria-volonte-y-ricardo-cucciolla-foto-captura-de-la-pelicula-sacco-y-vanzetti-filmaffinity-LKZNAEX2WFF55JOUGKVSJF2RPU.JPG%3Fauth%3Dfe8b870975430f28bf4839d55ddc7155380e359b4169c6f0c763bf3e25881305%26width%3D1023&amp;fb_obo=1&amp;utld=tn.com.ar&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=G9JqkI-hG5wbVKGmBWsCkA&amp;_nc_oc=AdoRPeNEL3JLnabz6P2yaPd5BUvNY13ehDmv_lTN1tbGY_cczOa3H9w7ZzOcXFFal1s&amp;ccb=13-1&amp;oh=06_Q3_CASEuaWokpXfyQ80f8SM9ilAR7M4DVp2z8YF56JIkMHph&amp;oe=6A892DD7&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Após atingir o recorde de 1.464 candidaturas em 2022, número de candidatos que usam patentes ou referências às forças de segurança cai 35% e chega a 950 este ano</title>
+      <link>https://www.facebook.com/jornaloglobo/posts/pfbid02ZZ5gMUhA9bXFX8jKMgYL1pP6g2oe1FukzuvTtgXQhgXJRW6kwDVfBnXQV8zj67JQl?__cft__%5B0%5D=AZYLY-cdKZ3xL4YooRg0jIwcYL-_h5SjNYioDQESP1cIX_U2bVRBs4VPTRRA4DA2_T2aSGp0EP-ahK8R9_kbsg2xtaMEkKrBs9tVFYtxXBbrGp0oXsnOfQgq6Z-xdDmDiILeovKqAPp6IfxGA_k69UyqF91RLAew2aGWAah6IA2suOHp8r_0Wl8V2hmwC1bFuIU&amp;__tn__=%2CO%2CP-R</link>
+      <description>Após atingir o recorde de 1.464 candidaturas em 2022, número de candidatos que usam patentes ou referências às forças de segurança cai 35% e chega a 950 este ano OGLOBO.GLOBO.COM Onda de candidaturas de militares e policiais perde força em 2026 e retorna a patamar de 20 anos atrás Fuente: O Globo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d68de19cac248223</guid>
+      <pubDate>Thu, 20 Aug 2026 19:02:04 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/9044335696274008911?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2FJFPBH-cp6dxZkDthVIj2sn6duAI%3D%2F5760x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2FS%2FP%2FwbjtxRTxiYPXETzoZ7VA%2Feleicao-2022.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YKwVY4Zw43kT6QyHJfsbRQ&amp;_nc_oc=Adqk09wwjQPNHnXZhYcFxYc_5RmpWk2L5SnlICwEwmi1i2D7q-OrV7zHKqU0jPyyq00&amp;ccb=13-1&amp;oh=06_Q3_CAeFK1wuw_-SdC1lvdEge7FMWwnjG_Dmd_b1f0Zno2o3I&amp;oe=6A89251A&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/9044335696274008911?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2FJFPBH-cp6dxZkDthVIj2sn6duAI%3D%2F5760x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2FS%2FP%2FwbjtxRTxiYPXETzoZ7VA%2Feleicao-2022.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YKwVY4Zw43kT6QyHJfsbRQ&amp;_nc_oc=Adqk09wwjQPNHnXZhYcFxYc_5RmpWk2L5SnlICwEwmi1i2D7q-OrV7zHKqU0jPyyq00&amp;ccb=13-1&amp;oh=06_Q3_CAeFK1wuw_-SdC1lvdEge7FMWwnjG_Dmd_b1f0Zno2o3I&amp;oe=6A89251A&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Una coalición global de aficionados lanzó una petición para exigir la renuncia de Gianni Infantino como presidente de la FIFA y reclamar una refor ma del organismo. L... Ver más</title>
+      <link>https://www.facebook.com/eltiempo/posts/pfbid02ZgBQEekWVTPpvQzPr7y5j2VYvh1JaBqc1DHgf2jGAKo7AabcMXAB4bdVYRnB6YeFl?__cft__%5B0%5D=AZYA9EDA-xH1G2tPhthXoDzVa4O2hBLyv9mFwPMDPyfWQWfWiOcTl3nGKpmTz2AnyFrIVnG1qAIPj5ui2OTd98Y1dcE5SPOMlNthDS1zLQODjscWJYtoQj_Fdy2KkjnVRWJOSRhCr68NZ1SDohls5PC5jmG2VcCAOcLlEm4zn_O7kOLvPzeqICebzpQe2-wFH_0&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: EL TIEMPO.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1edd2bb213e4b10c</guid>
+      <pubDate>Thu, 20 Aug 2026 18:40:34 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/eltiempo/">EL TIEMPO</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/778958012_1754860775715782_8270825431938193874_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Ok9WdIdNmAkQ7kNvwGzYoOG&amp;_nc_oc=Adqi4YntJyMWBbXtgZwDkiUWtop-xzxZ1YIg7fyaf263IJvp9GMap674Iy5bZXeZ0e0&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=iawiZisC4xttN_x0ulC5sQ&amp;_nc_ss=7f289&amp;oh=00_AQGd-CXerzhk6TFc-jJXoLNUn16CKpPPLe9rPl905ofjFg&amp;oe=6A8D07E5" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/778958012_1754860775715782_8270825431938193874_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Ok9WdIdNmAkQ7kNvwGzYoOG&amp;_nc_oc=Adqi4YntJyMWBbXtgZwDkiUWtop-xzxZ1YIg7fyaf263IJvp9GMap674Iy5bZXeZ0e0&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=iawiZisC4xttN_x0ulC5sQ&amp;_nc_ss=7f289&amp;oh=00_AQGd-CXerzhk6TFc-jJXoLNUn16CKpPPLe9rPl905ofjFg&amp;oe=6A8D07E5" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>3576 reproducciones · 72 reacciones | #Colombia | El gobernador de Antioquia, Andrés Julián Rendón, le propuso al presidente Abelardo de la Espriella un ambicioso plan de reconstrucción y desarrollo con inversiones que podrían alcanzar los 15 billones de pesos anuales. Siga la señal de Noticias Caracol en vivo 👉 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
       <link>https://www.facebook.com/reel/1448073460515011/?comment_id=1040769912065914&amp;__cft__%5B0%5D=AZYbnB1aj9xQci_PIz4vIpquGAVAXvGckZQtUQmGzkM0Ko6IqoSQa_0zL-Qcr_1yRwjjb2uo2lIOlHbw7wswqGBli78U3iNTbvOF4_X1JeK_hm-_toC3WMZ5tYHjcY0xDi9olQ5jl6h3O3axf4oRJlajXC541D5Q4iYLIwBlU1wTTIioniX-jNavfeM67-viWKbe9Xbq37tp3Ho2Q9p8ruml&amp;__tn__=R-R</link>
       <description>#Colombia | El gobernador de Antioquia, Andrés Julián Rendón, le propuso al presidente Abelardo de la Espriella un ambicioso plan de reconstrucción y desarrollo con inversiones que podrían alcanzar... #Colombia | El gobernador de Antioquia, Andrés Julián Rendón, le propuso al presidente Abelardo de la Espriella un ambicioso plan de reconstrucción y... Fuente: Noticias Caracol.</description>
@@ -1558,56 +1608,6 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/779322670_2466582670415334_1230141218616905928_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=_ysK1fwG9EQQ7kNvwFZIgvG&amp;_nc_oc=Adq8j75XmlRKdMbJ9S97YzzHr1r2U90ywV3n0b_KJ2yP3t6CAA5XbomnhgwHqVf6yjM&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=saJfOgVVyv-2ke0ipEmdWQ&amp;_nc_ss=7f289&amp;oh=00_AQE80mTusxY2pjkmskscckt3NLrfs4Ez0W8wMJ-BHsz-OQ&amp;oe=6A8D0C6E" medium="image" />
       <enclosure url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/779322670_2466582670415334_1230141218616905928_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=_ysK1fwG9EQQ7kNvwFZIgvG&amp;_nc_oc=Adq8j75XmlRKdMbJ9S97YzzHr1r2U90ywV3n0b_KJ2yP3t6CAA5XbomnhgwHqVf6yjM&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=saJfOgVVyv-2ke0ipEmdWQ&amp;_nc_ss=7f289&amp;oh=00_AQE80mTusxY2pjkmskscckt3NLrfs4Ez0W8wMJ-BHsz-OQ&amp;oe=6A8D0C6E" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms</title>
-      <link>https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html</link>
-      <description>While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6c936df7c9bc7af8</guid>
-      <pubDate>Thu, 20 Aug 2026 16:46:03 +0000</pubDate>
-      <category>economia</category>
-      <category>salud</category>
-      <category>América del Norte</category>
-      <dc:creator>Ian Austen and Ana Swanson</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Breaking News: FBI agents searched the former congressman Eric Swalwell’s home as part of a federal inquiry into sexual assault claims.</title>
-      <link>https://www.facebook.com/nytimes/posts/pfbid02uG5GnbkQTqaq2KynuaSsVFvK48RrLxGRhDaqdYsjFB7mXHA1TfVLgDba6HAh9vsml?__cft__%5B0%5D=AZax22qoTcUqEpyJAacFQIDxCc-vmHVlW7f-fuKqfMWe3VNYGwitzz88nbLrRgCUyOam55jKS4FMWoH4TIU05z2Cq9Eq-piUcgf32XaM4_sVJDkUNr2SIpJHXOLm5S9V8FX1x9kot6rI1tdjMies4efTRDSO-TcdttXCwJcrJcqqzZudMRtstHbKiz7aAM6zu3Q&amp;__tn__=%2CO%2CP-R</link>
-      <description>Breaking News: FBI agents searched the former congressman Eric Swalwell’s home as part of a federal inquiry into sexual assault claims. It’s important to remember a search is just part of an investigation, not proof of guilt. We’ll have to wait and see how this case unfolds. NYTIMES.COM FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry Ver más comentarios Roxy Farner Fuente: The New York Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f1cd1ff64f1bba6f</guid>
-      <pubDate>Thu, 20 Aug 2026 16:36:12 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
-      <media:content url="https://external-ams2-1.xx.fbcdn.net/emg1/v/t13/7117463513797841584?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F20%2Fmultimedia%2F20dc-swalwell-zhgc%2F20dc-swalwell-zhgc-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=owLYumMIwTVQg3BaQzMhkQ&amp;_nc_oc=AdqpKxwQWA3Np3Xtl4xMw4SHMpK6OD0mgj5FtcvNhqv1obGW222VEFmKD4mZjM2nHik&amp;ccb=13-1&amp;oh=06_Q3_CAVo89cwzE-WCXfwynZAm1WV8dIrMKc8MCVH-e5XmXDbL&amp;oe=6A89076F&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-ams2-1.xx.fbcdn.net/emg1/v/t13/7117463513797841584?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F20%2Fmultimedia%2F20dc-swalwell-zhgc%2F20dc-swalwell-zhgc-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=owLYumMIwTVQg3BaQzMhkQ&amp;_nc_oc=AdqpKxwQWA3Np3Xtl4xMw4SHMpK6OD0mgj5FtcvNhqv1obGW222VEFmKD4mZjM2nHik&amp;ccb=13-1&amp;oh=06_Q3_CAVo89cwzE-WCXfwynZAm1WV8dIrMKc8MCVH-e5XmXDbL&amp;oe=6A89076F&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>https://news.sky.com/.../money-live-consumer-personal...</title>
-      <link>https://www.facebook.com/skynews/posts/pfbid0kwoZnqjpDeF2JoZeuMU2cyFBFrQySr1k1ZXGZDhWhuCgtipzEV3h2mszZe88gGxGl?__cft__%5B0%5D=AZYtJFCH8_d_9kudI-1YQhUxq0TC4QBE22t8bNclM1cGmwEXcPp-3lmuYTF67boxl3_3h7CWSeaWDOLeSCJN7rNW9G-gsfdnwr-4uJlTpqgfk-gwOBl_0I4qRAuTVncDaNevSvcL_qUOy-Jgqzf-pxbYF3Y3ceai1b1g76CAW11eTGc3ARS_dRr2F_KAD1Q9Q6k&amp;__tn__=%2CO%2CP-R</link>
-      <description>Sky News. 12 953 546 Me gusta · 856 770 personas están hablando de esto. The full story, first. Free, wherever you get your news. Fuente: Sky News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:054788cf70bd464e</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:21 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/skynews/">Sky News</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/781869450_1620850899825886_5790111527986233528_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=cUGsY4ZPwEMQ7kNvwEkHcab&amp;_nc_oc=AdqxAwGN4V9cAjL4svEaeoQ80XA5r3oGs76j-UCOJl0C8hSI3vS4XsmmApMFatjXCOs&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=F3DSGgKyF6MN_jtXaJVnHA&amp;_nc_ss=7f289&amp;oh=00_AQHGENSbteCWMEIdXOJRqeQjmE-cmGebS0BAB9oukq7ibg&amp;oe=6A8D12F0" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/781869450_1620850899825886_5790111527986233528_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=cUGsY4ZPwEMQ7kNvwEkHcab&amp;_nc_oc=AdqxAwGN4V9cAjL4svEaeoQ80XA5r3oGs76j-UCOJl0C8hSI3vS4XsmmApMFatjXCOs&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=F3DSGgKyF6MN_jtXaJVnHA&amp;_nc_ss=7f289&amp;oh=00_AQHGENSbteCWMEIdXOJRqeQjmE-cmGebS0BAB9oukq7ibg&amp;oe=6A8D12F0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Marlinda Maria Dutra de Oliveira era titular da 41ª Promotoria de Justiça em Manaus.</title>
-      <link>https://www.facebook.com/folhadesp/posts/pfbid0fxce8BCbtkDozmvRQtU1ebfDTGRSoQ66DW2CxwSqUqhnwxY1JF9LRmfcG93zBibrl?__cft__%5B0%5D=AZbGc_O02ETYwo8SmrtOU3KcghQQD-gdBRhrgWCp4MZYDe1CJsqI3GpHYHmCDKajEvd95W0k-g9ZNlTlRg6BeCj_PSEsDgtzi8XH8hAYoXcbPaoTw4jlxrrLlV_3cROy8g4d8exus5Hevyb9DTzIG7gWcr30qju5iNXccUsG2QjFfWWLHja0n2kWB-6h0RYbMQw&amp;__tn__=%2CO%2CP-R</link>
-      <description>Marlinda Maria Dutra de Oliveira era titular da 41ª Promotoria de Justiça em Manaus. WWW1.FOLHA.UOL.COM.BR Promotora do Amazonas morre afogada em praia da Bahia antes de congresso Ver más comentarios Margarida Oliveira Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b6b54af20463b853</guid>
-      <pubDate>Thu, 20 Aug 2026 16:31:24 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/12905997602521566738?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F08%2F20%2F17872079606a86a118eafc2_1787207960_3x2_lg.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=5l3xDvzpBzbxxhhOOxLijw&amp;_nc_oc=AdoVLSZHoRNA6orFQ80SBtvksIGizndQ43TR1vy603v3PifzBwj7V0x3t4szvuBoPtQ&amp;ccb=13-1&amp;oh=06_Q3_CAYWdx0uO5_4rPnEmhFL_0Wn7hZ6bk-bio_cBQYsKztAI&amp;oe=6A8904A0&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/12905997602521566738?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F08%2F20%2F17872079606a86a118eafc2_1787207960_3x2_lg.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=5l3xDvzpBzbxxhhOOxLijw&amp;_nc_oc=AdoVLSZHoRNA6orFQ80SBtvksIGizndQ43TR1vy603v3PifzBwj7V0x3t4szvuBoPtQ&amp;ccb=13-1&amp;oh=06_Q3_CAYWdx0uO5_4rPnEmhFL_0Wn7hZ6bk-bio_cBQYsKztAI&amp;oe=6A8904A0&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
