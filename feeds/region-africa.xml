@@ -7,9 +7,20 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Fri, 21 Aug 2026 07:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:04:17 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-africa.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spain moves hundreds of migrants from Ceuta beach to temporary shelters</title>
+      <link>http://www.euronews.com/video/2026/08/21/spain-moves-hundreds-of-migrants-from-ceuta-beach-to-temporary-shelters</link>
+      <description>Spain began relocating migrants from a makeshift camp on Ceuta’s El Trampolín beach on Thursday, 20 August, nearly three weeks after a mass border surge left thousands living without adequate shelter in the North African enclave. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e6c0587705dc3172</guid>
+      <pubDate>Fri, 21 Aug 2026 07:12:26 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <category>África</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+    </item>
     <item>
       <title>Kyiv residents search through the wreckage after Russia’s deadly barrage</title>
       <link>http://www.africanews.com/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage/</link>
@@ -1567,21 +1578,6 @@
       <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
       <media:content url="https://imagenes.elpais.com/resizer/v2/CRDM33NVGFCYNGZQS2U6DFAB6A.jpg?auth=cb082d6f033a8446d5439bd07c8041c2c5dd161d1d915557e587b6e207b52538" medium="image" />
       <enclosure url="https://imagenes.elpais.com/resizer/v2/CRDM33NVGFCYNGZQS2U6DFAB6A.jpg?auth=cb082d6f033a8446d5439bd07c8041c2c5dd161d1d915557e587b6e207b52538" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>China showcases next‑gen humanoid robots as US curbs push firms abroad</title>
-      <link>http://www.africanews.com/2026/08/20/china-showcases-nextgen-humanoid-robots-as-us-curbs-push-firms-abroad/</link>
-      <description>At the World Robot Conference in Beijing on 19 August, more than 300 companies displayed humanoid, industrial and service robots, highlighting the sector’s push into factories and commercial settings. Publicado también por: Euronews. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2db3c11dae6cefb3</guid>
-      <pubDate>Thu, 20 Aug 2026 08:18:03 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>África</category>
-      <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/88/15/27/640x360_cmsv2_4a6288b8-41ab-510d-bf3c-534b71365819-9881527.jpg?1787207179" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/88/15/27/640x360_cmsv2_4a6288b8-41ab-510d-bf3c-534b71365819-9881527.jpg?1787207179" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
