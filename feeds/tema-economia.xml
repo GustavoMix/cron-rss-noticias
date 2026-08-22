@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 22 Aug 2026 15:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:47:57 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-economia.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -21,6 +21,29 @@
       <category>Medio Oriente</category>
       <dc:creator>BY REUTERS</dc:creator>
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+    </item>
+    <item>
+      <title>As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8</title>
+      <link>https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html</link>
+      <description>New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:005eca7ae50bf2e3</guid>
+      <pubDate>Sat, 22 Aug 2026 16:38:52 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?</title>
+      <link>https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories</link>
+      <description>“My CPA hasn’t gotten back to me.” Fuente: MarketWatch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:feb51bf2b5c65c82</guid>
+      <pubDate>Sat, 22 Aug 2026 16:00:00 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <dc:creator>Quentin Fottrell</dc:creator>
+      <source url="https://feeds.content.dowjones.io/public/rss/mw_topstories">MarketWatch</source>
+      <media:content url="https://images.mktw.net/im-65999658" medium="image" />
+      <enclosure url="https://images.mktw.net/im-65999658" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>EE. UU. impone nuevos aranceles del 50 % a Canadá, que promete responder "dólar por dólar"</title>
@@ -62,6 +85,18 @@
       <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
       <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778985038_2175981233300018_8602528096287769911_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=6iTXxU2FY38Q7kNvwHzjYIP&amp;_nc_oc=Adp_Gk3dwv87igqTAdj6mzyWccFjmQ6ozmFqmRu2svVbENkXRSIvoucKcYNlPXCZZAw&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=HuUWduTYKbPUkfKBVBifyg&amp;_nc_ss=7f289&amp;oh=00_AQFLppGRgjrzwERIq1_XHEuByrnGYpgsXPH223oLXxMZcw&amp;oe=6A8F97B1" medium="image" />
       <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/778985038_2175981233300018_8602528096287769911_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=6iTXxU2FY38Q7kNvwHzjYIP&amp;_nc_oc=Adp_Gk3dwv87igqTAdj6mzyWccFjmQ6ozmFqmRu2svVbENkXRSIvoucKcYNlPXCZZAw&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=HuUWduTYKbPUkfKBVBifyg&amp;_nc_ss=7f289&amp;oh=00_AQFLppGRgjrzwERIq1_XHEuByrnGYpgsXPH223oLXxMZcw&amp;oe=6A8F97B1" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A new wave of buyers is combining the quiet life with party spice — disrupting clichés about the Spanish island and shifting the property landscape: https://ft.trib.al/5N5JbGN</title>
+      <link>https://www.facebook.com/financialtimes/posts/pfbid0rrqKV8HDk7dHw3FbY7YaVh4Xn8gNh5Jq1MhgkKSwCF71hWvCLz2e7fbsPYo7mdokl?__cft__%5B0%5D=AZaZL0syCZa_PP5Lr9I9sKTgQISRYhJN8RB-gMl3xhpq3aT8EOJRSx3PtV4wvjnrHgDjVw1eOMDOtC_U0gFX6aB_jXuNjOh9b8CUVxaIN5AtS1T6f-XB468yIFtmhGY-XOUO8mPyNW0orFwFiqL9PMrrxzWKAKuiJwTcvz63mY0fk7R4QUChIr_jrYEyVEOmXpo&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: Financial Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c3aebc713a4bb59d</guid>
+      <pubDate>Sat, 22 Aug 2026 14:41:41 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/780620508_1066181009136930_6242074360666299051_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=o6s-QzBnbY0Q7kNvwE5Ec5g&amp;_nc_oc=Adr9z31lxbClGx8fcJYuPD5DjLlTbuslE1Sg5WnROhZMVqJX8FpKExqUGUzzli0pU9w&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=-YBBwC_XW3JjLEqJtYQ1qw&amp;_nc_ss=7f289&amp;oh=00_AQHCnQ5LBtgHLQD8hSoAQ7omn_3PutQudiOywVLNx8fR-g&amp;oe=6A8FA271" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/780620508_1066181009136930_6242074360666299051_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=o6s-QzBnbY0Q7kNvwE5Ec5g&amp;_nc_oc=Adr9z31lxbClGx8fcJYuPD5DjLlTbuslE1Sg5WnROhZMVqJX8FpKExqUGUzzli0pU9w&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=-YBBwC_XW3JjLEqJtYQ1qw&amp;_nc_ss=7f289&amp;oh=00_AQHCnQ5LBtgHLQD8hSoAQ7omn_3PutQudiOywVLNx8fR-g&amp;oe=6A8FA271" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Venezuela investiga a un diputado opositor por proponer la dolarización del país</title>
@@ -438,6 +473,21 @@
       <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
       <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/778936071_1036390672624689_8963676472068343782_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=JhyO32nc1-YQ7kNvwHee4cn&amp;_nc_oc=AdptCX4ay1Q90bLQ0qcCFKD_lvmf--ce7jMjb7ExMIOtEn7_gjkTF5yPQQ-dVduMClM&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=GRvfS8uojYfHbBs7RJiW-A&amp;_nc_ss=7f289&amp;oh=00_AQEIsXUzQ1Qbs8vpfgVdTUtEAX7MpLt-1sHeK5W1DWhK1Q&amp;oe=6A8F4E6D" medium="image" />
       <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/778936071_1036390672624689_8963676472068343782_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=JhyO32nc1-YQ7kNvwHee4cn&amp;_nc_oc=AdptCX4ay1Q90bLQ0qcCFKD_lvmf--ce7jMjb7ExMIOtEn7_gjkTF5yPQQ-dVduMClM&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=GRvfS8uojYfHbBs7RJiW-A&amp;_nc_ss=7f289&amp;oh=00_AQEIsXUzQ1Qbs8vpfgVdTUtEAX7MpLt-1sHeK5W1DWhK1Q&amp;oe=6A8F4E6D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Canada says will match new US 50% tariffs 'dollar for dollar'</title>
+      <link>https://www.france24.com/en/canada-says-will-match-new-us-50-tariffs-dollar-for-dollar</link>
+      <description>The trade war between Washington and Ottawa is once again escalating. On Saturday, the US implemented 50% tariffs on certain Canadian goods, just hours after Donald Trump claimed he had a good relationship with his Canadian counterpart and that he thought a deal could be reached. The tariffs were initially set to go into effect on Wednesday but the US president gave negotiators three days to reach an agreement. Details by Eliza Herbert. Publicado también por: Euronews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:07ba6b1b63500504</guid>
+      <pubDate>Sat, 22 Aug 2026 10:40:26 +0000</pubDate>
+      <category>economia</category>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/de823df8-9e13-11f1-8125-005056bfb2b6/w:1024/p:16x9/EN-20260822-120840-121028-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/de823df8-9e13-11f1-8125-005056bfb2b6/w:1024/p:16x9/EN-20260822-120840-121028-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>How do you know what a dinosaur ate? Teeth offer clues, but some species lost theirs and evolved beaks. The stones in their stomachs may tell another part of the story</title>
@@ -1478,57 +1528,6 @@
       <category>economia</category>
       <category>América Latina</category>
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>Breaking News: The U.S. said Canada had declined a trade deal to stave off 50% tariffs, which will take effect at midnight.</title>
-      <link>https://www.facebook.com/nytimes/posts/pfbid0diYg5GbDtN9CootJy1Zd5hVz6DraLtG8NKJ8PejkAZpVUekHg9TbttFzDEiF6cUil?__cft__%5B0%5D=AZaqa_Kj1zw8WBKrmhxi6wNU9WSre65UahIIb4hxAqZUzGYmymiNEtYb_uW4fxbycYFbQeZY_dfQENMG2sXimWO_Xigr_nBqYiJlWQ5cjFnhIHAyUmJt2McZfrKbkG8ZOhNNLNFRKIhSDqRrWuOd6B_ymI1CMgEct6EAf_Z0VBVcTzZ9sS3GKP5Si9XNLCAXWFk&amp;__tn__=%2CO%2CP-R</link>
-      <description>Breaking News: The U.S. said Canada had declined a trade deal to stave off 50% tariffs, which will take effect at midnight. Elbows up Canada! NYTIMES.COM U.S. Says Canada Has Declined a Trade Deal to Stave Off Tariffs Ver más comentarios Barbara Morgan-Cicippio Fuente: The New York Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5b8e156b138caa18</guid>
-      <pubDate>Sat, 22 Aug 2026 03:50:53 +0000</pubDate>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
-      <media:content url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/9791498109659685722?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F20%2Fmultimedia%2F00int-canada-tariffs-hfos-NO%2F00int-canada-tariffs-hfos-NO-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=eBv393JTMxkOB7hOrnWZeQ&amp;_nc_oc=Adqiz-PQFd8nzQ8J9nYbAKijoYXk_E8B9ls_vXffECNxu_TUu9gCrQfaLc1z6Dip7Sc&amp;ccb=13-1&amp;oh=06_Q3_CAaYT_bcc_wgRVQuzGoTJKrosNrez5svHimV2PYuzj8GD&amp;oe=6A8AE503&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/9791498109659685722?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F08%2F20%2Fmultimedia%2F00int-canada-tariffs-hfos-NO%2F00int-canada-tariffs-hfos-NO-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=eBv393JTMxkOB7hOrnWZeQ&amp;_nc_oc=Adqiz-PQFd8nzQ8J9nYbAKijoYXk_E8B9ls_vXffECNxu_TUu9gCrQfaLc1z6Dip7Sc&amp;ccb=13-1&amp;oh=06_Q3_CAaYT_bcc_wgRVQuzGoTJKrosNrez5svHimV2PYuzj8GD&amp;oe=6A8AE503&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>U.S. Says Canada Has Declined a Trade Deal to Stave Off Tariffs</title>
-      <link>https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-deal-carney-canada.html</link>
-      <description>United States trade representative Jamieson Greer said that it was a “missed opportunity for Canada.” The surprising development means tariffs against $20 billion of Canadian goods come into effect at midnight. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8f803337b641ad8f</guid>
-      <pubDate>Sat, 22 Aug 2026 03:47:09 +0000</pubDate>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/08/20/multimedia/00int-canada-tariffs-hfos-NO/00int-canada-tariffs-hfos-NO-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/20/multimedia/00int-canada-tariffs-hfos-NO/00int-canada-tariffs-hfos-NO-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Henkle Hui ha comentado: Time to reevaluate what truly gives us statusd.</title>
-      <link>https://www.facebook.com/TheEconomist/posts/pfbid0e9tCtHgwGNGSGM9G4rVAdvSUAjrNMNZpqRCvMquiLFuaay6YTEiPT186tqa4nHhWl?comment_id=2103578833886822&amp;__cft__%5B0%5D=AZZ-dBrUQXlOzx1c7nwzatt19GTNb88khq-b-UPjlLZ6Gt7Mm-IKzr1I7Kt456ZSvRY4DJDM5PgTtx_t34QMgy-9fzqbCcgMrePIhspTUtgKurhOIE4_qu8wxjV-smfNbxP5XM6h7gfRymMibQ38J809-U-G88XyjTiRzUeggqLwzflllnwKbae1qiFsCi1_P38&amp;__tn__=R-R</link>
-      <description>The modern worker is prestige-obsessed, yet our age is one of status death. Curious as to why? Register to continue reading (it’s free) bit.ly/4pFCwRp... Fuente: The Economist.</description>
-      <guid isPermaLink="false">cron-rss-noticias:41170bb9c61b0fd7</guid>
-      <pubDate>Sat, 22 Aug 2026 03:14:51 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
-      <media:content url="https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/784199528_1589128572724363_4601389992314279982_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3zz8GZZNrfAQ7kNvwE4Iz45&amp;_nc_oc=Adq767MOo_aT2I0OwlBY_Czw-BV8Dk9YgNiG4UINdkARHhikEt5aQNMJQER1NKX_lNs&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=uoOl3bk1ui2EpcUNIDQSxQ&amp;_nc_ss=7f289&amp;oh=00_AQFw7VBoUCcBifr1K0-xYbMtfs-0vFS0YryfFzGSyI3mcw&amp;oe=6A8EEB67" medium="image" />
-      <enclosure url="https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/784199528_1589128572724363_4601389992314279982_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3zz8GZZNrfAQ7kNvwE4Iz45&amp;_nc_oc=Adq767MOo_aT2I0OwlBY_Czw-BV8Dk9YgNiG4UINdkARHhikEt5aQNMJQER1NKX_lNs&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=uoOl3bk1ui2EpcUNIDQSxQ&amp;_nc_ss=7f289&amp;oh=00_AQFw7VBoUCcBifr1K0-xYbMtfs-0vFS0YryfFzGSyI3mcw&amp;oe=6A8EEB67" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>8970 reproducciones · 238 reacciones | 🟢 Grandes empresas recuperan miles de millones por la devolución de los aranceles de Trump Grandes compañías estadounidenses están recibiendo miles de millones de dólares en reembolsos de aranceles después de que la Corte Suprema invalidara una parte de los gravámenes impuestos por el Gobierno de Donald Trump. Apple recuperó unos 2.200 millones de dólares, Nike casi 1.000 millones y Amazon más de 600 millones. Los consumidores que pagaron precios más altos por productos encarecidos por esos mismos aranceles no recibirán cheques de compensación directamente del Gobierno; su resarcimiento depende de la generosidad de las empresas beneficiadas. | DW Español</title>
-      <link>https://www.facebook.com/reel/1423249523030218/?comment_id=1756731338811384&amp;__cft__%5B0%5D=AZaFVVimMHnrSIn-Rld0zf7d9yu2HAUbQn9sWAcWfDLndhUC_tvW1LGLvZz2eBSzt9nDEVJ_dJ_crjVeEIYU26bj9AFY62_m_gwGk8doulqRmYbHpjAoNcSYolacdxpVJso2mu95MkTJqeGvmzNKeNUgXHYLG1OhxBA6l9lk4m8Z5OFbqX9dByFI6YarJFtfoTagOPRZ-T7BK3Eqc6sSiAJz&amp;__tn__=R-R</link>
-      <description>🟢 Grandes empresas recuperan miles de millones por la devolución de los aranceles de Trump Grandes compañías estadounidenses están recibiendo miles de millones de dólares en reembolsos de aranceles... 🟢 Grandes empresas recuperan miles de millones por la devolución de los aranceles de Trump Grandes compañías estadounidenses están recibiendo miles de... Fuente: DW Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5160dc8f7220d083</guid>
-      <pubDate>Sat, 22 Aug 2026 03:14:51 +0000</pubDate>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/778936071_1036390672624689_8963676472068343782_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=JhyO32nc1-YQ7kNvwF2cwpm&amp;_nc_oc=Adqv9ZHJrK43FZY_GKeuQpvfO4LbAbb-wJRy7pAhAfxmla8qc6OP4SrOPj2K8aJPAOQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=iCh1_QbbTcdcThgQixzrAQ&amp;_nc_ss=7f289&amp;oh=00_AQFTmj7zjp7tTOj_CGWVO6sJ5bwRuq7GUt8txL5FRTaGuA&amp;oe=6A8EDDED" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/778936071_1036390672624689_8963676472068343782_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=JhyO32nc1-YQ7kNvwF2cwpm&amp;_nc_oc=Adqv9ZHJrK43FZY_GKeuQpvfO4LbAbb-wJRy7pAhAfxmla8qc6OP4SrOPj2K8aJPAOQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=iCh1_QbbTcdcThgQixzrAQ&amp;_nc_ss=7f289&amp;oh=00_AQFTmj7zjp7tTOj_CGWVO6sJ5bwRuq7GUt8txL5FRTaGuA&amp;oe=6A8EDDED" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
