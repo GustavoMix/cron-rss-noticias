@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 22 Aug 2026 14:45:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:44:12 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-africa.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -21,6 +21,19 @@
       <category>Medio Oriente</category>
       <dc:creator>BY REUTERS</dc:creator>
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+    </item>
+    <item>
+      <title>Ebola gathering ban stalls cultural revival in eastern Congo’s Goma</title>
+      <link>http://www.africanews.com/2026/08/22/ebola-gathering-ban-stalls-cultural-revival-in-eastern-congos-goma/</link>
+      <description>When Rwanda-backed M23 rebels took over the city in 2025, leaving hundreds dead in fighting, Goma's cultural scene took a hit. Festivals slowly returned, but now an Ebola outbreak has forced another shutdown Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fc78e3435fb530ee</guid>
+      <pubDate>Sat, 22 Aug 2026 14:59:17 +0000</pubDate>
+      <category>salud</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/88/45/16/640x360_cmsv2_a6c03a1c-dfe0-5df7-8511-7fe20e725354-9884516.jpg?1787379200" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/88/45/16/640x360_cmsv2_a6c03a1c-dfe0-5df7-8511-7fe20e725354-9884516.jpg?1787379200" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Lilian Vaz ha comentado: Descanse em.paz 🙏 🕊</title>
@@ -1554,19 +1567,6 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/2026/08/21/12/download.-1.?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/08/21/12/download.-1.?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Benin cyberactivist Steve Amoussou freed after two-year sentence</title>
-      <link>http://www.africanews.com/2026/08/21/benin-cyberactivist-steve-amoussou-freed-after-two-year-sentence/</link>
-      <description>Beninese cyberactivist Steve Amoussou has been released after serving a two-year prison sentence for charges including politically motivated insult and spreading false news. His case had become a prominent test of the government's treatment of critics and online dissent. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6db8092e8b2e560a</guid>
-      <pubDate>Fri, 21 Aug 2026 11:45:31 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <dc:creator>editorial@africanews.com (Dominic Wabwireh)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/88/34/39/640x360_cmsv2_c465d6e0-157b-599e-9ff6-6efb54b3a044-9883439.jpg?1787302096" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/88/34/39/640x360_cmsv2_c465d6e0-157b-599e-9ff6-6efb54b3a044-9883439.jpg?1787302096" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
