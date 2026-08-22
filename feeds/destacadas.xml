@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Fri, 21 Aug 2026 23:45:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 01:58:39 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -130,6 +130,7 @@
       <category>mundo</category>
       <category>Asia</category>
       <category>Medio Oriente</category>
+      <category>América del Norte</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f281/live/3dc58f60-9d09-11f1-a291-b542ee92de7c.jpg" type="image/jpeg" length="0" />
@@ -161,17 +162,18 @@
       <enclosure url="https://static.independent.co.uk/2026/08/21/7/39/2026-08-21-Thusis__w_1200__h_0-ab0d2287.jpeg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Un fuerte terremoto de magnitud 7,2 sacude el sur de Perú</title>
-      <link>https://www.bbc.com/mundo/articles/c62epjggd7mo</link>
-      <description>Un terremoto de 7,2 grados con epicentro en Cora Cora, Ayacucho, al sureste de Perú, sacudió este jueves la región causando deslizamientos en las montañas aledañas a las carreteras y pánico entre los ayacuchanos, según pudo verse en los vídeos publicados por los medios peruanos.El Instituto Geofísico de Perú informó que el epicentro está a 35 kilómetros de Cora Cora y tiene una profundidad de 108 kilómetros.En declaraciones a RPP Noticias, el alcalde de la provincia de Parinacochas (donde se ubica Cora Cora), Johnny Reyes Anampa, anunció el envío de brigadas y equipos de rescate a Cora Cora… Publicado también por: ABC España - Internacional, El País - Internacional. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:62ffc5a0f9f691cd</guid>
-      <pubDate>Thu, 20 Aug 2026 21:14:31 +0000</pubDate>
-      <category>ambiente</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/374a/live/044a9190-9cdc-11f1-8c2c-67800657f112.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/374a/live/044a9190-9cdc-11f1-8c2c-67800657f112.png" type="image/jpeg" length="0" />
+      <title>Canada 'should fight' as US trade deadline looms, Manitoba premier says</title>
+      <link>https://www.bbc.co.uk/news/articles/czjlr0evy0do</link>
+      <description>Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US. Fuente: BBC News - Business.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e1d5d1b80a3ea9b8</guid>
+      <pubDate>Fri, 21 Aug 2026 15:34:06 +0000</pubDate>
+      <category>politica</category>
+      <category>economia</category>
+      <category>salud</category>
+      <category>América del Norte</category>
+      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768e/live/ffd477b0-9d68-11f1-a07c-85afe5c51b6f.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/768e/live/ffd477b0-9d68-11f1-a07c-85afe5c51b6f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Japan executes man who killed five in Pachinko parlour fire</title>
@@ -184,6 +186,20 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/472a/live/5bf07db0-9d09-11f1-a7a3-177d6356d0c7.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iranian president says time to end war with US from ‘position of strength’</title>
+      <link>https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss</link>
+      <description>Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran. “It is better that we bring the war to an end now as we... Publicado también por: South China Morning Post, Deutsche Welle - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:871e88e08dc58ef7</guid>
+      <pubDate>Sat, 22 Aug 2026 00:59:37 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/d19b2a0d-25e6-4bf0-bcbb-400dacdd9f78_9a397b8c.jpg?itok=-5t25w2R&amp;v=1787345261" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/d19b2a0d-25e6-4bf0-bcbb-400dacdd9f78_9a397b8c.jpg?itok=-5t25w2R&amp;v=1787345261" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iran’s president calls to end war with US from ‘position of strength’</title>
@@ -639,6 +655,20 @@
       <enclosure url="https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/780501058_1852653815706595_4525931152031827691_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=p96PZ8SSP9kQ7kNvwHbCU5k&amp;_nc_oc=AdpG3HP4CXM0qFcjmeS5aRECejKPpRUo3qCWkSgjzyDhLq8ilRIfxaIlIzRtRDSug_Q&amp;_nc_zt=23&amp;_nc_ht=scontent-fra3-2.xx&amp;_nc_gid=mdYnrH-g0kMCzf0kVRcIog&amp;_nc_ss=7f289&amp;oh=00_AQFFPm-DKA3zaptCSWC8mEIcF89IZ3X2AtfFcxwVmS-Gaw&amp;oe=6A8E3F23" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú</title>
+      <link>https://www.abc.es/internacional/terremoto-magnitud-sacude-ayacucho-sur-peru-20260820204639-nt.html</link>
+      <description>Un terremoto de 7,2 grados con epicentro en Cora Cora, Ayacucho, al sureste de Perú, sacudió este jueves la región causando deslizamientos en las montañas aledañas a las carreteras y pánico entre los ayacuchanos, según pudo verse en los vídeos publicados por los medios peruanos. El seímo dejó tres heridos y daños en 11 colegios y al menos 12 centros de salud.El Instituto Geofísico de Perú informó que el epicentro está a 35 kilómetros de Cora Cora y tiene una profundidad de 108 kilómetros.En declaraciones a RPP Noticias, el alcalde de la provincia de Parinacochas (donde se ubica Cora Cora)… Publicado también por: El Mundo - Internacional, BBC News Mundo. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b23616388a8cee74</guid>
+      <pubDate>Fri, 21 Aug 2026 12:23:08 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Paola Ugaz</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/20/newspaint-1787251727206-624x385-U20609936686AgE-U301371528310faG-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/20/newspaint-1787251727206-624x385-U20609936686AgE-U301371528310faG-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>26 reacciones · 16 comentarios | Fifty Palestinians killed in Israeli strikes in the initial months of the Israel-Hamas war, whose remains were recently recovered from under the rubble, were buried in a mass funeral on Thursday in Gaza City. | AP</title>
       <link>https://www.facebook.com/reel/1590768815880982/?comment_id=1551383759489827&amp;__cft__%5B0%5D=AZZht98yFGqwnkdmOn294gPjc3tAro70k4ZpgRIoBKnxYwV7GyFahx-WWwwU1uBnQzXXEtiADTPBrru0JzJDzbsqUyFjqbbMCgrEHccGCm7bvjl2z3gsIRgm266ED3hhC36LgYtpzRzvAz4-V4rQsVI5rg-wzgBTDMc0uKyOOsnIZ_-khN7xCfdzAxdDST0WQ7hUXdW10baCa9CVOhpiPToB&amp;__tn__=R-R</link>
       <description>Fifty Palestinians killed in Israeli strikes in the initial months of the Israel-Hamas war, whose remains were recently recovered from under the rubble, were buried in a mass funeral on Thursday in... Fifty Palestinians killed in Israeli strikes in the initial months of the Israel-Hamas war, whose remains were recently recovered from under the rubble,... Fuente: The Associated Press.</description>
@@ -721,6 +751,47 @@
       <source url="https://www.facebook.com/bbcnews/">BBC News</source>
       <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/12063323466174299649?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F8167%2Flive%2Fe00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png&amp;fb_obo=1&amp;utld=bbci.co.uk&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Qrqb5yBx4m3OIZ9AECbaUg&amp;_nc_oc=Adpgmd3ywjArawNNCkHfIOprJhEJJ8RYAnbZZotPNshuLItrlmU1xOHeE15PB6X4bhM&amp;ccb=13-1&amp;oh=06_Q3_CAcIpubpVjR347wRyxLDBslsIShMFyEnfPVyJBpf18LXb&amp;oe=6A89F004&amp;_nc_sid=e17101" medium="image" />
       <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/12063323466174299649?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F8167%2Flive%2Fe00ffeb0-9c99-11f1-a38b-8bb91d2ef80e.png&amp;fb_obo=1&amp;utld=bbci.co.uk&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Qrqb5yBx4m3OIZ9AECbaUg&amp;_nc_oc=Adpgmd3ywjArawNNCkHfIOprJhEJJ8RYAnbZZotPNshuLItrlmU1xOHeE15PB6X4bhM&amp;ccb=13-1&amp;oh=06_Q3_CAcIpubpVjR347wRyxLDBslsIShMFyEnfPVyJBpf18LXb&amp;oe=6A89F004&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>TikTok and its parent company, ByteDance, reached a $400 million settlement with the US Justice Department over children’s privacy litigation, one of the largest amount... Ver más</title>
+      <link>https://www.facebook.com/cnn/posts/pfbid02A2HQKD3qzgxWqiNeYjASc8sLeUaxhoWr7JhAN4U6WkVNQJ1RGN2S3KbgGnFdiVeFl?__cft__%5B0%5D=AZZogZuFb8DKyOG_K-HhcDZ-At9NXYgGGMMY7CKRHOJmiUaFWIOmTlQMyAnWbxCNw8Gx_T5M80RDCTZYvjm9Beua4R-ChIw4w17YOEco27mS-SVsEP9IorTBGpjsPNo9rO_Nv39P3EmtCap380_PKNZztxNrjtJ1biCtn4Jb0ddYptvJeOvU71xczx1NABQRwgE&amp;__tn__=%2CO%2CP-R</link>
+      <description>TikTok and its parent company, ByteDance, reached a $400 million settlement with the US Justice Department over children’s privacy litigation, one of the largest amount... Ver más Omg TikTok's getting 'byte'd by the law Ver más comentarios Christine R. Deborah Publicado también por: The Hindu - International. Fuente: CNN.</description>
+      <guid isPermaLink="false">cron-rss-noticias:90e00f7d130abf41</guid>
+      <pubDate>Sat, 22 Aug 2026 01:37:16 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://www.facebook.com/cnn/">CNN</source>
+      <media:content url="https://scontent-fra5-2.xx.fbcdn.net/v/t39.99422-6/778957945_1380452813498827_1568689759161484771_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=YXZ9deAtpH0Q7kNvwHXPwmf&amp;_nc_oc=Adqw2xJj6ON4IrxqHa9R8qxxzbtCdlkjCx-SyqGtmaJyttkRLJrUc7kdcdlktWTZkMk&amp;_nc_zt=14&amp;_nc_ht=scontent-fra5-2.xx&amp;_nc_gid=KJoOVwioKXpKjBud4bh3zQ&amp;_nc_ss=7f289&amp;oh=00_AQEcEjSY2N8PJNXtylIBsyHMGnSeXcPBuZZGgzZoPgGC8w&amp;oe=6A8EBC43" medium="image" />
+      <enclosure url="https://scontent-fra5-2.xx.fbcdn.net/v/t39.99422-6/778957945_1380452813498827_1568689759161484771_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=YXZ9deAtpH0Q7kNvwHXPwmf&amp;_nc_oc=Adqw2xJj6ON4IrxqHa9R8qxxzbtCdlkjCx-SyqGtmaJyttkRLJrUc7kdcdlktWTZkMk&amp;_nc_zt=14&amp;_nc_ht=scontent-fra5-2.xx&amp;_nc_gid=KJoOVwioKXpKjBud4bh3zQ&amp;_nc_ss=7f289&amp;oh=00_AQEcEjSY2N8PJNXtylIBsyHMGnSeXcPBuZZGgzZoPgGC8w&amp;oe=6A8EBC43" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Bolivia: Rodrigo Paz destituye a su ministro de Economía en medio de una semana de escándalos</title>
+      <link>https://www.france24.com/es/am%C3%A9rica-latina/20260822-bolivia-rodrigo-paz-destituye-a-su-ministro-de-econom%C3%ADa-en-medio-de-una-semana-de-esc%C3%A1ndalos</link>
+      <description>El presidente de Bolivia, Rodrigo Paz, hizo oficial la destitución de su ministro de Economía, José Gabriel Espinoza, después de que la Asamblea Legislativa aprobara una moción de censura en su contra. La decisión llega en un momento en que el Gobierno de Paz está bajo presión, luego de que estallara un escándalo relacionado con el asesor del presidente, Fernando Cerimedo, acusado por la justicia boliviana de intento de feminicidio. Publicado también por: Clarín - Mundo. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:48ef0d07b5e9bf0e</guid>
+      <pubDate>Sat, 22 Aug 2026 01:12:10 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Diego Bazzani</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/1126ac40-9dc3-11f1-a613-005056bfb2b6/w:1024/p:16x9/658550460c355886e9ad62df952606934fc501de.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/1126ac40-9dc3-11f1-a613-005056bfb2b6/w:1024/p:16x9/658550460c355886e9ad62df952606934fc501de.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russian drone strikes on Ukraine shopping centre kill 16, injure 130</title>
+      <link>https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130</link>
+      <description>At least ⁠16 people were killed ⁠and more than 130 wounded on Friday when several Russian drones struck a shopping centre in central Ukraine, authorities said, with President Volodymyr Zelensky promising a response to what he called an “act of barbarism”. Regional governor ‌Oleksandr Hanzha said that 22 children were among the wounded in the daytime attack on the city of Kryvyi Rih, which is Zelensky’s hometown. “There are 29 people in serious condition, including five children,” Hanzha said. He... Publicado también por: France 24 - English. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:875da646912f426e</guid>
+      <pubDate>Sat, 22 Aug 2026 01:03:56 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Reuters</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&amp;v=1787360624" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&amp;v=1787360624" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant</title>
@@ -1142,6 +1213,18 @@
       <enclosure url="https://static.toiimg.com/photo/msid-133389834,imgsize-42354.cms" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>TikTok to pay $559m in 'one of the largest' child pivacy settlements</title>
+      <link>https://www.abc.net.au/news/2026-08-22/tiktok-to-pay-559m-settlement-in-us-children-s-privacy-case/107066690</link>
+      <description>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13. Publicado también por: BBC News - World. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2b3184a7347e7496</guid>
+      <pubDate>Fri, 21 Aug 2026 23:51:07 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/328c7fa6cae0b16eb7ed891ce56b7eed?impolicy=wcms_crop_resize&amp;cropH=2704&amp;cropW=4807&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/328c7fa6cae0b16eb7ed891ce56b7eed?impolicy=wcms_crop_resize&amp;cropH=2704&amp;cropW=4807&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>A young girl has died in hospital after getting into difficulty in the sea off Shoreham in an incident which also killed three of her family members. ... Ver más</title>
       <link>https://www.facebook.com/reel/2826774724353759/?__cft__%5B0%5D=AZbRULMkqAW7Q4V0rURmksvf2qCpA9YRX_tQQ2sd57MF5FJgKVXssUZngJHm5B9tykrAVZcYK_FZ-_7VuFfLkHxRZVdXh2Ru3shusugkZYAZ9-kEGAcXDBh13bqUy5j_IHpNXNlxFZOSZZ6rXZrfHVpd-9zrGnZJ6ldWedHuAOjZbqpFzIeQyh7OS5Rfr8RstlehrBR-nWNfVQGtZ7vNpJhk&amp;__tn__=%2CO%2CP-R</link>
       <description>A young girl has died in hospital after getting into difficulty in the sea off Shoreham in an incident which also killed three of her family members. ... Ver más Tenemos problemas para reproducir este vídeo. Más información BBC News ha limitado quién puede comentar esta publicación. Fuente: BBC News.</description>
@@ -1309,6 +1392,59 @@
       <enclosure url="http://images.euronews.com/articles/stories/09/88/33/39/640x360_cmsv2_0315e29e-75e9-5b2a-a050-98ed767a9a8b-9883339.jpg?1787300648" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>El rey de España sigue de cerca la crisis y podría hablar con su par marroquí para intentar destrabar la situación; mientras tanto, miles de migrantes permanecen en el ... Ver más</title>
+      <link>https://www.facebook.com/lanacion/posts/pfbid02V5bhgQir2Kw1rDsP4KbpjsgT8TCK2P6a5iSXTtAjuoLirBwJETExEd2Ui8JCrgRGl?__cft__%5B0%5D=AZafFLUln2ATZjlGdTvx736zWwyHzbLjiH-g4Jd1xme97GCogabdFoO9JhYbBWQR7Zb49qJULX1pI7qHoytBNvgo40W54DFJG21FPEQ4izCPe4iK5A0h7beDZ0vDwN2cE_d9ehxJxKbBmMqlyjsNbUxC7_Z8pyPkgnlHK9crpIxG5eCp6zP8mo40nekhMFpSUFM&amp;__tn__=%2CO%2CP-R</link>
+      <description>El rey de España sigue de cerca la crisis y podría hablar con su par marroquí para intentar destrabar la situación; mientras tanto, miles de migrantes permanecen en el ... Ver más LANACION.COM.AR Sánchez busca que Felipe VI se involucre en la crisis en Ceuta y contacte al rey de Marruecos Fuente: LA NACION.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ae76620b200af340</guid>
+      <pubDate>Sat, 22 Aug 2026 01:51:02 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <category>África</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/lanacion/">LA NACION</source>
+      <media:content url="https://scontent-sin2-1.xx.fbcdn.net/v/t39.2147-6/784240291_1827802344874018_2311203785135297835_n.jpg?stp=c0.5x0.5f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=39b8c1&amp;_nc_ohc=sveG_lZs5AIQ7kNvwGe_L8g&amp;_nc_oc=Adp-PKsdMgnxrcdxs3JtXCTOXlBG_OH_Jvglnf4cSS6DMyR2IbGu5I9xcKsnbW9PmZM&amp;_nc_zt=14&amp;_nc_ht=scontent-sin2-1.xx&amp;_nc_gid=K7GyUKmywOZfnOOSkIPY4g&amp;_nc_ss=7f289&amp;oh=00_AQEBjfCGlWSjD5JhpSOurmHASw9nfvS246sH4p-MN7-ODw&amp;oe=6A8EBDE4" medium="image" />
+      <enclosure url="https://scontent-sin2-1.xx.fbcdn.net/v/t39.2147-6/784240291_1827802344874018_2311203785135297835_n.jpg?stp=c0.5x0.5f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=39b8c1&amp;_nc_ohc=sveG_lZs5AIQ7kNvwGe_L8g&amp;_nc_oc=Adp-PKsdMgnxrcdxs3JtXCTOXlBG_OH_Jvglnf4cSS6DMyR2IbGu5I9xcKsnbW9PmZM&amp;_nc_zt=14&amp;_nc_ht=scontent-sin2-1.xx&amp;_nc_gid=K7GyUKmywOZfnOOSkIPY4g&amp;_nc_ss=7f289&amp;oh=00_AQEBjfCGlWSjD5JhpSOurmHASw9nfvS246sH4p-MN7-ODw&amp;oe=6A8EBDE4" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Trump administration is trying to deport a self-described CIA spy who infiltrated al Qaeda after 9/11 and won his permission to live in the U.S. by helping convict ... Ver más</title>
+      <link>https://www.facebook.com/CBSNews/posts/pfbid02ZVNND4K2GCyGojCdGcurgbA3MmVLa5sRJiivZ72p6UXzSSK6Hw64rAhqT1WMhheNl?__cft__%5B0%5D=AZbXeqQ1rHgE91zOziG35KIWoiDvFzXNQ2GGcMpeisRPBbPJvEAmuhwCDb2DM1Srr413cQxJgnbAEW-BSturSMVZIK4wTbmXlRbeveasrE7D3eSo0x2V26p9CNXjIxbY4mFkQNsNcYSOXG7GpVejQBYHR8wgoSS6ITQFlkKS1LCJRUUPWzM4UB5QKzaczbQQ9e8&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: CBS News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b9b01244833ce58f</guid>
+      <pubDate>Sat, 22 Aug 2026 01:46:48 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/780157411_1089199513681041_5465933190426336375_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1440&amp;ctp=s590x590&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=7VkFff3cIXcQ7kNvwHmiKBI&amp;_nc_oc=AdofILbZzuXffg0dlVloNgMzPdvfXS-DiFR4Cm00kIn-PpYKbyAHOxoQ4mmPJ0-SN9k&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=DUwq5kWXNyxB3VRV2Lbi6Q&amp;_nc_ss=7f289&amp;oh=00_AQH5luA9P5TFpPPlCa1YjgtdBLA92_DdHMwDLL997wBs8A&amp;oe=6A8ED5E3" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/780157411_1089199513681041_5465933190426336375_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1440&amp;ctp=s590x590&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=7VkFff3cIXcQ7kNvwHmiKBI&amp;_nc_oc=AdofILbZzuXffg0dlVloNgMzPdvfXS-DiFR4Cm00kIn-PpYKbyAHOxoQ4mmPJ0-SN9k&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=DUwq5kWXNyxB3VRV2Lbi6Q&amp;_nc_ss=7f289&amp;oh=00_AQH5luA9P5TFpPPlCa1YjgtdBLA92_DdHMwDLL997wBs8A&amp;oe=6A8ED5E3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>BREAKING: A US Navy P-8A Poseidon aircraft transited the Taiwan Strait in international airspace on Friday, the US 7th Fleet says, calling the move a demonstration of... Ver más</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid0FjQiSvJgEwML6LTxkMyugz75NyEXb2WRMhDzh8L7SV6FgrTiQewaB6yTFDnRcuxZl?__cft__%5B0%5D=AZaAl5i8IA6PbwZ3B60kEDxapmgOus-JAj2fa_5zIzHgeGou3BJQfVaTcUQlsGsIfM1v3b8ySHRbLjqIj228TBw4-LZue6f2PnPaAlmGpxpoUYeDR70sqfVMncO6BOeoZZmw3T9ePP3NuchMjiWlJJZlEqUsfoz4m8W10n_RCBx33hOovQPxiJdnmytK-Y8NnmU&amp;__tn__=%2CO%2CP-R</link>
+      <description>BREAKING: A US Navy P-8A Poseidon aircraft transited the Taiwan Strait in international airspace on Friday, the US 7th Fleet says, calling the move a demonstration of... Ver más imagine what was under water at the same time... Ver más comentarios Wayne Fegly Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9d5aa08d4f9397a8</guid>
+      <pubDate>Sat, 22 Aug 2026 01:43:15 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/778957754_27356608527352108_1084449327228805947_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Em6zsQKs1w0Q7kNvwEQxehQ&amp;_nc_oc=Adp7Y6XR-sueO6uGF2T5-TCmaYxfwFIA4bitpcxJKkQOsMVkg0Dsn58OSg0iclxkv_0&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=nQtJW67cG3vGcbVYcCq_UA&amp;_nc_ss=7f289&amp;oh=00_AQE_Pyd_Sq9AWWZ1PkLpjHdOTAyBMv6oBbSLBSUJ7g9r5A&amp;oe=6A8EECCB" medium="image" />
+      <enclosure url="https://scontent-dfw5-2.xx.fbcdn.net/v/t39.99422-6/778957754_27356608527352108_1084449327228805947_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Em6zsQKs1w0Q7kNvwEQxehQ&amp;_nc_oc=Adp7Y6XR-sueO6uGF2T5-TCmaYxfwFIA4bitpcxJKkQOsMVkg0Dsn58OSg0iclxkv_0&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=nQtJW67cG3vGcbVYcCq_UA&amp;_nc_ss=7f289&amp;oh=00_AQE_Pyd_Sq9AWWZ1PkLpjHdOTAyBMv6oBbSLBSUJ7g9r5A&amp;oe=6A8EECCB" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief</title>
+      <link>https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih</link>
+      <description>Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”. The EU’s foreign policy chief, Kaja Kallas, condemned Friday’s attack on Kryvyi Rih – the president’s home town – as “terror by design” and said she was “putting forward the most far-reaching Russia sanctions listings since the start of the war” when ministers meet in Ireland next… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f29cd30e690e9637</guid>
+      <pubDate>Sat, 22 Aug 2026 01:12:32 +0000</pubDate>
+      <category>politica</category>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d399c2e90ef7aecdfd56b841aea05d55" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/2cc528426ef20eae7438615f8906db2f009b85dc/37_0_970_776/master/970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d399c2e90ef7aecdfd56b841aea05d55" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>14 reacciones · 3 comentarios | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 | ATB Digital</title>
       <link>https://www.facebook.com/ATBDigital/videos/1521281749764300/?comment_id=2234074747380230&amp;__cft__%5B0%5D=AZYwPiZeqEklo5Nc9ygku89p-xDa-Jzi0d-p_XQZCP8PStJkP4uaguEjrjiG1Rz43WVzNpJKlZApyQ17kfd0scVF5z6xozVcUcRvNKn308XlUT4OrkbE4PALVKKnVCSiZvkjQOW3CDWpAy2elT6iY_52gRqTeAxGa2wuyEMkXYXYhVN3OFQwOKb2zXGod8p00IKhByfuasDfOsnkeWw3SGhr&amp;__tn__=R%5D-R</link>
       <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 Fuente: ATB Digital.</description>
@@ -1445,133 +1581,6 @@
       <source url="https://www.facebook.com/NTN24/">NTN24</source>
       <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/10152052309796293527?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F08%2F21161829%2FAsesinan-esmeraldero-en-Bogota-Captura-de-X-2.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=f3EsZUw-S6mFmBOtPiZDxw&amp;_nc_oc=AdrDzf0BKCOAKshKtRByG64Xbizlom9B-g2MRkOFFUQwvpg_bwOhu6cvSYsi7dAgxj4&amp;ccb=13-1&amp;oh=06_Q3_CAUpCCJD0sAZ-RjyNHHwv93hCPURLOmTQHfsz8iZl4ujM&amp;oe=6A8AA197&amp;_nc_sid=e17101" medium="image" />
       <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/10152052309796293527?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F08%2F21161829%2FAsesinan-esmeraldero-en-Bogota-Captura-de-X-2.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=f3EsZUw-S6mFmBOtPiZDxw&amp;_nc_oc=AdrDzf0BKCOAKshKtRByG64Xbizlom9B-g2MRkOFFUQwvpg_bwOhu6cvSYsi7dAgxj4&amp;ccb=13-1&amp;oh=06_Q3_CAUpCCJD0sAZ-RjyNHHwv93hCPURLOmTQHfsz8iZl4ujM&amp;oe=6A8AA197&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The failure to reckon with lives needlessly lost will make the next pandemic deadlier</title>
-      <link>https://www.facebook.com/TheEconomist/posts/pfbid0xMWRe3KP3kpeSxmrCmcQcZFvDyjVmQUVMNhk15pJErVGfz9GcvrnJN6LCFrrrjG6l?__cft__%5B0%5D=AZZKFzrbqubRnu6qP5Hl-2gkXf0ZBO1U2y9MSpworP9U-AXxX9P3xTri8wz4VBw7tExWQu13nzt1pQ5nzqsUhso5Ludcoa4-SZSLe7FnistI2UN5whX_meO8fKunwRugBwAY_-PJWlrp9nOBZPkid5Rk2acHcAuoTaA-ie9-dSQgsV-qZkmOHSqFtoynmSKZyrY&amp;__tn__=%2CO%2CP-R</link>
-      <description>The failure to reckon with lives needlessly lost will make the next pandemic deadlier So, you have gone full MAGA? ECONOMIST.COM The real covid-19 scandal is still unfolding in America Robert Marshall Fuente: The Economist.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a620717ba19f9751</guid>
-      <pubDate>Fri, 21 Aug 2026 21:30:12 +0000</pubDate>
-      <category>economia</category>
-      <category>salud</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
-      <media:content url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/5969454519170918824?url=https%3A%2F%2Fimage.trueanthem.com%2FgKEFgkg7h8uehTDEdeGwENNOcXbPeL4amH-bPO9_VgM%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA4MjJfVVNEMDAwLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=yW2X7B3FVC7CY0LRIwoaug&amp;_nc_oc=Adojo1MYJlnVYfNu0YSVfQDseL1wKTC4kHQrf9hWpcbk7Ogsf-LNFCsOqdMncIfRvSg&amp;ccb=13-1&amp;oh=06_Q3_CAWvaieWleqpg5WolUlFkzfNRW6DZbVJQpiZ7-mlNA9m7&amp;oe=6A8AB5CA&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/5969454519170918824?url=https%3A%2F%2Fimage.trueanthem.com%2FgKEFgkg7h8uehTDEdeGwENNOcXbPeL4amH-bPO9_VgM%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA4MjJfVVNEMDAwLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=yW2X7B3FVC7CY0LRIwoaug&amp;_nc_oc=Adojo1MYJlnVYfNu0YSVfQDseL1wKTC4kHQrf9hWpcbk7Ogsf-LNFCsOqdMncIfRvSg&amp;ccb=13-1&amp;oh=06_Q3_CAWvaieWleqpg5WolUlFkzfNRW6DZbVJQpiZ7-mlNA9m7&amp;oe=6A8AB5CA&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A boat capsizes in a river in Nigeria’s northwestern Sokoto state, leaving at least 47 people dead, officials and residents say. The boat was carrying more than 80 peop... Ver más</title>
-      <link>https://www.facebook.com/NBCNews/posts/pfbid02dKikATK4avLEryYR1Gim8WYdfWtz7sHr6iVMSomyqfzwFbzYV2MDg2nzbnJEPvzZl?__cft__%5B0%5D=AZbOYUgyEd2flGVlZHMWDcKPXDmTYfllyfm7vnvP4V9IyYkhuArSVBfSkskLEvqsUDCy_RSNfDbs1r_4TD5GxbuLvkr_erD4hGEGorwxwaS8Ybje2pyhFIsXY3iMXwPyYa-5wXo5Cq1eQ3mE5pnZr2rgyr7w9ld3dWnV8_B8huqGCW0KRiWHSAw5gCWFHEfONWA&amp;__tn__=%2CO%2CP-R</link>
-      <description>A boat capsizes in a river in Nigeria’s northwestern Sokoto state, leaving at least 47 people dead, officials and residents say. The boat was carrying more than 80 peop... Ver más NBCNEWS.COM Boat capsizes in northwestern Nigeria, leaving dozens of people dead Ver más comentarios John Stofko Fuente: NBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:87502afc86703297</guid>
-      <pubDate>Fri, 21 Aug 2026 21:20:28 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
-      <media:content url="https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/13917104253818415782?url=https%3A%2F%2Fimage.trueanthem.com%2F-MT4dTt8B4NDW1ZASylm2yThRSvaSUS_kB3UEwssK04%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDgvMjYwODIwLW5pZ2VyaWEtYm9hdC1jYXBzaXplcy12c2ItMjExMC1hYTlhNWQuanBn.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=nNH_yeZOonMIAfwDq1RA0w&amp;_nc_oc=Adq64ztEZ1KMZvNEKbn50zhgeTLOgswBuELZZ7LFoZWajmpWcIdDlcO3GjLicodf9zg&amp;ccb=13-1&amp;oh=06_Q3_CAYQ6XSton1c50lfWNnZub7p2i1obBncamFlCOauLwwSf&amp;oe=6A8ABD45&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/13917104253818415782?url=https%3A%2F%2Fimage.trueanthem.com%2F-MT4dTt8B4NDW1ZASylm2yThRSvaSUS_kB3UEwssK04%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDgvMjYwODIwLW5pZ2VyaWEtYm9hdC1jYXBzaXplcy12c2ItMjExMC1hYTlhNWQuanBn.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=nNH_yeZOonMIAfwDq1RA0w&amp;_nc_oc=Adq64ztEZ1KMZvNEKbn50zhgeTLOgswBuELZZ7LFoZWajmpWcIdDlcO3GjLicodf9zg&amp;ccb=13-1&amp;oh=06_Q3_CAYQ6XSton1c50lfWNnZub7p2i1obBncamFlCOauLwwSf&amp;oe=6A8ABD45&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Clint Eckstein ha comentado: Narrator: He will not in fact live forever.</title>
-      <link>https://www.facebook.com/nytimes/posts/pfbid02Ga1NKtGDw4hd5aAckDui4oH5LW3P3Ykvpun1VkZ9wNTsRHfjTqxzwQFevRNBEgp5l?comment_id=1988833651834472&amp;__cft__%5B0%5D=AZaZ8d_CeTNrZGKBWS2X3tr9fPYTNcl0UFMwpSBZaqui2fK3HDSRHuoTMadLSk-rxKTWXJyFsaemp1loIaeGHXHH7pdVTjZTvr9GY1a2dtxe8lyzeOvbYvujjJfodgUwvHy3-c7zV1vkQNPl0gj-8Pf3j4PQef077IryUJ0RGOWakZD_GKMLcZLpmrw4aNJ9o0g&amp;__tn__=R-R</link>
-      <description>Bryan Johnson, a wealthy tech entrepreneur whose slogan is “Don’t Die,” has called himself “the healthiest person on the planet.” He consumes little... Fuente: The New York Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4942cfc96818d117</guid>
-      <pubDate>Fri, 21 Aug 2026 20:48:03 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/783220492_1464027165579742_4856581628997148080_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Lv5lXm2ODI8Q7kNvwG2BV3I&amp;_nc_oc=AdpZfqln17eI8BZs2TBmkoFhjKjkDFg0-p3Y620740Zy1xs0qT909zpqZOGmkABK4ns&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=rbaGiWyVcw8zpBFOGaEB7g&amp;_nc_ss=7f289&amp;oh=00_AQEF3kWLWWiJSnhx5wmkAPrN80Uv70x8iL01ONFY8d2dzA&amp;oe=6A8E8715" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/783220492_1464027165579742_4856581628997148080_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Lv5lXm2ODI8Q7kNvwG2BV3I&amp;_nc_oc=AdpZfqln17eI8BZs2TBmkoFhjKjkDFg0-p3Y620740Zy1xs0qT909zpqZOGmkABK4ns&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=rbaGiWyVcw8zpBFOGaEB7g&amp;_nc_ss=7f289&amp;oh=00_AQEF3kWLWWiJSnhx5wmkAPrN80Uv70x8iL01ONFY8d2dzA&amp;oe=6A8E8715" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/886478777632016/?comment_id=2364470040992491&amp;__cft__%5B0%5D=AZYmpD8GGFCJfco6BX4tEZzFS58brOJ0JAIBJExhuedv9ZUFXQwrWDW26P3WNvIL3-0ElxWY9PRugxoiMpAzlDXvekWU3aqoyWWtN7mhTcF2dl-7H11UgZpDbmjgDmC2GzAxOYom62igyXEtfm7lYs2wm_hm0866p9V1kC8FUa3_E1Fs78NSc9srXB6P5x_EqCb9tfBR-_Ua2lEY_wybTkET&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO 🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR... Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e644b9dade22b47e</guid>
-      <pubDate>Fri, 21 Aug 2026 20:48:03 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/777064391_2276702866204626_1454180186011405726_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sk1A7ipFvQUQ7kNvwHJ2kYR&amp;_nc_oc=Adr7OJyeWnKFbd_upbcS4h7VOzwztGc7YVrRty11t6yS9kuJvdWKAfRcZEjoCRQdR3o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=sIZw1V0-UHDTAme44D8AVQ&amp;_nc_ss=7f289&amp;oh=00_AQHQ-egde32OfS38za4tufVEZEWp_rASHGSNKvKzMQMXgw&amp;oe=6A8E9EB5" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/777064391_2276702866204626_1454180186011405726_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sk1A7ipFvQUQ7kNvwHJ2kYR&amp;_nc_oc=Adr7OJyeWnKFbd_upbcS4h7VOzwztGc7YVrRty11t6yS9kuJvdWKAfRcZEjoCRQdR3o&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=sIZw1V0-UHDTAme44D8AVQ&amp;_nc_ss=7f289&amp;oh=00_AQHQ-egde32OfS38za4tufVEZEWp_rASHGSNKvKzMQMXgw&amp;oe=6A8E9EB5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The federal government will scale back the water supply for Arizona, California and Nevada beginning next year to manage the growing crisis over the drying Colorado Riv... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid031LPQasoZ4hmNn6X5nPstcJ7AGFet9VoNSJt5DMiGu5wGxc9DCACbzU5oQtLuLFFLl?__cft__%5B0%5D=AZab_04i9PDQxoesq3rdeRO3DVFlR1tTb-W6NEhhknlxlnYeOiNVakStkbaVaRRQOcnhhSHVzRMOpsuM8Q6tIIi_-bI9tAN0TBwXKVNNWfirsdb98VczyLuHUkueIUK_XB5iKpGA_6GlXIoD92A-kSDNc-FrhsrydWgalCLZElkRJ_QWOBt5LeF_YW_m1bu3aAQ&amp;__tn__=%2CO%2CP-R</link>
-      <description>The federal government will scale back the water supply for Arizona, California and Nevada beginning next year to manage the growing crisis over the drying Colorado Riv... Ver más Good. We also need to make sure Mexico receives its fair share. Ver más comentarios Richard Aguirre Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9fc85cecbaf34401</guid>
-      <pubDate>Fri, 21 Aug 2026 20:36:50 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/780909909_1044288488393329_7729725736750458440_n.png?stp=dst-jpg_tt6&amp;cstp=mx1600x2000&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Z8BV6DIUmisQ7kNvwGO5v1G&amp;_nc_oc=AdpbutQZ_zl2yE5mmARkeIDPDPvo97rxR9gV3_6-Jtc3JHpX9jSSvHZf-u_1G804sPE&amp;_nc_zt=14&amp;_nc_ht=scontent-fra3-1.xx&amp;_nc_gid=zd0G9MFHnp3MjDC5wvfPEw&amp;_nc_ss=7f289&amp;oh=00_AQHhRJneXfPksG2iboxqZRlkKrc5gy5s1zXn1QuI8zcAkg&amp;oe=6A8E6FF2" medium="image" />
-      <enclosure url="https://scontent-fra3-1.xx.fbcdn.net/v/t39.99422-6/780909909_1044288488393329_7729725736750458440_n.png?stp=dst-jpg_tt6&amp;cstp=mx1600x2000&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Z8BV6DIUmisQ7kNvwGO5v1G&amp;_nc_oc=AdpbutQZ_zl2yE5mmARkeIDPDPvo97rxR9gV3_6-Jtc3JHpX9jSSvHZf-u_1G804sPE&amp;_nc_zt=14&amp;_nc_ht=scontent-fra3-1.xx&amp;_nc_gid=zd0G9MFHnp3MjDC5wvfPEw&amp;_nc_ss=7f289&amp;oh=00_AQHhRJneXfPksG2iboxqZRlkKrc5gy5s1zXn1QuI8zcAkg&amp;oe=6A8E6FF2" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Saturday's gossip: Liverpool enquire about Real Madrid's Endrick</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cy4kjg3j4d3o</link>
-      <description>Liverpool make Endrick enquiry, Chelsea brace for a Nicolas Jackson offer and Arsenal make request to Victor Osimhen, plus more. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ed8e5c0f13651eaa</guid>
-      <pubDate>Fri, 21 Aug 2026 19:48:23 +0000</pubDate>
-      <category>deportes</category>
-      <category>Europa</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90aa/live/fb636880-9d95-11f1-a291-b542ee92de7c.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/886478777632016/?comment_id=2364470040992491&amp;__cft__%5B0%5D=AZbybOsF6m14u0qIYTqpcrnvO0igzJS8NOOmHDR-8GPzJi1RHKlbcTlnCamDurYLNCiAU3xNjZrYkd_bTc1173MBvYBJrZoaABVHNhfjw6wX3szENN_SQZBPJ6i-Ge5LRyG7e8aW8rMOsuovXGZKkCW4-gOosfxmC7id6FDwfMS3mjbpQ0-jVEtH6AR4H9RstYUUlxtWiT67bCA4r0Yjf5Hj&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR ATB RADIO 🔴EN VIVO🔴 ➡️Actualidad The Strongest ➡️FIFA Arena en Santa Cruz ➡️Fecha 16 de la Liga Boliviana SIGUE LA PASIÓN DEL FUTBOL JUNTO A LA RED DEPORTIVA POR... Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:096b76fac872ba23</guid>
-      <pubDate>Fri, 21 Aug 2026 19:44:49 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/777064391_2276702866204626_1454180186011405726_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sk1A7ipFvQUQ7kNvwFCdylN&amp;_nc_oc=AdrMO2zH08uHXz_EK9uYw1q0gyNwyLkPIXCXZ74LMFmIUgDCWZqsnyxmKBGub153FuM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=t47ossDNuXcb0GYbxxCZeg&amp;_nc_ss=7f289&amp;oh=00_AQElOSCSHZfch-RwWsZzujPLvrGpNp6nWviuA0GY3x4MtA&amp;oe=6A8E6675" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/777064391_2276702866204626_1454180186011405726_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sk1A7ipFvQUQ7kNvwFCdylN&amp;_nc_oc=AdrMO2zH08uHXz_EK9uYw1q0gyNwyLkPIXCXZ74LMFmIUgDCWZqsnyxmKBGub153FuM&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=t47ossDNuXcb0GYbxxCZeg&amp;_nc_ss=7f289&amp;oh=00_AQElOSCSHZfch-RwWsZzujPLvrGpNp6nWviuA0GY3x4MtA&amp;oe=6A8E6675" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>https://todonoticias.info/4xcJxf7 | La modelo recordó que un compañero de elenco aprovechó la falta de supervisión en el set para hacerle comentarios sexuales</title>
-      <link>https://www.facebook.com/todonoticias/posts/pfbid02LD7MHeAaUNsevsXYU5HG3QNzT4wXH1LwKMha4hoCz4A3ECu1Ytkakb7yoESf7Pvjl?__cft__%5B0%5D=AZbDRqPHb9pWrunb_Pvu5C7vI6uqPolxItgHUa5KME-8dvOkOqEicibK-Qgud0nSaLGTUxL2J9CHbWA7RhTeJWPyd4a2E2RCnqECYlazTMNqILNC0FKCv4GQzabCwnR98R79EIfo1TNMkmKXt1w2mOhMErbMZBGwB3kAusMmgwB98AvD9Zl6Jo3XjE3BiZziLMk&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: TN - Todo Noticias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0996da92c568d8d0</guid>
-      <pubDate>Fri, 21 Aug 2026 19:38:09 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/todonoticias/">TN - Todo Noticias</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/778957715_1383740480397488_3531265681531066251_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=xwYQLxpq-pgQ7kNvwF0ZxYX&amp;_nc_oc=AdonXF8674ciV5R7TIP_iJMVruDdQInJ942BjehLHwoftCARewjQf2mlrnLM0r-vh9E&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=EA9y3MvpXSjGuPqsMVAhZg&amp;_nc_ss=7f289&amp;oh=00_AQFN2G-IXh75muPBwfap2Jns6znJLz27FqfeIEGFKuKAuQ&amp;oe=6A8E6276" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/778957715_1383740480397488_3531265681531066251_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=xwYQLxpq-pgQ7kNvwF0ZxYX&amp;_nc_oc=AdonXF8674ciV5R7TIP_iJMVruDdQInJ942BjehLHwoftCARewjQf2mlrnLM0r-vh9E&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=EA9y3MvpXSjGuPqsMVAhZg&amp;_nc_ss=7f289&amp;oh=00_AQFN2G-IXh75muPBwfap2Jns6znJLz27FqfeIEGFKuKAuQ&amp;oe=6A8E6276" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Breaking news: Supreme Court Chief Justice John G. Roberts Jr. is allowing work to continue on the White House ballroom in the short term, issuing a stay that gives the... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid0Go7WJC6EvvAWf91DEuFoDqL5LaYGhAQKZbo1c1oM37SdiT6cFuSoivPT1MvcJpS7l?__cft__%5B0%5D=AZZDxnJu2vRjc2rRih_QX5bfXLxi5W458nT5tMXiVZyLgx8FYFW0gOUs29ZE-A3kh_yFD8qvF0nA8c3LEktyLEoufJ8Ohz3HYKHGGDpELzZyppIv3OULQc9tz-DjzdZDU1BLrINyKBxqZw9rLYzWNsQoGEKMKHfFMbC6VjUEAdLxV-b87q6t_qYib96I-Ch3UTM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Breaking news: Supreme Court Chief Justice John G. Roberts Jr. is allowing work to continue on the White House ballroom in the short term, issuing a stay that gives the... Ver más The court, by virtue of its structure, inevitably becomes a political institution, especially when it decides who becomes president. WASHINGTONPOST.COM Supreme Court says Trump can continue ballroom work as it weighs… Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:35feeac7e97e7da7</guid>
-      <pubDate>Fri, 21 Aug 2026 19:32:14 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/13907825378637014472?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-08-21%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Faee1e956-e88b-4f95-bef4-dd0fc95ba3b8&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=mJDWcJW4z7nGuJUS_TCQBA&amp;_nc_oc=Ado_yUvhinvCd4oD2iz0oy1D7dLZzvvokIYvLhTqccmajTbTW8XC2eSS2lgMxsdw3fQ&amp;ccb=13-1&amp;oh=06_Q3_CAQQL5AxsGik1Evn0DmTCB9FttVKpzgjd9zooBLSUiBm-&amp;oe=6A8A893B&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/13907825378637014472?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-08-21%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Faee1e956-e88b-4f95-bef4-dd0fc95ba3b8&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=mJDWcJW4z7nGuJUS_TCQBA&amp;_nc_oc=Ado_yUvhinvCd4oD2iz0oy1D7dLZzvvokIYvLhTqccmajTbTW8XC2eSS2lgMxsdw3fQ&amp;ccb=13-1&amp;oh=06_Q3_CAQQL5AxsGik1Evn0DmTCB9FttVKpzgjd9zooBLSUiBm-&amp;oe=6A8A893B&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1164 reproducciones · 116 reacciones | A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring 103, including 22 children. Officials said the attack came in two waves, with the second strike occurring as emergency crews were responding to the scene. | Al Jazeera English</title>
-      <link>https://www.facebook.com/reel/1574236810749604/?comment_id=1060848399644109&amp;__cft__%5B0%5D=AZZdcayzGtx6yA3njjYlYz5U1b0FwoPntRTb4U74pYujW7wNyhi_mti2YTcaIXLgHedF-wyd31R_TcVpt75QnA6i7A7nuIIJgKu1WttAajB9K4ZLDXXqEk9-EV4FY46LKy_OzEmM-1ZAsj-46lPuoMnOiro2l4yWartVw9oFAvkvXPktPuPgNdwYx9HqQ2pCHnyTkvQowXSfksjQg5tBaUi1&amp;__tn__=R-R</link>
-      <description>A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring 103, including 22 children. Officials said the attack came in two waves, with the second... A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring 103, including 22 children. Officials said the... Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b4293be8e29f591b</guid>
-      <pubDate>Fri, 21 Aug 2026 19:04:49 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/783507123_1567548895167840_2672191186266741612_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=XmxYDlvTwGwQ7kNvwES6PAW&amp;_nc_oc=Ado33dUVGWF0BnSTQe07qfnrS7yr-NNbElwubF8DfLmL8l4KgY9wE77tJ2ymZwZNlGY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=V0mTTLX7uTtblA3mxVDBrg&amp;_nc_ss=7f289&amp;oh=00_AQEnEXa1lhgHi0qhNd7tJLH6E2E57GdmNzguDTTWMyGXFg&amp;oe=6A8E6436" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/783507123_1567548895167840_2672191186266741612_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=XmxYDlvTwGwQ7kNvwES6PAW&amp;_nc_oc=Ado33dUVGWF0BnSTQe07qfnrS7yr-NNbElwubF8DfLmL8l4KgY9wE77tJ2ymZwZNlGY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=V0mTTLX7uTtblA3mxVDBrg&amp;_nc_ss=7f289&amp;oh=00_AQEnEXa1lhgHi0qhNd7tJLH6E2E57GdmNzguDTTWMyGXFg&amp;oe=6A8E6436" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
