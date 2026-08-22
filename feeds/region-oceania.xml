@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 22 Aug 2026 16:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:43:00 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-oceania.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -75,9 +75,23 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/107e/live/036bd260-9e31-11f1-8a71-eb9ef5df2469.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Watch: Moment robot attempts to beat Usain Bolt's 100m record</title>
+      <link>https://www.bbc.co.uk/news/videos/cgljl9zp47xo</link>
+      <description>A robot dubbed "Lightning" has beaten the 100 metres human world record held by Jamaican sprinting great Usain Bolt at this year's World Humanoid Robot Games. Publicado también por: ABC News Australia, Al Jazeera English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3aa4b9badb061835</guid>
+      <pubDate>Sat, 22 Aug 2026 14:10:05 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <category>Oceanía</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Ukraine strikes Russian retail warehouse in wave of drone attacks</title>
       <link>https://www.abc.net.au/news/2026-08-22/civilians-killed-in-ukrainian-drone-strikes-over-russia-/107067556</link>
-      <description>Ukraine has launched drone attacks targeting a Russian oil refinery and a online retail warehouse, while Russia continues its campaign of missile attacks on Kyiv. Fuente: ABC News Australia.</description>
+      <description>Ukrainian drones killed at least 10 people in attacks against targets across Russia and Russian-occupied areas of Ukraine, after a Russian attack on a Ukrainian shopping centre killed 16. Fuente: ABC News Australia.</description>
       <guid isPermaLink="false">cron-rss-noticias:531b27cd554aa6aa</guid>
       <pubDate>Sat, 22 Aug 2026 13:52:25 +0000</pubDate>
       <category>conflictos</category>
@@ -1383,19 +1397,6 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/2f7e23a13abb17c62c08f77a489ee3b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/2f7e23a13abb17c62c08f77a489ee3b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=5&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Federal government to fund majority of ACT gun buyback scheme</title>
-      <link>https://www.abc.net.au/news/2026-08-21/act-gun-buyback-scheme-federal-government-to-fund-majority/107064302</link>
-      <description>The ACT government committed to being part of a national gun buyback scheme in the wake of the Bondi Beach terrorist attack, but until now it has remained in negotiation with the federal government over how it would be funded. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f3e5939ff98596db</guid>
-      <pubDate>Fri, 21 Aug 2026 12:34:15 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <dc:creator>Charlie Gore</dc:creator>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/dcfe51e78a114d4035f9e028376f864d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/dcfe51e78a114d4035f9e028376f864d?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

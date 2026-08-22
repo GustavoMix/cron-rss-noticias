@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 22 Aug 2026 16:47:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:43:00 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -36,6 +36,20 @@
       <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
       <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword-school_7328197.jpg?20260822152745" medium="image" />
       <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-sweden-sword-school_7328197.jpg?20260822152745" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Watch: Moment robot attempts to beat Usain Bolt's 100m record</title>
+      <link>https://www.bbc.co.uk/news/videos/cgljl9zp47xo</link>
+      <description>A robot dubbed "Lightning" has beaten the 100 metres human world record held by Jamaican sprinting great Usain Bolt at this year's World Humanoid Robot Games. Publicado también por: ABC News Australia, Al Jazeera English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3aa4b9badb061835</guid>
+      <pubDate>Sat, 22 Aug 2026 14:10:05 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <category>Oceanía</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>One killed, three wounded in sword attack at Swedish high school</title>
@@ -273,6 +287,19 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/7wykw7/article71375005.ece/alternates/LANDSCAPE_1200/AFP_C4YN49E.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/7wykw7/article71375005.ece/alternates/LANDSCAPE_1200/AFP_C4YN49E.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rusia ataca con drones un centro comercial en Ucrania y deja 16 muertos y 130 heridos... Ver más</title>
+      <link>https://www.facebook.com/reel/2143033746281059/?__cft__%5B0%5D=AZaoaj4NoCafjLjKKOuGkQPqaJukcx5yK36v6IksxaiT2jSVCjfFbp-ucUIhqU9MwR07RSm9QmJ67qAbIHnc_oCIOIUy3sJhWLsKmxXAn-ZK9KFVOOMaUGRo0oDY9i9AAk3BeAmPBYb7IbyOxKGeVPP29hHEkeRHF2QBfo6w82k5hDhF4eC_Ta0hFYDnnA_jXhTpZCHHDm_JHWdrvtNcfBnY&amp;__tn__=%2CO%2CP-R</link>
+      <description>Al menos 15 personas han muerto y 130 resultaron heridas como consecuencia de un ataque con drones rusos este viernes contra un centro comercial de Krivói Rog, en el este de Ucrania, que el presidente ucraniano, Volodímir Zelenski , ha calificado de «cínico y despreciable».El gobernador militar regional ucraniano, Oleksandr Ganzha, ha confirmado este balance en sus redes sociales, que incluye 23 menores de edad heridos.«Media hora después del primer impacto y el incendio, hubo un segundo ataque dirigido contra los equipos de emergencias. Ataques como estos no son otra cosa que actos… Publicado también por: ABC España - Internacional. Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2c04d1cd750faca1</guid>
+      <pubDate>Sat, 22 Aug 2026 16:42:24 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/21/1516239927-kQXF-U301386386156n6D-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/21/1516239927-kQXF-U301386386156n6D-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Rusia ataca con drones un centro comercial en Ucrania y deja 16 muertos y 130 heridos... Ver más</title>
@@ -514,18 +541,6 @@
       <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/783286684_1648111500512909_6222836321162298094_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1920x1005&amp;ctp=p600x600&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=n-0B_xGYhVcQ7kNvwHzmN9O&amp;_nc_oc=AdqxRlabukm_gBZDI0HqSgeD2_710P5SAbyjHvZjm512M6FFPCmGay9sabRFZKaxJEA&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=BQV09fjkiyYCRTwAYpL_oQ&amp;_nc_ss=7f289&amp;oh=00_AQFbs5-HRDsUvj7JWOYXElYmJEyigzWM9HB_ca-syI18hw&amp;oe=6A8F993C" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Watch: Moment robot attempts to beat Usain Bolt's 100m record</title>
-      <link>https://www.bbc.co.uk/news/videos/cgljl9zp47xo</link>
-      <description>An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3aa4b9badb061835</guid>
-      <pubDate>Sat, 22 Aug 2026 14:10:05 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Fourteen killed in strike on Myanmar monastery</title>
       <link>https://www.bbc.co.uk/news/articles/cqlxlvz01z1o</link>
       <description>A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat. Fuente: BBC News - World.</description>
@@ -711,18 +726,18 @@
       <enclosure url="https://scontent-fra3-2.xx.fbcdn.net/v/t15.5256-10/780501058_1852653815706595_4525931152031827691_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=p96PZ8SSP9kQ7kNvwHbCU5k&amp;_nc_oc=AdpG3HP4CXM0qFcjmeS5aRECejKPpRUo3qCWkSgjzyDhLq8ilRIfxaIlIzRtRDSug_Q&amp;_nc_zt=23&amp;_nc_ht=scontent-fra3-2.xx&amp;_nc_gid=mdYnrH-g0kMCzf0kVRcIog&amp;_nc_ss=7f289&amp;oh=00_AQFFPm-DKA3zaptCSWC8mEIcF89IZ3X2AtfFcxwVmS-Gaw&amp;oe=6A8E3F23" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Un terremoto de magnitud 7,2 sacude Ayacucho, en el sur de Perú</title>
-      <link>https://www.abc.es/internacional/terremoto-magnitud-sacude-ayacucho-sur-peru-20260820204639-nt.html</link>
-      <description>Un terremoto de 7,2 grados con epicentro en Cora Cora, Ayacucho, al sureste de Perú, sacudió este jueves la región causando deslizamientos en las montañas aledañas a las carreteras y pánico entre los ayacuchanos, según pudo verse en los vídeos publicados por los medios peruanos. El seímo dejó tres heridos y daños en 11 colegios y al menos 12 centros de salud.El Instituto Geofísico de Perú informó que el epicentro está a 35 kilómetros de Cora Cora y tiene una profundidad de 108 kilómetros.En declaraciones a RPP Noticias, el alcalde de la provincia de Parinacochas (donde se ubica Cora Cora)… Publicado también por: El Mundo - Internacional, BBC News Mundo. Fuente: ABC España - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b23616388a8cee74</guid>
-      <pubDate>Fri, 21 Aug 2026 12:23:08 +0000</pubDate>
-      <category>ambiente</category>
+      <title>Una jueza federal anula la prohibición de visados de Estados Unidos a ciudadadanos de 75 países</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid02PGuRvpWmhUmaTdTUqZ8Uqv39GtN89Fgc1ro4n9PBDtiZNC4H34JEQZdBfHXfktvWl?__cft__%5B0%5D=AZayC3u5ZyfhIiBQJMOeUl3oZzEP176jJUfY6k1sVU-6hEX55tPFwFotLfBylQJ_VO5TPotkO7abDYBbEdAHz0rwiye_Afq67PDb7XXTpfe70x31E_yrFtZTO1GwAZ_7UpcmrOqDicni02vDkWieNt0dxo9j6g4r_WBxzt2wQ5_Ebh-VHCgsDyz3I5nbJSTr_oY&amp;__tn__=%2CO%2CP-R</link>
+      <description>Una jueza federal anula la prohibición de visados de Estados Unidos a ciudadadanos de 75 países Estados Unidos, país de leyes, El presidente no puede hacer lo que se le antoje. Pedro Pedro EEUU como DEMOCRACIA PLENA,se respeta la SEPARACIÓN DE PODERES.No se puede decir de todos los países,ejemplo Uruguay,si bien está establecida en Constitución,en la práctica no se la respeta,JORGE DIAZ la viola… Publicado también por: El País - Internacional. Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:750dbda5536fda03</guid>
+      <pubDate>Sat, 22 Aug 2026 17:43:00 +0000</pubDate>
+      <category>politica</category>
       <category>América Latina</category>
+      <category>América del Norte</category>
       <category>Europa</category>
-      <dc:creator>Paola Ugaz</dc:creator>
-      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
-      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/20/newspaint-1787251727206-624x385-U20609936686AgE-U301371528310faG-1200x840@diario_abc.jpg" medium="image" />
-      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/20/newspaint-1787251727206-624x385-U20609936686AgE-U301371528310faG-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-lhr6-1.xx.fbcdn.net/emg1/v/t13/7111842935064362579?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FUQ5HDLPSF5J5LNYMF24W5CMCRI.jpg%3Fauth%3D967175fdae8f352fc0d1db601fc1f1aa544958125016048c5718288572c6a37f%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=V8o3embrx_t6wTDCzE4IWA&amp;_nc_oc=AdoD5G0grHaWLznTsja9rTSyfFo890NT2O0v2ZHiZu5UI0--dR4-I60hsV_fhyyZu9U&amp;ccb=13-1&amp;oh=06_Q3_CAX5yDDTln1d-qhBxVfH3glQFEEesVotX_cErmdBoeuIG&amp;oe=6A8BA387&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-lhr6-1.xx.fbcdn.net/emg1/v/t13/7111842935064362579?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FUQ5HDLPSF5J5LNYMF24W5CMCRI.jpg%3Fauth%3D967175fdae8f352fc0d1db601fc1f1aa544958125016048c5718288572c6a37f%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=V8o3embrx_t6wTDCzE4IWA&amp;_nc_oc=AdoD5G0grHaWLznTsja9rTSyfFo890NT2O0v2ZHiZu5UI0--dR4-I60hsV_fhyyZu9U&amp;ccb=13-1&amp;oh=06_Q3_CAX5yDDTln1d-qhBxVfH3glQFEEesVotX_cErmdBoeuIG&amp;oe=6A8BA387&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Una jueza federal anula la prohibición de visados de Estados Unidos a ciudadadanos de 75 países</title>
@@ -1211,61 +1226,6 @@
       <enclosure url="https://s.france24.com/media/display/502592cc-9d5e-11f1-b991-005056a97e36/w:1024/p:16x9/AP26230701961290-1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Fishermen floating in cooler rescued after five days at sea off Mexican coast</title>
-      <link>https://www.france24.com/en/video/20260821-fishermen-floating-in-cooler-rescued-after-five-days-at-sea-off-mexican-coast</link>
-      <description>The Mexican Navy rescued two fishermen on Wednesday after they spent five days adrift in the Pacific Ocean aboard a cooler. They were found alive and have been reunited with their families. Publicado también por: Euronews. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:98c4e12d531ec9bf</guid>
-      <pubDate>Fri, 21 Aug 2026 13:08:30 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/9eceb58c-9d60-11f1-a2e0-005056a97e36/w:1024/p:16x9/Fishermen-Mexico-10.png" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/9eceb58c-9d60-11f1-a2e0-005056a97e36/w:1024/p:16x9/Fishermen-Mexico-10.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US designates Hezbollah an Iranian proxy, sanctions funding network</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0oooaXNDT1y7zdFnk1xbi5HTQJEMyhgx5SFnv1jWs6i11PhenqWWxvjxyG72Ti8n5l?__cft__%5B0%5D=AZZR3tO1ojRgy3kAsWqV0MSng51gb_JRsj2plFEnB7HtY4RLcm7EbOgg_xlXqK5q-Z7-7lwEpQhLB5o6wOevoy-njUP7PqOKcB5ovH0L5Rp_xpLPiXrfFzyxdNq9ltjdcm1Piyfaw6JVmZ582_CLCDEUWfKj3AUVV9NESFZtkWaEmozHlLzXNPeVx3dSv-YkDK8&amp;__tn__=%2CO%2CP-R</link>
-      <description>The US Treasury labels Lebanon-based group 'an extension' of the IRGC's Quds Force and takes aim at financing. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1e67fb37858311fd</guid>
-      <pubDate>Fri, 21 Aug 2026 13:01:05 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/779999146_1709282470149228_6843913082225924137_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=RyqsWD1I7fAQ7kNvwEQTiRX&amp;_nc_oc=AdrmFgO1MHQgPTcqOvqekNpe05CBLPJrT8D7ULYNxRHHzlZCAE-sXqJugWhgayZC8nY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=bW24HuzaHVUT46RdOfS-RA&amp;_nc_ss=7f289&amp;oh=00_AQGGxzWxgr24uRVb6QiElANOCHUHskjBJQsU2mb7vIn47Q&amp;oe=6A8E3024" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/779999146_1709282470149228_6843913082225924137_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=RyqsWD1I7fAQ7kNvwEQTiRX&amp;_nc_oc=AdrmFgO1MHQgPTcqOvqekNpe05CBLPJrT8D7ULYNxRHHzlZCAE-sXqJugWhgayZC8nY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=bW24HuzaHVUT46RdOfS-RA&amp;_nc_ss=7f289&amp;oh=00_AQGGxzWxgr24uRVb6QiElANOCHUHskjBJQsU2mb7vIn47Q&amp;oe=6A8E3024" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why are Hong Kong’s Tiananmen vigil organisers facing prison?</title>
-      <link>https://www.aljazeera.com/news/2026/8/21/why-are-hong-kongs-tiananmen-vigil-organisers-facing-prison?traffic_source=rss</link>
-      <description>Two organisers of Hong Kong's decades-old vigil commemorating the 1989 Tiananmen Square crackdown have been convicted under a controversial national security law. Publicado también por: Sky News - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:55aa66b41b94f199</guid>
-      <pubDate>Fri, 21 Aug 2026 12:54:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-tiananmen-square-hong-kong_7326929.jpg?20260821025402" medium="image" />
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-tiananmen-square-hong-kong_7326929.jpg?20260821025402" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El mensaje detrás de las amenazas de "guerra económica" de Trump contra Irán</title>
-      <link>https://www.clarin.com/new-york-times-international-weekly/mensaje-detras-amenazas-guerra-economica-trump-iran_0_Ph8G2tXKbe.html</link>
-      <description>El presidente de Estados Unidos amenaza con graves represalias a los países que permitan ayudar a Teherán Publicado también por: El País - Internacional. Fuente: Clarín - Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e8eb33486ac14cbe</guid>
-      <pubDate>Fri, 21 Aug 2026 12:17:13 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>América Latina</category>
-      <dc:creator>Clarin.com - Home</dc:creator>
-      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
-      <media:content url="https://www.clarin.com/img/2026/08/19/6qGVFZhi1_1200x630__1.jpg" medium="image" />
-      <enclosure url="https://www.clarin.com/img/2026/08/19/6qGVFZhi1_1200x630__1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>TikTok to pay $559m in 'one of the largest' child pivacy settlements</title>
       <link>https://www.abc.net.au/news/2026-08-22/tiktok-to-pay-559m-settlement-in-us-children-s-privacy-case/107066690</link>
       <description>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13. Publicado también por: BBC News - World. Fuente: ABC News Australia.</description>
@@ -1336,6 +1296,55 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/53625b1bfaa6e95a9324997b0a09d687?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/53625b1bfaa6e95a9324997b0a09d687?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=259&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>14 mil reproducciones · 153 reacciones | Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather. Originally built for outdoor workplaces, this personal cooling booth is now expanding to public spaces. | Al Jazeera English</title>
+      <link>https://www.facebook.com/reel/1043992088438375/?comment_id=2290502141803557&amp;__cft__%5B0%5D=AZYvNQVM_teCFukRz1Gk7w29acF6TwZVfeDdftJZWK7IbgyD5rQrbPOgYvIvaiI_O2wwX3aDyNlZJBpfdqD3EQg8Nyu_iT88YsCfB8AST59yENhCDZcd2U91d0lFCPWlztXkpbJUIfcVokKnslyz1VRTCWFT6ElEbC4aivtWhkJaeEXzWpHOsrmLUyp_EOXGnsq5zgMT8KAeotfUFmc15fPT&amp;__tn__=R-R</link>
+      <description>Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather. Originally built for outdoor workplaces, this personal cooling booth is now... Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather. Originally built for outdoor... Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:639c3d9ed75f5338</guid>
+      <pubDate>Sat, 22 Aug 2026 17:43:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/783572944_1047174257948241_2336545290352582550_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2viJrMOQwjkQ7kNvwGM3NTX&amp;_nc_oc=AdpSUHaKYbIW99DkJmJPDf6a9_ej3otzKp-tHaMsDwb6Es9N93HOkFO_PkDezwflHGg&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=RUFHlLqsbrR-dPpYYOWpWw&amp;_nc_ss=7f289&amp;oh=00_AQEX1O16uO-FDy9v50b1s7Oub94Vi9A1KVttWqN4uFWizg&amp;oe=6A8FC839" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/783572944_1047174257948241_2336545290352582550_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2viJrMOQwjkQ7kNvwGM3NTX&amp;_nc_oc=AdpSUHaKYbIW99DkJmJPDf6a9_ej3otzKp-tHaMsDwb6Es9N93HOkFO_PkDezwflHGg&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=RUFHlLqsbrR-dPpYYOWpWw&amp;_nc_ss=7f289&amp;oh=00_AQEX1O16uO-FDy9v50b1s7Oub94Vi9A1KVttWqN4uFWizg&amp;oe=6A8FC839" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1495 reproducciones · 24 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1521281749764300/?comment_id=2234074747380230&amp;__cft__%5B0%5D=AZbxVsDK4T69lrOo8wR527QljPGMQfWe3J5drFOxptzU2wi05QuLRtzHH6lz_bRaoVJ7KQGae7bXMLG5zpB6_j1cX30atgc3i4HNTRkn7EFixhr98RKwP7lULLMvumq9k8oYxI_hwMterFr__ENJcjaQUGr2GyGxkBEolF8srUot-8P2l9XwE6ydp31XHQUiNKdgrJjW2VGvuQhE7VlFrRKO&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:87d1935b9cfdd0af</guid>
+      <pubDate>Sat, 22 Aug 2026 17:43:00 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwEFvSK2&amp;_nc_oc=AdoxMYoqgYvac909Mus4NkM_Dod9loCAPa4-n9xmlKYZ83FD1P4O1-u8N-BDxV9f2Os&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=Wp7GocuKBR1w1xMgZLKutQ&amp;_nc_ss=7f289&amp;oh=00_AQEUAQOH41Mc4k3WEeXIEQoAjoRyGf-ys_B81PsOx3BPwg&amp;oe=6A8FC704" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwEFvSK2&amp;_nc_oc=AdoxMYoqgYvac909Mus4NkM_Dod9loCAPa4-n9xmlKYZ83FD1P4O1-u8N-BDxV9f2Os&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=Wp7GocuKBR1w1xMgZLKutQ&amp;_nc_ss=7f289&amp;oh=00_AQEUAQOH41Mc4k3WEeXIEQoAjoRyGf-ys_B81PsOx3BPwg&amp;oe=6A8FC704" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>32 mil reproducciones · 804 reacciones | Rusia ataca con drones un centro comercial en Ucrania y deja 16 muertos y 130 heridos Los ataques de largo alcance se han multiplicado a ambos lados del frente, afectando a un número creciente de instalaciones civiles y causando cada vez más víctimas. Mientras Zelenski prometió "responder" al ataque contra el centro comercial, Putin aseguró que Kiev "abrió la caja de pandora" por sus ataques contra intereses económicos. | DW Español</title>
+      <link>https://www.facebook.com/reel/2143033746281059/?comment_id=3194259747433307&amp;__cft__%5B0%5D=AZaoaj4NoCafjLjKKOuGkQPqaJukcx5yK36v6IksxaiT2jSVCjfFbp-ucUIhqU9MwR07RSm9QmJ67qAbIHnc_oCIOIUy3sJhWLsKmxXAn-ZK9KFVOOMaUGRo0oDY9i9AAk3BeAmPBYb7IbyOxKGeVPP29hHEkeRHF2QBfo6w82k5hDhF4eC_Ta0hFYDnnA_jXhTpZCHHDm_JHWdrvtNcfBnY&amp;__tn__=R-R</link>
+      <description>Rusia ataca con drones un centro comercial en Ucrania y deja 16 muertos y 130 heridos Los ataques de largo alcance se han multiplicado a ambos lados del frente, afectando a un número creciente de... Rusia ataca con drones un centro comercial en Ucrania y deja 16 muertos y 130 heridos Los ataques de largo alcance se han multiplicado a ambos lados... Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e99a56888952628c</guid>
+      <pubDate>Sat, 22 Aug 2026 17:43:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/784075024_4505086239719688_353292832440338436_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=lOi_PP_QISkQ7kNvwF3XrYp&amp;_nc_oc=AdqlKVftBpcjRWUqQZvc-VyWH9Jj-1NVwdep61sVO0xfUjqAmeq8euRlb_-liCrJxnU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=m4Zwcj6lJTVn6HNH5i3kQw&amp;_nc_ss=7f289&amp;oh=00_AQHmQFILFblz5ad2Sg0DtNOe3GrZbO72o3n2Q6AJhK4HaQ&amp;oe=6A8FCDAA" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/784075024_4505086239719688_353292832440338436_n.jpg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=lOi_PP_QISkQ7kNvwF3XrYp&amp;_nc_oc=AdqlKVftBpcjRWUqQZvc-VyWH9Jj-1NVwdep61sVO0xfUjqAmeq8euRlb_-liCrJxnU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=m4Zwcj6lJTVn6HNH5i3kQw&amp;_nc_ss=7f289&amp;oh=00_AQHmQFILFblz5ad2Sg0DtNOe3GrZbO72o3n2Q6AJhK4HaQ&amp;oe=6A8FCDAA" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El presidente Abelardo de la Espriella publicó en X un balance sobre la emergencia nacional provocada por un sismo en Colombia. Conozca los datos en el link del primer comentario.</title>
+      <link>https://www.facebook.com/eltiempo/posts/pfbid02VZEFXgfpuBi7sgNm4qVgK3NrtEycjJ4YfGN5MqCmndCvgqXezQ2Zip4xA7cMnxBql?__cft__%5B0%5D=AZZvBvOg1ZBCvtGbwDbSisVkXcTlQA5bTmfHEJl3S621PEk2nGrn-yvusH2s2fL_J0MKxFUkDafxQdd3Ay5cJHEmvrDW3ng-2mDRS04jaB6kS2MFEmp3F8MxLODRlzUDGTvjqIFWqVXMu37KnWFcl8HgNzUhg-jU7tu23syng9uKLowLaTSf-cwBqqI9r8SIdLU&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: EL TIEMPO.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d2fc3176be810008</guid>
+      <pubDate>Sat, 22 Aug 2026 17:33:58 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/eltiempo/">EL TIEMPO</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/784083216_933848859764584_7942644291138867171_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CDrgXY5qp_YQ7kNvwHT4IYV&amp;_nc_oc=AdpdgD00Apavx1QiYBWmlAm4exWEhCJfHDh6fs7WxlVnuoCVcnvsW985SvIn0TRbTJI&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=N6lbmkZivwsUDdafdmLo4A&amp;_nc_ss=7f289&amp;oh=00_AQGcr82Lpfgl5ZyCZxOBS1SuaOUeIbF-UA7t3LWqhPg33Q&amp;oe=6A8FC5DE" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/784083216_933848859764584_7942644291138867171_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=CDrgXY5qp_YQ7kNvwHT4IYV&amp;_nc_oc=AdpdgD00Apavx1QiYBWmlAm4exWEhCJfHDh6fs7WxlVnuoCVcnvsW985SvIn0TRbTJI&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=N6lbmkZivwsUDdafdmLo4A&amp;_nc_ss=7f289&amp;oh=00_AQGcr82Lpfgl5ZyCZxOBS1SuaOUeIbF-UA7t3LWqhPg33Q&amp;oe=6A8FC5DE" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>El conductor recordó el día que tuvo al intérprete de “Hit the Road Jack” en su programa y se sinceró sobre la decepción que se llevó</title>
@@ -1576,18 +1585,6 @@
       <source url="https://www.facebook.com/NPR/">NPR</source>
       <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/4375242014943054288?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4500x2531%2B0%2B234%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F51%252Fb4%252F634655964275bf32ebed25f1c51b%252Fcatholichousing-070.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=neZ7xVyx1MCubrOid0ZCvQ&amp;_nc_oc=Adqxy11ZfCLRBBj9qP6KkmvcEpJ_LmLD9wmLVYPI5Wumr9sU8WbsY_1wIhMm4vzE6tQ&amp;ccb=13-1&amp;oh=06_Q3_CAZWHq8uOANK41UFZw30Z5Po2Fcn2gRLfMvJKHVL9bfEd&amp;oe=6A8B6C4E&amp;_nc_sid=e17101" medium="image" />
       <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/4375242014943054288?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4500x2531%2B0%2B234%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F51%252Fb4%252F634655964275bf32ebed25f1c51b%252Fcatholichousing-070.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=neZ7xVyx1MCubrOid0ZCvQ&amp;_nc_oc=Adqxy11ZfCLRBBj9qP6KkmvcEpJ_LmLD9wmLVYPI5Wumr9sU8WbsY_1wIhMm4vzE6tQ&amp;ccb=13-1&amp;oh=06_Q3_CAZWHq8uOANK41UFZw30Z5Po2Fcn2gRLfMvJKHVL9bfEd&amp;oe=6A8B6C4E&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The U.S. Department of the Interior has ordered steep cuts to the amount of Colorado River water that will be delivered to California, Nevada and Arizona.... Ver más</title>
-      <link>https://www.facebook.com/ABCNews/posts/pfbid02NxfbZjqJpaHZCxUukm4LWmvVy2uxRFKyyJmQMM9LPTGenM8JxhDu1Ych9PopGGANl?__cft__%5B0%5D=AZbZ2A8KPdSQzdqeAF3FXmkGnjhAMNmGixv4Kb7erV5In7MOiR2jzTk_g7YYZAhdRO3id_630OJSy5-IEzcQX5STJFsSpUZEpyRuJHvoU4UylNydUIPm8x4gxbC5MNDB0MkthHUdJ18PUPrzSQ2LDGolXjGIdOVrUqhW8YEVRRSPVgYeM5YOF8fKE1r2sRG6Dzc&amp;__tn__=%2CO%2CP-R</link>
-      <description>The U.S. Department of the Interior has ordered steep cuts to the amount of Colorado River water that will be delivered to California, Nevada and Arizona.... Ver más Can't we just turn the tap back on? The well is running dry Ver más comentarios Andrew Ian Karen Vaassen Fuente: ABC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:444e435a2628112c</guid>
-      <pubDate>Sat, 22 Aug 2026 11:02:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/ABCNews/">ABC News</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/778958022_1590186426118210_4456849764316173022_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=XLdePwapioQQ7kNvwGB9lN7&amp;_nc_oc=AdoyuJrV-ghggwyBfSXBtq9Kmv7lNCAtdqO4Bk120UCaSvKpMc8xbmIMv-YCfF8uUDg&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=ifPsKotAueXcUpUbCeJ6ug&amp;_nc_ss=7f289&amp;oh=00_AQFJuP1i7eey4JTn-PxZBGEqLyp_yxaR3II3MwOuufzXtA&amp;oe=6A8F7504" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/778958022_1590186426118210_4456849764316173022_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=XLdePwapioQQ7kNvwGB9lN7&amp;_nc_oc=AdoyuJrV-ghggwyBfSXBtq9Kmv7lNCAtdqO4Bk120UCaSvKpMc8xbmIMv-YCfF8uUDg&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=ifPsKotAueXcUpUbCeJ6ug&amp;_nc_ss=7f289&amp;oh=00_AQFJuP1i7eey4JTn-PxZBGEqLyp_yxaR3II3MwOuufzXtA&amp;oe=6A8F7504" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
