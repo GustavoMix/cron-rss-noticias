@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 23 Aug 2026 08:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:51:00 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -227,20 +227,6 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/4827dba8e972c050d94247357390369f6a5477f1/389_0_3191_2554/master/3191.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34596f60ad34996e79fb07d586ac035d" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/4827dba8e972c050d94247357390369f6a5477f1/389_0_3191_2554/master/3191.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=34596f60ad34996e79fb07d586ac035d" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Iranian president says time to end war with US from ‘position of strength’</title>
-      <link>https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss</link>
-      <description>Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate. Tehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran. “It is better that we bring the war to an end now as we... Publicado también por: South China Morning Post, Deutsche Welle - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:871e88e08dc58ef7</guid>
-      <pubDate>Sat, 22 Aug 2026 00:59:37 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/d19b2a0d-25e6-4bf0-bcbb-400dacdd9f78_9a397b8c.jpg?itok=-5t25w2R&amp;v=1787345261" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/d19b2a0d-25e6-4bf0-bcbb-400dacdd9f78_9a397b8c.jpg?itok=-5t25w2R&amp;v=1787345261" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iran war live: Tehran warns neighbours against joining US economic war</title>
@@ -613,16 +599,46 @@
       <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/778767495_1393936406258150_990485595103080801_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=Os4gESIIPdkQ7kNvwHsqAcA&amp;_nc_oc=AdrFHr8iEMz6W0QmZiu5D64yjrzq16ncVgv3xQ7rPjzuc4HiaIaqSRKBQz7Pl-PckxM&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=Xj8eE7GJo-jRtGehLQgD2g&amp;_nc_ss=7f289&amp;oh=00_AQHApAIhBpXf3JnyMrnJk2PnocuLuPlWMV2xOBgA_XvK7g&amp;oe=6A8EF166" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>TikTok reaches $400 million settlement with U.S. Justice Department over children's privacy</title>
-      <link>https://www.thehindu.com/news/international/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/article71376412.ece</link>
-      <description>TikTok and its Chinese parent ByteDance have agreed to pay US$400 million to settle a US Justice Department lawsuit accusing the video-sharing app of violating children’s online privacy laws, resolving a major federal case as the platform’s American operations remain under intense political scrutiny. The settlement, announced on Friday, resolves allegations brought by the Justice Department and the US Federal Trade Commission in 2024 that TikTok and ByteDance collected personal information from... Publicado también por: South China Morning Post, TechCrunch. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ec9d743d233befaa</guid>
-      <pubDate>Sat, 22 Aug 2026 00:45:47 +0000</pubDate>
+      <title>DR Congo, M23 rebels agree on roadmap for peace talks</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02sJc9ny8yFMmKd7mv8aURM7BXXunB3eyfFS6hsZAaSX9DmNwszqsinMPeqtxo5CA8l?__cft__%5B0%5D=AZbMJgXPZmz4XJM1Tmppxn6KWQVTwXoVv-XPxzHNckr6LoPjPKJ7ylmJfx5Qyx8aA1lWTuwbaOrVmLb5sqoyq9eKrXvkzbzZAWf1NFAKShUK0QQXF73cCRAmRP3cKcJbGe-NmWbs1eQ-LSFij23XKC21Xec8yij_joZ9cfte_vHrXGhMbyov0j5YxTK-LG6HW_4&amp;__tn__=%2CO%2CP-R</link>
+      <description>Roadmap sets out steps, timelines for talks to end fighting that has killed thousands and displaced millions. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:619dca25ba190223</guid>
+      <pubDate>Sun, 23 Aug 2026 09:30:26 +0000</pubDate>
       <category>mundo</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/gmdo9m/article71376413.ece/alternates/LANDSCAPE_1200/2026-08-05T100023Z_983009818_RC2TBCAHM0FA_RTRMADP_3_DISNEY-TIKTOK.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/gmdo9m/article71376413.ece/alternates/LANDSCAPE_1200/2026-08-05T100023Z_983009818_RC2TBCAHM0FA_RTRMADP_3_DISNEY-TIKTOK.JPG" type="image/jpeg" length="0" />
+      <category>África</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/782169182_1048828198069956_8527843166689871845_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=jv55d90MFu8Q7kNvwFDrAtE&amp;_nc_oc=AdphwQsyx-9-q2oOXKT5Aapr3QkQzqCCFZR3seMn5w1RbxozbZYL32fTNl8OGcMSlPY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=b5MCtHwiGEbB5dadC5JRfg&amp;_nc_ss=7f289&amp;oh=00_AQFnQCmwA2QUCOulBoznZm8Q8lUeVdhO8e-JZunHTQOgfg&amp;oe=6A909B1A" medium="image" />
+      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/782169182_1048828198069956_8527843166689871845_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=jv55d90MFu8Q7kNvwFDrAtE&amp;_nc_oc=AdphwQsyx-9-q2oOXKT5Aapr3QkQzqCCFZR3seMn5w1RbxozbZYL32fTNl8OGcMSlPY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=b5MCtHwiGEbB5dadC5JRfg&amp;_nc_ss=7f289&amp;oh=00_AQFnQCmwA2QUCOulBoznZm8Q8lUeVdhO8e-JZunHTQOgfg&amp;oe=6A909B1A" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UK energy companies on alert after ‘Iran-linked hackers’ shut down power plant</title>
+      <link>https://www.facebook.com/financialtimes/posts/pfbid035JbtyLRZudcph3phLwHzKv8UcHWB9CL8etkhMfAU7tjQ4EDczz7KuepX1vSLYTo7l?__cft__%5B0%5D=AZZ8dQMQEqS70QkMoUXqU6yKT-rTEeZWYGAOKqkV3_pVd-mml4jvTo1w3rZvFJSEjOZetY8p27x6RXIYUJ3raDuna_V6P6m1T1eI_22KSl_7mTpVVw3hif4fHwC3LVIczTs4FcKHMLSv62tt9vvBEv4z6x9C4lhau33Fh9p4hcoEkE6ofsnX8sSlxTDoPnoVOOk&amp;__tn__=%2CO%2CP-R</link>
+      <description>Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British bases Hackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down. The incident involved a small-scale energy generator, according to the UK government and at no point was there there risk to the wider energy system. Continue reading... Publicado también por: The Guardian - World. Fuente: Financial Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ac60b83b74f2f239</guid>
+      <pubDate>Sun, 23 Aug 2026 09:15:42 +0000</pubDate>
+      <category>economia</category>
+      <category>tecnologia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/2653443683593470286?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcf7da420-5ff8-4ab9-9ffe-41cf8de6e46c.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=sg7raNAJUAsRFmCVCbpItw&amp;_nc_oc=Adrf-pNFS1CR26YGeF2IIw4Li8_lmq1JOmJ3qwhqA8YaiS_jnZmNR4VC6Jv3oiPor6E&amp;ccb=13-1&amp;oh=06_Q3_CAWuMqKuROsQ2qz5rFo2k0OQr3IaJNGx-q-P3f-PkVCNK&amp;oe=6A8C9F13&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/2653443683593470286?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcf7da420-5ff8-4ab9-9ffe-41cf8de6e46c.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=sg7raNAJUAsRFmCVCbpItw&amp;_nc_oc=Adrf-pNFS1CR26YGeF2IIw4Li8_lmq1JOmJ3qwhqA8YaiS_jnZmNR4VC6Jv3oiPor6E&amp;ccb=13-1&amp;oh=06_Q3_CAWuMqKuROsQ2qz5rFo2k0OQr3IaJNGx-q-P3f-PkVCNK&amp;oe=6A8C9F13&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US-Canada trade dispute escalates after Carney announces retaliatory tariffs</title>
+      <link>https://www.france24.com/en/us-canada-trade-dispute-escalates-after-carney-announces-retaliatory-tariffs</link>
+      <description>Canada and the US were closing in on a trade deal earlier this week until the negotiations fell apart. Both sides blame each other for last-minute changes to the terms. Canada’s Prime Minister Mark Carney has announced retaliatory tariffs on the United States after Washington imposed a 50 percent levy on 20-billion-dollars worth of Canadian goods. On Saturday, he addressed the nation for the first time since the talks collapsed, as Charlotte Lam explains. Publicado también por: Al Jazeera English. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:661214aaac03bae6</guid>
+      <pubDate>Sun, 23 Aug 2026 09:02:22 +0000</pubDate>
+      <category>economia</category>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/ae4b6f1e-9ecd-11f1-b052-005056bf30b7/w:1024/p:16x9/EN-20260823-100144-100323-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ae4b6f1e-9ecd-11f1-b052-005056bf30b7/w:1024/p:16x9/EN-20260823-100144-100323-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>DR Congo, M23 rebels agree on roadmap for peace talks</title>
@@ -1162,20 +1178,6 @@
       <enclosure url="https://s.france24.com/media/display/1126ac40-9dc3-11f1-a613-005056bfb2b6/w:1024/p:16x9/658550460c355886e9ad62df952606934fc501de.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Russian drone strikes on Ukraine shopping centre kill 16, injure 130</title>
-      <link>https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130</link>
-      <description>At least ⁠16 people were killed ⁠and more than 130 wounded on Friday when several Russian drones struck a shopping centre in central Ukraine, authorities said, with President Volodymyr Zelensky promising a response to what he called an “act of barbarism”. Regional governor ‌Oleksandr Hanzha said that 22 children were among the wounded in the daytime attack on the city of Kryvyi Rih, which is Zelensky’s hometown. “There are 29 people in serious condition, including five children,” Hanzha said. He... Publicado también por: France 24 - English. Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:875da646912f426e</guid>
-      <pubDate>Sat, 22 Aug 2026 01:03:56 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>Reuters</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&amp;v=1787360624" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/22/ebc152dd-d3bb-4143-abe2-1e9e60810d83_0e14dc7f.jpg?itok=8xW9DjEb&amp;v=1787360624" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>'We're not going to run from it': Sydney Marathon laughs off medal error</title>
       <link>https://www.bbc.co.uk/news/articles/cn4n4l1yyvro</link>
       <description>Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium. Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
@@ -1211,16 +1213,42 @@
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/89673044a37af16455fdef58d64e5741?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>TikTok to pay $559m in 'one of the largest' child pivacy settlements</title>
-      <link>https://www.abc.net.au/news/2026-08-22/tiktok-to-pay-559m-settlement-in-us-children-s-privacy-case/107066690</link>
-      <description>The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected "vast amounts of data" on millions of users under the age of 13. Publicado también por: BBC News - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2b3184a7347e7496</guid>
-      <pubDate>Fri, 21 Aug 2026 23:51:07 +0000</pubDate>
+      <title>Milton Otávio ha comentado: Aprovação recorde do governador 😂😂</title>
+      <link>https://www.facebook.com/estadao/posts/pfbid0RqegDK15QahL5qNNTrm9XYLuZeCTMU4ZcYCCq1HcV51RL5VXc5fXjqt8y74ir2Eql?comment_id=1411466630413189&amp;__cft__%5B0%5D=AZY4D9hjwjCnlKnjet0MCZZSSOA0UyvDWYvne0sgYh2zz6ErUcqy8Ldf_R-6lcWm5uVNZF_4rd_QwYuGNt1s9js1lyKnjofZkP4FPxkNP3ZImivXBYZ5lfaO8_NGo-Jge6R3lcXeNwQzY6VPsnPZIO6sca7o-xOvXyMnw3BFiv2vGEmAgI2uO2Rpv_bxGZJv3TU&amp;__tn__=R-R</link>
+      <description>Valor do prejuízo não foi divulgado, mas, segundo a equipe da musicista de 74 anos, instrumentos eram de artesãos renomados Fuente: Estadão.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d1c71218a877a9d8</guid>
+      <pubDate>Sun, 23 Aug 2026 09:51:00 +0000</pubDate>
       <category>mundo</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/328c7fa6cae0b16eb7ed891ce56b7eed?impolicy=wcms_crop_resize&amp;cropH=2704&amp;cropW=4807&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/328c7fa6cae0b16eb7ed891ce56b7eed?impolicy=wcms_crop_resize&amp;cropH=2704&amp;cropW=4807&amp;xPos=0&amp;yPos=88&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/estadao/">Estadão</source>
+      <media:content url="https://external-sin2-2.xx.fbcdn.net/emg1/v/t13/17854839777025337893?url=https%3a%2f%2fwww.estadao.com.br%2fresizer%2fv2%2fPNEI66ZNRVE3BC3EMJBJVOROLI.jpg%3fquality%3d80%26auth%3db0f312e6bccd53057abbed2a8c80c10e1d7e2b03a4456310a55a3e25ae25364a%26width%3d1200%26height%3d630%26smart%3dtrue&amp;fb_obo=1&amp;utld=estadao.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=qGV2Fr2kTWfmD25psx29zQ&amp;_nc_oc=Adr-Yt8ucwBf1NeZA-li6YKwTvUWwoEGgp58xs9FdCZeRVjZno0EYD8vm6dTVcn6ctQ&amp;ccb=13-1&amp;oh=06_Q3_CAdI-AdPoy_9b7zoW-JVrXqQq9fnSxqgB0IHM3zzqaW4V&amp;oe=6A8C8D5A&amp;_nc_sid=867500" medium="image" />
+      <enclosure url="https://external-sin2-2.xx.fbcdn.net/emg1/v/t13/17854839777025337893?url=https%3a%2f%2fwww.estadao.com.br%2fresizer%2fv2%2fPNEI66ZNRVE3BC3EMJBJVOROLI.jpg%3fquality%3d80%26auth%3db0f312e6bccd53057abbed2a8c80c10e1d7e2b03a4456310a55a3e25ae25364a%26width%3d1200%26height%3d630%26smart%3dtrue&amp;fb_obo=1&amp;utld=estadao.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=qGV2Fr2kTWfmD25psx29zQ&amp;_nc_oc=Adr-Yt8ucwBf1NeZA-li6YKwTvUWwoEGgp58xs9FdCZeRVjZno0EYD8vm6dTVcn6ctQ&amp;ccb=13-1&amp;oh=06_Q3_CAdI-AdPoy_9b7zoW-JVrXqQq9fnSxqgB0IHM3zzqaW4V&amp;oe=6A8C8D5A&amp;_nc_sid=867500" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>37 mil reproducciones · 1056 reacciones | 🔴 DW Noticias 22 de agosto: Ottawa responderá "dólar por dólar" a los aranceles de Washington El fracaso de las negociaciones comerciales entre EE. UU. y Canadá provoca que entren en vigor los aranceles impuestos por Washington del 50 %. El primer ministro canadiense, Mark Carney, afirmó que cambios de última hora planteados por EE. UU. impedieron el entendimiento. La Casa Blanca, por su parte, responsabiliza a Ottawa. | DW Español</title>
+      <link>https://www.facebook.com/reel/1092139650152156/?comment_id=4477685892505009&amp;__cft__%5B0%5D=AZa5Q98xNbW2_Y51UzfWiDmmsxeHyWQh0RHbUbnRG_MF5xBJpq5EzjMC5vCAXYbOBEuHMB5OrGhJKSfiEJ_yBOCyrDyrdTlTNfxp9aumTXvbNt8ZuxLnFdFxpTzcb6tFxsiiAoNoqBuJCX7pqor6wQtue1gp_MzZD-ZBiPppb1ejhTXuVxi8AEwPO-o9ixeW2Es-UdjXcHZFKHgi_n0tPqVX&amp;__tn__=R-R</link>
+      <description>🔴 DW Noticias 22 de agosto: Ottawa responderá "dólar por dólar" a los aranceles de Washington El fracaso de las negociaciones comerciales entre EE. UU. y Canadá provoca que entren en vigor los... 🔴 DW Noticias 22 de agosto: Ottawa responderá "dólar por dólar" a los aranceles de Washington El fracaso de las negociaciones comerciales entre EE. UU.... Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cd71b06fc8850b1a</guid>
+      <pubDate>Sun, 23 Aug 2026 09:51:00 +0000</pubDate>
+      <category>economia</category>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/782018372_1070639888878867_7554799004506777546_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=dhznGXsiZe0Q7kNvwGc1dsH&amp;_nc_oc=AdqHrBBQnZ4mO5rjkiFl5wZOpUb6RbEzXoyVpuTCW9Q7XKfsJNBOhzW1AJ-yn2vgOko&amp;_nc_zt=23&amp;_nc_ht=scontent-qro1-2.xx&amp;_nc_gid=EHmzJ4RKTR-pX3ohf6IIXA&amp;_nc_ss=7f289&amp;oh=00_AQGFfJyNGya6eVAqU-1nKO3Bh-6mtMPjOYcPiFr1CmVQ7A&amp;oe=6A9093B6" medium="image" />
+      <enclosure url="https://scontent-qro1-2.xx.fbcdn.net/v/t15.5256-10/782018372_1070639888878867_7554799004506777546_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=dhznGXsiZe0Q7kNvwGc1dsH&amp;_nc_oc=AdqHrBBQnZ4mO5rjkiFl5wZOpUb6RbEzXoyVpuTCW9Q7XKfsJNBOhzW1AJ-yn2vgOko&amp;_nc_zt=23&amp;_nc_ht=scontent-qro1-2.xx&amp;_nc_gid=EHmzJ4RKTR-pX3ohf6IIXA&amp;_nc_ss=7f289&amp;oh=00_AQGFfJyNGya6eVAqU-1nKO3Bh-6mtMPjOYcPiFr1CmVQ7A&amp;oe=6A9093B6" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.</title>
+      <link>https://www.facebook.com/NPR/posts/pfbid02AJtFNV3nnU7MZtqF51vvLWqRxK9J6Y3md6XMtyoF1UX6rxuDuJqGwPcxhRJpWourl?__cft__%5B0%5D=AZbsMHLQmv1NG0IudeIR5kFdsy8K4IR3ib9pFSkt5DSbH9BHQzMRr7ufSq8eNuHrR53k75c-5nzcEEDOk4McXfnpMRr2m8vGoUYNs8TFwCI3wTWLDu-1Zn7TmsoZUmD085-0WKxgk09JcVu-rz5wcQ0ejXae09wC5k4_HRKslBDk_nj7oQIasiVbSHsY5qcjD_I&amp;__tn__=%2CO%2CP-R</link>
+      <description>The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis. Quelle surpise NPR.ORG Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says Ver más comentarios Kelly Crutchlow Fuente: NPR.</description>
+      <guid isPermaLink="false">cron-rss-noticias:452820607de0d09d</guid>
+      <pubDate>Sun, 23 Aug 2026 09:07:54 +0000</pubDate>
+      <category>salud</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NPR/">NPR</source>
+      <media:content url="https://external-hkg4-2.xx.fbcdn.net/emg1/v/t13/8941339456593433597?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4500x2531%2B0%2B234%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F1c%252Fbf%252F9f271eb24f22992d80d3b57cf68b%252F2026-07-jonahneal-ls-018.JPG&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=pAVzcLHDQIt0ouIyMEq6uA&amp;_nc_oc=AdqHJLk7Z2OhRquGBv64vXbSbr6tKRG3XT94BlkCjdsJ8zifnU8SzPk-anopnZbLC40&amp;ccb=13-1&amp;oh=06_Q3_CAaTzRjE3fx7H-Tu9sNJuBv-SVsKIbdbUxXqNSVkXhDGc&amp;oe=6A8CB473&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-hkg4-2.xx.fbcdn.net/emg1/v/t13/8941339456593433597?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4500x2531%2B0%2B234%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F1c%252Fbf%252F9f271eb24f22992d80d3b57cf68b%252F2026-07-jonahneal-ls-018.JPG&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=pAVzcLHDQIt0ouIyMEq6uA&amp;_nc_oc=AdqHJLk7Z2OhRquGBv64vXbSbr6tKRG3XT94BlkCjdsJ8zifnU8SzPk-anopnZbLC40&amp;ccb=13-1&amp;oh=06_Q3_CAaTzRjE3fx7H-Tu9sNJuBv-SVsKIbdbUxXqNSVkXhDGc&amp;oe=6A8CB473&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>36 mil reproducciones · 1014 reacciones | 🔴 DW Noticias 22 de agosto: Ottawa responderá "dólar por dólar" a los aranceles de Washington El fracaso de las negociaciones comerciales entre EE. UU. y Canadá provoca que entren en vigor los aranceles impuestos por Washington del 50 %. El primer ministro canadiense, Mark Carney, afirmó que cambios de última hora planteados por EE. UU. impedieron el entendimiento. La Casa Blanca, por su parte, responsabiliza a Ottawa. | DW Español</title>
@@ -1561,32 +1589,6 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwG5TIF5&amp;_nc_oc=AdqAVY9pFlUjQb0OiJsMKoGaq2yxyM1WovtZrdGeY_U4wpT5FyQ4BcgQONBnyoFjAbs&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=z-BLLTlvbp1ZQ7pFbt-ugQ&amp;_nc_ss=7f289&amp;oh=00_AQGwy4FXbRNqT6Lmut-KniA-BWNNZnEbk4qWfeYcMKrsvA&amp;oe=6A8FFF44" medium="image" />
       <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwG5TIF5&amp;_nc_oc=AdqAVY9pFlUjQb0OiJsMKoGaq2yxyM1WovtZrdGeY_U4wpT5FyQ4BcgQONBnyoFjAbs&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=z-BLLTlvbp1ZQ7pFbt-ugQ&amp;_nc_ss=7f289&amp;oh=00_AQGwy4FXbRNqT6Lmut-KniA-BWNNZnEbk4qWfeYcMKrsvA&amp;oe=6A8FFF44" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1518 reproducciones · 24 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1521281749764300/?comment_id=2234074747380230&amp;__cft__%5B0%5D=AZakzBGvg9g50-jvuOke33A6t3XGCZ0NsVagZtBcSCCkIbwRtnw2KCyzfY_72kOEW9r5b0AiZIUcnV-hhP6tASKIugf3Zk2Q-RrWwgBHX3xLDgIzkcMouPuA_cp-hnK1y9q8qm6UIfZiG_l5gRuvN0PDYyssFEO4mKouCNa9o8JZXvbQzFWmXj9e0L3giGiYn3iEvVCKWmyj3PTaRjky9PSJ&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️LA PAZ 🏟️HERNANDO SILES 🔥¡EN VIVO!🔥 #TheStrongest 🆚 #UdeVinto 18:30 Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:69440ce73229e2e5</guid>
-      <pubDate>Sat, 22 Aug 2026 20:46:29 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwHgZHtU&amp;_nc_oc=Adp_0iQ4qr0WKBCt7m-gQ2M5CFUelYnPKzefi4eYo18odsjqFdh1uKpU3EE3inGGA30&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=sXheB7F_evplTu_4EdbcVA&amp;_nc_ss=7f289&amp;oh=00_AQHxHV5NGkhRDjpZd0wsGOotwkGuptOzcjCySdKqMCJo5A&amp;oe=6A8FC704" medium="image" />
-      <enclosure url="https://scontent-dfw6-1.xx.fbcdn.net/v/t15.5256-10/781630246_2157394098528168_2614811613391609301_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-unZ9oe9_uoQ7kNvwHgZHtU&amp;_nc_oc=Adp_0iQ4qr0WKBCt7m-gQ2M5CFUelYnPKzefi4eYo18odsjqFdh1uKpU3EE3inGGA30&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=sXheB7F_evplTu_4EdbcVA&amp;_nc_ss=7f289&amp;oh=00_AQHxHV5NGkhRDjpZd0wsGOotwkGuptOzcjCySdKqMCJo5A&amp;oe=6A8FC704" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El estrecho de Bab el-Mandeb, uno de los corredores marítimos más estratégicos del mundo, ha sido blanco de ataques de los rebeldes hutíes. ¿Cómo impacta esta crisis ... Ver más</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02mJZ5MqA8hCeW4zs4kgy9EzEYZ7VH1yKKgf5aEdW4kmAzRgDBY8P7qR3mPaJJTAcAl?__cft__%5B0%5D=AZb5hZ22kXUEe2BTRCj1jLdCAoyybRlbmZFAJ73BDRFzSCwl-Mf76ZD8wwGlJOPHoDhoUCuG9ZJ9YJZVpBL7MD1Kdhy6BAsfjy7Go_mTW9mvok9yw3eJDBYOOEIaTbKhZezKAKvbpO7d3bOmNtf-o0tRaWDBHGV7ovQSeCCqV-ayNTvXelJrBg5wtyxQo-Zran0&amp;__tn__=%2CO%2CP-R</link>
-      <description>El estrecho de Bab el-Mandeb, uno de los corredores marítimos más estratégicos del mundo, ha sido blanco de ataques de los rebeldes hutíes. ¿Cómo impacta esta crisis ... Ver más FRANCE24.COM África 7 días - Bab el-Mandeb: el estrecho que pone en vilo la seguridad energética de África Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ce865779b2b1f236</guid>
-      <pubDate>Sat, 22 Aug 2026 20:06:50 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>África</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://external-dfw6-2.xx.fbcdn.net/emg1/v/t13/1781048313318334016?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F513c575f47eb2aad7f796a92064977b3.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=qReM44tnHlu-7PzwYymuqA&amp;_nc_oc=AdolpQiAwepAkerQTRYR9lqi2xp_yJoBbsW5xwt-aOmWf7GxzMkjxqxHjswCuOG44zs&amp;ccb=13-1&amp;oh=06_Q3_CAWHv0vGMj-xDLSobjGPsV_4yjbDdj8YkZnGtMjITcQu2&amp;oe=6A8BE6F4&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-dfw6-2.xx.fbcdn.net/emg1/v/t13/1781048313318334016?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F513c575f47eb2aad7f796a92064977b3.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=qReM44tnHlu-7PzwYymuqA&amp;_nc_oc=AdolpQiAwepAkerQTRYR9lqi2xp_yJoBbsW5xwt-aOmWf7GxzMkjxqxHjswCuOG44zs&amp;ccb=13-1&amp;oh=06_Q3_CAWHv0vGMj-xDLSobjGPsV_4yjbDdj8YkZnGtMjITcQu2&amp;oe=6A8BE6F4&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
