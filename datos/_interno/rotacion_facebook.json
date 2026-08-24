@@ -1,565 +1,565 @@
 {
-  "actualizado": "2026-08-24T13:21:21+00:00",
+  "actualizado": "2026-08-24T14:10:30+00:00",
   "fuentes": {
     "fb_abc_news": {
-      "exitos": 217,
+      "exitos": 218,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
     "fb_abya_yala": {
-      "exitos": 213,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_afp": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_aljazeera": {
-      "exitos": 228,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_anf": {
-      "exitos": 230,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_ap": {
-      "exitos": 225,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_atb_digital": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bbc_mundo": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bbc_news": {
-      "exitos": 230,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bloomberg": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bolivia_tv": {
-      "exitos": 219,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bolivia_verifica": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_bolivision": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_brujula_digital": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_c5n": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cadena_a": {
-      "exitos": 219,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cbc_news": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cbs_news": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_clarin": {
-      "exitos": 229,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cnn": {
-      "exitos": 228,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cnn_brasil": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cnn_espanol": {
-      "exitos": 228,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_correo_del_sur": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_cronica_tv": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_dw_espanol": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_economist": {
       "exitos": 214,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_el_diario_bolivia": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_el_pais_tarija": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_el_potosi": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_el_tiempo_col": {
-      "exitos": 210,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_eldeber": {
+    "fb_afp": {
       "exitos": 228,
       "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_elpais": {
+    "fb_aljazeera": {
       "exitos": 229,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_erbol": {
-      "exitos": 227,
+    "fb_anf": {
+      "exitos": 231,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_espn": {
-      "exitos": 228,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_estadao": {
-      "exitos": 211,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_euronews_es": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_financial_times": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_folha": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_france24_es": {
+    "fb_ap": {
       "exitos": 226,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_g1_brasil": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_gigavision": {
+    "fb_atb_digital": {
       "exitos": 216,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_globonews": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_guardian": {
-      "exitos": 229,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_infobae": {
-      "exitos": 230,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_la_nacion_ar": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_la_patria": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_los_tiempos": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_marca": {
-      "exitos": 229,
+    "fb_bbc_mundo": {
+      "exitos": 228,
       "fallos_seguidos": 0,
       "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_meganoticias_chile": {
-      "exitos": 215,
+    "fb_bbc_news": {
+      "exitos": 231,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_nasa": {
-      "exitos": 226,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_natgeo": {
-      "exitos": 230,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_nbc_news": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_noticias_caracol": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_noticias_rcn": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_npr": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_ntn24": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_nytimes": {
-      "exitos": 229,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_o_globo": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_panamericana": {
-      "exitos": 218,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_pat_bolivia": {
-      "exitos": 213,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_perfil": {
-      "exitos": 220,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_politico": {
-      "exitos": 212,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_radio_companera": {
-      "exitos": 215,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_radio_fides": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_record_news": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_reduno": {
-      "exitos": 230,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_reuters": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_revista_semana": {
-      "exitos": 216,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_rtp_bolivia": {
-      "exitos": 217,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_sky_news": {
+    "fb_bloomberg": {
       "exitos": 219,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_techcrunch": {
-      "exitos": 229,
+    "fb_bolivia_tv": {
+      "exitos": 220,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_telemundo": {
-      "exitos": 232,
+    "fb_bolivia_verifica": {
+      "exitos": 219,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_theverge": {
-      "exitos": 227,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_tn_argentina": {
+    "fb_bolivision": {
       "exitos": 218,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_unitel": {
-      "exitos": 225,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_univision": {
-      "exitos": 225,
-      "fallos_seguidos": 0,
-      "ultimo_estado": "sin_novedades",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
-    },
-    "fb_uol_noticias": {
+    "fb_brujula_digital": {
       "exitos": 216,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_urgente_bo": {
-      "exitos": 213,
+    "fb_c5n": {
+      "exitos": 217,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_washington_post": {
-      "exitos": 215,
+    "fb_cadena_a": {
+      "exitos": 220,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     },
-    "fb_who": {
+    "fb_cbc_news": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_cbs_news": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_clarin": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_cnn": {
+      "exitos": 229,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_cnn_brasil": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_cnn_espanol": {
+      "exitos": 229,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_correo_del_sur": {
+      "exitos": 219,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_cronica_tv": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_dw_espanol": {
       "exitos": 228,
       "fallos_seguidos": 0,
       "ultimo_estado": "ok",
-      "ultimo_exito": "2026-08-24T13:21:21+00:00",
-      "ultimo_intento": "2026-08-24T13:21:21+00:00"
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_economist": {
+      "exitos": 215,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_el_diario_bolivia": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_el_pais_tarija": {
+      "exitos": 219,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_el_potosi": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_el_tiempo_col": {
+      "exitos": 211,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_eldeber": {
+      "exitos": 229,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_elpais": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_erbol": {
+      "exitos": 228,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_espn": {
+      "exitos": 229,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_estadao": {
+      "exitos": 212,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_euronews_es": {
+      "exitos": 228,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_financial_times": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_folha": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_france24_es": {
+      "exitos": 227,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_g1_brasil": {
+      "exitos": 219,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_gigavision": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_globonews": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_guardian": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_infobae": {
+      "exitos": 231,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_la_nacion_ar": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_la_patria": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_los_tiempos": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_marca": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_meganoticias_chile": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_nasa": {
+      "exitos": 227,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_natgeo": {
+      "exitos": 231,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_nbc_news": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_noticias_caracol": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_noticias_rcn": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_npr": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_ntn24": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_nytimes": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_o_globo": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_panamericana": {
+      "exitos": 219,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_pat_bolivia": {
+      "exitos": 214,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_perfil": {
+      "exitos": 221,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_politico": {
+      "exitos": 213,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_radio_companera": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_radio_fides": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_record_news": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_reduno": {
+      "exitos": 231,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_reuters": {
+      "exitos": 228,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_revista_semana": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_rtp_bolivia": {
+      "exitos": 218,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_sky_news": {
+      "exitos": 220,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_techcrunch": {
+      "exitos": 230,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_telemundo": {
+      "exitos": 233,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_theverge": {
+      "exitos": 228,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_tn_argentina": {
+      "exitos": 219,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_unitel": {
+      "exitos": 226,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_univision": {
+      "exitos": 226,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "sin_novedades",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_uol_noticias": {
+      "exitos": 217,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_urgente_bo": {
+      "exitos": 214,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_washington_post": {
+      "exitos": 216,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
+    },
+    "fb_who": {
+      "exitos": 229,
+      "fallos_seguidos": 0,
+      "ultimo_estado": "ok",
+      "ultimo_exito": "2026-08-24T14:10:30+00:00",
+      "ultimo_intento": "2026-08-24T14:10:30+00:00"
     }
   }
 }
