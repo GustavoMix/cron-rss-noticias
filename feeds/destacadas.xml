@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 24 Aug 2026 11:00:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:51:19 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -32,6 +32,7 @@
       <pubDate>Mon, 24 Aug 2026 06:55:06 +0000</pubDate>
       <category>deportes</category>
       <category>Medio Oriente</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5e5/live/c6488df0-9f80-11f1-82a0-8dbe1008b861.jpg" type="image/jpeg" length="0" />
@@ -193,21 +194,6 @@
       <enclosure url="https://i.guim.co.uk/img/media/9f4b6e8cc4cc111f0a7886d32b166aae30122886/257_4_1250_999/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d8c48d1225c37e53a613dbe217219bc" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Canada to hit US with retaliatory tariffs as trade war escalates</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02GQqKc6WFno3kMCE2XnrUPENas9aQqTfnLQMG9QYqJfQUDZT1mtyd2HJNhzvyMzb9l?__cft__%5B0%5D=AZYlGI9PKcl-MpXhrpsgUktXgKqOo-r4BYewY_-C7o5-jwUaTpcotDxmpE2brC2N7p5qSB-K8RO9fUbTsJfhAYVaBTvQ6yGMDSC28mzNk9l_vrOZqS3r0e_HSEgWMkxZMyjBaaLdhfTx8uq-hmkoWP86lwJZsgN3737UXfPiKvyt32jWiXPV0XV4WuHjTyN4AeE&amp;__tn__=%2CO%2CP-R</link>
-      <description>Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2c29aa4aea973fcb</guid>
-      <pubDate>Sun, 23 Aug 2026 03:00:15 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/783830742_1365459392426034_1780693279149524820_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x675&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=tl4gaQi8ZbcQ7kNvwFr28PF&amp;_nc_oc=Adp_4Fe840RTe6Imafk6tg8SCEjNhpE3oIYRHhI2sCJaQB2W2_Y0_0j8h1sTQn6x6WU&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=VfzGtVgUrPUxmFryYiTNHQ&amp;_nc_ss=7f289&amp;oh=00_AQEUgzcOwcxLIGOHWqUd46CiWtBaO6Inp6GrxpS7h4HwvA&amp;oe=6A903978" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/783830742_1365459392426034_1780693279149524820_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x675&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=tl4gaQi8ZbcQ7kNvwFr28PF&amp;_nc_oc=Adp_4Fe840RTe6Imafk6tg8SCEjNhpE3oIYRHhI2sCJaQB2W2_Y0_0j8h1sTQn6x6WU&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=VfzGtVgUrPUxmFryYiTNHQ&amp;_nc_ss=7f289&amp;oh=00_AQEUgzcOwcxLIGOHWqUd46CiWtBaO6Inp6GrxpS7h4HwvA&amp;oe=6A903978" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>DR Congo and M23 fighters agree to roadmap for peace talks, Switzerland says</title>
       <link>http://www.euronews.com/2026/08/24/dr-congo-and-m23-fighters-agree-to-roadmap-for-peace-talks-switzerland-says</link>
       <description>The Parties developed a roadmap setting out sequenced steps and timelines for negotiations under the Doha Framework Agreement, and committed to flexibility and creativity within the existing structure, the statement said Publicado también por: The Hindu - International, BBC News - World. Fuente: Euronews.</description>
@@ -258,6 +244,20 @@
       <category>Asia</category>
       <category>Medio Oriente</category>
       <source url="https://www.facebook.com/APNews/">The Associated Press</source>
+    </item>
+    <item>
+      <title>Humanoid robot beats Usain Bolt's 100m world record</title>
+      <link>https://www.france24.com/en/video/20260824-humanoid-robot-beats-usain-bolt-s-100m-world-record</link>
+      <description>Robots exceeded human records at the World Robot Games over the weekend in Beijing's Olympic speed skating arena as China showcased its dominance in the industry. Dozens of humanoids and their human operators competed in events from athletics and boxing to football and martial arts. Publicado también por: Euronews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:10cd23266eac6043</guid>
+      <pubDate>Mon, 24 Aug 2026 10:58:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/a532a8fc-9fa9-11f1-81ad-005056bfb2b6/w:1024/p:16x9/Montage-916-00-00-03-24-Still001.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/a532a8fc-9fa9-11f1-81ad-005056bfb2b6/w:1024/p:16x9/Montage-916-00-00-03-24-Still001.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>En los Juegos Mundiales de #Robots, las máquinas rompen récords y exhiben los avances tecnológicos de China https://f24.my/C7Rf</title>
@@ -403,6 +403,19 @@
       <category>Medio Oriente</category>
       <dc:creator>BY REUTERS</dc:creator>
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+    </item>
+    <item>
+      <title>Iran faces 'economic D-Day', US Treasury Secretary warns</title>
+      <link>https://www.bbc.co.uk/news/articles/c0qxew81y83o</link>
+      <description>Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated. Fuente: BBC News - Business.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f39dac7b1bf6db98</guid>
+      <pubDate>Mon, 24 Aug 2026 10:39:23 +0000</pubDate>
+      <category>conflictos</category>
+      <category>economia</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/500a/live/a3b77c00-9fa4-11f1-bff6-57f1422ebb0b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Sean Grayson, a former Illinois sheriff’s deputy whose fatal shooting of Sonya Massey inside her home became a flashpoint over police use of force, died Sunday while se... Ver más</title>
@@ -595,6 +608,20 @@
       <enclosure url="https://s.france24.com/media/display/443d54e2-9ebf-11f1-a9cb-005056bfb2b6/w:1024/p:16x9/AP26234046509856.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions</title>
+      <link>https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece</link>
+      <description>The rial dropped to 2.02 million to the U.S. dollar as trading opened on currency markets. Iran's official Central Bank rate stood at around 1.5 million rial to the dollar, but the market rate is what most Iranians pay Publicado también por: The Independent - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bb9356d3456079bf</guid>
+      <pubDate>Mon, 24 Aug 2026 11:39:50 +0000</pubDate>
+      <category>economia</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/news/national/xevn3h/article71384291.ece/alternates/LANDSCAPE_1200/iStock-2183798790.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/news/national/xevn3h/article71384291.ece/alternates/LANDSCAPE_1200/iStock-2183798790.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Al menos 30 muertos tras el derrumbe de un vertedero en Guinea-Conakry</title>
       <link>https://elpais.com/internacional/2026-08-23/al-menos-30-muertos-tras-el-derrumbe-de-un-vertedero-en-guinea-conakry.html</link>
       <description>Las autoridades intensifican las tareas de rescate después de que fuertes tormentas provocaran el colapso de una montaña de basura en la capital del país africano Publicado también por: El Mundo - Internacional. Fuente: El País - Internacional.</description>
@@ -607,6 +634,18 @@
       <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
       <media:content url="https://imagenes.elpais.com/resizer/v2/XYEK5GSPKFL4VPBUE2BP6AQMF4.jpg?auth=e4e4015de573997a6d4b8d295cb388aaff8d094c10e6ee9fa84acb8b59c701ba" medium="image" />
       <enclosure url="https://imagenes.elpais.com/resizer/v2/XYEK5GSPKFL4VPBUE2BP6AQMF4.jpg?auth=e4e4015de573997a6d4b8d295cb388aaff8d094c10e6ee9fa84acb8b59c701ba" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Una terapia me ayudó a recordar los abusos de mi hermanastro y me permitió llevarlo ante la justicia</title>
+      <link>https://www.bbc.com/mundo/articles/cy8zxpz5e9xo</link>
+      <description>Mellissa Arkwright no recordaba los abusos que sufrió de niña hasta que empezó a ir a terapia. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5ec4f186df9d4820</guid>
+      <pubDate>Mon, 24 Aug 2026 11:36:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd4b/live/0b258450-9fae-11f1-bff6-57f1422ebb0b.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bd4b/live/0b258450-9fae-11f1-bff6-57f1422ebb0b.png" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Access to Zambian courts prevented as election petition deadline looms</title>
@@ -729,6 +768,32 @@
       <source url="https://www.facebook.com/APNews/">The Associated Press</source>
       <media:content url="https://external-fra5-2.xx.fbcdn.net/emg1/v/t13/6161722746677337243?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fdd0ARynnBLs%2Fmaxresdefault.jpg%3Fv%3D6a8a8d4f&amp;fb_obo=1&amp;utld=ytimg.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=eaMBooyP9yKNPpUzxq04Tw&amp;_nc_oc=AdqoCVtLEA2mNWgawCUMev1B1MPyvCV-GQDTVyzKe1l2goBDqo7e0KkKdMt_QIMXegY&amp;ccb=13-1&amp;oh=06_Q3_CAb96RhyFudH14sJHChBxcNu99dEt7fOpQPzNqXqmFbo-&amp;oe=6A8C87F4&amp;_nc_sid=e17101" medium="image" />
       <enclosure url="https://external-fra5-2.xx.fbcdn.net/emg1/v/t13/6161722746677337243?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fdd0ARynnBLs%2Fmaxresdefault.jpg%3Fv%3D6a8a8d4f&amp;fb_obo=1&amp;utld=ytimg.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=eaMBooyP9yKNPpUzxq04Tw&amp;_nc_oc=AdqoCVtLEA2mNWgawCUMev1B1MPyvCV-GQDTVyzKe1l2goBDqo7e0KkKdMt_QIMXegY&amp;ccb=13-1&amp;oh=06_Q3_CAb96RhyFudH14sJHChBxcNu99dEt7fOpQPzNqXqmFbo-&amp;oe=6A8C87F4&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ukraine’s offensive against Russia causes petrol panic across Central Asia</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02dimMgA7uq28ftQab9B5J8pUu66PCxhNdMUHoeknosccYRw7h3yP7bQ4V7fei2cubl?__cft__%5B0%5D=AZaN7tTJNeUd8F3qDpxjlbC1IhtjqYeegETazkyspBI99zStGSOKS_BmA9qSoqFMI2ckQnfDJQqn0BoQ1OO8rlMYenLofj3KoOwy6kmYnBqZuaxL5rxXCFNg73sgO6SH1in2mqvKGrmGvx44imsMf3j8tdHqLdB35FtogTnSqh942SdqZJZpYydfWuDtrffkWfo&amp;__tn__=%2CO%2CP-R</link>
+      <description>War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia's allies. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:309394786deb6e13</guid>
+      <pubDate>Mon, 24 Aug 2026 11:30:33 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/785722722_1383336769886835_7852321354920059114_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x797&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3luKggfx9CEQ7kNvwHHtaAR&amp;_nc_oc=AdqJ6a8xTanGdJEFdbgLEQc3YQUjacGmVew2eMvaGTyi4TALnZUSWJDiSdc8Ynz9_ZA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=eD0eE2w7K3zTfWuUdI02Xg&amp;_nc_ss=7f289&amp;oh=00_AQEdXBX8WzEMlZkoyM75vZ5msgHK_ACZgNkZriO1apzpjA&amp;oe=6A91F120" medium="image" />
+      <enclosure url="https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/785722722_1383336769886835_7852321354920059114_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x797&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3luKggfx9CEQ7kNvwHHtaAR&amp;_nc_oc=AdqJ6a8xTanGdJEFdbgLEQc3YQUjacGmVew2eMvaGTyi4TALnZUSWJDiSdc8Ynz9_ZA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=eD0eE2w7K3zTfWuUdI02Xg&amp;_nc_ss=7f289&amp;oh=00_AQEdXBX8WzEMlZkoyM75vZ5msgHK_ACZgNkZriO1apzpjA&amp;oe=6A91F120" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Dutch public broadcaster to boycott ‘no longer’ neutral Eurovision</title>
+      <link>https://www.aljazeera.com/news/2026/8/24/dutch-public-broadcaster-to-boycott-no-longer-neutral-eurovision?traffic_source=rss</link>
+      <description>Dutch broadcaster AvroTros will boycott next year's Eurovision Song Contest, in protest at Israel's participation in the competition amid the war in Gaza. Publicado también por: Sky News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ee82004780e13c63</guid>
+      <pubDate>Mon, 24 Aug 2026 10:42:16 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://e3.365dm.com/24/05/1920x1080/skynews-joost-klein-netherlands_6549483.jpg?20240510164550" medium="image" />
+      <enclosure url="https://e3.365dm.com/24/05/1920x1080/skynews-joost-klein-netherlands_6549483.jpg?20240510164550" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Thames Water creditors accused of ‘shuffling deckchairs’ with plan for new board</title>
@@ -1227,6 +1292,18 @@
       <enclosure url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>'Half my business will be gone' - Firms in Canada and US fear trade war</title>
+      <link>https://www.bbc.co.uk/news/articles/cy0j0zz8l83o</link>
+      <description>Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:941fca976a6d59b3</guid>
+      <pubDate>Mon, 24 Aug 2026 09:47:22 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2d4/live/a9cd8c00-9fa0-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>A humanoid robot has outperformed humans by breaking Usain Bolt's world record for the 100m sprint, according to its manufacturer.... Ver más</title>
       <link>https://www.facebook.com/reel/1593710445439321/?__cft__%5B0%5D=AZY_0WZBlMCw1qfIW2OVJeW4PjdVRLcnbVAtzBUT3yn27Lmv_bNjnmGwF3vO4hcJDtG8md8ZBPyCa6fDhCvtFgVeXtFlaVLfMYca2dnz5_CxXI0S5kWCvkjFK9Qh10QJs-vZl9fEUPUY_jWNyADx9SBODuLqirviY2S2Leel8-WvY9yOyWaLdIEWnA3-vUZ3lMEj93w1Kfm8RsStzLNSLoCJ&amp;__tn__=%2CO%2CP-R</link>
       <description>A humanoid robot has outperformed humans by breaking Usain Bolt's world record for the 100m sprint, according to its manufacturer.... Ver más It is a robot, go figure. It wasn’t smart enough to stop before slamming into the pads, though! You are comparing apples to oranges! Tenemos problemas para reproducir este vídeo. Más información Ver más comentarios Kerry Shelton Fuente: BBC News.</description>
@@ -1259,6 +1336,18 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4ac/live/054e6c20-9dd0-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>US military says strike on alleged drug-smuggling boat kills two</title>
+      <link>https://www.aljazeera.com/news/2026/8/24/us-military-says-strike-on-alleged-drug-smuggling-boat-kills-two?traffic_source=rss</link>
+      <description>The US military launched operation "Southern Spear" in early September, with President Donald Trump arguing Washington is effectively at war with drug cartels operating out of Latin America. Publicado también por: Euronews. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4659fb4e1c2c9066</guid>
+      <pubDate>Mon, 24 Aug 2026 09:58:03 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
       <title>37 injured as magnitude 5.9 earthquake strikes eastern Japan</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss</link>
       <description>"I would ask residents in the areas where the shaking was particularly strong to remain vigilant for the possibility of another earthquake of a similar magnitude," Japanese Prime Minister Sanae Takaichi said. Publicado también por: Euronews. Fuente: Al Jazeera English.</description>
@@ -1270,6 +1359,58 @@
       <category>Medio Oriente</category>
       <category>Europa</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>9573 reproducciones · 39 reacciones | A humanoid robot beat Usain Bolt’s 100-meter dash record at the World Humanoid Robot Games in Beijing on Saturday. It ran into a wall to stop and was carried away on a stretcher. Read more: https://nyti.ms/3S4iEuU | The New York Times</title>
+      <link>https://www.facebook.com/reel/1471413384815314/?comment_id=2272251929980909&amp;__cft__%5B0%5D=AZaSxHue6hj9UqS_fB130BUUIpAJXAfRSleo_EKU1MPTp70cTxwPtOaHCq4WBnN9-PgAk9KlB3BpObK2colPAU37241BdxGVdt0NBNP0GrHunazJ0pNcjcgGekv1Y9YbFyGeT0f2-VL8fdC5ZJdRI1Q5tf-5ZE-xz7fbiyMuo-BCaWoxK7AxQPlj0kqvHm0Rfi4IECr4KmVi0yfC9uBwBXYE&amp;__tn__=R-R</link>
+      <description>A humanoid robot beat Usain Bolt’s 100-meter dash record at the World Humanoid Robot Games in Beijing on Saturday. It ran into a wall to stop and was carried away on a stretcher. Read more:... A humanoid robot beat Usain Bolt’s 100-meter dash record at the World Humanoid Robot Games in Beijing on Saturday. It ran into a wall to stop and was... Fuente: The New York Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6407e540dc8304fb</guid>
+      <pubDate>Mon, 24 Aug 2026 11:51:19 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/784062788_4446118702328843_7302762318746416729_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=U23xZ2fsuNMQ7kNvwFYyQtU&amp;_nc_oc=AdqmtHuiUKyXMyoLw0es4Mcqm3ZOSol2ZxUjZwZAmrOaVTzQAAfzLJIiqE_szO_drvs&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=YobJfL4pw-1MoH8ST_p85g&amp;_nc_ss=7f289&amp;oh=00_AQHmY5FwrPsheoQBmGoAAKDZEsX0wd-zgV4wfs_QqW_5sg&amp;oe=6A91F1BC" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/784062788_4446118702328843_7302762318746416729_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=U23xZ2fsuNMQ7kNvwFYyQtU&amp;_nc_oc=AdqmtHuiUKyXMyoLw0es4Mcqm3ZOSol2ZxUjZwZAmrOaVTzQAAfzLJIiqE_szO_drvs&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=YobJfL4pw-1MoH8ST_p85g&amp;_nc_ss=7f289&amp;oh=00_AQHmY5FwrPsheoQBmGoAAKDZEsX0wd-zgV4wfs_QqW_5sg&amp;oe=6A91F1BC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>5463 reproducciones · 84 reacciones | A small plane made an emergency landing off a beach in Boca Raton, Florida. | NBC News</title>
+      <link>https://www.facebook.com/reel/1477030331131232/?comment_id=919320221245306&amp;__cft__%5B0%5D=AZa1Swe0WESt7DGNdUYYLgMzrhrarFd3oCxF3SpLfANLGIRRUJy9VSv8F43YE-D5UqCy4WUIjprX80x8FV3X0IDgkdV7D_XKjlJmubmL1V069_-Hx51HSZlZeVpYZQVKm8ZynijltaYc_BSYSB3qp8IMAmBcFP5LL2-GLAGSS2IFRUWKKeWEe2O5KdDQccNS6twdffhHHxcnFktERTmFPw3I&amp;__tn__=R-R</link>
+      <description>A small plane made an emergency landing off a beach in Boca Raton, Florida. Fuente: NBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c21bc2cc04ac0f12</guid>
+      <pubDate>Mon, 24 Aug 2026 11:51:19 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
+      <media:content url="https://scontent-lhr6-1.xx.fbcdn.net/v/t15.5256-10/782168983_1477030401131225_6370890391400436261_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=ShTtOaft5f8Q7kNvwH8u3-l&amp;_nc_oc=Adpz1_SOLhZrCprQopKW8OPmbS6TEhqsO3QiPudG8obh8MS1Y1XD9e1LF5mb2NjiUDY&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr6-1.xx&amp;_nc_gid=58tGWfRThcRpYPziuQlSUA&amp;_nc_ss=7f289&amp;oh=00_AQGlb0ym8WZSJLBalQrvnSe2DKByThvi64pTCx8kBp9lsg&amp;oe=6A920BFE" medium="image" />
+      <enclosure url="https://scontent-lhr6-1.xx.fbcdn.net/v/t15.5256-10/782168983_1477030401131225_6370890391400436261_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=ShTtOaft5f8Q7kNvwH8u3-l&amp;_nc_oc=Adpz1_SOLhZrCprQopKW8OPmbS6TEhqsO3QiPudG8obh8MS1Y1XD9e1LF5mb2NjiUDY&amp;_nc_zt=23&amp;_nc_ht=scontent-lhr6-1.xx&amp;_nc_gid=58tGWfRThcRpYPziuQlSUA&amp;_nc_ss=7f289&amp;oh=00_AQGlb0ym8WZSJLBalQrvnSe2DKByThvi64pTCx8kBp9lsg&amp;oe=6A920BFE" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1898 reproducciones · 36 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/4554109311574707/?comment_id=1614684546846578&amp;__cft__%5B0%5D=AZZEGwgxXMZgqeRInGpSsSRBvbR2zJwAMzQzB44cZFV6Ft2DOIChMGpneVbbwS71HVxvySkBqjuModoK639ykbwwlwXUvG3JaV_UT3zBWRtD_SjAXvhrDOoiLmEqDJD4j8BRZ_D0RcDyB3fMhqQ1rBijHWPN-GzqS-na6J5AjnjbW9oOG_c0J_jLbZcZDkJJ3lfG8W4ICG8WgWA1a79e9HjY&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:59c2533b8d80e604</guid>
+      <pubDate>Mon, 24 Aug 2026 11:51:19 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwFJKltU&amp;_nc_oc=Adqiup6p7YnrZxa5RqYzD1EltgowGW3q99Rw0drcGX3o6d0tYJgi3LTGOVBqSVY5DnU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=ZoEN-H9nKr7FR2xw8rUePA&amp;_nc_ss=7f289&amp;oh=00_AQH5BFsFqNtcoB4UvyggT5PrWhZQmUORIGeL39T1GZJA_w&amp;oe=6A921B19" medium="image" />
+      <enclosure url="https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwFJKltU&amp;_nc_oc=Adqiup6p7YnrZxa5RqYzD1EltgowGW3q99Rw0drcGX3o6d0tYJgi3LTGOVBqSVY5DnU&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=ZoEN-H9nKr7FR2xw8rUePA&amp;_nc_ss=7f289&amp;oh=00_AQH5BFsFqNtcoB4UvyggT5PrWhZQmUORIGeL39T1GZJA_w&amp;oe=6A921B19" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
+      <link>https://www.nytimes.com/2026/08/24/world/asia/chinese-robot-100-meter-usain-bolt.html</link>
+      <description>China’s humanoid robots are achieving superhuman feats of athleticism. But how that translates into the real world is still an open question, experts said. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ece30790f7f146cf</guid>
+      <pubDate>Mon, 24 Aug 2026 11:10:31 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-china-robot-games-cover-lptq/24int-china-robot-games-cover-lptq-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-china-robot-games-cover-lptq/24int-china-robot-games-cover-lptq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>4624 reproducciones · 66 reacciones | Prime Minister Andy Burnham meets with Volodymyr Zelenskyy in Kyiv to mark the 35th anniversary of Ukraine's independence Follow live: https://trib.al/tEdfFQy 📺 Sky 501, Virgin 602, Freeview 233 and YouTube | Sky News</title>
@@ -1434,146 +1575,6 @@
       <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a79/live/19f4ac70-9f88-11f1-82a0-8dbe1008b861.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a79/live/19f4ac70-9f88-11f1-82a0-8dbe1008b861.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>53 mil reproducciones · 1325 reacciones | Renan Santos (Missão) adotou retórica virulenta no debate deste domingo, com ofensas aos dois ausentes, a quem chamou de cadelas e criminosos. O candidato do Missão explorou os púlpitos vazios de Lula e Flávio. Posicionou-se entre os dois palanques ao abordar a ausência de ambos e posou ao lado do púlpito do petista enquanto sua equipe registrava a cena nos bastidores. 📲Leia mais na #Folha: https://mla.bs/7fa96e37d2 📷 Imagens cedidas pela Band 📝 Arthur Guimarães de Oliveira, Luana Lisboa, Marcelo Azevedo e Fábio Zanini | Folha de S.Paulo</title>
-      <link>https://www.facebook.com/reel/28639676558951586/?comment_id=1366276949010737&amp;__cft__%5B0%5D=AZYyXwVBUjlzTmcvuDK2giwpxvQE-9sVusHRuEEMbrRfAO6UOVeulJfl91E8XAy0Ca-CxL_tFTWNEoBhciY28mxNqlCbkU30nmJO2a8hU2n3VHu6NPIVJDzKm8C9KjdqYuTcVdmqbry3GmssMM_H1dqj4riTZG7BqzF6V4EOmcfnqyz3i6bwiYSXLM8eGPU2nqD1pBk5HPmzDmod9u9Lw2Jr&amp;__tn__=R-R</link>
-      <description>Renan Santos (Missão) adotou retórica virulenta no debate deste domingo, com ofensas aos dois ausentes, a quem chamou de cadelas e criminosos. O candidato do Missão explorou os púlpitos vazios de... Renan Santos (Missão) adotou retórica virulenta no debate deste domingo, com ofensas aos dois ausentes, a quem chamou de cadelas e criminosos. O... Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b9179cf43567d73d</guid>
-      <pubDate>Mon, 24 Aug 2026 07:28:03 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
-      <media:content url="https://scontent-sin6-3.xx.fbcdn.net/v/t15.5256-10/783948261_28639677562284819_7658463646883368505_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=FagJtLBvf-4Q7kNvwFZVDB7&amp;_nc_oc=Adq38nY6HnF8e0V5QVhCX3yOvHCUSaPw3VG0q6rQfO4Rw9JOJLvZ8dM6vV9Otc91Tsk&amp;_nc_zt=23&amp;_nc_ht=scontent-sin6-3.xx&amp;_nc_gid=oI8r0u_o5zO95YwyPpxi5A&amp;_nc_ss=7f289&amp;oh=00_AQE89aHoJbAhb3KpheGr3cn4ywcVsUuZja9q845fwOH4zw&amp;oe=6A91CB34" medium="image" />
-      <enclosure url="https://scontent-sin6-3.xx.fbcdn.net/v/t15.5256-10/783948261_28639677562284819_7658463646883368505_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=FagJtLBvf-4Q7kNvwFZVDB7&amp;_nc_oc=Adq38nY6HnF8e0V5QVhCX3yOvHCUSaPw3VG0q6rQfO4Rw9JOJLvZ8dM6vV9Otc91Tsk&amp;_nc_zt=23&amp;_nc_ht=scontent-sin6-3.xx&amp;_nc_gid=oI8r0u_o5zO95YwyPpxi5A&amp;_nc_ss=7f289&amp;oh=00_AQE89aHoJbAhb3KpheGr3cn4ywcVsUuZja9q845fwOH4zw&amp;oe=6A91CB34" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1871 reproducciones · 36 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/4554109311574707/?comment_id=1614684546846578&amp;__cft__%5B0%5D=AZYzzF0S666bHjgPgt5S9UxvZgzz7F4_xosOOasVchi_nROmbsj1BOUWDFhUjIQxfDDy4RYIjtNmMMoCl0ZM6GU79fcIEprttOjbYtfjM03V7fb6JA7OIK1PFzyqWH3ubtjV092LKTRaJejYyp8gal-djBOMzGzIXAXNY0HcfTE58wKSyqQ0UdMMQ9bPfmjxS9zwbU_8lmiMPzJsBrNOsFgE&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2ea4bf42601496bb</guid>
-      <pubDate>Mon, 24 Aug 2026 07:28:03 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwG5FoO_&amp;_nc_oc=Adoxa10sPFfw4_coFDJghysLl4gqyPwMRbr_GVsxCbSFRvWdNQ837J5--57t0fyaXBc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=cjYoFm9g6_--5RjFwqkmvw&amp;_nc_ss=7f289&amp;oh=00_AQHrCG1DgJrDC7kBGHLz3IP8EyyKBbv0t7Xi3fY9wpMYUg&amp;oe=6A91AA99" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwG5FoO_&amp;_nc_oc=Adoxa10sPFfw4_coFDJghysLl4gqyPwMRbr_GVsxCbSFRvWdNQ837J5--57t0fyaXBc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=cjYoFm9g6_--5RjFwqkmvw&amp;_nc_ss=7f289&amp;oh=00_AQHrCG1DgJrDC7kBGHLz3IP8EyyKBbv0t7Xi3fY9wpMYUg&amp;oe=6A91AA99" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Dominic Perrottet’s brother allegedly shared ‘dirt’ including secret phone recording of minister, Icac hears</title>
-      <link>https://www.theguardian.com/australia-news/2026/aug/24/dominic-perrottet-brother-charles-secret-recording-icac-inquiry-ntwnfb</link>
-      <description>Charles Perrottet appeared to be furthering fugitive developer Jean Nassif’s interests by undermining adversaries, a former NSW MP claims Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Dominic Perrottet’s brother shared “dirt” – including a secret pocket phone recording of a minister – to try to help a property developer achieve political outcomes, lawyers assisting a corruption inquiry have alleged. Former New South Wales Liberal MP and staffer Chris Spence told the Independent Commission Against Corruption (Icac) on Monday… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:095d20af05e56e0b</guid>
-      <pubDate>Mon, 24 Aug 2026 07:25:48 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <dc:creator>Penry Buckley</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/565f799c7da638307efbd5ce214805e239c840f0/725_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cb134e4910cefbd1e29a6f0fb20a142" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/565f799c7da638307efbd5ce214805e239c840f0/725_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3cb134e4910cefbd1e29a6f0fb20a142" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles - Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates</link>
-      <description>UK PM to announce support for France in setting up missile assembly lines during his Kyiv visit, as coalition of willing meets later today Burnham visits Ukraine with promise of boost for Kyiv’s long-range missiles The Kremlin responded to Burnham’s overnight comments, saying his plans to help Ukraine make its own long-range cruise missiles would “add fuel to the fire” in bilateral British-Russian relations. Asked ‌about UK prime minister Andy Burnham’s visit to Kyiv on Monday and the new ‌British missile support, Kremlin spokesperson Dmitry Peskov ​said Britain was a participant in the war… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9cffbecfa4e051c1</guid>
-      <pubDate>Mon, 24 Aug 2026 07:10:25 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>Vivian Ho</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/93773bfe720fcbdfe80dfe8b1cd5bbadcaa31357/949_1115_4204_3363/master/4204.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04e92a15a3c87c8765f9628c8b5091bf" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/93773bfe720fcbdfe80dfe8b1cd5bbadcaa31357/949_1115_4204_3363/master/4204.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04e92a15a3c87c8765f9628c8b5091bf" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1870 reproducciones · 36 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/4554109311574707/?comment_id=1614684546846578&amp;__cft__%5B0%5D=AZY-lbxLkwWh6AVbQOntZk0wP2kXv4LHpD3FCmrl8MGRADxcq3-y_NigC1s1CRXvuTv2NHq11KP1bJu5HibZHDEH6qP7vA9UD_hkx5KD_cCK9ZV47Kz_9jntycOaGmy6a4RxxsCWwlcRvKQsMO65MNBeWNT2hyeHpxACOM7_52eI5npLaxyqNblaROlcUHy84LYd3RlPzCQduqgVPRNp2Xg0&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:09f05df58e8b2cbe</guid>
-      <pubDate>Mon, 24 Aug 2026 06:00:53 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwGxYZuu&amp;_nc_oc=AdpI1VdzPVpfvTjaJlBIwxFRblGf6Xx5Pd_iwS6-dJXfYjGIeebBmKF1Cz9KoGZ50qc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ijNnVPz4t3ujPa6aJvuC8w&amp;_nc_ss=7f289&amp;oh=00_AQG5xajmUghT1ZADZ3a7ktJF4RE-5dTy3mCT5Vx2gPL2QQ&amp;oe=6A91AA99" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwGxYZuu&amp;_nc_oc=AdpI1VdzPVpfvTjaJlBIwxFRblGf6Xx5Pd_iwS6-dJXfYjGIeebBmKF1Cz9KoGZ50qc&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ijNnVPz4t3ujPa6aJvuC8w&amp;_nc_ss=7f289&amp;oh=00_AQG5xajmUghT1ZADZ3a7ktJF4RE-5dTy3mCT5Vx2gPL2QQ&amp;oe=6A91AA99" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1867 reproducciones · 36 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/4554109311574707/?comment_id=1614684546846578&amp;__cft__%5B0%5D=AZbXfvmEqreLv0n3-wSKcDa7bFwuYrobO2SmxmGlLA34q82Kg2uHKQA6293v0kVlXVU2asDWdllbSyg20qisr1HIymFz_O3Wj8ftJvhYWXhoQH_og8OVJFxukWfeO9Vg-tBbU7PlZMcXFCCsI-9iRbKfSRFTru821a-fE7mGgUJFmcnV54aTgCyPc3yyY1M-HbiQYhjdVrgJKqdRglijZN6H&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 16 🏙️ORURO 🏟️ JESÚS BERMUDEZ 🔥¡EN VIVO!🔥 #RealOruro 🆚 #ClubBolívar 15:00 PM Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7524709a5e553b1f</guid>
-      <pubDate>Mon, 24 Aug 2026 05:08:44 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwFcoSR_&amp;_nc_oc=AdrokSV0Gwsz9JNPNLLMtX1jM89eh4MDMabmBUSkc3B5qB3zn_Ym7djkIn_-GtVYwLw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=5jFHduXdy0LbHcVyOOAQDw&amp;_nc_ss=7f289&amp;oh=00_AQEShXlZZ_PdA6I9lzHcXh35GYR1UKxPoXx8GnNwoLlxvQ&amp;oe=6A91AA99" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/784181154_1437327568302763_1933917051511732231_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=s-dhcJkg6xQQ7kNvwFcoSR_&amp;_nc_oc=AdrokSV0Gwsz9JNPNLLMtX1jM89eh4MDMabmBUSkc3B5qB3zn_Ym7djkIn_-GtVYwLw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=5jFHduXdy0LbHcVyOOAQDw&amp;_nc_ss=7f289&amp;oh=00_AQEShXlZZ_PdA6I9lzHcXh35GYR1UKxPoXx8GnNwoLlxvQ&amp;oe=6A91AA99" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BREAKING: Oman’s Foreign Minister Sayyid Badr al-Busaidi is set to travel to Tehran on Tuesday for meetings with Iranian officials, reports Iranian media.... Ver más</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02g8LSuAftHS2N4mR3yvyQmVpqHGMo1QpmX9E8ZkB1TwZJCGSythip5Mw4dcUx1Uxzl?__cft__%5B0%5D=AZZp1XheGunIQ2hEpMvUhy8E7V8pic2F7z83RfK1U0GJfC_ognrgM0NhuuyVmTf9RWdMRYmKxiraBMJo2y8O3PlBJMMJfsW5j5qbrnraE8Gbw6xUqrAKQDcSpPa9rS1nJzMJw32xxTqmn5XbBfiHk_RHWQW8iO7bJWlV3EM_7hfsNn0evnFMtlJW_d5xPkTGuAI&amp;__tn__=%2CO%2CP-R</link>
-      <description>BREAKING: Oman’s Foreign Minister Sayyid Badr al-Busaidi is set to travel to Tehran on Tuesday for meetings with Iranian officials, reports Iranian media.... Ver más Gulf States Western intelligence agents Ver más comentarios Muhyadin Abdirahman Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e576bbd4342feda3</guid>
-      <pubDate>Mon, 24 Aug 2026 05:03:19 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/783985353_4587610818179034_6276067591622634569_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=LEaVDqdDZ0EQ7kNvwEDZhCa&amp;_nc_oc=AdphZ5fbXmHQb_hwq9Wdcdguxqtd-eBvV4nXNRk_apNuhwASVRHfE8YH8vFDrvWcT30&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=V0XxNYY97zRdRCTgt4XpUg&amp;_nc_ss=7f289&amp;oh=00_AQH5VS92mbqVqIbRE0CAb9M_4eB0gZFCL2yRFOfMhgqaQw&amp;oe=6A919842" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/783985353_4587610818179034_6276067591622634569_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=LEaVDqdDZ0EQ7kNvwEDZhCa&amp;_nc_oc=AdphZ5fbXmHQb_hwq9Wdcdguxqtd-eBvV4nXNRk_apNuhwASVRHfE8YH8vFDrvWcT30&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=V0XxNYY97zRdRCTgt4XpUg&amp;_nc_ss=7f289&amp;oh=00_AQH5VS92mbqVqIbRE0CAb9M_4eB0gZFCL2yRFOfMhgqaQw&amp;oe=6A919842" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A ‘democratised’ financial crisis is still a crisis</title>
-      <link>https://www.facebook.com/financialtimes/posts/pfbid0nUGP3BGmPoxdxjiiSNz736HQ9BCPg1SgW4XPSH8VBCqyaNRfCswUiGHEqUC4ZS6Nl?__cft__%5B0%5D=AZZ638GiP1h4vvS58Ly9BqUYfmPUUOcQUdmArg8XVS2bA8BaeB9ezeSxS58YS65xtMlFyRzWR2AqE9TJch3NOnZpH1GqU2FsRipD49GhmEIMuhMmjbw4zmWm-gn-T-criyKijUEFYRszp9QbXTuAy9kKTJWmrfLQHtovRyHZZR7QgCDfMIyBiJfRDpFVW37QH3U&amp;__tn__=%2CO%2CP-R</link>
-      <description>A ‘democratised’ financial crisis is still a crisis thank your peace and i thank you. FT.COM Ver más comentarios Keith Abellanosa Fuente: Financial Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9ca1976f22d9d9a4</guid>
-      <pubDate>Mon, 24 Aug 2026 04:54:16 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
-      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/14122431546939607332?url=https%3a%2f%2fimages.ft.com%2fv3%2fimage%2fraw%2fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F342c69a8-1387-48b9-a6f1-4493b4413f5b.jpg%3fsource%3dnext-barrier-page%26fit%3dscale-down%26quality%3dhighest%26width%3d700%26dpr%3d1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=YivLDDj4Q3rpIM4gCzDkMA&amp;_nc_oc=AdoKA3lpuv5H9obKEUgeSYm9FH72YUI7d52GY1SPZFsNlboeP2tx8xNYy9jDjnou9rU&amp;ccb=13-1&amp;oh=06_Q3_CAQxub_spnsUfpRluHXjPgv_z2J-WdwpBXVa-rvKbf5Ou&amp;oe=6A8DB4F5&amp;_nc_sid=867500" medium="image" />
-      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/14122431546939607332?url=https%3a%2f%2fimages.ft.com%2fv3%2fimage%2fraw%2fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F342c69a8-1387-48b9-a6f1-4493b4413f5b.jpg%3fsource%3dnext-barrier-page%26fit%3dscale-down%26quality%3dhighest%26width%3d700%26dpr%3d1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=YivLDDj4Q3rpIM4gCzDkMA&amp;_nc_oc=AdoKA3lpuv5H9obKEUgeSYm9FH72YUI7d52GY1SPZFsNlboeP2tx8xNYy9jDjnou9rU&amp;ccb=13-1&amp;oh=06_Q3_CAQxub_spnsUfpRluHXjPgv_z2J-WdwpBXVa-rvKbf5Ou&amp;oe=6A8DB4F5&amp;_nc_sid=867500" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live: Ukraine backers gather as Russian attacks escalate, air defence runs low</title>
-      <link>https://www.france24.com/en/europe/20260824-live-ukraine-backers-gather-as-russian-attacks-escalate-air-defence-runs-low</link>
-      <description>Ukraine on Monday hosts a meeting of its key European backers to press for air-defence supplies and more pressure on Moscow, with Russian attacks killing more civilians than at any time since the first months of the invasion. The meeting of the Coalition of the Willing will be jointly chaired by the leaders of Britain, France and Germany. Follow our liveblog for the latest updates. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:51765d9da20e7e1e</guid>
-      <pubDate>Mon, 24 Aug 2026 04:50:32 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/00505a16-9f57-11f1-a4f1-005056bf30b7/w:1024/p:16x9/AP26235592155543.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/00505a16-9f57-11f1-a4f1-005056bf30b7/w:1024/p:16x9/AP26235592155543.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A ‘democratised’ financial crisis is still a crisis</title>
-      <link>https://www.facebook.com/financialtimes/posts/pfbid0nUGP3BGmPoxdxjiiSNz736HQ9BCPg1SgW4XPSH8VBCqyaNRfCswUiGHEqUC4ZS6Nl?__cft__%5B0%5D=AZb479aHM51AoOGBIj2YoKsqoVn0-_e0hjzy_HaBnrWT2pfDifz8AdWBsdF4wJE3pAuzcjjhHfYhfvmpd1IzuhzNFZ8_PvoV3GdzTDjB0HoErUXA92YtXHpiLWVytbKW_4mhPGwMI9kIUAblIYTxlc5YSFgA3Pp1bgm17z8MKosTJqrX8Vhk9PGgvNZQwiM9qNI&amp;__tn__=%2CO%2CP-R</link>
-      <description>A ‘democratised’ financial crisis is still a crisis thank your peace and i thank you. FT.COM Keith Abellanosa Fuente: Financial Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:58ead7ba66dea540</guid>
-      <pubDate>Mon, 24 Aug 2026 04:41:19 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
-      <media:content url="https://external-dfw6-1.xx.fbcdn.net/emg1/v/t13/14122431546939607332?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F342c69a8-1387-48b9-a6f1-4493b4413f5b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YFZyKxo0glE3QpY-32w1iA&amp;_nc_oc=AdpE6teKje_Gt5xDWz-t_5pz5q3db9lsHcgGSPyP4bF19ykN3ysm852nGtc2zKD2crQ&amp;ccb=13-1&amp;oh=06_Q3_CAejPO0wQEQTDGwB1ERe1bi1Gb_7O4YZe1ILsEwkSs_fl&amp;oe=6A8DB4F5&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-dfw6-1.xx.fbcdn.net/emg1/v/t13/14122431546939607332?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F342c69a8-1387-48b9-a6f1-4493b4413f5b.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=YFZyKxo0glE3QpY-32w1iA&amp;_nc_oc=AdpE6teKje_Gt5xDWz-t_5pz5q3db9lsHcgGSPyP4bF19ykN3ysm852nGtc2zKD2crQ&amp;ccb=13-1&amp;oh=06_Q3_CAejPO0wQEQTDGwB1ERe1bi1Gb_7O4YZe1ILsEwkSs_fl&amp;oe=6A8DB4F5&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Vivian Gomes de Oliveira ha comentado: #Lula2026 tetra e #TimeDoLula ⭐️ ⭐️ ⭐️ ⭐️ ❤️</title>
-      <link>https://www.facebook.com/cnnbrasil/posts/pfbid08MCSmxufd7dbWA3msbz2P2FSsWVBHQFHo3cBAKwD5whsqhKDrvs6FxUJyyUHTeGMl?comment_id=27959977680337799&amp;__cft__%5B0%5D=AZZvYi-ogII6-A_dR45mjTVQYBjlQ9CKKN6U-R2OKPG_a7CauJK2CyPK6LkHf8HD2iV2fFIl5JIjoiIauTx09QuGt_lOFOMdQKVCLAWC74rDVhqY7fd0Nrwy2fRguTA2fG7r-BYjNfBMRn6Mq1EzuHN5LM_7tysF01iQvBKBtoyPYzntQVFlGcJv6abt-mxQp4I&amp;__tn__=R-R</link>
-      <description>Caiado: Lula está preparando Flávio para ser o peru de Natal Fuente: CNN Brasil.</description>
-      <guid isPermaLink="false">cron-rss-noticias:81a05f34e9b24914</guid>
-      <pubDate>Mon, 24 Aug 2026 04:16:07 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/cnnbrasil/">CNN Brasil</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/9906730217232902550?url=https%3a%2f%2fadmin.cnnbrasil.com.br%2fwp-content%2fuploads%2fsites%2f12%2f2026%2f08%2fBR_CNN_230826_LINK_SP_DEBATE_BAND_frame_82199.jpeg%3fw%3d1200%26h%3d630%26crop%3d1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=0oiuhbZLQQrQDhxFRibmQg&amp;_nc_oc=Adr_OOu9E0fNrXBF2ycpnbzrFNRY3yecEpc32ERwB_3WXwkDWbDh78N3u6JQVcHKgg4&amp;ccb=13-1&amp;oh=06_Q3_CAZqqGEhZ6pPf6AgPluZ31beMs9-SCw30-s4_zCkTuitG&amp;oe=6A8DB2B7&amp;_nc_sid=867500" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/9906730217232902550?url=https%3a%2f%2fadmin.cnnbrasil.com.br%2fwp-content%2fuploads%2fsites%2f12%2f2026%2f08%2fBR_CNN_230826_LINK_SP_DEBATE_BAND_frame_82199.jpeg%3fw%3d1200%26h%3d630%26crop%3d1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=0oiuhbZLQQrQDhxFRibmQg&amp;_nc_oc=Adr_OOu9E0fNrXBF2ycpnbzrFNRY3yecEpc32ERwB_3WXwkDWbDh78N3u6JQVcHKgg4&amp;ccb=13-1&amp;oh=06_Q3_CAZqqGEhZ6pPf6AgPluZ31beMs9-SCw30-s4_zCkTuitG&amp;oe=6A8DB2B7&amp;_nc_sid=867500" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
