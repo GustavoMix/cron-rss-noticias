@@ -7,9 +7,22 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 26 Aug 2026 09:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:14:35 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-ambiente.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eight Dead, Others Missing as Floods Sweep Away Villages in Nepal</title>
+      <link>https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html</link>
+      <description>A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e29c4f05cd31c73b</guid>
+      <pubDate>Wed, 26 Aug 2026 09:36:29 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América del Norte</category>
+      <dc:creator>Binod Ghimire</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/08/26/multimedia/26-NEPAL-FLOODS-zqgp/26-NEPAL-FLOODS-zqgp-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/08/26/multimedia/26-NEPAL-FLOODS-zqgp/26-NEPAL-FLOODS-zqgp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Una fuerte inundación arrasa Rasuwa (Nepal) y deja al menos 8 muertos</title>
       <link>https://www.abc.es/internacional/fuerte-inundacion-arrasa-rasuwa-nepal-deja-muertos-20260826104211-nt.html</link>
@@ -1532,19 +1545,6 @@
       <source url="https://www.theguardian.com/environment/rss">The Guardian - Environment</source>
       <media:content url="https://i.guim.co.uk/img/media/58f9742318bb6667fde12f0cec1ec00267e5b75c/0_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c63a40167805378259fc9dc1e2cc6f" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/58f9742318bb6667fde12f0cec1ec00267e5b75c/0_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c63a40167805378259fc9dc1e2cc6f" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Darwin retirees lose home and all possessions in Livingstone fire</title>
-      <link>https://www.abc.net.au/news/2026-08-25/darwin-couple-home-burnt-livingstone-fire-/107076592</link>
-      <description>A Darwin couple has lost everything after a fire tore through their home, and just months after flash flooding damaged the property. Now they face the heartbreaking task of rebuilding their lives from scratch. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6cf9670be37a04be</guid>
-      <pubDate>Tue, 25 Aug 2026 06:23:02 +0000</pubDate>
-      <category>ambiente</category>
-      <category>Oceanía</category>
-      <dc:creator>Roxanne Fitzgerald</dc:creator>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/020cfcf1cba3b7a9a2e7b7851e287ce0?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/020cfcf1cba3b7a9a2e7b7851e287ce0?impolicy=wcms_crop_resize&amp;cropH=2592&amp;cropW=4608&amp;xPos=0&amp;yPos=240&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
