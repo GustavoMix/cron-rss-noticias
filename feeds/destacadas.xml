@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 31 Aug 2026 13:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:11:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -65,6 +65,21 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Spanish PM blames Russia, Israel for disinformation in Ceuta migrant crisis</title>
+      <link>https://www.thehindu.com/news/international/spanish-pm-blames-russia-israel-for-disinformation-in-ceuta-migrant-crisis/article71412495.ece</link>
+      <description>Spanish Prime Minister Pedro Sanchez said on Monday there were signs Russia and Israel had spread the disinformation over Spain’s migration policy that triggered last month’s rush of migrants into Ceuta, but no evidence of Moroccan involvement. Over 72,000 migrants irregularly crossed ‌from Morocco into the tiny Spanish territory between July 30 and 31 in an unprecedented surge at one of the European Union’s only two land borders with Africa, prompting alarm across the bloc. At least 100 people... Publicado también por: France 24 - English, South China Morning Post, The Jerusalem Post - International. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f998dc340336fe20</guid>
+      <pubDate>Mon, 31 Aug 2026 18:30:34 +0000</pubDate>
+      <category>politica</category>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>África</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/ei30v6/article71412504.ece/alternates/LANDSCAPE_1200/2026-07-14T123743Z_1438738410_RC280MACCAIS_RTRMADP_3_SPAIN-CRIME-SANCHEZ-BROTHER.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/ei30v6/article71412504.ece/alternates/LANDSCAPE_1200/2026-07-14T123743Z_1438738410_RC280MACCAIS_RTRMADP_3_SPAIN-CRIME-SANCHEZ-BROTHER.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>One dead, 15 missing after Grand Canyon flash flood</title>
       <link>https://www.abc.net.au/news/2026-08-31/grand-canyon-flash-flood-15-people-missing/107097306</link>
       <description>Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say One person died and about 15 people were missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the National Park Service. The flash-flood event occurred in the area of Bright Angel Canyon and the Phantom Ranch, where park staff and the Arizona department of public safety had evacuated more than 60 people as of Sunday morning. Continue reading... Publicado también por: The Independent - World, The Jerusalem Post - International, Al Jazeera English, The Guardian - Environment. Fuente: ABC News Australia.</description>
@@ -89,20 +104,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/1fc52210-a320-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Norway mourns King Harald as Haakon VIII ascends throne</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2rzxrdr71o</link>
-      <description>Norway is mourning King Harald V after the country's longest-serving monarch died at the age of 89, with tributes pouring in from across Europe. His death paves the way for Crown Prince Haakon to become king, as the royal family faces renewed scrutiny over Crown Princess Mette-Marit's reported past ties to Jeffrey Epstein and the conviction of her son for rape. Publicado también por: France 24 - English, The Hindu - International, NPR - World. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:090567fff2883374</guid>
-      <pubDate>Fri, 28 Aug 2026 18:13:28 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Google changes US maps to Lake America from Lake Ontario</title>
@@ -181,7 +182,7 @@
     <item>
       <title>15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon</title>
       <link>https://www.bbc.co.uk/news/articles/clylkjyez1do</link>
-      <description>Dozens evacuated after flash-flood event near Bright Angel Canyon and Phantom Ranch, officials say One person died and about 15 people were missing or unaccounted for after a major flash flood swept through the Grand Canyon national park in Arizona on Saturday afternoon, according to the National Park Service. The flash-flood event occurred in the area of Bright Angel Canyon and the Phantom Ranch, where park staff and the Arizona department of public safety had evacuated more than 60 people as of Sunday morning. Continue reading... Publicado también por: Euronews, The Guardian - Environment. Fuente: BBC News - World.</description>
+      <description>National Park Service confirms second death from weekend flash flood as area braces for more storms A second death was confirmed by National Park Service officials on Monday after aflash flood sent a surge of water and debris through an area of the Grand Canyon over the weekend. Dozens of visitors had to be evacuated by helicopter during the deluge that consumed trails and infrastructure. Fifteen people are still missing or unaccounted for, as more heavy rain and thunderstorms in the forecasts threaten additional debris flows, flash floods or rockfalls , the NPS said in a statement. Continue… Publicado también por: Euronews, The Guardian - Environment. Fuente: BBC News - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:4262fe694888705f</guid>
       <pubDate>Sun, 30 Aug 2026 23:52:27 +0000</pubDate>
       <category>ambiente</category>
@@ -245,18 +246,6 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/29/a887f66b-922d-4880-b3a5-597ab40f00fd_41e7a7ec.jpg?itok=rH8kG2FG&amp;v=1787987971" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Uganda: World's 'youngest monarch' dies aged 34</title>
-      <link>https://www.dw.com/en/uganda-world-s-youngest-monarch-dies-aged-34/a-78549208?maca=en-rss-en-world-4025-rdf</link>
-      <description>King Oyo Nyimba, leader of the Tooro kingdom in western Uganda, has died at the age of 34, the region's prime minister of his kingdom announced Thursday. Crowned at three years old, he became the world's youngest reigning monarch in 1995. Publicado también por: Sky News - World, BBC News - World, France 24 - English. Fuente: Deutsche Welle - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a4672aa95764e455</guid>
-      <pubDate>Fri, 28 Aug 2026 14:50:00 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <source url="https://rss.dw.com/rdf/rss-en-world">Deutsche Welle - World</source>
-      <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-oyo-nyimba-king-oyo_7333610.jpg?20260828133344" medium="image" />
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-oyo-nyimba-king-oyo_7333610.jpg?20260828133344" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Norway’s King Harald V dies at 89; his son becomes King Haakon VIII</title>
       <link>https://www.thehindu.com/news/international/norways-king-harald-v-dies-at-89-his-son-becomes-king-haakon-viii/article71399590.ece</link>
       <description>Norwegians gather to remember monarch whose death comes amid scandal over links between crown princess and Jeffrey Epstein Norwegians have gathered in their thousands to pay their respects to King Harald V, Europe’s oldest reigning monarch, who has died, aged 89, in Oslo. He was succeeded immediately by his son, King Haakon VIII. The new king thanked “the government and Norwegian people for their support and sympathy for the royal family at this time”. A period of national mourning was announced as crowds left wreaths and messages outside the royal palace in Oslo. Continue reading... Publicado también por: Africanews, Euronews, The Guardian - World, Deutsche Welle - World, NPR - World. Fuente: The Hindu - International.</description>
@@ -311,6 +300,20 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Man arrested after woman killed and several injured in Switzerland rave shooting</title>
+      <link>https://www.independent.co.uk/news/world/europe/switzerland-rave-shooting-aarau-police-latest-b3042116.html</link>
+      <description>The suspect, a 43-year-old Swiss citizen, was taken into custody early on Monday, the police said. Publicado también por: The New York Times - World, BBC News - World. Fuente: The Independent - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d95dd76f8808b712</guid>
+      <pubDate>Mon, 31 Aug 2026 13:45:39 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Mike Taylor</dc:creator>
+      <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
+      <media:content url="https://static.independent.co.uk/2026/08/31/12/Switzerland_Shooting_52996.jpg?width=1200&amp;auto=webp&amp;trim=1%2C0%2C1%2C0" medium="image" />
+      <enclosure url="https://static.independent.co.uk/2026/08/31/12/Switzerland_Shooting_52996.jpg?width=1200&amp;auto=webp&amp;trim=1%2C0%2C1%2C0" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot</title>
       <link>https://www.bbc.co.uk/news/articles/c86xwqez4npo</link>
       <description>The depot, near the capital’s western suburbs, appeared to have been storing “explosive objects”, Ukrainian prosecutors said, as President Volodymyr Zelensky suggested ammunition was to blame Publicado también por: The Hindu - International. Fuente: BBC News - World.</description>
@@ -324,19 +327,33 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Norway mourns king Harald V as crown prince Haakon becomes king</title>
-      <link>http://www.africanews.com/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king/</link>
-      <description>King Harald V of Norway, who went into exile in the United States as a child during the Nazi occupation of his homeland and refused a string of European noblewomen to marry his school sweetheart, died Friday. Publicado también por: Euronews, The Hindu - International, NPR - World. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:74671e73ab3df1c1</guid>
-      <pubDate>Fri, 28 Aug 2026 20:40:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
+      <title>Muere el ex primer ministro francés Edouard Balladur a los 97 años</title>
+      <link>https://www.abc.es/internacional/muere-primer-ministro-frances-edouard-balladur-anos-20260831215200-nt.html</link>
+      <description>El ex primer ministro francés Edouard Balladur ha muerto este lunes a los 97 años, según ha comunicado su familia. Libró una encarnizada batalla por la presidencia contra su amigo Jacques Chirac que dejó profundas huellas en su partido de centro-derecha.Chirac se sintió profundamente ofendido cuando Balladur, a quien había preparado para que fuera su mano derecha, decidió presentarse como candidato a la presidencia contra él dos años más tarde.El expresidente Nicolas Sarkozy figuraba entre los grandes del Agrupamiento por la República, el partido del héroe de guerra Charles de Gaulle, que… Publicado también por: France 24 - Español, El Mundo - Internacional. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:251d2f7f03fa3af8</guid>
+      <pubDate>Mon, 31 Aug 2026 19:55:54 +0000</pubDate>
+      <category>politica</category>
+      <category>conflictos</category>
       <category>Europa</category>
+      <dc:creator>AFP</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/1516637756-kBdG-U301512230742uNH-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/1516637756-kBdG-U301512230742uNH-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Messi retires from International football after 21 years with Argentina</title>
+      <link>http://www.africanews.com/2026/08/31/messi-retires-from-international-football-after-21-years-with-argentina/</link>
+      <description>Lionel Messi has retired from international football at 39, ending a remarkable 21-year career with Argentina just weeks after leading the team to the 2026 World Cup final. He leaves as the nation’s record appearance holder and top scorer. Publicado también por: Al Jazeera English, France 24 - English. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8aed9743f39bf90c</guid>
+      <pubDate>Mon, 31 Aug 2026 19:21:39 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
       <category>África</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <category>Medio Oriente</category>
+      <dc:creator>editorial@africanews.com (Dominic Wabwireh)</dc:creator>
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/89/33/96/640x360_cmsv2_ddc9c191-3e38-5e54-8079-cd50a2790400-9893396.jpg?1787939608" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/89/33/96/640x360_cmsv2_ddc9c191-3e38-5e54-8079-cd50a2790400-9893396.jpg?1787939608" type="image/jpeg" length="0" />
+      <media:content url="http://images.euronews.com/articles/stories/09/89/62/54/640x360_cmsv2_a40f7e8f-8f5c-519c-9e0e-c25897d8bc16-9896254.jpg?1788199363" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/89/62/54/640x360_cmsv2_a40f7e8f-8f5c-519c-9e0e-c25897d8bc16-9896254.jpg?1788199363" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Ebola spreads to two new zones in DRC; 60 areas now affected</title>
@@ -351,35 +368,6 @@
       <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
       <media:content url="https://scontent-qro1-1.xx.fbcdn.net/v/t39.99422-6/787620054_1513873514105844_6638957900920397353_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=leTZCXh7VykQ7kNvwF4_wfS&amp;_nc_oc=Adrq3WO8tIvvesgfXQcVLHsC08_WH_vWj3gWiQASRLJBv4ZmpVt0AEZQyHM8URldtI0&amp;_nc_zt=14&amp;_nc_ht=scontent-qro1-1.xx&amp;_nc_gid=UtTFFZPDyyWN3MW2_kKVMA&amp;_nc_ss=7f289&amp;oh=00_AQJFt6iGo_RGpzfr0u9BcamvDebQfVR_d-aLA_5i8og18g&amp;oe=6A9806ED" medium="image" />
       <enclosure url="https://scontent-qro1-1.xx.fbcdn.net/v/t39.99422-6/787620054_1513873514105844_6638957900920397353_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=leTZCXh7VykQ7kNvwF4_wfS&amp;_nc_oc=Adrq3WO8tIvvesgfXQcVLHsC08_WH_vWj3gWiQASRLJBv4ZmpVt0AEZQyHM8URldtI0&amp;_nc_zt=14&amp;_nc_ht=scontent-qro1-1.xx&amp;_nc_gid=UtTFFZPDyyWN3MW2_kKVMA&amp;_nc_ss=7f289&amp;oh=00_AQJFt6iGo_RGpzfr0u9BcamvDebQfVR_d-aLA_5i8og18g&amp;oe=6A9806ED" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89</title>
-      <link>https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html</link>
-      <description>Norwegians gather to remember monarch whose death comes amid scandal over links between crown princess and Jeffrey Epstein Norwegians have gathered in their thousands to pay their respects to King Harald V, Europe’s oldest reigning monarch, who has died, aged 89, in Oslo. He was succeeded immediately by his son, King Haakon VIII. The new king thanked “the government and Norwegian people for their support and sympathy for the royal family at this time”. A period of national mourning was announced as crowds left wreaths and messages outside the royal palace in Oslo. Continue reading... Publicado también por: The Guardian - World, Deutsche Welle - World. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:df2d49dd7311db14</guid>
-      <pubDate>Fri, 28 Aug 2026 18:14:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <dc:creator>Alan Cowell</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/08/29/multimedia/00Harald-ADV-cbpg/00Harald-ADV-cbpg-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/08/29/multimedia/00Harald-ADV-cbpg/00Harald-ADV-cbpg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Why a newly formed lake is sparking fears of more flooding along the Nepal-China border</title>
-      <link>https://news.mongabay.com/short-article/2026/08/why-a-newly-formed-lake-is-sparking-fears-of-more-flooding-along-the-nepal-china-border/</link>
-      <description>BENGALURU, India (AP) — Even as rescuers worked through mud and debris Friday in areas devastated by a catastrophic flash flood along the Himalayan border between Nepal and China, authorities warned that a newly formed, overflowing lake could trigger further flooding. Nepalese authorities said all security personnel, rescue workers and members of the public deployed in rescue and relief efforts have been told […] Publicado también por: Phys.org, France 24 - English. Fuente: Mongabay.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fe85a5c204fafdbc</guid>
-      <pubDate>Fri, 28 Aug 2026 17:51:23 +0000</pubDate>
-      <category>ambiente</category>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>Mongabay Editor</dc:creator>
-      <source url="https://news.mongabay.com/feed/">Mongabay</source>
-      <media:content url="https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28174044/AP26238334531076-1-768x512.jpg" medium="image" />
-      <enclosure url="https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/08/28174044/AP26238334531076-1-768x512.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Far-right commentator Milo Yiannopoulos detained by ICE</title>
@@ -513,20 +501,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecd7/live/b200b740-a3dc-11f1-aed2-8d6da8d75094.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Algeria’s north-east scorched by deadly wildfires, national mourning declared</title>
-      <link>http://www.africanews.com/2026/08/28/algerias-north-east-scorched-by-deadly-wildfires-national-mourning-declared/</link>
-      <description>Deadly wildfires have devastated villages in Algeria’s Jijel province, nearly 350 kilometres east of Algiers, Residents are assessing the damage as crews work to restore electricity and clear affected areas. Publicado también por: Euronews. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1362a361658bea7a</guid>
-      <pubDate>Fri, 28 Aug 2026 17:35:06 +0000</pubDate>
-      <category>ambiente</category>
-      <category>África</category>
-      <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/89/22/07/640x360_cmsv2_903627de-e84a-5545-abbe-33920b77977d-9892207.jpg?1787920535" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/89/22/07/640x360_cmsv2_903627de-e84a-5545-abbe-33920b77977d-9892207.jpg?1787920535" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Nepal rescue teams seek hundreds of workers trapped in hydropower tunnels by deadly floods</title>
       <link>https://www.france24.com/en/asia-pacific/20260831-nepal-rescue-teams-seek-hundreds-of-workers-trapped-in-hydropower-tunnels-by-deadly-floods</link>
       <description>Supported by experts from China and India, Nepal's rescue teams on Monday endeavoured to reach hundreds of workers believed to be trapped in hydropower tunnels blocked by the devastating flood of mud, water and debris that swept through the Himalayan region last week. Publicado también por: The Jerusalem Post - International. Fuente: France 24 - English.</description>
@@ -652,6 +626,35 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump threatens further action as US and Iran exchange strikes for first time in weeks</title>
+      <link>https://www.independent.co.uk/news/world/middle-east/iran-us-trump-strait-of-hormuz-kharg-island-b3042282.html</link>
+      <description>Washington says it acted after observing Iran was planning to deploy fresh mines in strait of Hormuz The US and Iran have exchanged fire for the first time in a month, with missiles and drones fired at Iranian rocket launchers on an island in the strait of Hormuz, and Iran targeting US military bases in Jordan and the United Arab Emirates in response. The US president, Donald Trump, on Monday threatened further action. The US is to trying to prise open Tehran’s grip on shipping going through the strait, which before the war accounted for a fifth of the world’s seaborne energy supply… Publicado también por: The Guardian - World. Fuente: The Independent - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d461c09f8c851265</guid>
+      <pubDate>Mon, 31 Aug 2026 19:43:27 +0000</pubDate>
+      <category>conflictos</category>
+      <category>ciencia</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <dc:creator>Maira Butt</dc:creator>
+      <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
+      <media:content url="https://static.independent.co.uk/2026/08/29/21/2026-08-28T235450Z_217972940_RC2S7NADDE5K_RTRMADP_3_USA-TRUMP.JPG?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
+      <enclosure url="https://static.independent.co.uk/2026/08/29/21/2026-08-28T235450Z_217972940_RC2S7NADDE5K_RTRMADP_3_USA-TRUMP.JPG?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Polonia intercepta un avión espía ruso a 30 kilómetros de su costa sobre el Báltico</title>
+      <link>https://www.abc.es/internacional/polonia-intercepta-avion-espia-ruso-kilometros-costa-20260831203556-nt.html</link>
+      <description>El ministro de Defensa de Polonia, Wladyslaw Kosiniak-Kamysz, ha denunciado este lunes que los sistemas aéreos polacos han interceptado un avión de reconocimiento ruso tipo IL-20 a 30 kilómetros de la costa en el norte del país, si bien ha apuntado a que no se ha producido ninguna violación del espacio aéreo sobre el Báltico .«Rusia, una vez más, ha puesto a prueba nuestros sistemas de disuasión y defensa aérea», ha señalado un mensaje en redes sociales el titular de Defensa, detallando que los cazas polacos interceptaron el aparato a 30 kilómetros al norte de Leba, en el norte del país.Los… Publicado también por: El País - Internacional. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2ba188a7d0b11e13</guid>
+      <pubDate>Mon, 31 Aug 2026 18:35:57 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>Europa Press</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/aviojn-kjPE-U301511335241JrB-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/31/aviojn-kjPE-U301511335241JrB-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Swiss police arrest suspect after rave shooting kills one, wounds five</title>
@@ -882,54 +885,30 @@
       <enclosure url="https://i.guim.co.uk/img/media/19018d1efae13efcc9417eafcf5990f5fe1699aa/364_0_3113_2490/master/3113.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=497c43f944313f10dfcc9e55e197f24a" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Apple hikes subscription prices for Apple TV and Apple One in the U.S.</title>
-      <link>https://www.cnbc.com/2026/08/28/apple-tv-one-price-hike-us.html</link>
-      <description>Now, Apple TV subscriptions will cost $14.99 per month, up from its previous price of $12.99 per month. Publicado también por: Ars Technica, TechCrunch. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ee17e45ec396ace8</guid>
-      <pubDate>Fri, 28 Aug 2026 19:09:34 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Here are the lineups for the Premier League match between Crystal Palace and Manchester City.... Ver más</title>
-      <link>https://www.facebook.com/ajisports/posts/pfbid02jVc7xwyXFLFc5b7Qv4rwskbgkbYS2UY3zN6bUFTtaFH4Y1jvWRnYJxCtuuYtCeKnl?__cft__%5B0%5D=AZYF5CQ-muC8AHBoK__fqBj7w6O2hV4NOUIHjLOgY0faU85EwdI6nrRIhfc3h_EK5aBPBgIvrme7uN29Ht8EVfprwNfjCWhmrIiCrftlGVSO9Oa9U38yLw__Sl3Di0Ws-xlzWSW7Wk2u-S9bly2QqQLLQtkNp8ZLcmi9G_xD8J4-uDXeSPKiBvKMuoEnHOsPz8w&amp;__tn__=%2CO%2CP-R</link>
-      <description>Here are the lineups for the Premier League match between Crystal Palace and Manchester City. ⚽ LIVE coverage: aje.news/7wu5k9 Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1b8b2254be97e1f9</guid>
-      <pubDate>Fri, 28 Aug 2026 18:39:38 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/788952230_1475745241247409_1510307539150636440_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=wZFJ2Lm_dpUQ7kNvwFsEBhI&amp;_nc_oc=AdpKDSCSgq9xpWPwt32x5k_tC_WllbfCriUZ7WNGiYpAmASeTQfoZk6QyN38h-FbS6g&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=QqjRqluFygJOL94smCGd9w&amp;_nc_ss=7f289&amp;oh=00_AQEIW8ZTBHiEZAkr8MLACPhEHK-kW7aB5GgXwgdXrxXNMg&amp;oe=6A97B203" medium="image" />
-      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/788952230_1475745241247409_1510307539150636440_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=wZFJ2Lm_dpUQ7kNvwFsEBhI&amp;_nc_oc=AdpKDSCSgq9xpWPwt32x5k_tC_WllbfCriUZ7WNGiYpAmASeTQfoZk6QyN38h-FbS6g&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=QqjRqluFygJOL94smCGd9w&amp;_nc_ss=7f289&amp;oh=00_AQEIW8ZTBHiEZAkr8MLACPhEHK-kW7aB5GgXwgdXrxXNMg&amp;oe=6A97B203" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Apple One and Apple TV subscription prices increase by up to 20 percent</title>
-      <link>https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/</link>
-      <description>Apple raised prices for Apple Music by $1 per month in July, citing licensing costs. Publicado también por: CNBC - World. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b01b3052661877f6</guid>
-      <pubDate>Fri, 28 Aug 2026 17:23:53 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Scharon Harding</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>London Science Museum cuts links with BP after decades of partnership</title>
-      <link>https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership</link>
-      <description>Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firm The London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum. The Science Museum Group academy, which was established in 2018 to provide training and resources, announced on Friday that it would be ending its partnership with BP. In a statement, the director and chief executive of the Science Museum Group, Sir Ian Blatchford, said the partnership had “drawn to a close at the end of the current contract… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:05fe28a7d245b10d</guid>
-      <pubDate>Fri, 28 Aug 2026 16:57:06 +0000</pubDate>
+      <title>Dolly Parton laid to rest in private Nashville funeral</title>
+      <link>https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral</link>
+      <description>The queen of country was interred next to her late husband in an intimate ceremony attended by close family Dolly Parton was laid to rest in a private ceremony in Nashville on Friday, her family has confirmed. The queen of country music, who died aged 80 on 25 August “after bravely facing a brief battle with cancer”, was interred at Woodlawn Memorial Park and Mausoleum alongside her husband of 60 years, Carl Thomas. Continue reading... Publicado también por: BBC News - World. Fuente: The Guardian - Culture.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3ca37f2208a0ada6</guid>
+      <pubDate>Mon, 31 Aug 2026 16:17:24 +0000</pubDate>
       <category>cultura</category>
-      <category>Europa</category>
-      <dc:creator>Pippa Neill Environment reporter</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b5f8ab54cac65ec97004c5fe9501d55" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0b5f8ab54cac65ec97004c5fe9501d55" type="image/jpeg" length="0" />
+      <category>salud</category>
+      <category>Global</category>
+      <dc:creator>Owen Myers</dc:creator>
+      <source url="https://www.theguardian.com/culture/rss">The Guardian - Culture</source>
+      <media:content url="https://i.guim.co.uk/img/media/9547ddc0f13679976b782fbe97aff6ca29555627/293_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95729f9da6a70bb014d8cd2bc4abfa85" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/9547ddc0f13679976b782fbe97aff6ca29555627/293_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95729f9da6a70bb014d8cd2bc4abfa85" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Messi retires from international football with 'nothing left to give'</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/ceq89y38elro</link>
+      <description>Argentina great Lionel Messi announces his retirement from international football, saying it was a decision that "hurt" but he understands "the time has come". Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5fa237583ef31c17</guid>
+      <pubDate>Mon, 31 Aug 2026 15:18:39 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/45d43c60-a55b-11f1-9acf-19576105f049.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/45d43c60-a55b-11f1-9acf-19576105f049.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>From playing Serena Williams on screen to following in her footsteps</title>
@@ -1017,19 +996,6 @@
       <source url="https://www.facebook.com/bbcnews/">BBC News</source>
     </item>
     <item>
-      <title>Fed has 'work to do' if price rises don't ease for Americans, Warsh says</title>
-      <link>https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo</link>
-      <description>Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d12ae70539ffacd8</guid>
-      <pubDate>Fri, 28 Aug 2026 15:15:26 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5899/live/39824e70-a2fe-11f1-80b3-bf1a174ac193.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy</title>
       <link>https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch</link>
       <description>After funding struggles and a name change, the Nancy Grace Roman Space Telescope has been successfully launched. It will now make a three-month, one-million-mile journey to its orbit at the second Sun-Earth Lagrange point (L2) beyond the Moon. From this vantage point, Roman will conduct an unprecedented survey of the universe. Its field of view […] Publicado también por: NASA. Fuente: The Verge.</description>
@@ -1093,6 +1059,55 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/29/f218fd2a-c9ed-471c-a8f3-3870395048ec_02a252be.jpg?itok=hEQ_c3yC&amp;v=1787997303" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Junior Olivero ha comentado: Es Kiko el del Chavo jajaja</title>
+      <link>https://www.facebook.com/CNNee/posts/pfbid02rRq195amx5EfBVw2ramyGNy78AyrQgZe7M41SxH6cFQu7vdjEsVeRHyrELWztkyXl?comment_id=4355025918082074&amp;__cft__%5B0%5D=AZaqQR9AEX2Sw-kQnbRgAUcZ6qxXqh_k3gBYhskzKqeYQsf4nqMV34u2tFdFHClVB38du9MXX7VdVRavxjyT6K9pBjxQ1fph0IJG5kWWfk3KpLF5MZCZ-GGNtO7rdP3ybrRvyGLXkfwDLFRSs0cFpO-xazyLqjKBKdDf-3ayoN_0jhy2yg49id45rd2lQnIlPHY&amp;__tn__=R-R</link>
+      <description>Sandra Kalander escuchó que alguien llamaba a la puerta de su casa en la costa de Oregon: era una agente del FBI. La agente especial del FBI Meagan Sharp... Fuente: CNN en Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:755915fbc15a2d22</guid>
+      <pubDate>Mon, 31 Aug 2026 20:11:49 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/cnnee/">CNN en Español</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/789540091_1096241816266550_4481833540519953507_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=rBaszNUX9MoQ7kNvwFgPTn7&amp;_nc_oc=AdpHQpaXysPKFmCZliB1uB2-i1Tc6KU2u7B81TrXBOrw7uedIsyr8OFAYDQMlAZldxI&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=YZEnIexDwl9ZhhnXTxXEDg&amp;_nc_ss=7f289&amp;oh=00_AQI49GZ0FMs6LaqXzsrk2yKC8mXl0BmyRuP7kpDsib4jxA&amp;oe=6A9BA35D" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/789540091_1096241816266550_4481833540519953507_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=rBaszNUX9MoQ7kNvwFgPTn7&amp;_nc_oc=AdpHQpaXysPKFmCZliB1uB2-i1Tc6KU2u7B81TrXBOrw7uedIsyr8OFAYDQMlAZldxI&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=YZEnIexDwl9ZhhnXTxXEDg&amp;_nc_ss=7f289&amp;oh=00_AQI49GZ0FMs6LaqXzsrk2yKC8mXl0BmyRuP7kpDsib4jxA&amp;oe=6A9BA35D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El vicepresidente anuncia que el material será enviado a la Fiscalía para su peritaje mientras el Gobierno confirma la renuncia del exjefe policial.</title>
+      <link>https://www.facebook.com/correodelsur/posts/pfbid0UPrSTvDMSVJGxJvRzLJfmCm3ED571eiYQd56mjjYsU5JgDFP8J9u6jAd3PKnwy4bl?__cft__%5B0%5D=AZbflUt4-5wdgzlOizGJAIPlCFArV9-CK-zJHxUUwuT-xXEW3PTr2qL4ujoDBL2Rv9mYwuy9JhzukJE8JwK2MPltgztBLNjCBwmp9v1pbzEJ0hfr8CZU4L8YI3l-xVuVDwEwhGmfl__bd4iEaLsHjcgO27vJ-x5hve0Pj9AwoZHeT-PPk74c7bi9nB72IO59yx0&amp;__tn__=%2CO%2CP-R</link>
+      <description>El vicepresidente anuncia que el material será enviado a la Fiscalía para su peritaje mientras el Gobierno confirma la renuncia del exjefe policial. IA CORREODELSUR.COM Lara exhibe audio en el que se pide destituir a Sokol por una investigación y apunta a Cerimedo Carlos R Tarqui Fuente: Correo del Sur.</description>
+      <guid isPermaLink="false">cron-rss-noticias:33094a2a2c3a2d14</guid>
+      <pubDate>Mon, 31 Aug 2026 19:58:47 +0000</pubDate>
+      <category>politica</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/correodelsur/">Correo del Sur</source>
+      <media:content url="https://external-fra5-1.xx.fbcdn.net/emg1/v/t13/17272501853385189852?url=https%3A%2F%2Fcdn.correodelsur.com%2Fimg%2Fcontents%2Fimages_640%2F2026%2F08%2F31%2F3775ace2-a2ff-4a89-a858-d42b87e3f422.jpg&amp;fb_obo=1&amp;utld=correodelsur.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Hzgk_MEwJrbtjevr7aufng&amp;_nc_oc=AdqMzA4vIxva7qroVypmDYdBQ8a13lT6iNsyXh3K6chisSdlzUpdKXr7Yo13ZCLvAVc&amp;ccb=13-1&amp;oh=06_Q3_CAZVLWCiAblrg6dXEfnGzE07-ltMz73dF6ENo_AEyLSH6&amp;oe=6A97B1BC&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-fra5-1.xx.fbcdn.net/emg1/v/t13/17272501853385189852?url=https%3A%2F%2Fcdn.correodelsur.com%2Fimg%2Fcontents%2Fimages_640%2F2026%2F08%2F31%2F3775ace2-a2ff-4a89-a858-d42b87e3f422.jpg&amp;fb_obo=1&amp;utld=correodelsur.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=Hzgk_MEwJrbtjevr7aufng&amp;_nc_oc=AdqMzA4vIxva7qroVypmDYdBQ8a13lT6iNsyXh3K6chisSdlzUpdKXr7Yo13ZCLvAVc&amp;ccb=13-1&amp;oh=06_Q3_CAZVLWCiAblrg6dXEfnGzE07-ltMz73dF6ENo_AEyLSH6&amp;oe=6A97B1BC&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El Liverpool ha fichado con un contrato a largo plazo al delantero francés Bradley Barcola, procedente del París Saint-Germain, campeón de Europa, según anunció este lu... Ver más</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02fg8VNsvyse5NT6CTk21w5vnnGnstcYV7cnGRqmqbAxKchPq2i1KJ46JnskHzBEq1l?__cft__%5B0%5D=AZbE6es2Yq6BctpeNxnPsp0eXqEY6tTySxjtsmA4QB8mkoNM7A__B9AphGYnesrYnzvL63OsLXvLQLavlM_k6zRMjX34TP7M3473DwiH7BhL5rvpMCw7A-fOcFeUSxmy9fN_kqL4Aeo1pPQitXur1se9YClm8JNsDeWjHYgvWd2dvaLuB1p15xM53BnUywrHdrA&amp;__tn__=%2CO%2CP-R</link>
+      <description>El Liverpool ha fichado con un contrato a largo plazo al delantero francés Bradley Barcola, procedente del París Saint-Germain, campeón de Europa, según anunció este lu... Ver más FRANCE24.COM Bradley Barcola se incorpora al Liverpool procedente del PSG por una suma récord de USD166 millones Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ad0fee2860488b7a</guid>
+      <pubDate>Mon, 31 Aug 2026 19:57:53 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/13619047498536095814?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F8ac186f4-a545-11f1-b7d1-005056bfb2b6%2Fw%3A1280%2Fp%3A16x9%2F11df7f51c18f81cb90207deb59b71e26823062c0.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=SRe_v6GbIj1XEncmVUsDnA&amp;_nc_oc=AdrMlKk23NcLmcF89PtnNCJm927BkVRyaPqqzgYUqA7GGfIsJscauiK4fTjKaF4hcQM&amp;ccb=13-1&amp;oh=06_Q3_CAVgsPEqv8jMN_DBuPAIyc_k8yt3jHJSIMiG8JSHh9aQM&amp;oe=6A97AA8C&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/13619047498536095814?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F8ac186f4-a545-11f1-b7d1-005056bfb2b6%2Fw%3A1280%2Fp%3A16x9%2F11df7f51c18f81cb90207deb59b71e26823062c0.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=SRe_v6GbIj1XEncmVUsDnA&amp;_nc_oc=AdrMlKk23NcLmcF89PtnNCJm927BkVRyaPqqzgYUqA7GGfIsJscauiK4fTjKaF4hcQM&amp;ccb=13-1&amp;oh=06_Q3_CAVgsPEqv8jMN_DBuPAIyc_k8yt3jHJSIMiG8JSHh9aQM&amp;oe=6A97AA8C&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Bradley Barcola se incorpora al Liverpool procedente del PSG por una suma récord de USD166 millones</title>
+      <link>https://www.france24.com/es/deportes/20260831-bradley-barcola-se-incorpora-al-liverpool-procedente-del-psg-por-una-suma-r%C3%A9cord-de-usd166-millones</link>
+      <description>El Liverpool ha fichado con un contrato a largo plazo al delantero francés Bradley Barcola, procedente del París Saint-Germain, campeón de Europa, según anunció este lunes 31 de agosto el club de la Premier League, lo que lo convierte en la última incorporación estrella a su línea de ataque. Se estima que la astronómica suma de la transacción ronda los 120 millones de libras, lo que hace de Barcola el jugador más caro en salir de la liga francesa. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4c3dd275e62e0196</guid>
+      <pubDate>Mon, 31 Aug 2026 18:27:21 +0000</pubDate>
+      <category>deportes</category>
+      <category>Europa</category>
+      <dc:creator>France 24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/8ac186f4-a545-11f1-b7d1-005056bfb2b6/w:1024/p:16x9/11df7f51c18f81cb90207deb59b71e26823062c0.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/8ac186f4-a545-11f1-b7d1-005056bfb2b6/w:1024/p:16x9/11df7f51c18f81cb90207deb59b71e26823062c0.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>#EnVivo | "Tu Mañana" ¡Comienza tu día con buena energía! Te invitamos a escuchar Tu Mañana, el programa que te acompaña con música, noticias, consejos y todo lo que necesitas para arrancar la jornada con la mejor vibra. 🎧 Sintoniza en vivo y despierta con nosotros. ¡No te lo pierdas, Tu Mañana empieza aquí! #ATBMedia #TuMañana | ATB Digital</title>
       <link>https://www.facebook.com/ATBDigital/videos/1760040588541395/?__cft__%5B0%5D=AZZ_4Vkj1i-6oFdCkRDVl2aOTAhZW4cKUuvtLiiYOyyzNU6UwgZiTYaNpBFW6_fbwRmyMDh52Kct8O2lO0wMG5B4WPcUmuC-s8DyVLyfTV1mwW6e2Zv_r42hsoV21zqiozCSSvJZlUx7wpSO6V-RhjW6o2VrXum_66wXGHm3g6kvhMTWasfb2StOG9L_3B7YROeKELSOGR-evJjRQsehI-Ca&amp;__tn__=%2CO%2CP-R</link>
       <description>#EnVivo | "Tu Mañana" ¡Comienza tu día con buena energía! Te invitamos a escuchar Tu Mañana, el programa que te acompaña con música, noticias, consejos y todo lo que necesitas para arrancar la... #EnVivo | "Tu Mañana" ¡Comienza tu día con buena energía! Te invitamos a escuchar Tu Mañana, el programa que te acompaña con música, noticias, consejos... Fuente: ATB Digital.</description>
@@ -1133,11 +1148,12 @@
     <item>
       <title>Iranian president says he still wants diplomatic end to war after US strikes on Hormuz – Middle East crisis live</title>
       <link>https://www.theguardian.com/world/live/2026/aug/31/us-iran-israel-hormuz-oil-donald-trump-larak-kharg-island-uae-jordan-latest-news-updates</link>
-      <description>US targets Iran’s Larak Island in first exchange of fire in more than a month as Masoud Pezeshkian says America ‘has not fulfilled its commitments’ First US military attacks on Iran in a month prompt retaliation Coinciding with this week’s G20 meeting , the EU has issued a statement saying it will work with the US and other allied countries to maintain economic pressure against Iran. “The ‌EU welcomes efforts at ensuring that Iran ceases its destabilising activities and engages in peace negotiations with good ‌faith, also through additional economic pressure, including through ​the US-led… Fuente: The Guardian - World.</description>
+      <description>Iran responded to an assault on its Larak Island by targeting US bases in Jordan Trump threatens further action as US and Iran exchange fire in new flare-up Coinciding with this week’s G20 meeting , the EU has issued a statement saying it will work with the US and other allied countries to maintain economic pressure against Iran. “The ‌EU welcomes efforts at ensuring that Iran ceases its destabilising activities and engages in peace negotiations with good ‌faith, also through additional economic pressure, including through ​the US-led Operation Economic Outcast,” it said in reference to the… Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:19c8530a33a1c300</guid>
       <pubDate>Mon, 31 Aug 2026 13:17:01 +0000</pubDate>
       <category>conflictos</category>
       <category>Medio Oriente</category>
+      <category>América del Norte</category>
       <dc:creator>Martin Belam (now); Yohannes Lowe and Adam Fulton (earlier)</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/c077c616cff5d9a65463f8505af5702ae77ec3da/1139_0_3540_2831/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa75f486ed3a4d03217d1f165152330" medium="image" />
@@ -1578,20 +1594,6 @@
       <source url="https://www.facebook.com/todonoticias/">TN - Todo Noticias</source>
       <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788414116_1678198043667397_7279327224079340058_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s590x590&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3PCqIP9VFFoQ7kNvwFakftP&amp;_nc_oc=AdqaSOZIq_1htEskvvEDMy4SREo6RfYKoaGnluY3ixMDSTSlMkw43QVYPNXpl46KUxc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=o55JSTz1kw7hrwSNsx-ySg&amp;_nc_ss=7f289&amp;oh=00_AQK0KIRrG31CxD0c7mvQlkZWweSQ5GALur4mpCPY8IXJRw&amp;oe=6A994F59" medium="image" />
       <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/788414116_1678198043667397_7279327224079340058_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s590x590&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3PCqIP9VFFoQ7kNvwFakftP&amp;_nc_oc=AdqaSOZIq_1htEskvvEDMy4SREo6RfYKoaGnluY3ixMDSTSlMkw43QVYPNXpl46KUxc&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=o55JSTz1kw7hrwSNsx-ySg&amp;_nc_ss=7f289&amp;oh=00_AQK0KIRrG31CxD0c7mvQlkZWweSQ5GALur4mpCPY8IXJRw&amp;oe=6A994F59" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>News live: limits on smartglasses being considered, Plibersek says; missing Australian woman located safely in Nepal</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/aug/30/nepal-tibet-floods-missing-australians-secret-harbour-byelection-wa-tanya-plibersek-insiders-pacific-islands-forum-ntwnfb</link>
-      <description>This blog is now closed Get our breaking news email , free app or daily news podcast Joyce explains One Nation’s migration policy with sheep and cattle Barnaby Joyce has used sheep and cattle to illustrate his claim that One Nation wants to cut net overseas migration to 130,000 people without counting short-stay visas. No it’s not. … Short-term visa stay and things such as the Palm scheme, and Pauline’s quite right, are not counted in the net overseas migration number, overwhelmingly – small portion are – because they don’t stay for 12 months. They stay generally for a period of nine. So it’s… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0e1af59d880ae68f</guid>
-      <pubDate>Sun, 30 Aug 2026 00:13:53 +0000</pubDate>
-      <category>politica</category>
-      <category>Oceanía</category>
-      <category>Global</category>
-      <dc:creator>Luca Ittimani</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/445ec300ac70d077e6d75f825bccb8cb3cdc1749/1327_205_3606_2884/master/3606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da363551680357619fff8db195e473c9" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/445ec300ac70d077e6d75f825bccb8cb3cdc1749/1327_205_3606_2884/master/3606.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da363551680357619fff8db195e473c9" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
