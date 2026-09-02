@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 02 Sep 2026 09:53:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:37:39 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -117,21 +117,6 @@
       <enclosure url="https://s.france24.com/media/display/a68246b2-a6ad-11f1-b6bc-005056bfb2b6/w:1024/p:16x9/EN-20260902-100803-101142-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Google changes US maps to Lake America from Lake Ontario</title>
-      <link>https://www.abc.net.au/news/2026-08-31/google-changes-us-maps-from-lake-ontario-to-lake-america/107097292</link>
-      <description>Google has updated its maps application to rename Lake Ontario as “Lake America” for users in the United States, reflecting a recent order by US President Donald Trump that changed the name of the lake, the global technology giant said. The Google Maps update comes days after Trump’s order amid an escalating trade war with Canada that has led both countries to impose billions of dollars in added tariffs on each other’s goods. It echoes what Google did in 2025 when Trump issued an order to rename... Publicado también por: The Hindu - International, South China Morning Post, The Jerusalem Post - International, The New York Times - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:78dbef2e8f45bfe6</guid>
-      <pubDate>Mon, 31 Aug 2026 03:46:24 +0000</pubDate>
-      <category>economia</category>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Oceanía</category>
-      <category>Asia</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/dde0db1e5611ada8d7b404072e605c0a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/dde0db1e5611ada8d7b404072e605c0a?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=109&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Grand Canyon flash flood leaves one dead, around 15 missing</title>
       <link>https://www.thehindu.com/news/international/flash-flood-in-grand-canyon-several-dead-and-many-people-missing/article71410663.ece</link>
       <description>At least one person was killed and about 15 others were missing after a flash flood at the Grand Canyon, one of the most popular tourist sites in the United States, the National Park Service said in a statement Sunday. Publicado también por: Phys.org, Sky News - World, The Jerusalem Post - International. Fuente: The Hindu - International.</description>
@@ -200,6 +185,21 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/08/31/multimedia/31int-switzerland-arrest-fvkm/31int-switzerland-arrest-fvkm-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/08/31/multimedia/31int-switzerland-arrest-fvkm/31int-switzerland-arrest-fvkm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Hong Kong Pro-Democracy Activist Joshua Wong Pleads Guilty to Collusion</title>
+      <link>https://www.nytimes.com/2026/09/02/world/asia/hong-kong-joshua-wong-activist-guilty.html</link>
+      <description>Wong, 29, is accused of urging foreign powers to impose sanctions, blockades and other hostile measures against China Joshua Wong , one of Hong Kong’s most prominent pro-democracy activists, pleaded guilty on Wednesday to conspiring to seek foreign sanctions against Hong Kong and China, a national security charge that carries a maximum life sentence. Prosecutors have accused Wong, 29, of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China. Continue reading... Publicado también por: The Guardian - World, Euronews, Sky News - World. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6f8a6b47bede7c2f</guid>
+      <pubDate>Wed, 02 Sep 2026 08:55:25 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>David Pierson</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/02/multimedia/02int-hongkong-activist-vjwl/02int-hongkong-activist-vjwl-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/02/multimedia/02int-hongkong-activist-vjwl/02int-hongkong-activist-vjwl-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Bus Crash in Egypt Kills at Least 16</title>
@@ -427,6 +427,19 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/31/962fe6b9-d8da-4262-aabf-0e4fad10366f_cbedbb92.jpg?itok=X6Yu45ms&amp;v=1788183540" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>USS Abraham Lincoln docks in Thailand after record-breaking 286-day deployment</title>
+      <link>https://www.jpost.com/international/article-907337</link>
+      <description>The USS Abraham Lincoln was involved in the US naval blockade and combat operations in the war with Iran and set a modern-day record for consecutive days at sea. Publicado también por: The Washington Post - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2b0d5f461e169ec0</guid>
+      <pubDate>Wed, 02 Sep 2026 15:47:35 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+    </item>
+    <item>
       <title>Who is John Ternus, the new Apple CEO?</title>
       <link>https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/</link>
       <description>Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now. Publicado también por: Deutsche Welle - World, The Hindu - International. Fuente: TechCrunch.</description>
@@ -439,6 +452,42 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <media:content url="https://th-i.thgim.com/public/incoming/b5ncvu/article70886198.ece/alternates/LANDSCAPE_1200/2026-04-20T210512Z_2053664726_RC28TKASQPA6_RTRMADP_3_APPLE-CEO.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/b5ncvu/article70886198.ece/alternates/LANDSCAPE_1200/2026-04-20T210512Z_2053664726_RC28TKASQPA6_RTRMADP_3_APPLE-CEO.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Charlie Kirk murder suspect pleads not guilty to murder charge</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/2/charlie-kirk-murder-suspect-pleads-not-guilty-to-murder-charge?traffic_source=rss</link>
+      <description>The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a9bf9371cd407645</guid>
+      <pubDate>Wed, 02 Sep 2026 12:57:45 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/695f/live/596e5060-a6b1-11f1-b109-879e35c24276.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/695f/live/596e5060-a6b1-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations</title>
+      <link>https://www.bbc.co.uk/news/articles/c9v9yydy2wvo</link>
+      <description>Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine. Publicado también por: CNBC - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6c799f9b4ce92155</guid>
+      <pubDate>Wed, 02 Sep 2026 04:23:23 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tiger Woods to change plea after crash arrest</title>
+      <link>https://www.bbc.co.uk/news/articles/c5y7xvpn5kno</link>
+      <description>The golfer will be in court on Wednesday for a hearing to change his plea after being charged with driving under the influence. Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0ba9b7d792308695</guid>
+      <pubDate>Wed, 02 Sep 2026 00:26:08 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/63965f70-a65b-11f1-853a-cf6d29350130.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/63965f70-a65b-11f1-853a-cf6d29350130.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Alemania acusa a Rusia de un ataque con drones en el aeropuerto de Leipzig</title>
@@ -550,19 +599,16 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/7fvzto/article71413474.ece/alternates/LANDSCAPE_1200/2026-09-01T005158Z_180058590_RC2Z9NALPOMN_RTRMADP_3_USA-SHOOTING-NEW-YORK.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Nepal rescue teams seek hundreds of workers trapped in hydropower tunnels by deadly floods</title>
-      <link>https://www.france24.com/en/asia-pacific/20260831-nepal-rescue-teams-seek-hundreds-of-workers-trapped-in-hydropower-tunnels-by-deadly-floods</link>
-      <description>Supported by experts from China and India, Nepal's rescue teams on Monday endeavoured to reach hundreds of workers believed to be trapped in hydropower tunnels blocked by the devastating flood of mud, water and debris that swept through the Himalayan region last week. Publicado también por: The Jerusalem Post - International. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c7df5bd676d852d1</guid>
-      <pubDate>Mon, 31 Aug 2026 09:15:18 +0000</pubDate>
+      <title>Nepal intensifies relief and recovery efforts after deadly floods, UN says</title>
+      <link>https://www.bbc.co.uk/news/articles/c8xk45k9r1go</link>
+      <description>More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7136cd124a3f4ded</guid>
+      <pubDate>Wed, 02 Sep 2026 13:17:43 +0000</pubDate>
       <category>ambiente</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/f37cc1f0-a517-11f1-b844-005056bf30b7/w:1024/p:16x9/000-C6VW7CQ.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/f37cc1f0-a517-11f1-b844-005056bf30b7/w:1024/p:16x9/000-C6VW7CQ.jpg" type="image/jpeg" length="0" />
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf1d/live/babee4c0-a6b5-11f1-bf9b-4185c128a665.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US strikes Iran as state media reports four killed at wedding party</title>
@@ -661,31 +707,32 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>UN committee says countries must consider reparations for slave trade</title>
-      <link>https://www.jpost.com/international/article-907111</link>
-      <description>A UN committee has said countries are legally obliged to consider reparations for the transatlantic slave trade and take other measures to address the enduring legacy of racial discrimination it says persists today. Guidance published on Monday by the Committee on the Elimination of ‌Racial Discrimination stated that the obligations arise from a legally binding 1965 convention on racial discrimination, not from the legal standards that existed when the slave trade took place. The committee... Publicado también por: South China Morning Post, The Hindu - International. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fbede3c9aff5ec0c</guid>
-      <pubDate>Mon, 31 Aug 2026 11:47:48 +0000</pubDate>
+      <title>Régimen de Irán responde a los ataques de Estados Unidos golpeando sus bases en Oriente Medio</title>
+      <link>https://www.facebook.com/NTN24/posts/pfbid02cPn426i1QETdgsTKdnNKS7Dfejgrg8FBoMegBvFv5FYd34X9Wy9RXnHM2iToz6gnl?__cft__%5B0%5D=AZhLms3cDKlaJOnsrjMhAjLv3E5UMs4DgV4RX_Hc-knFm81hwyqPMhlpBmiHz-Q__wzbp15cyAsXRhgjqKu72jeGGsLSdGpVPVN75oj_AkYY9hZg3YPmtiff9jy5tBlz52eo9Pci0J2UDpjETw-ZX-rw6927APNh6YQK1eSrxEmNe8Fdhix5M3saC7Q&amp;__tn__=%2CO%2CP-R</link>
+      <description>Es la peor escalada luego de una pausa de un mes. Teherán disparó contra Jordania, Kuwait, Emiratos Árabes Unidos y Baherein, aliados de Washington. El régimen islámico reaccionó con furia tras un ataque que dejó cuatro muertos durante un casamiento en el sur del país. Publicado también por: Clarín - Mundo. Fuente: NTN24.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d2a67b06b8e8d95e</guid>
+      <pubDate>Wed, 02 Sep 2026 14:30:01 +0000</pubDate>
       <category>mundo</category>
+      <category>América del Norte</category>
       <category>Medio Oriente</category>
-      <category>Asia</category>
-      <category>África</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/31/fd88ee54-5a93-48ed-a37c-bfd940c2f0de_db9882b8.jpg?itok=LWi0JLHA&amp;v=1788170854" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/31/fd88ee54-5a93-48ed-a37c-bfd940c2f0de_db9882b8.jpg?itok=LWi0JLHA&amp;v=1788170854" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NTN24/">NTN24</source>
+      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/9219597448655919317?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F08%2F20140322%2FContundente-mensaje-de-Trump-al-regimen-de-Iran-y-a-sus-aliados-Foto-AFP-Canva.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=44MOt60ejxzDluTaPgUTTQ&amp;_nc_oc=Adr6zS7ymM_vpIWuR_4U6rtXNnlKqeWF9r2UBbbPUrd6-KZEp9noz2_ONQpYvYrZHLQ&amp;ccb=13-1&amp;oh=06_Q3_CAf1-mbTj7HRC_XCzRMfjKvim46yQ4r1S_hJXHC3QUE8w&amp;oe=6A9A113E&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/9219597448655919317?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F08%2F20140322%2FContundente-mensaje-de-Trump-al-regimen-de-Iran-y-a-sus-aliados-Foto-AFP-Canva.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=44MOt60ejxzDluTaPgUTTQ&amp;_nc_oc=Adr6zS7ymM_vpIWuR_4U6rtXNnlKqeWF9r2UBbbPUrd6-KZEp9noz2_ONQpYvYrZHLQ&amp;ccb=13-1&amp;oh=06_Q3_CAf1-mbTj7HRC_XCzRMfjKvim46yQ4r1S_hJXHC3QUE8w&amp;oe=6A9A113E&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Angel Reese broke a WNBA record with her 29th double-double this season.</title>
-      <link>https://www.facebook.com/APNews/posts/pfbid02mzdzdoBXe8amsgvxSknFvj7gnAEWwzRWyMmecJNXmSYXwDjnC23sy1TwKLRTwntHl?__cft__%5B0%5D=AZbjxCjtlLAuP5WhX5QdINu6ELvPAbvGoOjDLir7eXRfNHUhhB0BODci-1V0nHonIkejmfDqbLYfEi7My0l_JZh-WdZm33JryNPVwmTs9W0BMYTxPZLTNSPrRAGBkH020fpxMhCYuHdSqkpHuIM-O3erEKH8JNkEo2ynSTxrkUPYqeFl-KuR9wSSQmnAjp5xKik&amp;__tn__=%2CO%2CP-R</link>
-      <description>Angel Reese broke a WNBA record with her 29th double-double this season. Wow! That is totally awesome! APNEWS.COM Angel Reese breaks WNBA record with her 29th double-double as Dream beat Lynx 89-81 Ver más comentarios Chris Martinez Fuente: The Associated Press.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e9ac8e9bc2fc0e6d</guid>
-      <pubDate>Mon, 31 Aug 2026 04:33:13 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/APNews/">The Associated Press</source>
-      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/11345314860530828683?url=https%3A%2F%2Fimage.trueanthem.com%2FrKr6R3DtJ8AsSAuLWw6DqrFi_ygJl10LIacXAK8eGbU%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9mYjAwODNjLzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzYwMDB4Mzk5OCswKzEvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGMjAlMkZjMyUyRjc2YjliOWIxOGI4YjAxNzBlZmMzZTAxOGY0MWIlMkY5MGZkZDYxMmJlNTI0OTc2YmE2ZWJjZWM1ODMzMzJjMw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=wmgz_uzwECqNh_o9S16BxQ&amp;_nc_oc=AdovQS1rNvo38Y9XEJjTrhs0rjNrhACE8GRtKdg6KylARIrvRi75zRhjsg9z0sYtXus&amp;ccb=13-1&amp;oh=06_Q3_CASdK3K7ElcujFIPB-bfXC-4iT0VmcA9DWZRrTVXZJxvv&amp;oe=6A97088C&amp;_nc_sid=e17101" medium="image" />
-      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/11345314860530828683?url=https%3A%2F%2Fimage.trueanthem.com%2FrKr6R3DtJ8AsSAuLWw6DqrFi_ygJl10LIacXAK8eGbU%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9mYjAwODNjLzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzYwMDB4Mzk5OCswKzEvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGMjAlMkZjMyUyRjc2YjliOWIxOGI4YjAxNzBlZmMzZTAxOGY0MWIlMkY5MGZkZDYxMmJlNTI0OTc2YmE2ZWJjZWM1ODMzMzJjMw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=wmgz_uzwECqNh_o9S16BxQ&amp;_nc_oc=AdovQS1rNvo38Y9XEJjTrhs0rjNrhACE8GRtKdg6KylARIrvRi75zRhjsg9z0sYtXus&amp;ccb=13-1&amp;oh=06_Q3_CASdK3K7ElcujFIPB-bfXC-4iT0VmcA9DWZRrTVXZJxvv&amp;oe=6A97088C&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+      <title>Chevron to expand in Venezuela operations, doubling production through $7 billion investment</title>
+      <link>https://www.cnbc.com/2026/09/02/chevron-venezuela-operations.html</link>
+      <description>Oil giant Chevron confirmed that it would expand its operations in Venezuela, just days after President Donald Trump announced an ambitious deal to develop the nation’s oil reserves and give the Pentagon a stake in the profits. Chevron, the only US oil company that has a major presence in the country, said on Wednesday that it had been assigned additional acreage in the Orinoco Belt, where the company had an established position. Joint venture plans include investing more than US$7 billion over... Publicado también por: South China Morning Post. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:08cc47b0d29b2aaa</guid>
+      <pubDate>Wed, 02 Sep 2026 14:14:25 +0000</pubDate>
+      <category>economia</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/02/092bb55a-2069-4291-8acd-e77e0f2610ba_11cf3c68.jpg?itok=43k56sae&amp;v=1788356321" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/02/092bb55a-2069-4291-8acd-e77e0f2610ba_11cf3c68.jpg?itok=43k56sae&amp;v=1788356321" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Range Rover launches its first electric vehicle, with starting price of £154,070</title>
@@ -754,6 +801,19 @@
       <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
       <media:content url="https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/793212537_1027906523563785_5599364373066411917_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=J_1kVvIe7Z8Q7kNvwFek1YR&amp;_nc_oc=AdoD5DbxjKdj4jhXtFjAordWWwpl4SLY5PojQ6heH2ngwEXooMaJShTe2V10bJkC3KQ&amp;_nc_zt=14&amp;_nc_ht=scontent-sea1-1.xx&amp;_nc_gid=9Ikvs0vSe5z01DUR7zCBvg&amp;_nc_ss=7f289&amp;oh=00_AQLb8ZKmB2wv38G9JLz_1_RAWko7Y4gexSt2Ly02EmGSzQ&amp;oe=6A9D4C7B" medium="image" />
       <enclosure url="https://scontent-sea1-1.xx.fbcdn.net/v/t39.99422-6/793212537_1027906523563785_5599364373066411917_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=J_1kVvIe7Z8Q7kNvwFek1YR&amp;_nc_oc=AdoD5DbxjKdj4jhXtFjAordWWwpl4SLY5PojQ6heH2ngwEXooMaJShTe2V10bJkC3KQ&amp;_nc_zt=14&amp;_nc_ht=scontent-sea1-1.xx&amp;_nc_gid=9Ikvs0vSe5z01DUR7zCBvg&amp;_nc_ss=7f289&amp;oh=00_AQLb8ZKmB2wv38G9JLz_1_RAWko7Y4gexSt2Ly02EmGSzQ&amp;oe=6A9D4C7B" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Range Rover launches first fully electric model</title>
+      <link>https://www.bbc.co.uk/news/articles/clyk5016mpyo</link>
+      <description>Fully electric SUV unveiled after year-long delay and will be built at Jaguar Land Rover’s plant in Solihull Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of gargantuan British-made SUVs who are also conscious about the climate crisis. Due to be built in Solihull, the home of the marque since 1970, the vehicle comes with an eye-watering price tag, starting at £154,070. Continue reading... Publicado también por: The Guardian - World. Fuente: BBC News - Business.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5fa965a18bb919db</guid>
+      <pubDate>Tue, 01 Sep 2026 23:43:47 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <category>América Latina</category>
+      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Stop doing memes and throwing shade, Carney tells Trump</title>
@@ -988,6 +1048,19 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e6/live/eb9cb040-a52a-11f1-8ebe-efa2c58ecfe9.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Bus crash on Egypt's Red Sea coast kills 22</title>
+      <link>https://www.bbc.co.uk/news/articles/cn8mr1myy2ko</link>
+      <description>The vehicle overturned in an area of the Sinai Peninsula that is popular with tourists. Another 28 people were injured, officials said. Publicado también por: The New York Times - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e3ae7ff22877a620</guid>
+      <pubDate>Wed, 02 Sep 2026 12:07:32 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>América del Norte</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b3/live/2866cd30-a6c5-11f1-bebe-e75dba5c0b21.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/72b3/live/2866cd30-a6c5-11f1-bebe-e75dba5c0b21.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Rescue crews in Nepal are racing against time to find hundreds of missing workers who are feared trapped inside hydropower tunnels damaged by flooding that has killed m... Ver más</title>
       <link>https://www.facebook.com/reel/1449042180370827/?__cft__%5B0%5D=AZgwRHsjyIY4rtWgOaHk3gz7zPGoQH_8PsLGTnH9iKIku7NPvvM0NCvtrK9deYF34oJ-YjYu17Z9AzJHScb6drTmhX_guG6uHHS2IwSGHJDAOH5vo4i83uXXk6rWIT6LoGzIZj81wuHm-u99P7xk0WQ5zP4U0QGDyjwE_DRlSFJfhhAxgM5kT7JamV38zpdhmkdm&amp;__tn__=%2CO%2CP-R</link>
       <description>Rescue crews in Nepal are racing against time to find hundreds of missing workers who are feared trapped inside hydropower tunnels damaged by flooding that has killed m... Ver más Tenemos problemas para reproducir este vídeo. Más información Fuente: The Associated Press.</description>
@@ -1061,18 +1134,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/45d43c60-a55b-11f1-9acf-19576105f049.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>From playing Serena Williams on screen to following in her footsteps</title>
-      <link>https://www.bbc.co.uk/sport/tennis/articles/cy9zq3xn45yo</link>
-      <description>Having played a young Serena Williams on the big screen, teenager Thea Frodin is ready to follow in the American great's footsteps at the US Open. Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8cadbdecfac297b4</guid>
-      <pubDate>Mon, 31 Aug 2026 09:58:50 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2cf/live/45c05060-a4c5-11f1-b0df-0754d0786d3e.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2cf/live/45c05060-a4c5-11f1-b0df-0754d0786d3e.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Sixteen killed in bus crash in area of eastern Egypt popular with tourists</title>
       <link>https://www.independent.co.uk/news/world/middle-east/egypt-bus-crash-sinai-death-toll-latest-b3043207.html</link>
       <description>Twenty-one people have been killed, and 29 more injured, after a bus crash in the south Sinai area of Egypt, authorities have said. Publicado también por: Sky News - World. Fuente: The Independent - World.</description>
@@ -1102,9 +1163,71 @@
       <enclosure url="https://static.independent.co.uk/2026/08/31/23/06/SEI310198299.jpg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>1133 reproducciones · 21 reacciones | 🔴EN VIVO🔴 ➡️Aurora empata con la U de Vinto ➡️Bolívar Visita a GV San José por la Copa Paceña | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1388133472833012/?comment_id=1051583384162248&amp;__cft__%5B0%5D=AZhY3KCpG_6ry62ZJlRGPWZu8H8Kxhg4cHnTbfpMwp69oFfCggBDYRrrbUJjwFMvOYxP9F7xWXLe4Du1XxdCokm1-bFuodyMSHeptENmU3t21S6tJLzcBFIEusknt_wClwCWsriRlCyZZBpvdQCEEa6BT1DEDLaP2MRnO406Z9-G1q1nhhRJV3jf_mqJbL_Mfcs&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡️Aurora empata con la U de Vinto ➡️Bolívar Visita a GV San José por la Copa Paceña Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:21a1f9c5f93bf68b</guid>
+      <pubDate>Wed, 02 Sep 2026 14:37:39 +0000</pubDate>
+      <category>mundo</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/791755357_1619561292962002_3226404448178242674_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vTru4vVXrA0Q7kNvwFUWaQt&amp;_nc_oc=AdqRVZ-DxY35oIUBffjMKQBLd23jq-GEdk9vjyeugM9WWkEFJsbMNQ3vfdsAQWwoW54&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=5QhYho8qkNHqNOBWcr6_Hw&amp;_nc_ss=7f289&amp;oh=00_AQJ4kO96Pf8ECSemp8SHXmReLb_0KBgOYYzNxTwSETU-BQ&amp;oe=6A9DFE56" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/791755357_1619561292962002_3226404448178242674_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vTru4vVXrA0Q7kNvwFUWaQt&amp;_nc_oc=AdqRVZ-DxY35oIUBffjMKQBLd23jq-GEdk9vjyeugM9WWkEFJsbMNQ3vfdsAQWwoW54&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=5QhYho8qkNHqNOBWcr6_Hw&amp;_nc_ss=7f289&amp;oh=00_AQJ4kO96Pf8ECSemp8SHXmReLb_0KBgOYYzNxTwSETU-BQ&amp;oe=6A9DFE56" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>For a decade I lived with a fear so bad that I once tried to climb out of a tube carriage while it was in motion. Then a hypnotherapist told me to ask my parents one ve... Ver más</title>
+      <link>https://www.facebook.com/theguardian/posts/pfbid02z9vDf6YGjRTR5VDgkxxVGxL6gdi7JdDQHu1jakjuP43mJvhZyiC1PnLjSBNrQmKql?__cft__%5B0%5D=AZgd13EUk4_YbTba0VwTihKlPTNFw6IhR9CoKC4SLdKAEDXtrsQ2C-Q387x9BVqKkmpmOcijZLCXSMZx1E_WA1rzVBt07ELp_YW9Z5nOLQqTCd8bq7nfn2MneSx3fgzJF1SFajYiEVsjgm6kYu6pxVphBq_6o1Lp5ecVzMUA386_-wEXLn2PXL7Y9So&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: The Guardian.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8b012c51e14e82be</guid>
+      <pubDate>Wed, 02 Sep 2026 14:25:35 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/theguardian/">The Guardian</source>
+      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/792177220_2043696619604737_2036397262975768567_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=f2cYGT9v_uYQ7kNvwHgBjfU&amp;_nc_oc=Adp16hbZ_tXIx2vBrxCaHnph5Gxd3W0IrmKupK2S6pnTQVxrVjlmJmovMyKfUJN9Krg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=j8GFKfX6xjTmZqTcmH1rTQ&amp;_nc_ss=7f289&amp;oh=00_AQJKp_rBmd_1rWD1M9h9-2HyGNajtUFEEIUGnC2Fgmg2ug&amp;oe=6A9DFCD8" medium="image" />
+      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/792177220_2043696619604737_2036397262975768567_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=f2cYGT9v_uYQ7kNvwHgBjfU&amp;_nc_oc=Adp16hbZ_tXIx2vBrxCaHnph5Gxd3W0IrmKupK2S6pnTQVxrVjlmJmovMyKfUJN9Krg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=j8GFKfX6xjTmZqTcmH1rTQ&amp;_nc_ss=7f289&amp;oh=00_AQJKp_rBmd_1rWD1M9h9-2HyGNajtUFEEIUGnC2Fgmg2ug&amp;oe=6A9DFCD8" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>A record number of Americans believe there is widespread corruption in the U.S. government, reaching the highest level of distrust in two decades, according to a new Gallup poll.</title>
+      <link>https://www.facebook.com/washingtonpost/posts/pfbid0LkMMmMWo1gxX18kQxdjMcX1eu7sgJuMVhLGu5DF4765xCsnu1dA8KogUyhgQB9MRl?__cft__%5B0%5D=AZirvU6wsIFVMdJ4oKIs_-06-_2h2SnAOKBYIQlJlKcmSAqQHcAygQ6dA_D2ymJpRxduMw7i0UFLtwG3NkpH-mUz0MKXiH2jpbFvzYjRdnRTg5pw8XzbFZKMBG6ugmzIIAc3X2yjvPTm8TBcZa6HGMiOrpOjsO0W6EZ9qzpxneARiFEBn912j1NVOoQ&amp;__tn__=%2CO%2CP-R</link>
+      <description>A record number of Americans believe there is widespread corruption in the U.S. government, reaching the highest level of distrust in two decades, according to a new Gallup poll. Both sides. WASHINGTONPOST.COM Poll shows nearly 90% of Americans believe government corruption is widespread Ver más comentarios Linda Williams Ver las 25 respuestas Fuente: The Washington Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1cb1acc7fab2ba0f</guid>
+      <pubDate>Wed, 02 Sep 2026 14:01:35 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
+      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/16077735324621857570?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-02%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F87c33bbf-2072-466e-b00c-95daa29a7534&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=gjzMIS7ezP6TGYfc-Hugxw&amp;_nc_oc=AdpCry6gU1bkgy0A3h5q0XepdLulWM8TFMuOL4Vxn8pEL-ogzEPLDsyQUBVtoZGEve8&amp;ccb=13-1&amp;oh=06_Q3_CAWqAFke1_Il7vQBq15rHSraFyIj83Em92-m_kpp6xnrd&amp;oe=6A9A14BE&amp;_nc_sid=e17101" medium="image" />
+      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/16077735324621857570?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-02%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F87c33bbf-2072-466e-b00c-95daa29a7534&amp;fb_obo=1&amp;utld=amazonaws.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=gjzMIS7ezP6TGYfc-Hugxw&amp;_nc_oc=AdpCry6gU1bkgy0A3h5q0XepdLulWM8TFMuOL4Vxn8pEL-ogzEPLDsyQUBVtoZGEve8&amp;ccb=13-1&amp;oh=06_Q3_CAWqAFke1_Il7vQBq15rHSraFyIj83Em92-m_kpp6xnrd&amp;oe=6A9A14BE&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Who are the free agents after transfer deadline day?</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/c5yd4065nlwo</link>
+      <description>BBC Sport takes a look at the players still without a club after the 2026 summer transfer window shut. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3a7d51297cec8b20</guid>
+      <pubDate>Wed, 02 Sep 2026 13:53:47 +0000</pubDate>
+      <category>deportes</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/40f13a90-a6d2-11f1-a291-b542ee92de7c.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/40f13a90-a6d2-11f1-a291-b542ee92de7c.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>IMF reaches historical loan agreement with Senegal</title>
+      <link>https://www.france24.com/en/imf-reaches-historical-loan-agreement-with-senegal</link>
+      <description>The IMF and Senegal have agreed on a new 2.2 billion-dollar loan programme to support financial reforms, a relief for the country after a huge amount of unreported debt recently came to light. The president has accused his predecessor of hiding the true state of the country's imbalanced budget deficit. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d4c1c2942184f145</guid>
+      <pubDate>Wed, 02 Sep 2026 12:51:27 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/3ec4acbc-a6cc-11f1-8756-005056bfb2b6/w:1024/p:16x9/capture-13096693496a981a859ef385-37983370.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/3ec4acbc-a6cc-11f1-8756-005056bfb2b6/w:1024/p:16x9/capture-13096693496a981a859ef385-37983370.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live</title>
       <link>https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates</link>
-      <description>Foreign policy chief says drone attack last month ‘had all the hallmarks of state sponsored terrorism’ as she prepares to lead today’s discussions Meanwhile, Russian president Vladimir Putin said the German decision to attribute the drone attack to Russia was “a grave mistake,” as he attempted to question the evidence behind the decision. He also suggested that Berlin was blaming Russia to distract from its own domestic problems. Continue reading... Fuente: The Guardian - World.</description>
+      <description>Nato’s Mark Rutte’s comments come as EU ministers meet to consider their response to drone attack last month German police have opened a investigation into yesterday’s attempt to disrupt the operation of a power substation near Brandenburg. In a statement , Brandenburg police said they were leading a probe on suspicion of attempting to disrupt public services, causing an explosion and damaging critical infrastructure as well as forming a terrorist organisation Continue reading... Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:eaf7efc9949ea921</guid>
       <pubDate>Wed, 02 Sep 2026 09:26:25 +0000</pubDate>
       <category>mundo</category>
@@ -1475,134 +1598,6 @@
       <source url="https://www.france24.com/es/rss">France 24 - Español</source>
       <media:content url="https://s.france24.com/media/display/bdf9123c-9ca6-11f1-bc45-005056bf30b7/w:1024/p:16x9/2026-08-20T124328Z-1284655205-RC292NADIEOA-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/bdf9123c-9ca6-11f1-bc45-005056bf30b7/w:1024/p:16x9/2026-08-20T124328Z-1284655205-RC292NADIEOA-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live: UK PM Andy Burnham faces MPs for first time since taking office</title>
-      <link>https://www.france24.com/en/europe/20260901-live-uk-pm-andy-burnham-faces-mps-for-first-time-since-taking-office</link>
-      <description>The United Kingdom's new Prime Minister Andy Burnham will face lawmakers in the House of Commons on Tuesday for the first time since taking office six weeks ago. Burnham has promised to deliver renewed national optimism after the downbeat two-year tenure of predecessor Keir Starmer, who announced Tuesday that he would resign his seat in Parliament after 11 years.Watch his speech live on FRANCE 24 at 16:30pm (GMT+2). Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f8527a81b4ece06d</guid>
-      <pubDate>Tue, 01 Sep 2026 13:21:58 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/a20bd6ae-8432-11f1-9d23-005056bf30b7/w:1024/p:16x9/AP26201431350183.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/a20bd6ae-8432-11f1-9d23-005056bf30b7/w:1024/p:16x9/AP26201431350183.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>🗣️ 'The difficult decisions lie ahead.' @LucyJMcDaid is outside Downing Street as Andy Burnham chairs his first cabinet meeting after the summer recess. She says today is a day of many firsts for the PM. Follow along live: https://trib.al/kjxKOZZ | Sky News</title>
-      <link>https://www.facebook.com/reel/1849845519719805/?__cft__%5B0%5D=AZjaFnBgbLWIV_ssh8PAtIGtjqdH1K79p73Tghayx7XYg_DDnTxw28xr0BRWVXBeTG-x_RKvOrCvLQ6v9m4fCd_tVBx6ewiTC6Qq-OX6u0Nj8erJ3fl4bhEOWWqByWmnnuFKnxpGADPypeo3cLDkIbsDvXwf4vE_fyq3382wPNmonOZUGMGWeyiV9Bx4IpnMQ7xo&amp;__tn__=%2CO%2CP-R</link>
-      <description>🗣️ 'The difficult decisions lie ahead.' @LucyJMcDaid is outside Downing Street as Andy Burnham chairs his first cabinet meeting after the summer recess. She says today is a day of many firsts for... 🗣️ 'The difficult decisions lie ahead.' @LucyJMcDaid is outside Downing Street as Andy Burnham chairs his first cabinet meeting after the summer recess.... Fuente: Sky News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a5d263566be712c8</guid>
-      <pubDate>Tue, 01 Sep 2026 10:13:28 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/skynews/">Sky News</source>
-      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/790002366_1787242266025803_5576534978953129413_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=NLV5Vn03Q_gQ7kNvwHyRioq&amp;_nc_oc=Adq7aoCJO1-Vam6bcQrRdiMjhG2dBqn7Qz4HZdxt_YLGG7MGj8whs_IExhuygrFUDP0&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=b00cK0R__BAIEXFZ3bk9Qg&amp;_nc_ss=7f289&amp;oh=00_AQIO_Yqy4krWVYZou7Mkphrx5KXu3CfT49KNyXSWmTfviA&amp;oe=6A9C7948" medium="image" />
-      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/790002366_1787242266025803_5576534978953129413_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=NLV5Vn03Q_gQ7kNvwHyRioq&amp;_nc_oc=Adq7aoCJO1-Vam6bcQrRdiMjhG2dBqn7Qz4HZdxt_YLGG7MGj8whs_IExhuygrFUDP0&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=b00cK0R__BAIEXFZ3bk9Qg&amp;_nc_ss=7f289&amp;oh=00_AQIO_Yqy4krWVYZou7Mkphrx5KXu3CfT49KNyXSWmTfviA&amp;oe=6A9C7948" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Flavio Oliveira Monteiro ha comentado: O maior estadista e patriota de todos os tempos vai vencer a eleição no primeiro turno 👍🏽🙏🏽🇧🇷</title>
-      <link>https://www.facebook.com/UOLNoticias/posts/pfbid038BoqGSbjKAxg6115MsRrzfQbSrZShHuzmRX5xXge3S7jMoxHV2eAAo8LUYdDYkzgl?comment_id=2136476093937325&amp;__cft__%5B0%5D=AZhL7a9InbNHljsJ25QXViWz6eDToPZ5JbbmnVk3yghdhhN831BWEtLr8frMARbiGupkgp3-7TnY8gzumiCaVlUHPT9_SSi8PeimfhbNCkISsUCMJ8Yc06kebZG210sH8NSdD5ndBmkK_Kv6_hLivHfITZ0taEoJoVkv3YsAtxqnVTiKISsCEbDW7iA&amp;__tn__=R-R</link>
-      <description>Fuente: UOL Notícias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9e7b8fe6c278dec6</guid>
-      <pubDate>Tue, 01 Sep 2026 10:13:28 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
-      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11136119355858917442?url=https%3a%2f%2fconteudo.imguol.com.br%2fc%2fnoticias%2ffa%2f2026%2f08%2f31%2flula-e-flavio-bolsonaro-concorrem-a-presidencia-da-republica-1788196972930_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=btnvjmnQtGhGXraNptKHeQ&amp;_nc_oc=AdqAD2yPq6i60WoP-GxEWbHpNEQmqyUgdjMo0KfG1pvZr52ATEk5bfxkpcaCdxvsmaU&amp;ccb=13-1&amp;oh=06_Q3_CAbwGt7A83o3f1KdC7Dq9M2y37bHh7GhOyy0huQXPxZ-k&amp;oe=6A9888F6&amp;_nc_sid=867500" medium="image" />
-      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11136119355858917442?url=https%3a%2f%2fconteudo.imguol.com.br%2fc%2fnoticias%2ffa%2f2026%2f08%2f31%2flula-e-flavio-bolsonaro-concorrem-a-presidencia-da-republica-1788196972930_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=btnvjmnQtGhGXraNptKHeQ&amp;_nc_oc=AdqAD2yPq6i60WoP-GxEWbHpNEQmqyUgdjMo0KfG1pvZr52ATEk5bfxkpcaCdxvsmaU&amp;ccb=13-1&amp;oh=06_Q3_CAbwGt7A83o3f1KdC7Dq9M2y37bHh7GhOyy0huQXPxZ-k&amp;oe=6A9888F6&amp;_nc_sid=867500" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Flavio Oliveira Monteiro ha comentado: O maior estadista e patriota de todos os tempos vai vencer a eleição no primeiro turno 👍🏽🙏🏽🇧🇷</title>
-      <link>https://www.facebook.com/UOLNoticias/posts/pfbid038BoqGSbjKAxg6115MsRrzfQbSrZShHuzmRX5xXge3S7jMoxHV2eAAo8LUYdDYkzgl?comment_id=2136476093937325&amp;reply_comment_id=1397285685232584&amp;__cft__%5B0%5D=AZhL7a9InbNHljsJ25QXViWz6eDToPZ5JbbmnVk3yghdhhN831BWEtLr8frMARbiGupkgp3-7TnY8gzumiCaVlUHPT9_SSi8PeimfhbNCkISsUCMJ8Yc06kebZG210sH8NSdD5ndBmkK_Kv6_hLivHfITZ0taEoJoVkv3YsAtxqnVTiKISsCEbDW7iA&amp;__tn__=R-R</link>
-      <description>RealTime Big Data: Lula lidera contra Flávio no 1º turno; Cury tem 11% Fuente: UOL Notícias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cd69f44989735692</guid>
-      <pubDate>Tue, 01 Sep 2026 10:13:28 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
-      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11136119355858917442?url=https%3a%2f%2fconteudo.imguol.com.br%2fc%2fnoticias%2ffa%2f2026%2f08%2f31%2flula-e-flavio-bolsonaro-concorrem-a-presidencia-da-republica-1788196972930_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=o5ILogPA8s4o4Vc9rrnStQ&amp;_nc_oc=AdqAD2yPq6i60WoP-GxEWbHpNEQmqyUgdjMo0KfG1pvZr52ATEk5bfxkpcaCdxvsmaU&amp;ccb=13-1&amp;oh=06_Q3_CAYgpwt5xioEJX0zCCePiqPSU0YHqMIl9wpaHZ6TMSGd-&amp;oe=6A9888F6&amp;_nc_sid=867500" medium="image" />
-      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11136119355858917442?url=https%3a%2f%2fconteudo.imguol.com.br%2fc%2fnoticias%2ffa%2f2026%2f08%2f31%2flula-e-flavio-bolsonaro-concorrem-a-presidencia-da-republica-1788196972930_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;stp=dst-jpg_p600x600_tt6&amp;_nc_gid=o5ILogPA8s4o4Vc9rrnStQ&amp;_nc_oc=AdqAD2yPq6i60WoP-GxEWbHpNEQmqyUgdjMo0KfG1pvZr52ATEk5bfxkpcaCdxvsmaU&amp;ccb=13-1&amp;oh=06_Q3_CAYgpwt5xioEJX0zCCePiqPSU0YHqMIl9wpaHZ6TMSGd-&amp;oe=6A9888F6&amp;_nc_sid=867500" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live</title>
-      <link>https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates</link>
-      <description>PM will tell Commons he wants to unlock ‘positivity’ after a summer of policy announcements and improved poll ratings Andy Burnham has refused to rule out tax rises to fund higher public spending in the budget – although he has also played down the prospect of big changes. In an article for the Times , Darren Jones , who was chief secretary to the PM under Keir Starmer but who left government when Burnham took power, has warned that higher public spending on its own won’t make Britain richer. He says: Britain is poorer than we often think. We won’t get richer based on higher public spending… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:77a992c03da4cf7a</guid>
-      <pubDate>Tue, 01 Sep 2026 09:53:56 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <category>Europa</category>
-      <dc:creator>Andrew Sparrow</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/b12510039639e71a205b094d28ebfa00749a1925/551_348_4422_3538/master/4422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d150ef1e89f4b06fc6a30940245a6b9" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/b12510039639e71a205b094d28ebfa00749a1925/551_348_4422_3538/master/4422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d150ef1e89f4b06fc6a30940245a6b9" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>At least 12 people killed in Russian overnight attacks on Ukraine – Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/sep/01/ukraine-russia-strikes-attacks-odesa-zelenskyy-putin-eu-defence-europe-latest-news-updates</link>
-      <description>Zelenskyy says dozens more injured as strikes leave thousands without electricity in Odesa region Meanwhile, Ukraine’s ⁠prime minister Sergii Koretskyi ⁠called ⁠on lawmakers ​on Tuesday to ⁠speed up voting ⁠on key ​legislation ‌to help ‌secure necessary ‌financing for Ukraine , as the country is facing ‌a $27bn deficit ​for defence. Koretskyi added that ⁠his government would ​audit the ​needs ​of the ​defence ‌ministry, Reuters said. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f5397eb399cd59c3</guid>
-      <pubDate>Tue, 01 Sep 2026 09:51:26 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <dc:creator>Jakub Krupa</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/60505400551b478bb62cd3ad67d39aff507649c4/0_0_4232_3387/master/4232.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6857dc1e41dc3c1e1443a1df73095ce8" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/60505400551b478bb62cd3ad67d39aff507649c4/0_0_4232_3387/master/4232.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6857dc1e41dc3c1e1443a1df73095ce8" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Exclusive: 7,280 suspected illegal spills in rivers and sea recorded in first five months of 2026</title>
-      <link>https://www.facebook.com/theguardian/posts/pfbid02x7KGVmFvgRr6czTMeJ2vrBBaMdJQtyJwai7zq2TCMt2JYuRNeXydjNEEVphojSMtl?__cft__%5B0%5D=AZhWuVLhKJn5dTxKsP521y3ejlAIch-YLzL4WcdM6KvwCpXY-d8uXFDpTsASVBcCc220febquOXLU_Ch_A4eEhIf9PZ5v-p0Cdp0qIGqh9a19687svnERkCV98OHCx1Hr1gV9enJIlW_2V733lW58Fvq-qW9FC-chWDmJXi-Ans781SJsO7EvBD6AmU&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: The Guardian.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5e72984fb44355a9</guid>
-      <pubDate>Tue, 01 Sep 2026 09:44:14 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/theguardian/">The Guardian</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/790147619_1626214672361835_707966175240873791_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3cDPXjqEubcQ7kNvwG981Bf&amp;_nc_oc=AdqLBnPyt-rYYXs2aIZPS7XUGWa6bXMIfa-j_p3NCzqqWxKFOGN8gbK2O60rGlwNdBw&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=41gcrddyqhr3VWSHcGq8EQ&amp;_nc_ss=7f289&amp;oh=00_AQLDFL1TdmQxZQlawZmMgbw3vBCV8XWLHAscIbtz3y3SvQ&amp;oe=6A9C78E0" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/790147619_1626214672361835_707966175240873791_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=3cDPXjqEubcQ7kNvwG981Bf&amp;_nc_oc=AdqLBnPyt-rYYXs2aIZPS7XUGWa6bXMIfa-j_p3NCzqqWxKFOGN8gbK2O60rGlwNdBw&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=41gcrddyqhr3VWSHcGq8EQ&amp;_nc_ss=7f289&amp;oh=00_AQLDFL1TdmQxZQlawZmMgbw3vBCV8XWLHAscIbtz3y3SvQ&amp;oe=6A9C78E0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Every done deal on transfer deadline day</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo</link>
-      <description>Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:51f5526134ff4e39</guid>
-      <pubDate>Tue, 01 Sep 2026 09:33:43 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>La catastrófica riada en Nepal y Tíbet supera los 1.000 muertos</title>
-      <link>https://elpais.com/internacional/2026-09-01/la-catastrofica-riada-en-nepal-y-tibet-supera-los-1000-muertos.html</link>
-      <description>China homenajea a las víctimas de la monstruosa riada que arrasó el puesto fronterizo de Gyirong, pero no actualiza cifras desde el domingo Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:af21f74c03d4218d</guid>
-      <pubDate>Tue, 01 Sep 2026 09:03:03 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>Inma Bonet Bailén</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/CTEDJHJF7BJGRGVTZXFHPCNHZQ.jpg?auth=e9837c8f2b13c6d4336fe6e82de4c95d186eaf191cdf2a9bf94067d823369fd1" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/CTEDJHJF7BJGRGVTZXFHPCNHZQ.jpg?auth=e9837c8f2b13c6d4336fe6e82de4c95d186eaf191cdf2a9bf94067d823369fd1" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sydney records warmest winter on record as Melbourne equals previous hottest temperatures</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/01/sydney-records-warmest-winter-on-record-as-melbourne-equals-previous-hottest-temperatures</link>
-      <description>New South Wales, Victoria and Tasmania just experienced their warmest-ever winters – and BoM says above-average temperatures expected to continue Get our breaking news email , free app or daily news podcast Australia’s two biggest cities had their hottest and equal hottest winters on record, with three eastern states also breaking temperature records. The Bureau of Meteorology’s (BoM) spring outlook shows above average daytime and night-time temperatures are expected to continue for much of the country, with an increased chance of unusually high maximums. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b84aae58bfd4e748</guid>
-      <pubDate>Tue, 01 Sep 2026 08:41:13 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Oceanía</category>
-      <dc:creator>Lisa Cox and Jack Larkin</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/2bddf3792e0d60b8a650d58c3f23060d6a0df4c3/887_0_4815_3852/master/4815.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b7e2060ac44f2ed3bd755567f64614" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/2bddf3792e0d60b8a650d58c3f23060d6a0df4c3/887_0_4815_3852/master/4815.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b7e2060ac44f2ed3bd755567f64614" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
