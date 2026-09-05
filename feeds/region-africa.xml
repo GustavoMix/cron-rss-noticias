@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 05 Sep 2026 18:25:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:35:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-africa.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rusia y Alemania: ¿la “guerra híbrida” arrastrará a la OTAN?</title>
+      <link>https://www.france24.com/es/programas/una-semana-en-el-mundo/20260905-rusia-y-alemania-la-guerra-h%C3%ADbrida-arrastrar%C3%A1-a-la-otan</link>
+      <description>Rusia y Alemania intercambian acusaciones por una supuesta campaña de guerra híbrida que eleva la tensión en Europa. Berlín señala a Moscú por el ataque contra el aeropuerto de Leipzig, mientras el Kremlin rechaza las acusaciones y las califica de “vacías” e “infundadas”. Además, analizamos la crisis migratoria en Ceuta y el rechazo a los cruces irregulares desde Marruecos, así como la tragedia provocada por una riada en Nepal y la censura informativa en China en torno al Tíbet. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f551aaa2a9bf1ede</guid>
+      <pubDate>Sat, 05 Sep 2026 19:26:46 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <category>África</category>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/4a64752e-a876-11f1-85ba-005056bf30b7/w:1024/p:16x9/IMG-0200.png" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/4a64752e-a876-11f1-85ba-005056bf30b7/w:1024/p:16x9/IMG-0200.png" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>21 mil reproducciones · 230 reacciones | Rescue teams in Algeria are racing against time to save a 10-year-old boy named Ayoub after he fell into an 80-metre-deep well in El Ghassoul municipality in southwest Algeria. Ayoub reportedly fell into the well two days ago. | Al Jazeera English</title>
       <link>https://www.facebook.com/reel/4672486196359712/?comment_id=2101840037094889&amp;__cft__%5B0%5D=AZg5CE3APC8EaCNi3MBuOXKl2lh1HzL5L0vNgh_sbpUlWnTDVJq03MUW2z92fLMoWfCHMkRM2HQgxOAfJJVzFjtY9-xpOXEw4GajB6VUj3GHj79UEwAU8H6QTeafJW-mqevy1H7KYtdi65u-eAeBFDrTyeRIrSZA-Lx9Q1EPG0m0shDjtG_fGrWb81pJAbNQ_lHa&amp;__tn__=R-R</link>
@@ -1606,21 +1620,6 @@
       <category>África</category>
       <category>Medio Oriente</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Spain’s Leader Questions Morocco Border Control During Ceuta Migrant Surge</title>
-      <link>https://www.nytimes.com/2026/09/03/world/europe/spain-morocco-ceuta-sanchez.html</link>
-      <description>Prime Minister Pedro Sánchez of Spain said the role of Moroccan authorities at key moments needed to be “clarified.” But he rejected any suggestion they had planned the crisis. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1f6af3f4fe881f54</guid>
-      <pubDate>Thu, 03 Sep 2026 18:30:40 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>África</category>
-      <category>América del Norte</category>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/03/multimedia/03spain-cueta-01-lwmt/03spain-cueta-01-lwmt-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/03/multimedia/03spain-cueta-01-lwmt/03spain-cueta-01-lwmt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
