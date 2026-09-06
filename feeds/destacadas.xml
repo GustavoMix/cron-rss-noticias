@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 05 Sep 2026 23:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:03:53 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -96,6 +96,20 @@
       <enclosure url="https://static01.nyt.com/images/2026/09/04/multimedia/04int-nepal-rescue-cfkq/04int-nepal-rescue-cfkq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Dos explosiones en un cuartel militar de Bolivia dejan al menos dos muertos y 81 heridos.</title>
+      <link>https://www.facebook.com/reel/2864625237248517/?__cft__%5B0%5D=AZjkM99ATlxBMcfF6zrKg85ACNN-SS4HAXQGYkpHqTmVcFypv2k1napP8V7671shNfUgKFVNLpfxebFHcsSQDBc9Hw9eZcUwaJdz7Wl0Iuyg06nQpmnDE4AhKcVnjo1gcnhlr_LqGWsDzSfIkFZ_bvqvNwxdZ8JEjUErljhxNvgIJvrhAYXpLOXhjsxyrokzlCPZ&amp;__tn__=%2CO%2CP-R</link>
+      <description>Mientras continúa la búsqueda de desaparecidos, las autoridades advierten sobre el riesgo de nuevas detonaciones y temen que la cifra de fallecidos siga aumentando en Viacha. Publicado también por: El Mundo - Internacional, BBC News Mundo. Fuente: Noticias Telemundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bdb8d85c550eee5e</guid>
+      <pubDate>Sun, 06 Sep 2026 01:00:28 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/noticiastelemundo/">Noticias Telemundo</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17885867224988.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/05/17885867224988.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Man in Nepal tunnel and woman rescued 10 days after flash flood</title>
       <link>https://www.abc.net.au/news/2026-09-06/two-more-rescued-after-nepal-floods/107121104</link>
       <description>A Chinese national was pulled alive from a tunnel in Nepal on Saturday, authorities said, 10 ‌days after a wall of ice, rock and mud tore through a Himalayan valley, killing more than 1,300 people. Publicado también por: France 24 - English, The New York Times - World, The Washington Post - World. Fuente: ABC News Australia.</description>
@@ -138,20 +152,6 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/2026/06/30/08/2282101138..?width=1200&amp;auto=webp&amp;trim=0%2C356%2C1010%2C588" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/06/30/08/2282101138..?width=1200&amp;auto=webp&amp;trim=0%2C356%2C1010%2C588" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El Nino could be strongest in decades, UN warns</title>
-      <link>https://www.thehindu.com/news/international/el-nino-could-be-strongest-in-decades-un-warns/article71425407.ece</link>
-      <description>El Nino could be the strongest since records began four decades ago, the United Nations' climate agency warned Thursday, with the UN chief warning the world is in the "danger zone of extreme weather". The naturally-occurring weather phenomenon is set to become "very strong" in the months ahead and is near certain to persist through to February, the World Meteorological Organization (WMO) said. FRANCE 24's Journalist Carys Garland tells us more. Publicado también por: Phys.org, France 24 - English, ABC News Australia. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a603703c49831976</guid>
-      <pubDate>Thu, 03 Sep 2026 16:47:38 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/euzlvx/article71425420.ece/alternates/LANDSCAPE_1200/AFP_C78H2T3.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/euzlvx/article71425420.ece/alternates/LANDSCAPE_1200/AFP_C78H2T3.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Explosion at Bolivia military base kills at least 10, dozens injured</title>
@@ -374,18 +374,16 @@
       <enclosure url="https://s.france24.com/media/display/e8e495a4-a7a3-11f1-bd27-005056bfb2b6/w:1024/p:16x9/000-C76F294.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Spain’s PM says no evidence Morocco planned Ceuta border rush</title>
-      <link>https://www.aljazeera.com/news/2026/9/3/spains-pm-says-no-evidence-morocco-planned-ceuta-border-rush?traffic_source=rss</link>
-      <description>Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross border Europe live – latest updates Spain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament. The address on Thursday followed the emergence of a police report, commissioned by a judge and widely quoted in the media, claiming Moroccan border forces had actively aided about 70,000 people to cross the border in late July. Continue reading... Publicado también por: The Guardian - World, The Jerusalem Post - International. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5409f612eae2f684</guid>
-      <pubDate>Thu, 03 Sep 2026 17:32:26 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>África</category>
+      <title>Iran war live: IRGC claims new attacks on US warships over naval blockade</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid0Xae2nF4dHG28s9jUx21JXhZLAnkQQZJCcrKMgtQvoxVwrKfWnz2Pc3MHwU8EfUjdl?__cft__%5B0%5D=AZix4-iwLseD3lSgUkWbgdxPgc-IbIT8chmPzJcwolNskU6XPRh1i9XUO5_Xu7V9XVLcg0WY19vxtXZ5M9bNudBUiCj2rVNgG6ScKwKp9sMnoCBF5N4mTHGDmkBom0fxNtZHoXfeKmhD1Y-yFfNYT97YeyTkjhYgTJKX86moRoUhZV-3_PXFCM5zzCU&amp;__tn__=%2CO%2CP-R</link>
+      <description>IRGC says it fired ballistic missiles at US aircraft carrier and destroyer as standoff intensifies in Strait of Hormuz. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5fbf4962ef77afbf</guid>
+      <pubDate>Sun, 06 Sep 2026 00:30:08 +0000</pubDate>
+      <category>conflictos</category>
       <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://i.guim.co.uk/img/media/be4269b2ddb583217b97a8b9039e26613d47630f/706_0_4809_3847/master/4809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae6e8feb2df1eddc8ebb88b2371abda1" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/be4269b2ddb583217b97a8b9039e26613d47630f/706_0_4809_3847/master/4809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae6e8feb2df1eddc8ebb88b2371abda1" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/798246273_1951417522170386_5612179265432033032_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=8nervLw1dAsQ7kNvwEHDK3M&amp;_nc_oc=Adrlk-VXBvPiZv8fSDio9rzRq5Apolz4XelfLW_SCm_jsVU3Q0SlSDf55sIs4bodBNk&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=T8vIjOd51J7wlUd0Bm3Wtw&amp;_nc_ss=7f289&amp;oh=00_AQKQ7Job9pwJ8hBYHQkEU_5TNB3BBoHmtGnaj7tbBNDqzA&amp;oe=6AA274F1" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/798246273_1951417522170386_5612179265432033032_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=8nervLw1dAsQ7kNvwEHDK3M&amp;_nc_oc=Adrlk-VXBvPiZv8fSDio9rzRq5Apolz4XelfLW_SCm_jsVU3Q0SlSDf55sIs4bodBNk&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=T8vIjOd51J7wlUd0Bm3Wtw&amp;_nc_ss=7f289&amp;oh=00_AQKQ7Job9pwJ8hBYHQkEU_5TNB3BBoHmtGnaj7tbBNDqzA&amp;oe=6AA274F1" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Two pilots killed after Greek fighter jet crashes during an air show</title>
@@ -479,6 +477,31 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
       <media:content url="https://s.france24.com/media/display/14b50efe-a874-11f1-a60d-005056a97e36/w:1024/p:16x9/EN-20260904-160145-160455-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/14b50efe-a874-11f1-a60d-005056a97e36/w:1024/p:16x9/EN-20260904-160145-160455-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>German rocket reaches space as Europe enters satellite launch race... Ver más</title>
+      <link>https://www.facebook.com/Reuters/posts/pfbid0CnHYJ3RrGzwXwhukA9dtfaEa8NMMGdh9pUYqT1N5eVwfhJoFnGBmbbwZpY1AmFtvl?__cft__%5B0%5D=AZjOHRvjsDMKY4M2wUyzn9H8NeU4XAV8QYSwLPDZ1KwApG2ixtF9fIfw9wU6uq5DvdjesOoXqqq_GFrqfAACLMgxslFDIYdo56rbgrDpzX1uDT10cZ-n5d4RyPwXfziCUmoAffectXzn7d9NPiGVYtz34IA9fBtjbvGGJiwtzpjXBxMzBNIKI7wBdJ8&amp;__tn__=%2CO%2CP-R</link>
+      <description>German start-up Isar Aerospace on Saturday launched its first rocket into space from a site in Arctic Norway, bringing Europe closer to offering satellite flights from its own soil. The uncrewed Spectrum rocket was the first commercial flight to reach orbit from continental Europe, ‌where several nations have said they want a share of a growing market for space missions. “We’re in orbit! And just made European history,” Isar said in a post on social media. The event was a breakthrough for the... Publicado también por: South China Morning Post. Fuente: Reuters.</description>
+      <guid isPermaLink="false">cron-rss-noticias:65bbc38c6f381445</guid>
+      <pubDate>Sun, 06 Sep 2026 00:40:45 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.facebook.com/Reuters/">Reuters</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/797857966_929005010277050_9182357171610416629_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=AiyppYiJH_sQ7kNvwEucAQX&amp;_nc_oc=AdoPI19XfnBGqZaEk_5A5UvmBMS3xlIlg2b_75XIHanrklM1a8a3fi0j6bBtJpr5nIU&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=8vYWrxAivfJo83nrUP-M2w&amp;_nc_ss=7f289&amp;oh=00_AQLcUhUFDjS9sYry5TUCDoEwdIkes-CXgMaZ_kypadbfSQ&amp;oe=6AA2756F" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/797857966_929005010277050_9182357171610416629_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=AiyppYiJH_sQ7kNvwEucAQX&amp;_nc_oc=AdoPI19XfnBGqZaEk_5A5UvmBMS3xlIlg2b_75XIHanrklM1a8a3fi0j6bBtJpr5nIU&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=8vYWrxAivfJo83nrUP-M2w&amp;_nc_ss=7f289&amp;oh=00_AQLcUhUFDjS9sYry5TUCDoEwdIkes-CXgMaZ_kypadbfSQ&amp;oe=6AA2756F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Aviation faces hotter, stormier skies – and passengers might have to accept more disruption</title>
+      <link>https://www.bbc.co.uk/news/articles/cm274p8m88lo</link>
+      <description>Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify? Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dd9c5c7de66e1075</guid>
+      <pubDate>Sat, 05 Sep 2026 23:20:00 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>TV presenter among 11 sentenced to death in Egypt drugs case</title>
@@ -1100,32 +1123,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Hundreds gather to urge Scottish government to pause datacentre boom</title>
-      <link>https://www.theguardian.com/uk-news/2026/sep/03/hundreds-holyrood-pause-scotland-datacentre-boom-ai</link>
-      <description>Opposition mounts as at least 20 projects proposed, including one in Fife billed as second largest in world Kat Jones may be the closest thing Scotland has to Erin Brockovich in 2026. Standing in the shadow of Arthur’s Seat outside Holyrood, the 52-year-old is revving up the crowd of protesters around her. “Who is here from Lammermuir? Ayrshire? What about Aberdeen?” she calls to the crowd. On Thursday, hundreds travelled to Edinburgh to call for an immediate moratorium on Scotland’s datacentre boom, which includes one project in Auchtertool, Fife, that has been billed as the second largest… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7cae090a19fabc29</guid>
-      <pubDate>Thu, 03 Sep 2026 17:48:48 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <dc:creator>Patrick Greenfield and Aisha Down</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/838_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffa0fd4aaba860372dd131ecd612ea28" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/e2a0d1349bc80c7d01a895dc55a30dfa0af25360/838_0_6829_5464/master/6829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ffa0fd4aaba860372dd131ecd612ea28" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Billionaire Leon Black skips US congressional deposition over Epstein ties</title>
-      <link>https://www.abc.net.au/news/2026-09-04/leon-black-jeffrey-epstein-deposition/107114552</link>
-      <description>The billionaire investor instead files a lawsuit challenging the subpoenas from the US congressional committee, which is looking into Jeffrey Epstein's links to the rich and powerful. Publicado también por: Al Jazeera English. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:19d4216dcac771a1</guid>
-      <pubDate>Thu, 03 Sep 2026 17:19:24 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/3f3446ea0e22ac1578abc0f7f1d3d52c?impolicy=wcms_crop_resize&amp;cropH=2745&amp;cropW=4880&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/3f3446ea0e22ac1578abc0f7f1d3d52c?impolicy=wcms_crop_resize&amp;cropH=2745&amp;cropW=4880&amp;xPos=0&amp;yPos=254&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>US diesel prices hit an all-time-high</title>
       <link>https://www.bbc.co.uk/news/articles/c7903r0grx0o</link>
       <description>Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
@@ -1208,18 +1205,6 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
-      <title>UK Green Party leader Polanski announces intention to run for Starmer's MP seat in London</title>
-      <link>https://www.jpost.com/international/article-907506</link>
-      <description>Polanski told the Camden New Journal on Thursday that he will stand in a by-election for the London constituency, which he said “represents so many of the things that make London so special." Publicado también por: Al Jazeera English. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b74c182dab91cb99</guid>
-      <pubDate>Thu, 03 Sep 2026 16:52:55 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY JERUSALEM POST STAFF</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-    </item>
-    <item>
       <title>Two killed as Greek air force jet crashes at annual air show near Athens</title>
       <link>https://www.independent.co.uk/news/world/europe/hellenic-air-force-phantom-crash-greece-b3045353.html</link>
       <description>A Greek air force plane crashed at an air show north of Athens on Saturday, killing the two pilots, officials said, as thousands of people attended the event. A fire after the crash sent up large plumes of black smoke. There were no injuries among the spectators. The crash of the twin-seat Phantom F4 jet took place during a low-altitude manoeuvre. Air force officials in Greece said the bodies of the two pilots were located during a rescue operation, hampered in the early stages by the fire on... Publicado también por: South China Morning Post. Fuente: The Independent - World.</description>
@@ -1273,6 +1258,69 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/2026/09/04/05/Lindsay_Clancy_Trial_8_663.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/09/04/05/Lindsay_Clancy_Trial_8_663.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1643 reproducciones · 32 reacciones | 🔴EN VIVO�� #LaRedDeportivaDeBolivia #OrientePetrolero🆚#AlwaysReady | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/2543131482868090/?comment_id=1700814704550344&amp;__cft__%5B0%5D=AZjdryAsRf-nvl6QEZCQqSi31kzeJ2C4BsH3P-Ym4ndzXVSrPSMxULNWSzKf61-3aqT17aBOCrVBQOHWyjlsBxd0PpxBqaB8wWVPmOJa9o2QMWkjdqCFLB73PLfHwxT3r5i6KTYCmbV5r7OpM86KzTIN9KDgo8vjCd140p7lEhPV0OmrrezSsmGa9AGtOMGi2bY&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO�� #LaRedDeportivaDeBolivia #OrientePetrolero🆚#AlwaysReady Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fa383e2097f480c9</guid>
+      <pubDate>Sun, 06 Sep 2026 01:03:53 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/798505010_2980819492284024_7700512169254472083_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cX5xx4E4c9IQ7kNvwFP2bvz&amp;_nc_oc=AdrnpfJ6p2gqZ2qWvw-2snlsD6M7ssB4R7Wdi9cVBAoP6wSoEVl1uP_EyHrrSm_XPxU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=wuvXp_Rol8WVClWx-9moOQ&amp;_nc_ss=7f289&amp;oh=00_AQL1uVRYvoYm55j64lv2kzZDlZzmb2A2uN1gciy2U4S3jQ&amp;oe=6AA27F8C" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/798505010_2980819492284024_7700512169254472083_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cX5xx4E4c9IQ7kNvwFP2bvz&amp;_nc_oc=AdrnpfJ6p2gqZ2qWvw-2snlsD6M7ssB4R7Wdi9cVBAoP6wSoEVl1uP_EyHrrSm_XPxU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=wuvXp_Rol8WVClWx-9moOQ&amp;_nc_ss=7f289&amp;oh=00_AQL1uVRYvoYm55j64lv2kzZDlZzmb2A2uN1gciy2U4S3jQ&amp;oe=6AA27F8C" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1643 reproducciones · 32 reacciones | 🔴EN VIVO�� #LaRedDeportivaDeBolivia #OrientePetrolero🆚#AlwaysReady | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/2543131482868090/?comment_id=1796616685126928&amp;__cft__%5B0%5D=AZjdryAsRf-nvl6QEZCQqSi31kzeJ2C4BsH3P-Ym4ndzXVSrPSMxULNWSzKf61-3aqT17aBOCrVBQOHWyjlsBxd0PpxBqaB8wWVPmOJa9o2QMWkjdqCFLB73PLfHwxT3r5i6KTYCmbV5r7OpM86KzTIN9KDgo8vjCd140p7lEhPV0OmrrezSsmGa9AGtOMGi2bY&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO�� #LaRedDeportivaDeBolivia #OrientePetrolero🆚#AlwaysReady Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e5e3722b96e2cf7e</guid>
+      <pubDate>Sun, 06 Sep 2026 01:03:53 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/798505010_2980819492284024_7700512169254472083_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cX5xx4E4c9IQ7kNvwFP2bvz&amp;_nc_oc=AdrnpfJ6p2gqZ2qWvw-2snlsD6M7ssB4R7Wdi9cVBAoP6wSoEVl1uP_EyHrrSm_XPxU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=kPRbSAL_Ic2bSgkDmMHNeA&amp;_nc_ss=7f289&amp;oh=00_AQI3eCt1WW4uxyQFOmkOKTSWzx3BNcGpDlzHARGZDUHEPw&amp;oe=6AA27F8C" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/798505010_2980819492284024_7700512169254472083_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cX5xx4E4c9IQ7kNvwFP2bvz&amp;_nc_oc=AdrnpfJ6p2gqZ2qWvw-2snlsD6M7ssB4R7Wdi9cVBAoP6wSoEVl1uP_EyHrrSm_XPxU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=kPRbSAL_Ic2bSgkDmMHNeA&amp;_nc_ss=7f289&amp;oh=00_AQI3eCt1WW4uxyQFOmkOKTSWzx3BNcGpDlzHARGZDUHEPw&amp;oe=6AA27F8C" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>President Trump is set to deliver a keynote address Wednesday on the opening night of the Republican National Committee Midterm Convention in Dallas, a rare mid-cycle g... Ver más</title>
+      <link>https://www.facebook.com/CBSNews/posts/pfbid02cKxTMwrJGcwAytHkatNq2MGMpsygV2KSJApV3AGviwPnhPFc6w9gXsMkis9cuoE1l?__cft__%5B0%5D=AZjUSS32JIVaMMwQTa1GxPSF5pxpyfhc_ktqlaO3-LV9rX9YaeY_fVsbUZ_H1U5i1_rtRljCw1xXZ1nLh7DJjLTzg1NpAwBXuew7cBMTGHTxR-6E2DJXu5h2doYywLO74zmKwPyZzpDGin4T3qy3I4-PQDSbMl4uMhUjl1E7ga86eMYVdvlJ9Ek-I18&amp;__tn__=%2CO%2CP-R</link>
+      <description>President Trump is set to deliver a keynote address Wednesday on the opening night of the Republican National Committee Midterm Convention in Dallas, a rare mid-cycle g... Ver más I'd watch, but i have to walk my goldfish. CBSNEWS.COM Trump, Vance to speak at RNC Midterm Convention in Dallas Ver más comentarios Thomas O. Wansleben Ver las 2 respuestas Fuente: CBS News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8a3499d31a7f7a7d</guid>
+      <pubDate>Sun, 06 Sep 2026 00:47:47 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/2357976279415271211?url=https%3A%2F%2Fassets3.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F05%2F21c889e1-b6ff-4a9b-9974-4dcd83076912%2Fthumbnail%2F1200x630%2F9b7133950088c2cfc93304293d6609d6%2Fgettyimages-2288038531.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=-ufgWRD9ic3iZmwXaYQ0hg&amp;_nc_zt=3&amp;oh=06_Q3_DAVQrmKb3EkBHmZ8nrBCKIGtl6lFake5vKEVoGM86J8Av&amp;oe=6A9E8F59" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/2357976279415271211?url=https%3A%2F%2Fassets3.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F05%2F21c889e1-b6ff-4a9b-9974-4dcd83076912%2Fthumbnail%2F1200x630%2F9b7133950088c2cfc93304293d6609d6%2Fgettyimages-2288038531.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=-ufgWRD9ic3iZmwXaYQ0hg&amp;_nc_zt=3&amp;oh=06_Q3_DAVQrmKb3EkBHmZ8nrBCKIGtl6lFake5vKEVoGM86J8Av&amp;oe=6A9E8F59" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Australia news live: Duniam promises ‘humdinger’ immigration policy and urges Coalition not to ‘act like a government in exile’</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb</link>
+      <description>Follow today’s news live Get our breaking news email , free app or daily news podcast Duniam targets ‘frivolous’ asylum seeker claims The opposition is “very close” to “having a full migration package”, Duniam says. He says they’re willing to work with the government and that illegal overstayers must be deported. We spend more per student per year than we ever have before and we’ve got declining standards across the board, and the problem with the curriculum is we have left foundations behind. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a07cf1f3ad1c8c4d</guid>
+      <pubDate>Sun, 06 Sep 2026 00:39:01 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <dc:creator>Tory Shepherd</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/82731c99903d1ef0503b405606f45f8a9f6b3a9e/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc07aad6131ae831cf5b2c83d1d77006" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/82731c99903d1ef0503b405606f45f8a9f6b3a9e/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc07aad6131ae831cf5b2c83d1d77006" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Julia Kornberg, escritora: “Los argentinos somos proclives a la distopía por la realidad que vivimos”</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid0uJVCpDgixDEpMrgvuRcqWSEm6myYSogiT6BCsCRHQ3AejpV7bdbuc1JQxkFhp56bl?__cft__%5B0%5D=AZhI0GM9q88Br_ZcsIb1c-VzxeXseBXoktFOUq01kZoLGoVC8bQOC9US1k0KBpSOKf81Uff7Axzujs7LRnOdRflZO4CNIAY0LNU53RWp3CC8uRZAmmq-gU_r326zkx9LPEPVoTYt7vyKpzcywOtGh42pRNTbcabuX58A8UIo43_nm8jF4D_zSm0dFW8&amp;__tn__=%2CO%2CP-R</link>
+      <description>Julia Kornberg, escritora: “Los argentinos somos proclives a la distopía por la realidad que vivimos” Otra? ELPAIS.COM Ernesto Gomez-Mendoza Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:17bcd6d6bedcf145</guid>
+      <pubDate>Sun, 06 Sep 2026 00:02:47 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/1388727758643813583?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F2IMRMGQ3BVHFTO5MLSPQKRFVAI.jpg%3Fauth%3Dbe5e3022dbccafe85ba41bfbdde2732e28c83e32aec46f3560564224ba14baba%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=gE15c7M-rmVTwd3w75GCqQ&amp;_nc_zt=3&amp;oh=06_Q3_DAWJAZLZM2BIkfmxHjGSfcIFaJg3qi14UAlqLXCHb1qRx&amp;oe=6A9E81DF" medium="image" />
+      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/1388727758643813583?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F2IMRMGQ3BVHFTO5MLSPQKRFVAI.jpg%3Fauth%3Dbe5e3022dbccafe85ba41bfbdde2732e28c83e32aec46f3560564224ba14baba%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=gE15c7M-rmVTwd3w75GCqQ&amp;_nc_zt=3&amp;oh=06_Q3_DAWJAZLZM2BIkfmxHjGSfcIFaJg3qi14UAlqLXCHb1qRx&amp;oe=6A9E81DF" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1420 reproducciones · 86 reacciones | A Chinese national was rescued from a tunnel in Nepal on Saturday, 10 days after the devastating flooding that killed more than 1,300 people. The Nepali army said Lu Haitao had no visible injuries and his vitals were stable, but showed signs of mild hypothermia. | CBS News</title>
@@ -1536,58 +1584,6 @@
       <source url="https://www.facebook.com/CBSNews/">CBS News</source>
       <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/2258355864744020264?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F04%2F67e53275-00e0-481b-aab3-236d4f0b77e5%2Fthumbnail%2F1200x630g2%2Fbcd015aea46b1cb90460579d7d64dc6e%2Fgettyimages-2293198740.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=PXaUWNiwG_y8bJEs1wxHBg&amp;_nc_oc=AdrAsseMFmSXsqstRqlryEA2-7RN2XFAkchyOYIFP3fTJZCje_b6LAK4UOoeGWS-G6M&amp;ccb=13-1&amp;oh=06_Q3_CATz_uvtzkR-5amhWvQBsKP2OfLKmF1bTMPjHCK2wqEPp&amp;oe=6A9DF625&amp;_nc_sid=e17101" medium="image" />
       <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/2258355864744020264?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F04%2F67e53275-00e0-481b-aab3-236d4f0b77e5%2Fthumbnail%2F1200x630g2%2Fbcd015aea46b1cb90460579d7d64dc6e%2Fgettyimages-2293198740.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_gid=PXaUWNiwG_y8bJEs1wxHBg&amp;_nc_oc=AdrAsseMFmSXsqstRqlryEA2-7RN2XFAkchyOYIFP3fTJZCje_b6LAK4UOoeGWS-G6M&amp;ccb=13-1&amp;oh=06_Q3_CATz_uvtzkR-5amhWvQBsKP2OfLKmF1bTMPjHCK2wqEPp&amp;oe=6A9DF625&amp;_nc_sid=e17101" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Jenrick speaks on final day of Reform conference marred by scandal and protests – UK politics live</title>
-      <link>https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates</link>
-      <description>Farage, who had earlier suspended two close aides, had his keynote speech interrupted multiple times by protesters on Friday No real mention by Anderson of the problems that overshadowed events yesterday. He ended his opening speech saying: "Yesterday was great. Today is going to be absolutely brilliant.” Laila Cunningham is speaking next. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:106ca39c142993df</guid>
-      <pubDate>Sat, 05 Sep 2026 12:26:17 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <dc:creator>Taz Ali</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/ce33c7ba68b63ece2fbc7a0ac68b6bdb7be45842/0_156_3269_2613/master/3269.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a71f3f1166007dde4b74a9b15621116f" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/ce33c7ba68b63ece2fbc7a0ac68b6bdb7be45842/0_156_3269_2613/master/3269.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a71f3f1166007dde4b74a9b15621116f" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Hughes steps down as Liverpool sporting director</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c3d7483rv82o</link>
-      <description>Richard Hughes steps down from his position as sporting director of Liverpool and is set to join Saudi side Al-Hilal. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cf58db34c97111ec</guid>
-      <pubDate>Sat, 05 Sep 2026 11:46:06 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b00/live/21528d40-a91d-11f1-a3dc-e78e2c02425d.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b00/live/21528d40-a91d-11f1-a3dc-e78e2c02425d.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Rescuers in Nepal find two more people alive after flood disaster</title>
-      <link>https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster</link>
-      <description>Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operation Emergency responders rescued a Chinese man and a Nepali woman in two separate operations on Saturday, as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal. The Nepali military said a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project, and that he was undergoing a health assessment. Pictures showed him being evacuated… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a2da180d02995e82</guid>
-      <pubDate>Sat, 05 Sep 2026 11:26:30 +0000</pubDate>
-      <category>conflictos</category>
-      <category>ambiente</category>
-      <category>Asia</category>
-      <dc:creator>William Christou</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/356053e87dbc439eb0b994c9d15f52080395bb6b/15_0_1970_1575/master/1970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6cc499c86a59ac3ba051983b6803d9c" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/356053e87dbc439eb0b994c9d15f52080395bb6b/15_0_1970_1575/master/1970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6cc499c86a59ac3ba051983b6803d9c" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>15 reacciones | 🔴EN VIVO🔴 ➡️Fecha 18 Liga Boliviana ➡️Actualidad The Strongest | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1615220823611432/?comment_id=1795657051854647&amp;__cft__%5B0%5D=AZjG2oAoaRkFXB_95v2I3Eq4-v86-Gqg1VKWayS1bRhdmlQbgrmtarr7R0GhVzEbVCwerwgrUNv3E9lm4ahPEFC6BlcMdcGrfQFSPul1_JNtF3r7G8hC84WMlSFdFqLFe-qJrmsKe0Zo6iQPDjBMRzGiaI9nid8RxCWR4lHmfwjpZRJEP7J2IgyI96jjoI1ag_c&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡️Fecha 18 Liga Boliviana ➡️Actualidad The Strongest Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3ba70155339b5196</guid>
-      <pubDate>Sat, 05 Sep 2026 09:12:03 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/796324219_1374861424853166_1860870797853128839_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=4vdcsVKzHeYQ7kNvwEY4i9q&amp;_nc_oc=AdrsSREs4d_U2x0wz4A3g6jx21Ve6ogDmQOb0WmtgO5yNyUW--ZGlOdjuIvqvlWLihE&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=-xziARyb2Q3yD0C501_NqA&amp;_nc_ss=7f289&amp;oh=00_AQIdxu-L_DqbfGSQazJSeHtL1kG5nxDzZCfXY3qTYwaVjg&amp;oe=6AA1B33B" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/796324219_1374861424853166_1860870797853128839_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=4vdcsVKzHeYQ7kNvwEY4i9q&amp;_nc_oc=AdrsSREs4d_U2x0wz4A3g6jx21Ve6ogDmQOb0WmtgO5yNyUW--ZGlOdjuIvqvlWLihE&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=-xziARyb2Q3yD0C501_NqA&amp;_nc_ss=7f289&amp;oh=00_AQIdxu-L_DqbfGSQazJSeHtL1kG5nxDzZCfXY3qTYwaVjg&amp;oe=6AA1B33B" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
