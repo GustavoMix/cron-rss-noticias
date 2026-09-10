@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 10 Sep 2026 00:21:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 04:51:34 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -52,6 +52,19 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/abr22e/article71444282.ece/alternates/LANDSCAPE_1200/2026-09-07T215756Z_1901237136_RC2RXMAGT0F0_RTRMADP_3_NORTHKOREA-RUSSIA-BRIDGE.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/abr22e/article71444282.ece/alternates/LANDSCAPE_1200/2026-09-07T215756Z_1901237136_RC2RXMAGT0F0_RTRMADP_3_NORTHKOREA-RUSSIA-BRIDGE.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry</title>
+      <link>https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o</link>
+      <description>The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan. Publicado también por: Al Jazeera English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ac707fac0ce66220</guid>
+      <pubDate>Thu, 10 Sep 2026 04:08:07 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2bd/live/40eb11a0-acc8-11f1-950e-0d3c5642d8c0.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2bd/live/40eb11a0-acc8-11f1-950e-0d3c5642d8c0.png" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least two people dead after Russian strikes on Kyiv</title>
@@ -110,18 +123,19 @@
       <enclosure url="https://i.guim.co.uk/img/media/02ab90d34f797f0e25c81421ef84944b67018c7f/760_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59d8a57744cc4913de65e6089c954604" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump threatens to ban Canadian Bombardier jets from US market</title>
-      <link>https://www.france24.com/en/americas/20260908-trump-ban-canadian-bombardier-jets-us-market</link>
-      <description>US President Donald Trump threatened on Monday to block sales of Canadian planemaker Bombardier in the United States unless it builds aircraft in the country, escalating trade tensions on the eve of Canadian retaliatory tariffs. Trump accused Canada of “unjust and unfair” trade practices but did not explain how a ban would work. Publicado también por: Sky News - World, BBC News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9b1eb930bb549917</guid>
-      <pubDate>Tue, 08 Sep 2026 02:24:03 +0000</pubDate>
-      <category>economia</category>
+      <title>At Least 5 Dead, More Than 80 Missing After Ferry Fire in the Philippines</title>
+      <link>https://www.nytimes.com/2026/09/09/world/asia/philippines-ferry-fire-palawan.html</link>
+      <description>At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change while they worked to establish what happened. Publicado también por: France 24 - English. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:77cc2e725ccc32a7</guid>
+      <pubDate>Thu, 10 Sep 2026 03:59:34 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
       <category>América del Norte</category>
       <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/b52c323c-a8d2-11f1-b408-005056bf30b7/w:1024/p:16x9/df1693a0777bc72c3a2a93753d6aa72dedc662c0.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/b52c323c-a8d2-11f1-b408-005056bf30b7/w:1024/p:16x9/df1693a0777bc72c3a2a93753d6aa72dedc662c0.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Aie Balagtas See</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/10/multimedia/10int-philippines-ferry-zfjg/10int-philippines-ferry-zfjg-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/10/multimedia/10int-philippines-ferry-zfjg/10int-philippines-ferry-zfjg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Liverpool come back to beat Atletico Madrid 2-1 in Champions League opener</title>
@@ -162,6 +176,19 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://i.guim.co.uk/img/media/827374c1982a01d76595d1308fc5b2a80947ff9f/1155_1221_3275_2619/master/3275.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b816dc842b54368fed436e955828cae" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/827374c1982a01d76595d1308fc5b2a80947ff9f/1155_1221_3275_2619/master/3275.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b816dc842b54368fed436e955828cae" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Apple unveils first-ever foldable iPhone Duo</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/10/apple-unveils-first-ever-foldable-iphone-duo?traffic_source=rss</link>
+      <description>Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded. Publicado también por: Sky News - World, TechCrunch. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5c33591b678443cc</guid>
+      <pubDate>Thu, 10 Sep 2026 02:48:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-iphone-duo-apple_7346568.jpg?20260909221330" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-iphone-duo-apple_7346568.jpg?20260909221330" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Spanish intelligence warned of Ceuta mass crossing plans before surge</title>
@@ -256,18 +283,19 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb0/live/cafbd640-ab88-11f1-b109-879e35c24276.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Canada braces for prolonged trade war as counter-tariffs on US take effect</title>
-      <link>https://www.bbc.co.uk/news/articles/c8jdev0422jo</link>
-      <description>Canada's counter-tariffs on billions of dollars in US products took effect Tuesday, as a trade war between the two countries heated up. Ottawa's pushback comes weeks after US President Donald Trump imposed 50-percent tariffs on a similar value of Canadian products, over what Washington deemed as "discriminatory treatment" against US alcohol, automobile and dairy industries. Publicado también por: France 24 - English. Fuente: BBC News - Business.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0ecdef7fad506d99</guid>
-      <pubDate>Tue, 08 Sep 2026 04:39:14 +0000</pubDate>
-      <category>economia</category>
+      <title>August was hottest month ever recorded globally, scientists say</title>
+      <link>https://www.scmp.com/news/world/article/3366992/august-was-hottest-month-ever-recorded-globally-scientists-say</link>
+      <description>Temperatures reached 1.65C above preindustrial levels, months before El Niño system reaches full strength August was the joint-hottest month ever recorded around the world, with global temperatures reaching 1.65C above preindustrial levels, scientists said on Thursday, amid warnings of further heating on the way. August 2026 tied with July 2023 for the hottest month ever recorded, according to the EU’s Copernicus Climate Change Service. Sea surface temperatures also soared to their highest levels on record for August. Continue reading... Publicado también por: The Guardian - Environment. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:687865fd23e17005</guid>
+      <pubDate>Thu, 10 Sep 2026 03:25:28 +0000</pubDate>
+      <category>ambiente</category>
       <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4970/live/57d86dc0-ab49-11f1-9191-cd98112fd46c.jpg" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <category>Asia</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/10/cee68150-fe02-430a-833e-e7d9b040a3dc_f3a55c79.jpg?itok=oladXZMQ&amp;v=1789010719" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/10/cee68150-fe02-430a-833e-e7d9b040a3dc_f3a55c79.jpg?itok=oladXZMQ&amp;v=1789010719" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US President Donald Trump said on Wednesday that the Iran war will end "immediately" after US midterm elections.... Ver más</title>
@@ -316,6 +344,30 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee9/live/5c9c31a0-0277-11f1-b5e2-dd58fc65f0f6.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tunisian flotilla activists remain jailed as hunger striker worsens</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid0mLK3xhr1HjQSGM9PhQMg6h41BuYESmXizQZ5TMmwYK4uWNYFdNrLM5vWfSeS9xTsl?__cft__%5B0%5D=AZiUyS8bZYOZtC_O7bLujNiR2rm40WLJQzzpPaxQcp1ZukiKuMhk_bcXLJcHjVj3d7hJphRDJYUAvrrsXGpEXCJQ4ORlPATi9uxF_ABK3BjUWswLRgwNoO8tXqCVMgHWoQwUY15wzOfr4T-m9up6Mfnz6Tw8LF2Wh52nfZge6_0P5SRJJRroS7LKahA&amp;__tn__=%2CO%2CP-R</link>
+      <description>The four have been held since March in a financial investigation linked to organisers of the Global Sumud Flotilla. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3352a39a24a5bc9b</guid>
+      <pubDate>Thu, 10 Sep 2026 04:30:38 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/801641401_1697767427990066_4840295666305184611_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=YSmeC0j4-bMQ7kNvwEJbvyT&amp;_nc_oc=AdqG5_URrHCmTiXdQ2ecf-0kf5TLXFT74ZchgNTh2sKKa-34g4MxIbvAa7KXaZkPdyA&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=qfcOh9X9rEAB5oEyZulzhw&amp;_nc_ss=7f289&amp;oh=00_AQKBCNTYlG8OM0uOIgVTWwuBNY0_fxeY_owMwzWxnzI_mg&amp;oe=6AA7F6E5" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/801641401_1697767427990066_4840295666305184611_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=YSmeC0j4-bMQ7kNvwEJbvyT&amp;_nc_oc=AdqG5_URrHCmTiXdQ2ecf-0kf5TLXFT74ZchgNTh2sKKa-34g4MxIbvAa7KXaZkPdyA&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=qfcOh9X9rEAB5oEyZulzhw&amp;_nc_ss=7f289&amp;oh=00_AQKBCNTYlG8OM0uOIgVTWwuBNY0_fxeY_owMwzWxnzI_mg&amp;oe=6AA7F6E5" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Philippines ferry fire kills 5 people, dozens missing</title>
+      <link>https://www.thehindu.com/news/international/philippines-ferry-fire-kills-several-people-and-dozens-missing/article71450134.ece</link>
+      <description>Forty-three people rescued and early death toll stands at five after blaze aboard MV ‌June Aster in waters off Coron, Palawan, says coast guard Five people were confirmed dead ⁠in early counting and ​more than 80 were missing after a ferry caught fire ⁠off Palawan island in the western Philippines on Wednesday night, the Philippine coast ⁠guard said. Forty-three people were ​rescued from the MV ‌June Aster in waters off Coron, Palawan, the coast guard said. Footage showed flames engulfing parts of the vessel and responders placing victims ‌in body bags. Continue reading... Publicado también por: The Guardian - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:087043097a98de9d</guid>
+      <pubDate>Thu, 10 Sep 2026 04:08:07 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/h5rhbh/article71450158.ece/alternates/LANDSCAPE_1200/2026-09-10T024829Z_890149788_RC22GNAP39TS_RTRMADP_3_PHILIPPINES-FERRY.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/h5rhbh/article71450158.ece/alternates/LANDSCAPE_1200/2026-09-10T024829Z_890149788_RC22GNAP39TS_RTRMADP_3_PHILIPPINES-FERRY.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iran war looms over Trump at Republican midterm convention in Dallas</title>
@@ -696,6 +748,16 @@
       <enclosure url="https://i.guim.co.uk/img/media/3666a1ce74d1e19c28b75db6e1c1573cb4409fb5/213_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ede34a542994aa71ffdff514d66fa400" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>At least five people are dead and 86 remain unaccounted for after a fire broke out on a ferry in the Philippines, the country's coastguard says.... Ver más</title>
+      <link>https://www.facebook.com/reel/1989568549114173/?__cft__%5B0%5D=AZj4-cbvkih8YQlANBhWQ5pLdStLzMu123nFEAw0-lxbPZS490VsQksod3EUZvmBP7OM3QqlrYMV2UvttA6CvAqTjPQw6XIg0DhIpnQJomXCDbXADJL8iQTv0bdtlp5T-CtSu2cjJG02Oyrzzxzww_DP2TLDxB9CXUGFlajmJIBGd9aFHmKgjVpMR9L9LG71EYxg&amp;__tn__=%2CO%2CP-R</link>
+      <description>At least five people are dead and 86 remain unaccounted for after a fire broke out on a ferry in the Philippines, the country's coastguard says.... Ver más Tenemos problemas para reproducir este vídeo. Más información Fuente: BBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cc5fda44fa1ed683</guid>
+      <pubDate>Thu, 10 Sep 2026 04:00:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+    </item>
+    <item>
       <title>Hands-on with the new Apple Watch Series 12 and Apple Watch Ultra 4</title>
       <link>https://www.theverge.com/tech/992568/apple-watch-hands-on-series-12-ultra-4</link>
       <description>After Apple wrapped up its "Surprise and shine" event today, we were able to get a look at the new Apple Watch Series 12 and Ultra 4. Both of the new watches launch September 18th, with preorders available starting today. The Apple Watch Series 12 once again starts at $399 for the aluminum case option […] Publicado también por: TechCrunch, Hacker News - Portada. Fuente: The Verge.</description>
@@ -815,33 +877,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f822/live/55e4d820-ab6a-11f1-9712-a14d469bace4.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>North Korea and Russia open first road bridge linking both countries</title>
-      <link>https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo</link>
-      <description>North Korea and Russia opened their first road bridge on Monday in a carefully choreographed display of friendship. The structure, which crosses the Tumen river, has been cast by both sides as an important milestone ‌in their deepening strategic partnership. The first flag-adorned trucks trundled across the 1km (0.6-mile) long two-lane bridge as Russian Prime Minister Mikhail Mishustin and North Korea’s Premier Pak Thae Song tuned in by video link to address workers and government officials from... Publicado también por: South China Morning Post. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0a0b3460a04d4732</guid>
-      <pubDate>Tue, 08 Sep 2026 03:53:27 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trial over alleged murders of Australian surfer brothers starts in Mexico</title>
-      <link>https://www.bbc.co.uk/news/articles/crernpv433vo</link>
-      <description>The suspected murderers of two Australian surfers and an American at a Mexican surfing hotspot went on trial Monday, two years after their killings in a suspected robbery. Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and 30-year-old American friend Jack Carter Rhoad were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state. They had been camping in a remote beachside area when they were attacked in April 2024. Their bodies... Publicado también por: South China Morning Post. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4539c1ce59203694</guid>
-      <pubDate>Tue, 08 Sep 2026 01:32:56 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Oceanía</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e22e/live/e2e67670-c5f1-11f0-9f1e-75cdd6519717.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says</title>
       <link>https://www.cnbc.com/2026/09/09/trump-putin-us-russia-ukraine-war.html</link>
       <description>The weekend diplomacy did not appear to produce an immediate public breakthrough, though it raised the possibility that talks between Russia, Ukraine, and the United States could resume. Publicado también por: The Jerusalem Post - International. Fuente: CNBC - World.</description>
@@ -866,18 +901,28 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
-      <title>Flight recorders recovered from Amazon cargo jet that overran Miami airport runway</title>
-      <link>https://timesofindia.indiatimes.com/world/us/flight-recorders-recovered-from-amazon-cargo-jet-that-overran-miami-airport-runway/articleshow/133902735.cms</link>
-      <description>Investigators with the US National Transportation Safety Board said on Monday they had recovered the flight data recorder and cockpit voice recorder from an Amazon Prime Air cargo plane that overran the runway and crashed while landing in Miami on Sunday, killing five people ‌on the ground. NTSB Chairwoman Jennifer Homendy said the two devices, commonly referred to as the black boxes, were being returned to the agency’s headquarters in Washington on Monday night for evaluation. The 32-year-old... Publicado también por: South China Morning Post. Fuente: The Times of India - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:96ffbe67f8706868</guid>
-      <pubDate>Tue, 08 Sep 2026 01:49:41 +0000</pubDate>
+      <title>4009 reproducciones · 69 reacciones | Unión Europea pone en la mira a Airbnb y Booking ante la crisis de vivienda La Comisión Europea quiere facilitar que las ciudades limiten con mayor dureza los alquileres turísticos de corta duración a través de plataformas como Airbnb y Booking. El objetivo es aliviar la creciente presión sobre el mercado de la vivienda en numerosas ciudades europeas, donde la proliferación de apartamentos turísticos coincide con un fuerte aumento de los alquileres para los residentes. | DW Español</title>
+      <link>https://www.facebook.com/reel/1549250173138545/?comment_id=904709619155990&amp;__cft__%5B0%5D=AZjRj6u-sJgM6RmJI6BHT3Md_pNPUoSlEtcCU8roGUDqMz5DjRw55Wwxu1FHmG7LK7-IS5apirS3ji4qWlZFdF0F56RuKYybihAid9dBpNOwpMVCzVmZpneQP0lNo9uosG-w5PIJStZGFV0CpZVkhetCFpGgCJKv3v9qu3aFW4iza2NqhG5RDi3Viwtc7pY6NRR9&amp;__tn__=R-R</link>
+      <description>Unión Europea pone en la mira a Airbnb y Booking ante la crisis de vivienda La Comisión Europea quiere facilitar que las ciudades limiten con mayor dureza los alquileres turísticos de corta duración... Unión Europea pone en la mira a Airbnb y Booking ante la crisis de vivienda La Comisión Europea quiere facilitar que las ciudades limiten con mayor... Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8f31266f8166406d</guid>
+      <pubDate>Thu, 10 Sep 2026 04:51:34 +0000</pubDate>
       <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/801581299_1390358186537146_1478756504186195200_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=gmk3WWRAw1MQ7kNvwGF-osZ&amp;_nc_oc=AdqPzUgJVgZC0WFnFH6ot58poqfIMyjJ9urI7PlobPdaKw9FwVthvaAml20HoXcRa9A&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=jnSlAv8RX6879hH5A0JO5A&amp;_nc_ss=7f289&amp;oh=00_AQK2G1bKS2VPhNg6UWTK0BOzHAQJ_lYg8EFPGpjsZ35ing&amp;oe=6AA80444" medium="image" />
+      <enclosure url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/801581299_1390358186537146_1478756504186195200_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=gmk3WWRAw1MQ7kNvwGF-osZ&amp;_nc_oc=AdqPzUgJVgZC0WFnFH6ot58poqfIMyjJ9urI7PlobPdaKw9FwVthvaAml20HoXcRa9A&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=jnSlAv8RX6879hH5A0JO5A&amp;_nc_ss=7f289&amp;oh=00_AQK2G1bKS2VPhNg6UWTK0BOzHAQJ_lYg8EFPGpjsZ35ing&amp;oe=6AA80444" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>It’s nothing but net for “Saturday Night Live” later this month as the show announced that New York’s own Jalen Brunson will be the first host for the show’s 52nd season.</title>
+      <link>https://www.facebook.com/NBCNews/posts/pfbid02urhrSxdab4QFHpyfnZWj8k3uZEAPHqqHGyWgkPeeEsBkS7SUZrKcNHjrgEaMnNQtl?__cft__%5B0%5D=AZhieNh66OJtIlN0vYVKNv_gD_mRoAxVivD9AJrmmy5KnGHV8UsoKxyvH7Bo0PiKOF-BlgdDfioAMCOJ9B-dbR69N0NfDRcd_9MPZ3CpLqx9V-jyTKBJKf1tK1siKNrKCGYw2iQLV2shxJNe8oRO9ucmYs7O5HvfUTg-CL3rGgiifKotMgsswvCblu8&amp;__tn__=%2CO%2CP-R</link>
+      <description>It’s nothing but net for “Saturday Night Live” later this month as the show announced that New York’s own Jalen Brunson will be the first host for the show’s 52nd season. NBCNEWS.COM Jalen Brunson to host ‘SNL’ season 52 premiere hot off of Knicks championship Fuente: NBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:599446dc0dde71f7</guid>
+      <pubDate>Thu, 10 Sep 2026 04:00:27 +0000</pubDate>
+      <category>deportes</category>
       <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Karan Manral</dc:creator>
-      <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
-      <media:content url="https://static.toiimg.com/photo/msid-133903206,imgsize-91758.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-133903206,imgsize-91758.cms" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/832964700458151284?url=https%3A%2F%2Fimage.trueanthem.com%2F5AcrkH2fE4IN1vMSE3MgMoy3PZnxVGSmeV13agbvSXE%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDYvMjYwNjE0LWphbGVuLWJydW5zb24tdmwtMTAyOWEtYWJjYjM4LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=6TCbz19keWfFgGZMxHGKsQ&amp;_nc_zt=3&amp;oh=06_Q3_DAa4DVB3dybYJ7jv4Nhl4O5rnPDpKwseM4_x1lnW1raeZ&amp;oe=6AA3FCD0" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/832964700458151284?url=https%3A%2F%2Fimage.trueanthem.com%2F5AcrkH2fE4IN1vMSE3MgMoy3PZnxVGSmeV13agbvSXE%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMDYvMjYwNjE0LWphbGVuLWJydW5zb24tdmwtMTAyOWEtYWJjYjM4LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=6TCbz19keWfFgGZMxHGKsQ&amp;_nc_zt=3&amp;oh=06_Q3_DAa4DVB3dybYJ7jv4Nhl4O5rnPDpKwseM4_x1lnW1raeZ&amp;oe=6AA3FCD0" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1350 reproducciones · 33 reacciones | 🔴EN VIVO�� #CopaPaceña #UniversitarioDeVinto 🆚 #TheStrongest | ATB Digital</title>
@@ -1514,60 +1559,6 @@
       <source url="https://www.facebook.com/todonoticias/">TN - Todo Noticias</source>
       <media:content url="https://scontent-qro1-2.xx.fbcdn.net/v/t39.99422-6/800826258_1448970007049234_5868206107113186092_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=ku66NJU5gncQ7kNvwGWX2H5&amp;_nc_oc=AdoMsvjij4T1Fwj1zf4H8GT-8UK2mDbiSoeXdKizOgj9n4T2wKcfO6oTGnOjBqw5Maw&amp;_nc_zt=14&amp;_nc_ht=scontent-qro1-2.xx&amp;_nc_gid=RUQXWUR-Ip6-j1oo3_49fQ&amp;_nc_ss=7f289&amp;oh=00_AQJbqyavNf0BS-vFnEj-GiCNQSoZ8seErxcRm1qyD4DniQ&amp;oe=6AA5D5CD" medium="image" />
       <enclosure url="https://scontent-qro1-2.xx.fbcdn.net/v/t39.99422-6/800826258_1448970007049234_5868206107113186092_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=ku66NJU5gncQ7kNvwGWX2H5&amp;_nc_oc=AdoMsvjij4T1Fwj1zf4H8GT-8UK2mDbiSoeXdKizOgj9n4T2wKcfO6oTGnOjBqw5Maw&amp;_nc_zt=14&amp;_nc_ht=scontent-qro1-2.xx&amp;_nc_gid=RUQXWUR-Ip6-j1oo3_49fQ&amp;_nc_ss=7f289&amp;oh=00_AQJbqyavNf0BS-vFnEj-GiCNQSoZ8seErxcRm1qyD4DniQ&amp;oe=6AA5D5CD" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1229 reproducciones · 18 reacciones | 🔴EN VIVO🔴 ➡Always Ready venció a Oriente Petrolero en Santa Cruz ➡Bolívar goleó a Independiente en Sucre ➡The Strongest ganó sin problomas a Real Tomayapo | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1047738211396657/?comment_id=1620687559555788&amp;__cft__%5B0%5D=AZj0KOCmNxUn2fBsA7se110UZO9lDlJDPwwOc0OZ-wr9rHMa4lj7EUF81BAzBQjcz8rNQT0ceckWin3HBj_4JTf9rqQfB-8O-sbfgpI4gg-nvtpuIlWVRkD_XR5roB-c07Y_s5Nbq0rtrLk8uXqlS1ZHg7-h7-QZs4tjn8Brc6PQhmSqioidDaccRwlKNu611OA&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡Always Ready venció a Oriente Petrolero en Santa Cruz ➡Bolívar goleó a Independiente en Sucre ➡The Strongest ganó sin problomas a Real Tomayapo Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d313237697a57761</guid>
-      <pubDate>Tue, 08 Sep 2026 11:25:49 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/799333604_2368272587349907_6193509379884323177_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=chCTZCRRyWoQ7kNvwEMI0eg&amp;_nc_oc=Adrr2n4UZNen-So71cdCBBBTI4xmYYRcJ9s83wUSV6czkPE_clVnh3SJOMYy92Jj0pw&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=CU2hNbDkk6ZMj2sAIAbW8A&amp;_nc_ss=7f289&amp;oh=00_AQIUYMkz3okDKvT8h336TWlyTNqAzHKf63S4QrvoEFOhXQ&amp;oe=6AA5AA1C" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/799333604_2368272587349907_6193509379884323177_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=chCTZCRRyWoQ7kNvwEMI0eg&amp;_nc_oc=Adrr2n4UZNen-So71cdCBBBTI4xmYYRcJ9s83wUSV6czkPE_clVnh3SJOMYy92Jj0pw&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=CU2hNbDkk6ZMj2sAIAbW8A&amp;_nc_ss=7f289&amp;oh=00_AQIUYMkz3okDKvT8h336TWlyTNqAzHKf63S4QrvoEFOhXQ&amp;oe=6AA5AA1C" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>#AbelardodelaEspriella cumple su primer mes en la presidencia de Colombia con un balance marcado por la ofensiva contra el crimen, la gestión de la emergencia tras e... Ver más</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02p3MXXgcf1qAxVwcFFRUFEH2t2YB6s47R4yH6CqtLw7RdY4EzRZm9mRak2sWdWUxzl?__cft__%5B0%5D=AZgeAl_tXZcyk59g_E_kHAdXB2cPgduZDEpQlb6QOfYxHAQGIO3i8j0rDFn9oZcoidTvS04_DVPFD5-MaP10z8AK3DocckZhZb_rRZUlYuajbvLRMja-G6G1_yvtax1n0kFhG9JXPSVtl00NKSfz9p7NiZ4ph80DCD7OGgcQ-DmjmKYkFBR5FVNgS-A&amp;__tn__=%2CO%2CP-R</link>
-      <description>#AbelardodelaEspriella cumple su primer mes en la presidencia de Colombia con un balance marcado por la ofensiva contra el crimen, la gestión de la emergencia tras e... Ver más Ayúdame Trump no se que hacer. FRANCE24.COM ¿Cuál es el balance del primer mes de Abelardo de la Espriella en el poder? Ver más comentarios Jaime Martinez Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f8ed33b7d485e60b</guid>
-      <pubDate>Tue, 08 Sep 2026 11:15:53 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://external-fra3-1.xx.fbcdn.net/emg1/v/t13/2813151233895727806?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F2bdb1951e361a52803cc4ba840eb77ee.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-fra3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=XDV_907V1D9ykXUSOLRKkw&amp;_nc_zt=3&amp;oh=06_Q3_DAfPJ69l-WC7DtnhiOAjor9IunhI6eLjqfh1FINPPz7p4&amp;oe=6AA1E2CE" medium="image" />
-      <enclosure url="https://external-fra3-1.xx.fbcdn.net/emg1/v/t13/2813151233895727806?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F2bdb1951e361a52803cc4ba840eb77ee.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-fra3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=XDV_907V1D9ykXUSOLRKkw&amp;_nc_zt=3&amp;oh=06_Q3_DAfPJ69l-WC7DtnhiOAjor9IunhI6eLjqfh1FINPPz7p4&amp;oe=6AA1E2CE" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BREAKING: In a joint media briefing between Russia and Saudi Arabia, Lavrov says Yemen's Houthis attacks on Saudi Arabia will lead to 'counterproductive results,' and w... Ver más</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02ixbZLgawLw1DauaGwTNEzJ5qoZ3JRbk8vkYD7te3rTJxvWfar64zVuLKHZHL5REcl?__cft__%5B0%5D=AZjBSF-GaPUFl-O3JzCC6LPZ10XmHjDNLrx9wDIl7z5lzMQ-K4_p-Zux1SHUlUsImjeHnl2n39Hym5qvUs2qfQPmU8LHkmZchv0hnDwUFIbQJTmN7cHeCRhyDAm4n9xpYP3Vn78aM47aCWOT3uFBbEQULrqe652Psqht0qXxv_37zXB4ZBdhveC3nWk&amp;__tn__=%2CO%2CP-R</link>
-      <description>BREAKING: In a joint media briefing between Russia and Saudi Arabia, Lavrov says Yemen's Houthis attacks on Saudi Arabia will lead to 'counterproductive results,' and w... Ver más But can speaking alone achieve anything? Ver más comentarios Hezekiah Chipeta Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e61397bab8aecf12</guid>
-      <pubDate>Tue, 08 Sep 2026 11:03:13 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.99422-6/799441894_909519995569868_3054522491568683531_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=v6lhHWUG4mgQ7kNvwFKgeth&amp;_nc_oc=Adq7vwzOgEn13C2UsenrtHUosOR5PSU2cpzeN5_u0yJay5Nb6rblbaXGfWCS8SckWjo&amp;_nc_zt=14&amp;_nc_ht=scontent-hkg1-2.xx&amp;_nc_gid=xDmTTVWXeloHgwWtfINFcA&amp;_nc_ss=7f289&amp;oh=00_AQJeDt819DHQfFgmdin5mNDHGHg8eMTJmZoOteM1DjTKHA&amp;oe=6AA5A700" medium="image" />
-      <enclosure url="https://scontent-hkg1-2.xx.fbcdn.net/v/t39.99422-6/799441894_909519995569868_3054522491568683531_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=v6lhHWUG4mgQ7kNvwFKgeth&amp;_nc_oc=Adq7vwzOgEn13C2UsenrtHUosOR5PSU2cpzeN5_u0yJay5Nb6rblbaXGfWCS8SckWjo&amp;_nc_zt=14&amp;_nc_ht=scontent-hkg1-2.xx&amp;_nc_gid=xDmTTVWXeloHgwWtfINFcA&amp;_nc_ss=7f289&amp;oh=00_AQJeDt819DHQfFgmdin5mNDHGHg8eMTJmZoOteM1DjTKHA&amp;oe=6AA5A700" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June – business live</title>
-      <link>https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates</link>
-      <description>National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused hundreds of cancellations Air traffic control issue causes flight delays and disruption across UK Gas prices are rising this morning, putting pressure on European countries who need to stock up their storage levels before the winter. The month-ahead UK gas price is up around 1% at 184p a therm, close to yesterday’s highs when gas hit its highest since January 2023. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:14e32851186204a7</guid>
-      <pubDate>Tue, 08 Sep 2026 10:56:41 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Graeme Wearden</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/2c0836706d402af0447b88a5734f55a15bf9f64e/336_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=869a35b79d2943e726120795b198e0d7" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/2c0836706d402af0447b88a5734f55a15bf9f64e/336_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=869a35b79d2943e726120795b198e0d7" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
