@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 15 Sep 2026 07:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:40:22 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,6 +23,21 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60cb/live/50a3bc50-af48-11f1-a126-479114b35332.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60cb/live/50a3bc50-af48-11f1-a126-479114b35332.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>U.S. confirms for first time it has weapons deployed in space</title>
+      <link>https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html</link>
+      <description>The US Space Force on Monday confirmed for the first time that Washington has weapons deployed in orbit, as the United States, China and Russia expand their military capabilities in space. The disclosure highlights a growing focus on controlling the space domain and protecting satellites vital to military communications, surveillance and navigation. Publicado también por: BBC News - World, Hacker News - Portada, Ars Technica, France 24 - English. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:54a1927a3f648826</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:00 +0000</pubDate>
+      <category>conflictos</category>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b47/live/b32fd7a0-b0f1-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b47/live/b32fd7a0-b0f1-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Death toll from Philippine ferry fire rises to 76</title>
@@ -51,20 +66,6 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/2026/09/13/04/2273218903..?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/09/13/04/2273218903..?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>“BRICS leaders meet in India as U.S. wars and U.S. tensions test the alliance”</title>
-      <link>https://www.facebook.com/NPR/posts/pfbid02LZysawEMJRiBGTnU9asGqydjUceZ773PGcvdiddBMq8RzXNqhzTRAPSJChmR5CW9l?comment_id=1119549674074784&amp;__cft__%5B0%5D=AZinA2Vh_EMRCJ7wIk4WajeMFk8yMt6qcEElwxPEL6ViNm45MHipFRmPhjUUypkQ3HrftGXV7IR95uWVX5tQoyzjwJ17klw4J-D5wOgO6Ab8XlrOrDSw3Ty786bJvklVZT9PulYmStHz6QlLWRwtzQGnlXU1VZsGADm26RGf7CV7xX0IhL4hvmK9m_4&amp;__tn__=R-R</link>
-      <description>Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment and global conflicts, as the bloc seeks a bigger role in shaping the global agenda for emerging and developing countries. Our correspondent Navodita Kumari tells us more. Publicado también por: France 24 - English, NPR - World, The Hindu - International, The Independent - World. Fuente: NPR.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e6110c0cbbb854d4</guid>
-      <pubDate>Sat, 12 Sep 2026 22:29:25 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/NPR/">NPR</source>
-      <media:content url="https://s.france24.com/media/display/2290711c-ae8c-11f1-b001-005056a97e36/w:1024/p:16x9/EN-20260912-110058-110409-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/2290711c-ae8c-11f1-b001-005056a97e36/w:1024/p:16x9/EN-20260912-110058-110409-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Indonesia races to find 129 missing after Java Sea ferry capsizes</title>
@@ -96,18 +97,34 @@
       <enclosure url="https://static.toiimg.com/photo/msid-134167983,imgsize-99018.cms" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Death toll from Philippine ferry fire rises to 76</title>
-      <link>https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss</link>
-      <description>The deadly fire had begun in the ferry’s cargo hold, then tore through the ship within seconds The bodies of passengers killed in a ferry fire off the Philippines arrived at a port near the resort town of Coron, Palawan, on Saturday morning, as the country’s coast guard warned the death toll of 35 would grow. Tents were being set up to receive 30 bodies brought from the M/V June Aster, which ran aground near the tourist hotspot after a fire erupted on Wednesday evening and tore through the vessel “in seconds”. Continue reading... Publicado también por: The New York Times - World, BBC News - World, The Hindu - International, The Guardian - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ecb604751efe1cd9</guid>
-      <pubDate>Sat, 12 Sep 2026 23:50:03 +0000</pubDate>
+      <title>Supreme Court blocks Trump's plan to restrict mail-in ballots</title>
+      <link>https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo</link>
+      <description>The US Supreme Court on Monday rejected President Donald Trump’s bid to impose new restrictions on mail ballots ahead of November’s midterm elections. The ruling leaves states free to continue using existing voting procedures, after election officials warned the last-minute changes could disrupt ballot distribution. Publicado también por: France 24 - English, The Hindu - International. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:99452fef53953bd4</guid>
+      <pubDate>Tue, 15 Sep 2026 11:49:33 +0000</pubDate>
+      <category>politica</category>
       <category>conflictos</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
       <category>América del Norte</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/12/multimedia/12int-philippines-ferry-fcbq/12int-philippines-ferry-fcbq-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/12/multimedia/12int-philippines-ferry-fcbq/12int-philippines-ferry-fcbq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10bf/live/6758e8d0-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Denmark says Russian frigate fired flares at helicopter</title>
+      <link>https://www.scmp.com/news/world/europe/article/3367621/denmark-says-russian-frigate-fired-flares-helicopter</link>
+      <description>Denmark and Russia were at a war of words on Tuesday after Danish authorities accused a Russian frigate of firing flares at a Danish military helicopter. The armed forces said in a statement late on Monday that “one of the air force’s Fennec helicopters was today fired at with flares during a routine photographic operation of a Russian frigate, which was located in international waters off Gedser”, Denmark’s southernmost town. The frigate had fired “two flares towards the helicopter. One of the... Publicado también por: BBC News - World, The New York Times - World. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5d50d507a572854c</guid>
+      <pubDate>Tue, 15 Sep 2026 11:49:23 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/15/baa7e442-8701-4269-a4ee-340619920579_a19d698c.jpg?itok=kYi15lVb&amp;v=1789472951" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/15/baa7e442-8701-4269-a4ee-340619920579_a19d698c.jpg?itok=kYi15lVb&amp;v=1789472951" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido</title>
@@ -134,6 +151,20 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/2026/09/13/20/Wisconsin_Emergency_Plane_Landing_58577.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/09/13/20/Wisconsin_Emergency_Plane_Landing_58577.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UN OLIGARCA RUSO CERCANO A PUTIN FINANCIÓ LA BODA DE DONALD TRUMP JR.... Ver más</title>
+      <link>https://www.facebook.com/clarincom/posts/pfbid02DXY7du5eZEfVbcRk6a3DtBioT2ugSijWp6EymkV4qpEzhpPAwhPwyYAfULxeKZdCl?__cft__%5B0%5D=AZj2ciXM2DrHFZIHb06-gu3dtfu-pWUrNvUFnYqa54DVPvf18d3SsII-FcmlaBUtP3mHgKLolk9-zkevOvupHQUIY6Fh_jLKCk7SV_kBjR0JxjrFYIyZZqaNeHteSJxdEvl8IAHYzdagHCmBkFHODKMemAWePyXxWua1_Nxkt5Nu1XRC6uvdB8PfglA&amp;__tn__=%2CO%2CP-R</link>
+      <description>Se trata de Umar Kremlev, quien pagó cientos de miles de dólares en gastos relacionados con el casamiento entre Donald Trump Jr. y la modelo Bettina Anderson, celebrado el pasado 24 de mayo. Lo reveló el portal ProPublica según documentos revisados por el medio de investigación y entrevistas con tres personas familiarizadas con los hechos. Publicado también por: France 24 - Español, Clarín - Mundo. Fuente: Clarín.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b1ec56a450f751f3</guid>
+      <pubDate>Tue, 15 Sep 2026 13:32:41 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/clarincom/">Clarín</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/811340361_3013993268946829_578933867308149033_n.png?stp=dst-jpg_tt6&amp;cstp=mx680x489&amp;ctp=s680x489&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Te2vw_ZF2I8Q7kNvwFprAgE&amp;_nc_oc=AdpmUy6jYnnSB3stV0jwTO9WcUAXQ-1fteHQC70s1EA8mS_3L3cBzbWbc-xkYyDbV-s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=_C78JBnQxZ24__BIbPt_hQ&amp;_nc_ss=7f289&amp;oh=00_AQJH1VThDl-2bss879f7pMrdS_2Jt2gPosyuIwhu0tbHrw&amp;oe=6AAF2ACE" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/811340361_3013993268946829_578933867308149033_n.png?stp=dst-jpg_tt6&amp;cstp=mx680x489&amp;ctp=s680x489&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Te2vw_ZF2I8Q7kNvwFprAgE&amp;_nc_oc=AdpmUy6jYnnSB3stV0jwTO9WcUAXQ-1fteHQC70s1EA8mS_3L3cBzbWbc-xkYyDbV-s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=_C78JBnQxZ24__BIbPt_hQ&amp;_nc_ss=7f289&amp;oh=00_AQJH1VThDl-2bss879f7pMrdS_2Jt2gPosyuIwhu0tbHrw&amp;oe=6AAF2ACE" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Macklemore dropped from Ed Sheeran US tour after pro-Palestinian remarks</title>
@@ -313,27 +344,26 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
     </item>
     <item>
-      <title>Anthropic boss calls for AI slowdown, Altman and Musk agree</title>
-      <link>https://www.abc.net.au/news/2026-09-13/anthropic-ceo-calls-for-slower-ai-development/107147650</link>
-      <description>Anthropic CEO Dario Amodei on Saturday called on artificial intelligence firms to slow down the development of the powerful technology, amid mounting worries over the risks of “superintelligent” computer systems. His comments came a few days after AI researcher Jacob Coxon, who left OpenAI to join Anthropic, decided to leave the industry, accusing both US companies of “gambling with our lives” in the race to develop models capable of self-improvement. OpenAI boss Sam Altman and Elon Musk, who... Publicado también por: South China Morning Post, France 24 - English. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d018781b1f667082</guid>
-      <pubDate>Sat, 12 Sep 2026 20:23:08 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Oceanía</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/55f19b06a28306fc3954eab567309c39?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/55f19b06a28306fc3954eab567309c39?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=120&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+      <title>Suspected sabotage causes major Netherlands rail disruption</title>
+      <link>https://www.bbc.co.uk/news/articles/c8ly49w9g1edo</link>
+      <description>Article URL: https://www.bbc.com/news/articles/c8ly49w9g1edo Comments URL: https://news.ycombinator.com/item?id=49710253 Points: 246 # Comments: 235 Publicado también por: Hacker News - Portada. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:191f31e6821d0abf</guid>
+      <pubDate>Tue, 15 Sep 2026 12:32:30 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda4/live/dbe5e120-b0de-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Nato jets down drone that entered Lithuanian airspace</title>
       <link>https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo</link>
-      <description>The drone, which reportedly entered from Belarus, ⁠was shot down near Pratkunai village in central-southern Lithuania Nato fighter jets shot down a drone over Lithuania after an alert was issued in the ‌capital, Vilnius, and surrounding region, while Poland scrambled fighter jets less than a day after retrieving a suspected Russian drone adrift in its waters. The Lithuania drone ⁠was shot down near the central-southern village of Pratkunai outside the city of Kaunas, said emergency authorities early on Tuesday. The drone came from neighbouring Belarus and was heading west, according to… Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
+      <description>The drone, which reportedly entered from Belarus, ⁠was shot down near Pratkunai village in central-southern Lithuania Nato fighter jets shot down a drone over Lithuania after an alert was issued in the ‌capital, Vilnius, and surrounding region, while Poland scrambled fighter jets less than a day after retrieving a suspected Russian drone adrift in its waters. The Lithuania drone ⁠was shot down near the central-southern village of Pratkunai outside the city of Kaunas, said emergency authorities early on Tuesday. The drone came from neighbouring Belarus and was heading west, according to… Publicado también por: The Guardian - World, NPR - World. Fuente: BBC News - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:d54b8ab8b16251b9</guid>
       <pubDate>Tue, 15 Sep 2026 06:29:17 +0000</pubDate>
       <category>conflictos</category>
       <category>Europa</category>
+      <category>América del Norte</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg" type="image/jpeg" length="0" />
@@ -412,19 +442,6 @@
       <source url="https://www.facebook.com/cnn/">CNN</source>
       <media:content url="https://external-sin6-2.xx.fbcdn.net/emg1/v/t13/801561952276640811?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F7f3f%2Flive%2Fb16a3260-aefa-11f1-bc1f-3f186ca4140c.jpg&amp;fb_obo=1&amp;utld=bbci.co.uk&amp;_nc_sid=e17101&amp;_nc_ht=external-sin6-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zaN8aIIfjhtDp_MdoTCUyw&amp;_nc_zt=3&amp;oh=06_Q3_DAaxZH06uOr_PTRpO63TP6aYsGCOa5Cv9OV2FCHuRGE1L&amp;oe=6AA871F9" medium="image" />
       <enclosure url="https://external-sin6-2.xx.fbcdn.net/emg1/v/t13/801561952276640811?url=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fbranded_news%2F1200%2Fcpsprodpb%2F7f3f%2Flive%2Fb16a3260-aefa-11f1-bc1f-3f186ca4140c.jpg&amp;fb_obo=1&amp;utld=bbci.co.uk&amp;_nc_sid=e17101&amp;_nc_ht=external-sin6-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zaN8aIIfjhtDp_MdoTCUyw&amp;_nc_zt=3&amp;oh=06_Q3_DAaxZH06uOr_PTRpO63TP6aYsGCOa5Cv9OV2FCHuRGE1L&amp;oe=6AA871F9" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fire at nursing home in Chile kills 16 elderly residents</title>
-      <link>https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss</link>
-      <description>The facility had faced fines and enforcement proceedings over regulatory violations since 2019. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:883b2369ec957d68</guid>
-      <pubDate>Sat, 12 Sep 2026 20:42:23 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least two killed and tents destroyed in Israeli strikes on Gaza camps</title>
@@ -512,6 +529,18 @@
       <enclosure url="https://i.guim.co.uk/img/media/cda14f773a1cbac9797abd59e3b1aeaba88aae4b/314_0_3726_2981/master/3726.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab5b1c541535c797a8a6c5dfb95e441d" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>‘Super El Niño’ deepens hunger crisis in South Sudan – WFP</title>
+      <link>https://news.un.org/feed/view/en/story/2026/09/1168334</link>
+      <description>The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday. Fuente: UN News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0561ed1d3e4b756d</guid>
+      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
+      <category>conflictos</category>
+      <category>África</category>
+      <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml">UN News</source>
+      <media:content url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/14-09-2026_UNICEF_South_Sudan_Jonglei_2.jpg/image560x340cropped.jpg" medium="image" />
+      <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/14-09-2026_UNICEF_South_Sudan_Jonglei_2.jpg/image560x340cropped.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>U.S. has weapons deployed in orbit, Space Force says</title>
       <link>https://www.thehindu.com/news/international/us-has-weapons-deployed-in-orbit-space-force-says/article71466592.ece</link>
       <description>The United States has weapons deployed in space, the US Space Force said on Monday, confirming the presence of such capabilities in orbit for the first time. “The US has on-orbit space control weapons capable of defending the Joint Force against hostile adversary action,” a US Space Force spokesperson said in a statement that did not provide specifics on the weapons. “Space control encapsulates the mission areas required to contest and control the space domain – employing kinetic and non-kinetic... Publicado también por: Euronews, South China Morning Post. Fuente: The Hindu - International.</description>
@@ -562,6 +591,46 @@
       <source url="https://www.facebook.com/APNews/">The Associated Press</source>
       <media:content url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/78284067656332932?url=https%3A%2F%2Fimage.trueanthem.com%2F9OzKwFenhraVetX9gbZIvSYUPKfPjOgHOdiCTkb51PA%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9mNzQ0OTNmLzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzMzMzR4MjIyMiswKzEvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGN2QlMkY0YyUyRmI3N2E0ZTdhNzNlY2JiZTQ5Nzk4ZGZlZmUxMGYlMkZjZDVmOTA2Zjk0ZmE0NDMxOTBmZDQ0OWU5MTMzNTQ5ZA.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=y0p6v3lfTp6KEcHbMPJNzg&amp;_nc_zt=3&amp;oh=06_Q3_DAa_DvcmBSk6Rh1MeQYnsl4ZtkcurQQesqJfzgfl8skyL&amp;oe=6AA8BF5E" medium="image" />
       <enclosure url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/78284067656332932?url=https%3A%2F%2Fimage.trueanthem.com%2F9OzKwFenhraVetX9gbZIvSYUPKfPjOgHOdiCTkb51PA%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9mNzQ0OTNmLzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzMzMzR4MjIyMiswKzEvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGN2QlMkY0YyUyRmI3N2E0ZTdhNzNlY2JiZTQ5Nzk4ZGZlZmUxMGYlMkZjZDVmOTA2Zjk0ZmE0NDMxOTBmZDQ0OWU5MTMzNTQ5ZA.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=y0p6v3lfTp6KEcHbMPJNzg&amp;_nc_zt=3&amp;oh=06_Q3_DAa_DvcmBSk6Rh1MeQYnsl4ZtkcurQQesqJfzgfl8skyL&amp;oe=6AA8BF5E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Coalition talks likely as no party dominates Philippines’ Bangsamoro region</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02UDA6kJWBystxQtn2MjGbtyckhkUWkBx3yms8wBM429a5Ly4MxqMEvVz4TxhiTWiPl?__cft__%5B0%5D=AZhMmo62DGCuJLc22EEnU5FUgGiaRmecTaBptKATQZzXcfhjLQ6TBkUZR6o7OdaYqkzvTfIJaDULeNYuWRVL7GrSok1zQUwr7O4HwKaKO_YknnvzIn5FhcY9iqyVmeQh75QFpVxrtnY4wqJn0Vo6DROzy1R1pjDAAJ0xaQhoSlthU9UyQWdBTnsNEdA&amp;__tn__=%2CO%2CP-R</link>
+      <description>With 98.56 percent of party-list votes counted, no party has received a majority, according to unofficial results. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0dee50ca7a3f4aad</guid>
+      <pubDate>Tue, 15 Sep 2026 13:30:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/811170223_1463186492527466_2142531799090311623_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=23piceXQouAQ7kNvwGZtWNg&amp;_nc_oc=AdoO3bfcS4L-qSAC8cuSl5d15Y8ntBRoZcgZtIOjiGVQZJ-pMq1Dlit5kucZ1vSN-RE&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=ymzQo32ItRJfLElRjOjBvg&amp;_nc_ss=7f289&amp;oh=00_AQIvk9rogLYQukrEhnopGe5cAgyUsDwhj7aYSUBmtuKpog&amp;oe=6AAF3564" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/811170223_1463186492527466_2142531799090311623_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=23piceXQouAQ7kNvwGZtWNg&amp;_nc_oc=AdoO3bfcS4L-qSAC8cuSl5d15Y8ntBRoZcgZtIOjiGVQZJ-pMq1Dlit5kucZ1vSN-RE&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=ymzQo32ItRJfLElRjOjBvg&amp;_nc_ss=7f289&amp;oh=00_AQIvk9rogLYQukrEhnopGe5cAgyUsDwhj7aYSUBmtuKpog&amp;oe=6AAF3564" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>London loses bid to host 2029 World Athletics as Nairobi named host</title>
+      <link>https://www.bbc.co.uk/sport/athletics/articles/crwyzvyn0p3go</link>
+      <description>London has lost to Nairobi in its bid to host the World Athletics Championships in 2029, while the 2031 event will be held in Munich. Publicado también por: Al Jazeera English. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3be04b8741ce2e46</guid>
+      <pubDate>Tue, 15 Sep 2026 12:39:22 +0000</pubDate>
+      <category>deportes</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c14f/live/72c190c0-b0ea-11f1-8d94-cf0ec84c39cd.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c14f/live/72c190c0-b0ea-11f1-8d94-cf0ec84c39cd.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zelenskyy says Ukraine will pause attacks if Russia spares infrastructure</title>
+      <link>https://www.aljazeera.com/news/2026/9/15/zelenskyy-says-ukraine-will-pause-attacks-if-russia-spares-infrastructure?traffic_source=rss</link>
+      <description>Zelenskyy insists de-escalation depends on US ensuring Russia's genuine readiness to stop war and attacks on Ukraine. Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:317c885f2e88596c</guid>
+      <pubDate>Tue, 15 Sep 2026 11:54:37 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/4hl3iu/article71466385.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_US_63144.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/4hl3iu/article71466385.ece/alternates/LANDSCAPE_1200/Russia_Ukraine_War_US_63144.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Conservation ‘gateway drug’: farmers embrace ancient craft of hedge laying</title>
@@ -897,45 +966,6 @@
       <enclosure url="https://i.guim.co.uk/img/media/298bc90caaeb6b36a43d571cfccee6292dcaa560/662_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=826cc5a9dd521ac03c0cdba4b5815f9b" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Tens of thousands march across Germany to protest far-right party AfD</title>
-      <link>https://www.aljazeera.com/news/2026/9/12/tens-of-thousands-march-across-germany-to-protest-far-right-party-afd?traffic_source=rss</link>
-      <description>About 150,000 demonstrators took to the streets in around 20 cities across Germany on Saturday against the far-right AfD, after the party scored a crushing victory in a state election last week. The Alternative for Germany (AfD) topped the vote in the eastern region of Saxony-Anhalt, and is now seeking to form the first extreme-right state government in Germany since World War II. Publicado también por: France 24 - English. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ec384f3f81979eeb</guid>
-      <pubDate>Sat, 12 Sep 2026 22:37:03 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://s.france24.com/media/display/83bf7692-aecb-11f1-b02e-005056a97e36/w:1024/p:16x9/000-C84J6TY.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/83bf7692-aecb-11f1-b02e-005056a97e36/w:1024/p:16x9/000-C84J6TY.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>23 reacciones · 8 comentarios | Segunda jornada de la Entrada de la Virgen de Guadalupe 2026 en la ciudad de Sucre, Bolivia. | El Potosí</title>
-      <link>https://www.facebook.com/elpotosi.noticias/videos/2167692767426000/?comment_id=2349602222522635&amp;__cft__%5B0%5D=AZi8ShWbX1It5Dag8NnQzaEWRSakmqi09uQg0TRqVimEnXER-D2bdDuqkqwf6-aRNqph0B8yApuw0YVrPl1COg3Dw5Qbr5e6WydFOHItQuKyxcwfTcLwttDjQoq_U1gfo2pXHJxTFt1eBNy3854XMmODWY-yCGNtrAtcUOWTeY6iGODkEoE0s6-ntp_Oyf2HoHg&amp;__tn__=R%5D-R</link>
-      <description>Segunda jornada de la Entrada de la Virgen de Guadalupe 2026 en la ciudad de Sucre, Bolivia. Send Stars to show your support! Los tobas domingo Savio? Sigan adelante los del Correios del Sur Que lindoooo Nuestra ciudad Saludos desde Brasil 1ra.versión, de la Festividad de la Virgen de Guadalupe, declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Tenemos problemas para… Publicado también por: Correo del Sur. Fuente: El Potosí.</description>
-      <guid isPermaLink="false">cron-rss-noticias:50dde3c5a82d9de6</guid>
-      <pubDate>Sat, 12 Sep 2026 19:27:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/elpotosi.noticias/">El Potosí</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/807682587_28268544229467863_8227275456782379301_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=xPQFkFTjUKoQ7kNvwGHbcfR&amp;_nc_oc=AdoMXVv2RdC1KEY8977Zk3u3DDUIxJRwAlA-Ypk1Rj93KlmYKN_1Ug44kIcqs3FPkqU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=9GlJyeKiw1-xrdfuSlTgog&amp;_nc_ss=7f289&amp;oh=00_AQKLFzaWvJ8oLzjFMbO0F2zFrK57RdHBtpD9w7TbynUg7A&amp;oe=6AAB8699" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/807682587_28268544229467863_8227275456782379301_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=xPQFkFTjUKoQ7kNvwGHbcfR&amp;_nc_oc=AdoMXVv2RdC1KEY8977Zk3u3DDUIxJRwAlA-Ypk1Rj93KlmYKN_1Ug44kIcqs3FPkqU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=9GlJyeKiw1-xrdfuSlTgog&amp;_nc_ss=7f289&amp;oh=00_AQKLFzaWvJ8oLzjFMbO0F2zFrK57RdHBtpD9w7TbynUg7A&amp;oe=6AAB8699" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>PGR reforça pedido para que todos os ministros do STF tenham acesso ao conteúdo do celular de Vorcaro</title>
-      <link>https://www.facebook.com/jornaloglobo/posts/pfbid02pzqRApDfpnWtYDzfaEVcv9721MQZGFJZ4hvSid3HK5mXX46RdKC43obpPdDLvce5l?__cft__%5B0%5D=AZioTvlPDGyBeVrv2f11chbqxMD5FbJZP2QqS2-LE8GF42-20MaVSexWaxoswsndB34FjlovoclkCabJBqpDWPYPVX-APfOlWOqY5soK9xBr7URXnDTwSpWhMkQ6rivR_m3AjXLE2HwjQLMc4e1_pTw063ynLT1eSnrHVIwG3izZ5yW2IAY3kmPXIQ8&amp;__tn__=%2CO%2CP-R</link>
-      <description>PGR reforça pedido para que todos os ministros do STF tenham acesso integral aos dados extraídos do celular de Vorcaro.... Ver más Imagina se a PGR não está envolvida também Tenemos problemas para reproducir este vídeo. Más información Ver más comentarios Carlos Petri Ver las 2 respuestas Publicado también por: GloboNews. Fuente: O Globo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1c6c32f3158ed453</guid>
-      <pubDate>Sat, 12 Sep 2026 19:27:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/11209402131068315634?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2FX_CVEMQWB7dtvgR0XIz_LjdVGTo%3D%2F4160x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2Fn%2F5%2FWvJmLESpibKOHgGoOpPw%2F115984355-ri-rio-de-janeiro-rj-21-08-2026-25-forum-empresarial-lide-painel-perspectivas-para.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=xZOmQTFyDpTXw7QyWONULg&amp;_nc_zt=3&amp;oh=06_Q3_DAZinJSi1pFcLcwm_w6Wl7AJVx8rqEhEPTAZNpc89wUfL&amp;oe=6AA799DC" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/11209402131068315634?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2FX_CVEMQWB7dtvgR0XIz_LjdVGTo%3D%2F4160x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2Fn%2F5%2FWvJmLESpibKOHgGoOpPw%2F115984355-ri-rio-de-janeiro-rj-21-08-2026-25-forum-empresarial-lide-painel-perspectivas-para.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=xZOmQTFyDpTXw7QyWONULg&amp;_nc_zt=3&amp;oh=06_Q3_DAZinJSi1pFcLcwm_w6Wl7AJVx8rqEhEPTAZNpc89wUfL&amp;oe=6AA799DC" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards</title>
       <link>https://www.bbc.co.uk/news/articles/cw980n0nd0qjo</link>
       <description>The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI "kill switch" may need to be mandatory. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
@@ -1018,6 +1048,97 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/pt4orr/article71465337.ece/alternates/LANDSCAPE_1200/2026-09-14T021018Z_1581944120_RC2MINAVB0RA_RTRMADP_3_USA-TRUMP-IRELAND.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/pt4orr/article71465337.ece/alternates/LANDSCAPE_1200/2026-09-14T021018Z_1581944120_RC2MINAVB0RA_RTRMADP_3_USA-TRUMP-IRELAND.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1364 reproducciones · 23 reacciones | 🔴EN VIVO🔴 ➡Guabirá en el Ojo de la Tormenta ➡Bolívar llega a La Paz ➡Comienza la Fecha 20 ➡ABB vs The Strongest | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1249598900645731/?comment_id=942911811623869&amp;__cft__%5B0%5D=AZjTN6j1Q3o3HVTkH_A-Sa_2s1UJrTThevUi0kdwLo5Z3a756qgYNG78yQiCGWA7VbdGpO_P790RKfC3weVmVl_pImLngvuocns7etf4tePKLZ1EK8jHdLiUsF8W8Sh1o7VDzvekrV6ljCtfFSeHNofhfvqQH1_JZij3Ku2znoNcnlZKaTtlc2vVPNzFSlXWquA&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Guabirá en el Ojo de la Tormenta ➡Bolívar llega a La Paz ➡Comienza la Fecha 20 ➡ABB vs The Strongest Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c229737f7cdad04e</guid>
+      <pubDate>Tue, 15 Sep 2026 13:40:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/811588169_38430440819933059_6668265099207344271_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=ZgO_nM3tnGAQ7kNvwF4jQwu&amp;_nc_oc=AdpNChRQ6cpNrveSRF58G6X4OW-rCL-nDO9fNm0D9UubE0YJSkR7wFrdkLXhPwbXwMg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=Cljmd42OEP4-jVWaO_on0g&amp;_nc_ss=7f289&amp;oh=00_AQLZIme1zO8u6mKjH_7_KF_qBEQyikeT4Vyk71zpJdHlUg&amp;oe=6AAF1698" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/811588169_38430440819933059_6668265099207344271_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=ZgO_nM3tnGAQ7kNvwF4jQwu&amp;_nc_oc=AdpNChRQ6cpNrveSRF58G6X4OW-rCL-nDO9fNm0D9UubE0YJSkR7wFrdkLXhPwbXwMg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=Cljmd42OEP4-jVWaO_on0g&amp;_nc_ss=7f289&amp;oh=00_AQLZIme1zO8u6mKjH_7_KF_qBEQyikeT4Vyk71zpJdHlUg&amp;oe=6AAF1698" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>15 de setembro e Nossa Senhora das Dores: entenda o significado da data que recorda o sofrimento de Maria</title>
+      <link>https://www.facebook.com/cnnbrasil/posts/pfbid0JRhjAToPbzj7bZiYDmEhi7StdsjnzwWPvP52mYMjUZ5udmbyhF1Zrgk6Fhqgcgphl?__cft__%5B0%5D=AZgyGBPT_ygA60yUFS0BN1s9XlNXo-xlAP22H03bk25RHI8nWEDut35bIBAfhK_hyZ-gcZq1WxyIetYN2vsFcpglpArABdrZC7TLyDffjEXk3WlmovxgV3nEwv7DOcF_O2TYhcS_4bHW7EmNmJSrrnTImV8sscEJeYD5c09B2z9UsK_nEmxNRgGPnBk&amp;__tn__=%2CO%2CP-R</link>
+      <description>15 de setembro e Nossa Senhora das Dores: entenda o significado da data que recorda o sofrimento de Maria CNNBRASIL.COM.BR 15 de setembro e Nossa Senhora das Dores: entenda o significado da data que recorda o sofrimento de Maria | CNN Brasil Fuente: CNN Brasil.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3592e8af36b97d49</guid>
+      <pubDate>Tue, 15 Sep 2026 13:33:54 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/cnnbrasil/">CNN Brasil</source>
+      <media:content url="https://external-lga3-1.xx.fbcdn.net/emg1/v/t13/289182292192717543?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F09%2F15-de-setembro-e-Nossa-Senhora-das-Dores-entenda-o-significado-da-data-que-recorda-o-sofrimento-de-Maria.jpg%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=NH6M6aaysGz4a_sJIdC6pg&amp;_nc_zt=3&amp;oh=06_Q3_DAc3e7ajaUEX7wDnvxSv9cjwVrvPCoSZC7YYjs30VRSPy&amp;oe=6AAB42F1" medium="image" />
+      <enclosure url="https://external-lga3-1.xx.fbcdn.net/emg1/v/t13/289182292192717543?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F09%2F15-de-setembro-e-Nossa-Senhora-das-Dores-entenda-o-significado-da-data-que-recorda-o-sofrimento-de-Maria.jpg%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=NH6M6aaysGz4a_sJIdC6pg&amp;_nc_zt=3&amp;oh=06_Q3_DAc3e7ajaUEX7wDnvxSv9cjwVrvPCoSZC7YYjs30VRSPy&amp;oe=6AAB42F1" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Just four companies slaughter 85% of America’s cattle. Yet despite record beef prices, the “Big Processors”, as Donald Trump calls them, are not thriving. Register for free to…</title>
+      <link>https://www.facebook.com/TheEconomist/posts/pfbid0x1D5o73d5NaGx2ayFczZCYDCjaqAZfxjjpeAeAXhLN8iTu3PFxacqNLzZj6NAGBJl?__cft__%5B0%5D=AZgYrhV-KhqDe4Wyh5e6KWoe90_dGMjxRm0CL8EqKQq48sHq_VUKQY889lpLenZAWvCquS-oSXZFVlBfwrMBASmF92KOOtm0k3n6E2eCBOLq1KhDQiOOxaiHXiQTFTrYqAa71HmXoUzABRPGGSaLwpI6RJotaLHYo-RkJHiEsNI1j8epEm36V51Rh2Y&amp;__tn__=%2CO%2CP-R</link>
+      <description>Just four companies slaughter 85% of America’s cattle. Yet despite record beef prices, the “Big Processors”, as Donald Trump calls them, are not thriving. Register for free to read why ECONOMIST.COM Beef has never been pricier—and meatpackers are suffering Fuente: The Economist.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3350063975d13b6c</guid>
+      <pubDate>Tue, 15 Sep 2026 13:30:43 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
+      <media:content url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/13392073743866276276?url=https%3A%2F%2Fimage.trueanthem.com%2FeJNmku5YaTIDx3mfyGeaXj12ZIjr_nqjGVScg7rQLFQ%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTJfV0JQNTA1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TBu3mgyD_0W28MfABhQ4Eg&amp;_nc_zt=3&amp;oh=06_Q3_DAeDD-DzZ7ymENLPaW2ernhlp66xZUO7J9zwLwUMM-P8m&amp;oe=6AAB274A" medium="image" />
+      <enclosure url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/13392073743866276276?url=https%3A%2F%2Fimage.trueanthem.com%2FeJNmku5YaTIDx3mfyGeaXj12ZIjr_nqjGVScg7rQLFQ%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTJfV0JQNTA1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TBu3mgyD_0W28MfABhQ4Eg&amp;_nc_zt=3&amp;oh=06_Q3_DAeDD-DzZ7ymENLPaW2ernhlp66xZUO7J9zwLwUMM-P8m&amp;oe=6AAB274A" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pensioners are ‘big winners’ with triple-lock set to rise by 3.9%, lifting state pension to £13,000 – business live</title>
+      <link>https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates</link>
+      <description>Wage growth – used to set triple-lock pension – slows to 3.9%, meaning state pension should hit £13,000 next year ‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable? If the state pension rises to £13,000 next year, it will probably breach the UK’s tax-free personal allowance (currently £12,570) – the amount you can earn before paying income tax. However, pensioners who don’t receive any other income should still be exempt from paying tax if the state pension exceeds the personal allowance. In the 2025 Budget the government announced the personal allowance would… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d81826775ec6df87</guid>
+      <pubDate>Tue, 15 Sep 2026 13:13:27 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Graeme Wearden</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddbf1768ac1c5d36dedbc7efac04718a" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddbf1768ac1c5d36dedbc7efac04718a" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Drone shot down in Lithuania ‘probably from Russia’ as EU warns of ‘pattern of aggression’ - Europe live</title>
+      <link>https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates</link>
+      <description>The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’ Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania Ukrainian foreign minister Andrii Sybiha responded to the incident in Denmark, declaring Kyiv’s “full support” after “unacceptable actions targeting a Danish helicopter.” “ Moscow continues its attempts to destabilise Europe, not just Denmark. Joint and decisive action is required and Ukraine is ready to contribute to all efforts aimed at strengthening the protection of Europe from… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:612a6c76a5021ba4</guid>
+      <pubDate>Tue, 15 Sep 2026 13:07:49 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>Jakub Krupa (now and earlier) and Martin Belam (earlier)</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c51247cdb74b2e7d314085df6b665fb" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c51247cdb74b2e7d314085df6b665fb" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pensioners just above threshold shouldn’t pay income tax, says No 10 – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates</link>
+      <description>PM’s spokesperson says those whose only income is the state pension should not pay income tax in this parliament despite the expected rise to £13,000 The Liberal Democrats have said that they will try to introduce a cap on the amount people donate to political parties by amending the representation of the people bill as it goes through the Lords. Lisa Smart , the Lib Dem Cabinet Office spokesperson, said: We can’t keep playing whack-a-mole with each new attempt by Farage to sell out our democracy. Labour’s residency requirements aren’t good enough and the Conservatives simply sat on their… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e333ce0c924621a0</guid>
+      <pubDate>Tue, 15 Sep 2026 12:57:49 +0000</pubDate>
+      <category>politica</category>
+      <category>Global</category>
+      <dc:creator>Andrew Sparrow</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/f3a1089df63ff7e244abe824980607f8653b1e2a/724_1427_2286_1829/master/2286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66946f8b57f4f76d6de85cb077d7d138" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/f3a1089df63ff7e244abe824980607f8653b1e2a/724_1427_2286_1829/master/2286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66946f8b57f4f76d6de85cb077d7d138" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts</title>
+      <link>https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html</link>
+      <description>The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a8125f4fd0421780</guid>
+      <pubDate>Tue, 15 Sep 2026 12:10:02 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>América del Norte</category>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/15/multimedia/15int-Saudi-Houthis-mfbg/15int-Saudi-Houthis-mfbg-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/15/multimedia/15int-Saudi-Houthis-mfbg/15int-Saudi-Houthis-mfbg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>5526 reproducciones · 68 reacciones | STF - Pesquisa Quaest mostra queda na confiança da população no Supremo Tribunal Federal. Em setembro, 56% disseram confiar pouco ou não confiar na Corte, contra 46% em agosto. Já 30% afirmaram confiar pouco e apenas 9% disseram confiar muito, o menor índice positivo da série histórica apresentada. Outros 5% não souberam responder. O levantamento também perguntou quem estaria agindo de forma correta na crise envolvendo Alexandre de Moraes e André Mendonça. Para 37%, Mendonça age corretamente; 16% apontaram Moraes, enquanto 20% disseram que nenhum dos dois está agindo de forma correta. ➡️ #CentraldasEleições – de segunda a sexta, às 19h e às 23h, na #GloboNews. Assista na TV e no @globoplay | GloboNews</title>
@@ -1459,121 +1580,6 @@
       <source url="https://www.facebook.com/CBSNews/">CBS News</source>
       <media:content url="https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/808190784_986197227826727_4041444810078210973_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=ST4umSNwjccQ7kNvwG8EnB4&amp;_nc_oc=Adq-4TSONQubjVXJ0kxS6el3adXEIA7Jv357JyYjqGYwMQ6S9j7Mqty_mxu3c-g4lBw&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=3KUVmYE6EqbZ8FYohWGYRg&amp;_nc_ss=7f289&amp;oh=00_AQIngtZip9f5aHI8AYcUXrhk1gBktNWsivryP67HNJDw1A&amp;oe=6AAD28BA" medium="image" />
       <enclosure url="https://scontent-dfw5-2.xx.fbcdn.net/v/t15.5256-10/808190784_986197227826727_4041444810078210973_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=ST4umSNwjccQ7kNvwG8EnB4&amp;_nc_oc=Adq-4TSONQubjVXJ0kxS6el3adXEIA7Jv357JyYjqGYwMQ6S9j7Mqty_mxu3c-g4lBw&amp;_nc_zt=23&amp;_nc_ht=scontent-dfw5-2.xx&amp;_nc_gid=3KUVmYE6EqbZ8FYohWGYRg&amp;_nc_ss=7f289&amp;oh=00_AQIngtZip9f5aHI8AYcUXrhk1gBktNWsivryP67HNJDw1A&amp;oe=6AAD28BA" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>2073 reproducciones · 47 reacciones | #Colombia | Boyacá es una de las regiones del país que padece los efectos del fenómeno de El Niño: esto dicen los afectados Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
-      <link>https://www.facebook.com/reel/1772666687337474/?comment_id=1814018456284113&amp;__cft__%5B0%5D=AZiX2gi7N3FI9gBUp8cU_FcAsadYq-4akZ64LI8MufKTUMN_-4pauJ6-UPD2Lafz9ffvdb_CDDnAUMN8PWyV9TcNeVMPDhSw1t0qkCjLTO8l2Pq88TorDeuhD7wZ3c_xwcQ5LItAgTiinO2YEkx8CDk-9wfoZXjoREliTONO0Nz84RfEmITD4wVKwyhiY4lzFjUt&amp;__tn__=R-R</link>
-      <description>#Colombia | Boyacá es una de las regiones del país que padece los efectos del fenómeno de El Niño: esto dicen los afectados Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j #Colombia | Boyacá es una de las regiones del país que padece los efectos del fenómeno de El Niño: esto dicen los afectados Siga la señal de Noticias... Fuente: Noticias Caracol.</description>
-      <guid isPermaLink="false">cron-rss-noticias:30aa97653ad3c160</guid>
-      <pubDate>Mon, 14 Sep 2026 01:11:33 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
-      <media:content url="https://scontent-sea1-1.xx.fbcdn.net/v/t15.5256-10/809361199_1049933737916155_6155325890229796065_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=b1DrEGjgkWQQ7kNvwEBA9Gr&amp;_nc_oc=Adp6J3qG39cc8Wkzf3QnF4FCCTB-KYbf1vl_WY20heGNu8whZrWx9CXTDwvau9Z7NNE&amp;_nc_zt=23&amp;_nc_ht=scontent-sea1-1.xx&amp;_nc_gid=dsDi8gC1JNbceACi1VQHew&amp;_nc_ss=7f289&amp;oh=00_AQKmw3H6YLJCmAyEsfYADiM2dhfruEkYJ6t9iGVUp4hM_A&amp;oe=6AAD1DE8" medium="image" />
-      <enclosure url="https://scontent-sea1-1.xx.fbcdn.net/v/t15.5256-10/809361199_1049933737916155_6155325890229796065_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=b1DrEGjgkWQQ7kNvwEBA9Gr&amp;_nc_oc=Adp6J3qG39cc8Wkzf3QnF4FCCTB-KYbf1vl_WY20heGNu8whZrWx9CXTDwvau9Z7NNE&amp;_nc_zt=23&amp;_nc_ht=scontent-sea1-1.xx&amp;_nc_gid=dsDi8gC1JNbceACi1VQHew&amp;_nc_ss=7f289&amp;oh=00_AQKmw3H6YLJCmAyEsfYADiM2dhfruEkYJ6t9iGVUp4hM_A&amp;oe=6AAD1DE8" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>2057 reproducciones · 30 reacciones | 🔴EN VIVO�� #LaRedDeportivaDeBolivia Real Tomayapo 🆚 Bolívar | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1964481597555610/?comment_id=1612002666959079&amp;__cft__%5B0%5D=AZjUOwxLE1BUGQ5JCHqmUHn-MWwFqc6t4gXC96quO38zpNRaUNFBUI26J6UW3pQmPVdzgIEBfbDJ4YAiuHFKEbC5Qe9QcMIcWAxMsQ7sq_eJQ8G8qVvKvYOeS-1pv_jK9eAu6ZTTk6aXwhT5PQOlq6Yl2xzFuh1GxyWAtAqeStXe0BI9r56OkAjma3PKIdMq5G0&amp;__tn__=R%5D-R</link>
-      <description>Eso deve ser verdad asi nomas amenasan los de equipo chico de olway deven meter predo el quen dijo Freddy Viracocha Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e84d7414c20da4fe</guid>
-      <pubDate>Mon, 14 Sep 2026 01:11:33 +0000</pubDate>
-      <category>ciencia</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/809601655_2002586207118791_2595214473057071091_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=H_cowvimpyAQ7kNvwE3SZw9&amp;_nc_oc=AdoN-uT4dqgIO-Z7sUcwoKvL57oOmwYrMfLqtdmmfKwahZIb4WXxaVJrJjRSa01UkT4&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=j-NFFT0NthOW6v_Jc41VjQ&amp;_nc_ss=7f289&amp;oh=00_AQL3ztyx1BBaW5Q6sZNrmL_qHenSxApYiH3J-B99kdFT0w&amp;oe=6AAD2954" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/809601655_2002586207118791_2595214473057071091_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=H_cowvimpyAQ7kNvwE3SZw9&amp;_nc_oc=AdoN-uT4dqgIO-Z7sUcwoKvL57oOmwYrMfLqtdmmfKwahZIb4WXxaVJrJjRSa01UkT4&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=j-NFFT0NthOW6v_Jc41VjQ&amp;_nc_ss=7f289&amp;oh=00_AQL3ztyx1BBaW5Q6sZNrmL_qHenSxApYiH3J-B99kdFT0w&amp;oe=6AAD2954" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Politics live: Joyce backs Hanson on comments about Albanese’s mother; electrifying push for Australians to save $5,000 a year</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/sep/14/australia-politics-live-question-time-electric-vehicles-auction-rates-housing-crisis-albanese-labor-coalition-one-nation-ntwnfb</link>
-      <description>Follow the day’s news live Get our new political email , free app or daily news podcast Hanson’s comments on Albanese’s mother ‘gratuitous and unnecessary’: Hume Jane Hume has joined the pile on, blasting Pauline Hanson for her comments about Anthony Albanese’s mother. I think that these comments were gratuitous and unnecessary. And the idea that you would disparage people that have grown up in social housing, I think, is a little distasteful. I mean, it doubles down on the fact that Senator Hanson has also disrespected our veteran community with her atrocious comments about Andrew Hastie in… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e84bc83f0e014ff6</guid>
-      <pubDate>Sun, 13 Sep 2026 22:59:24 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Oceanía</category>
-      <category>Global</category>
-      <dc:creator>Krishani Dhanji</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/de81534216f0ff7faca50b47dd8212c073c80024/906_0_6187_4952/master/6187.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb754079dc5d0164fd65267ae6f732b5" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/de81534216f0ff7faca50b47dd8212c073c80024/906_0_6187_4952/master/6187.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb754079dc5d0164fd65267ae6f732b5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BREAKING: Oil prices surge more than $3 a barrel at market open after fresh attacks on Saudi Arabia and shipping in the Strait of Hormuz.... Ver más</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0sTMe4zKvTNMVnMFpeKpPRr6czrUEDXjq7tyU1qvX65U6P2Ux1tp1zkhdztE3T7Exl?__cft__%5B0%5D=AZiDtMgai_8-s7Z-l5YfKEgVKGeP6kcTI2r-e5HTueYxxOwo80TXgem0K_Yw-QUDdCY9oqXrIslc35kf5Bnqy88FnQ7HgIacfvMQ2DsQv4kUfo1rWqISr8iB2x5vjJ9NLCdKOZSWAf9eJ2_j7rjDZJ9CVZI1Mk9YRp5TAWOtOOTC-qQTGiUp5YYtAhM&amp;__tn__=%2CO%2CP-R</link>
-      <description>BREAKING: Oil prices surge more than $3 a barrel at market open after fresh attacks on Saudi Arabia and shipping in the Strait of Hormuz.... Ver más Trumps won the war tho? Ver más comentarios Adam Jones Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2fab08ff8fd1d4bf</guid>
-      <pubDate>Sun, 13 Sep 2026 22:34:04 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/808414621_1098379823141086_4136741924364932926_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3eZ0Fk3hklAQ7kNvwHq0jKL&amp;_nc_oc=AdojCY3jNinfFjM9B0wch4gxtgHe1N6TJGPlYL0J0Y4SH4SZZxtDs-ADfQa7QSG0gHY&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=WJtxUDBw59qfhw3_TwSfNQ&amp;_nc_ss=7f289&amp;oh=00_AQK_xOHKbrzwzijoWNhRgJj7ch-P3e7DloHwlkb1l2PqGg&amp;oe=6AAD0F6F" medium="image" />
-      <enclosure url="https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/808414621_1098379823141086_4136741924364932926_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3eZ0Fk3hklAQ7kNvwHq0jKL&amp;_nc_oc=AdojCY3jNinfFjM9B0wch4gxtgHe1N6TJGPlYL0J0Y4SH4SZZxtDs-ADfQa7QSG0gHY&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=WJtxUDBw59qfhw3_TwSfNQ&amp;_nc_ss=7f289&amp;oh=00_AQK_xOHKbrzwzijoWNhRgJj7ch-P3e7DloHwlkb1l2PqGg&amp;oe=6AAD0F6F" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A 40-year-old woman who lived in Jefferson County, Pennsylvania, has died from measles complications, the county coroner confirmed. It’s the third measles-associated de... Ver más</title>
-      <link>https://www.facebook.com/cnn/posts/pfbid02yDkqK6nZrX4pFYq2xMmThthDuCNQrRv1MdykQZKxTdMATJuJf7NSt3umryjiop6jl?__cft__%5B0%5D=AZjfez7Pk6xvTsXwc-xT4IPxUFIeeqLOtBMbO79FDVYHnFTGfEiYikeuD6U9VHsisM-A2ZR74IhP97NkzC8jLysIItZovyZj2IEhMPf51E_cdvobNDRwgOc5ekybBsneW7p_t10F12UAHPLGNbYHNB6WoE2N2-5TdUuA0_epxKGNohPqdLf9W8QdjoY&amp;__tn__=%2CO%2CP-R</link>
-      <description>A 40-year-old woman who lived in Jefferson County, Pennsylvania, has died from measles complications, the county coroner confirmed. It’s the third measles-associated de... Ver más Thanks trump Ver más comentarios Oscar Hernandez Ver las 2 respuestas Fuente: CNN.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7a586ad82acba17b</guid>
-      <pubDate>Sun, 13 Sep 2026 22:29:07 +0000</pubDate>
-      <category>cultura</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/cnn/">CNN</source>
-      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/809587038_1419705370087174_939183998819554131_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=bGsg-9E_N6QQ7kNvwEigsN0&amp;_nc_oc=AdrMuiBmP0ST9_ZzmNBfe-NxBiGBvuVGpLo59giznq0QpxVfp2FVijLUOWnUuBeOvrA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=T6N4ihyhmJ7oFxLDPp9R_w&amp;_nc_ss=7f289&amp;oh=00_AQKsU5_uRNQz28QrXk4l6vtbZl1qZOXsFJjhMsBGIyaEBw&amp;oe=6AACE619" medium="image" />
-      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/809587038_1419705370087174_939183998819554131_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=bGsg-9E_N6QQ7kNvwEigsN0&amp;_nc_oc=AdrMuiBmP0ST9_ZzmNBfe-NxBiGBvuVGpLo59giznq0QpxVfp2FVijLUOWnUuBeOvrA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=T6N4ihyhmJ7oFxLDPp9R_w&amp;_nc_ss=7f289&amp;oh=00_AQKsU5_uRNQz28QrXk4l6vtbZl1qZOXsFJjhMsBGIyaEBw&amp;oe=6AACE619" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>"We don't want to have our Chernobyl moment for AI." @DameWendyDBE, director of the Web Science Institute at the University of Southampton, tells @JonathanSamuels that AI must be regulated "before we have a major catastrophe". Live: https://trib.al/vbtbHJO 📺 Sky 501 &amp; YouTube | Sky News</title>
-      <link>https://www.facebook.com/reel/2852223638491160/?comment_id=4574619082775304&amp;__cft__%5B0%5D=AZiTlEW92zVIbMu4MuO554AGLSxqkZs6cV_sPxezrEziIkAfI7RMTrO7albyH8dNUGhGAgt86-koaXb0SffihYiGs2XIQt4uqj4A94EvefcfQIdyvyFMX61FKJL96WxNpuEIZbIanqIdEBwufg5x-Jyl9a4jRil3MSW_jyHCbrYVBLjcYUzzpMUWsvyobN8BasgQ&amp;__tn__=R-R</link>
-      <description>"We don't want to have our Chernobyl moment for AI." @DameWendyDBE, director of the Web Science Institute at the University of Southampton, tells @JonathanSamuels that AI must be regulated "before... "We don't want to have our Chernobyl moment for AI." @DameWendyDBE, director of the Web Science Institute at the University of Southampton, tells... Fuente: Sky News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:54d8b289ad9b5b60</guid>
-      <pubDate>Sun, 13 Sep 2026 20:56:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/skynews/">Sky News</source>
-      <media:content url="https://scontent-hkg4-1.xx.fbcdn.net/v/t15.5256-10/809235240_1504427591443348_5500299893491406099_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cCrqiNtBI80Q7kNvwGyLIRF&amp;_nc_oc=AdqlrwlY5AMHpZ_FP3JHhwZLn2zRjalSIaLfbu-jVxfwp-5XEdkmEv35YmSeyM3Ku8Y&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg4-1.xx&amp;_nc_gid=4Tp0D0BatgVdeUnnTSgZ1A&amp;_nc_ss=7f289&amp;oh=00_AQJEXSDRXQP7rwf34qVim_jTCLSyPlbbq7-o0fayhDqHDw&amp;oe=6AACF829" medium="image" />
-      <enclosure url="https://scontent-hkg4-1.xx.fbcdn.net/v/t15.5256-10/809235240_1504427591443348_5500299893491406099_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=cCrqiNtBI80Q7kNvwGyLIRF&amp;_nc_oc=AdqlrwlY5AMHpZ_FP3JHhwZLn2zRjalSIaLfbu-jVxfwp-5XEdkmEv35YmSeyM3Ku8Y&amp;_nc_zt=23&amp;_nc_ht=scontent-hkg4-1.xx&amp;_nc_gid=4Tp0D0BatgVdeUnnTSgZ1A&amp;_nc_ss=7f289&amp;oh=00_AQJEXSDRXQP7rwf34qVim_jTCLSyPlbbq7-o0fayhDqHDw&amp;oe=6AACF829" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Lindsay Clancy holdout juror faced a domestic violence charge in 2021 that was dismissed, records show.</title>
-      <link>https://www.facebook.com/CBSNews/posts/pfbid0S2URrizUz8bXeJNdMe6BPXFNMCp8Fk6HLMEujxCHt63vrahFGBF7mVji9fRLdizjl?__cft__%5B0%5D=AZgrgCKPViRuGoRTwYqg9RXLdVv63Ieu7rZki4yrsIYrPD-2K96OlHiSiZ-AeIzTk3tvnWQ33MbdpPHgUEVCEdwT__6uRqWrf5IwZUpJJmiA_dB7-eTBOhjH0x7eR1bzXP3RXk8LsN52xuN0LNZi_-YQBHU1dxLjh7mBvE509T_BfM7IQbAZwn5TyFM&amp;__tn__=%2CO%2CP-R</link>
-      <description>The Lindsay Clancy holdout juror faced a domestic violence charge in 2021 that was dismissed, records show. What’s your point? Yes and the defense and the prosecution could have had him dismissed from the jury when they picked it. You don’t think they knew that? Plus it was dismissed. Patrick LaVecchia Now we know Kellie Farina lied on her juror questionnaire about her anti-prosecution protests… Fuente: CBS News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3595bc883ac0188b</guid>
-      <pubDate>Sun, 13 Sep 2026 19:50:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/10999303272568434221?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F13%2F829c82b5-c09e-46b0-8f73-093920a258e6%2Fthumbnail%2F1200x630%2F077e0b8dc4de2cdc9e98d7eb44985e32%2Fap26247685347573.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TYEDGs_0Qw_HoB809jRzLg&amp;_nc_zt=3&amp;oh=06_Q3_DAWYtvH0E6dMX_vl56PMMZPJasTej0xuJ6wP4bEGz9Br7&amp;oe=6AA8FA7F" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/10999303272568434221?url=https%3A%2F%2Fassets1.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F13%2F829c82b5-c09e-46b0-8f73-093920a258e6%2Fthumbnail%2F1200x630%2F077e0b8dc4de2cdc9e98d7eb44985e32%2Fap26247685347573.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TYEDGs_0Qw_HoB809jRzLg&amp;_nc_zt=3&amp;oh=06_Q3_DAWYtvH0E6dMX_vl56PMMZPJasTej0xuJ6wP4bEGz9Br7&amp;oe=6AA8FA7F" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Brennan misses record as Mas clinches Vuelta crown</title>
-      <link>https://www.bbc.co.uk/sport/cycling/articles/cwyzglxlr6vo</link>
-      <description>Spain's Enric Mas clinches the Vuelta a Espana title as Britain's Matthew Brennan misses out on a record sixth debut Grand Tour stage win on the final day. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:806c371b7321d968</guid>
-      <pubDate>Sun, 13 Sep 2026 19:02:01 +0000</pubDate>
-      <category>deportes</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba7/live/05283ce0-af9f-11f1-bc1f-3f186ca4140c.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba7/live/05283ce0-af9f-11f1-bc1f-3f186ca4140c.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sweden general election: close race as far right eyes role in government – Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/sep/13/sweden-general-election-social-democrats-magdalena-sweden-democrats-ulf-kristersson-andersson-far-right-europe-latest-news-updates</link>
-      <description>Latest projection has centre-left bloc leading government parties 175-174 as deputy PM says vote could be undecided until Wednesday Swedish election – full report If you’re looking just for a single story to quickly catch up on the story of tonight, let’s cross to our Nordic correspondent, Miranda Bryant , for her preview. The prospect of far-right anti-immigration Sweden Democrats entering the government has understandably attracted a lot of international attention, particularly coming just days after the Alternative für Deutschland won the regional elections in Saxony Anhalt in Germany… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:99bbd4c3922cb332</guid>
-      <pubDate>Sun, 13 Sep 2026 18:03:16 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Jakub Krupa in Stockholm</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/39480f47abbeee736896ae6263a6046f37b0eb99/245_0_5880_4704/master/5880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcd90f9dcd6f59f498643ee84c1501cf" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/39480f47abbeee736896ae6263a6046f37b0eb99/245_0_5880_4704/master/5880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcd90f9dcd6f59f498643ee84c1501cf" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
