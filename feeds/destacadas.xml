@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 16 Sep 2026 11:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:01:30 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -55,19 +55,34 @@
       <enclosure url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2007/12/10/17/Kosovo2007.jpeg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Indonesia races to find 129 missing after Java Sea ferry capsizes</title>
-      <link>http://www.africanews.com/2026/09/14/indonesia-races-to-find-129-missing-after-java-sea-ferry-capsizes/</link>
-      <description>Indonesia intensified its search operation on 14 September for 129 people still missing after the Virgo Transport 8 ferry capsized in rough seas in the Java Sea the previous day. By then, 108 survivors had been rescued and six bodies recovered. Publicado también por: Euronews, NPR - World, France 24 - English, BBC News - World. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7175f320d4ddb0c3</guid>
-      <pubDate>Mon, 14 Sep 2026 08:30:02 +0000</pubDate>
+      <title>At Least 21 Dead in Gaza After Building Collapse, Officials Say</title>
+      <link>https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html</link>
+      <description>A deadly building collapse has killed at least 12 people in Gaza City on 16 September, according to Shifa Hospital, after a multi-storey building housing displaced families came down. Publicado también por: Africanews, Euronews. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cc762baa54eff3c2</guid>
+      <pubDate>Wed, 16 Sep 2026 16:32:47 +0000</pubDate>
       <category>mundo</category>
-      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <category>América del Norte</category>
       <category>África</category>
+      <dc:creator>Natan Odenheimer, Adam Rasgon and Abu Bakr Bashir</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-Gaza-Building-01-pqwf/16int-Gaza-Building-01-pqwf-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-Gaza-Building-01-pqwf/16int-Gaza-Building-01-pqwf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El colapso de un edificio dañado en la guerra en Gaza causa al menos 20 muertos</title>
+      <link>https://www.elmundo.es/internacional/2026/09/16/6aaa9e7efc6c83bd668b457d.html</link>
+      <description>Un departamento de seis plantas en la zona de Tal al-Hawa, en ciudad de Gaza, se desplomó con al menos diez familias adentro. Entre las víctimas hay al menos cinco chicos. Buscan desaparecidos. Publicado también por: BBC News Mundo, Clarín - Mundo. Fuente: El Mundo - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a87d1543d8647838</guid>
+      <pubDate>Wed, 16 Sep 2026 14:03:26 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
       <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/91/23/94/640x360_cmsv2_7e67b507-d5d1-53c5-b832-dd882ba104c6-9912394.jpg?1789372842" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/91/23/94/640x360_cmsv2_7e67b507-d5d1-53c5-b832-dd882ba104c6-9912394.jpg?1789372842" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <dc:creator>Sal Emergui</dc:creator>
+      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895670358519.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895670358519.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Supreme Court blocks Trump's plan to restrict mail-in ballots</title>
@@ -98,19 +113,6 @@
       <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/15/baa7e442-8701-4269-a4ee-340619920579_a19d698c.jpg?itok=kYi15lVb&amp;v=1789472951" medium="image" />
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/15/baa7e442-8701-4269-a4ee-340619920579_a19d698c.jpg?itok=kYi15lVb&amp;v=1789472951" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Los nacionalistas de Escocia, Gales e Irlanda del Norte se unen para impulsar su independencia del Reino Unido</title>
-      <link>https://elpais.com/internacional/2026-09-14/los-nacionalistas-de-escocia-gales-e-irlanda-del-norte-se-unen-para-impulsar-su-independencia-del-reino-unido.html</link>
-      <description>Westminster recibió este lunes desde Cardiff un mensaje coordinado de los dirigentes nacionalistas que encabezan los Gobiernos de Escocia, Gales e Irlanda del Norte. Los tres han decidido trasladar al terreno de la cooperación política una aspiración que hasta ahora habían defendido principalmente desde sus respectivos territorios: que el Gobierno británico se prepare para un posible cambio constitucional y facilite que cada una de sus naciones pueda decidir su futuro.John Swinney, ministro principal de Escocia y líder del Partido Nacional Escocés (SNP); Rhun ap Iorwerth, ministro principal… Publicado también por: BBC News Mundo, ABC España - Internacional. Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:14ef207f11ba3bef</guid>
-      <pubDate>Mon, 14 Sep 2026 12:35:46 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <dc:creator>Rafa De Miguel</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/WEPKDB5C4NJF3HJK3H4AU5XGVI.jpg?auth=1e36a9855d7a51b588390804aeb8e2ea36e43ef1085fd974990aa63654b1b148" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/WEPKDB5C4NJF3HJK3H4AU5XGVI.jpg?auth=1e36a9855d7a51b588390804aeb8e2ea36e43ef1085fd974990aa63654b1b148" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least 12 dead and dozens missing after building collapse in Gaza City</title>
@@ -166,6 +168,36 @@
       <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/809875829_1406973621398073_2803507804374244848_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=u-acEboaulEQ7kNvwH150mC&amp;_nc_oc=AdqNtmWjR9fH76lcQSgRlEq-RoIPUuYp7kHx3gR_5iXvQNemnDFWuwMZ-7YZOm6ZDmw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=X8HryAbpZENVIA06JUG7mg&amp;_nc_ss=7f289&amp;oh=00_AQIGhZvozkk_gxEUVgkzHBFMgnughioVwsstA9td6EDhkg&amp;oe=6AAF678A" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Von der Leyen ofrece a Canadá que sea el primer Estado asociado de la UE</title>
+      <link>https://www.abc.es/internacional/von-der-leyen-ofrece-canada-primer-estado-20260916100735-nt.html</link>
+      <description>El discurso sobre el Estado de la Unión de este año podría considerarse también el de la independencia europea. La presidenta de la Comisión, Ursula von der Leyen ha enunciado su intención de dar pasos hacia la autonomía estratégica de la UE en el campo de las materias primas y de los minerales raros, de definir un marco equilibrado para las relaciones comerciales con China y de reforzar las fronteras exteriores. Sin embargo, el anuncio más novedoso ha sido la creación de un Consejo de Seguridad Europeo del que formarían parte los aliados más cercanos como el Reino Unido, Noruega y la misma… Publicado también por: El Mundo - Internacional, El País - Internacional. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4170fa644c1ec139</guid>
+      <pubDate>Wed, 16 Sep 2026 16:47:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Enrique Serbeto</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/16/1517388861-RmLseDGmZ2hqgpw4C360uwI-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/16/1517388861-RmLseDGmZ2hqgpw4C360uwI-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Canada may become 'first associate member' of EU, European Commission president says</title>
+      <link>https://www.jpost.com/international/article-908790</link>
+      <description>Commission president says EU must ‘urgently reimagine our partnerships’ as she makes unprecedented offer Canada has been invited to become the first “associate member” of the EU by the European Commission president, Ursula von der Leyen. In an unprecedented offer, von der Leyen said on Wednesday that the EU and Canada “see the world with the same eyes” through shared democratic values and common approaches to many big issues, from AI to climate breakdown, the Ukraine war and geopolitics. Continue reading... Publicado también por: The Guardian - World, Euronews. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a4686f03c069af81</guid>
+      <pubDate>Wed, 16 Sep 2026 15:48:25 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://i.guim.co.uk/img/media/179c4fd55266eda34a2bc6699269748145048c70/289_0_2861_2288/master/2861.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edd226f9a6a8d11a7f4324917d1a486d" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/179c4fd55266eda34a2bc6699269748145048c70/289_0_2861_2288/master/2861.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edd226f9a6a8d11a7f4324917d1a486d" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>European Union invites Canada to become first ever ‘associate member’</title>
       <link>https://www.theguardian.com/world/2026/sep/16/von-der-leyen-mark-carney-canada-eu-first-associate-member</link>
       <description>Commission president says partnership will create ‘common prosperity’ based on shared democratic values Europe live – latest updates Canada has been invited to become the first “associate member” of the EU by the European Commission president, Ursula von der Leyen. In an unprecedented offer on Wednesday, von der Leyen said the EU and Canada “see the world with the same eyes” through shared democratic values and common approaches to many big issues, from AI to climate breakdown, the Ukraine war and geopolitics. Continue reading... Publicado también por: The Independent - World, Euronews. Fuente: The Guardian - World.</description>
@@ -193,6 +225,21 @@
       <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
       <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895440338121.jpg" medium="image" />
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/16/17895440338121.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Former Kosovo president Thaci gets 25 years in prison for war crimes</title>
+      <link>https://www.scmp.com/news/world/europe/article/3367725/former-kosovo-president-thaci-gets-25-years-prison-war-crimes</link>
+      <description>Former Kosovo president Hashim Thaci was found guilty of ‌war crimes including murder, torture and illegal detention by the Kosovo war crimes tribunal on Wednesday. Thaci, 58, was sentenced to 25 years in prison for crimes committed as top commander of the ethnic Albanian Kosovo Liberation Army (KLA) during the territory’s violent break from Serbia in the 1990s. The tribunal said ⁠he was guilty of the murder of 96 political opponents and perceived collaborators with ‌Serbian security forces by... Publicado también por: Deutsche Welle - World, NPR - World, Sky News - World. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:29d806d2c78e2119</guid>
+      <pubDate>Wed, 16 Sep 2026 10:14:33 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Reuters</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/16/4f787d03-b3e6-4190-8414-1d235e70c197_08a47ca8.jpg?itok=fvXbEDNF&amp;v=1789553671" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/16/4f787d03-b3e6-4190-8414-1d235e70c197_08a47ca8.jpg?itok=fvXbEDNF&amp;v=1789553671" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Saudi coalition says Houthi drone destroyed near Mecca</title>
@@ -350,6 +397,34 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/aa535ba0-b0a8-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Gold mine collapse kills at least 70 people in Sudan’s West Kordofan</title>
+      <link>https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss</link>
+      <description>Sudan is one of Africa's largest gold producers, but the vast majority of its gold is produced through dangerous artisan mining techniques and later smuggled out of the country. Publicado también por: The Jerusalem Post - International, The Hindu - International. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:11712a8f58c55b03</guid>
+      <pubDate>Wed, 16 Sep 2026 13:15:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/news/national/ptpqtn/article66358337.ece/alternates/LANDSCAPE_1200/NKV-BreakingNews1.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/news/national/ptpqtn/article66358337.ece/alternates/LANDSCAPE_1200/NKV-BreakingNews1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Condenado a 25 años de cárcel el expresidente de Kosovo Hashim Thaçi por crímenes de guerra</title>
+      <link>https://elpais.com/internacional/2026-09-16/condenado-a-25-anos-de-carcel-el-expresidente-de-kosovo-hashim-thaci-por-crimenes-de-guerra.html</link>
+      <description>El Tribunal Especial para Kosovo (TEK) ha condenado este miércoles a 25 años de cárcel al expresidente de Kosovo Hashim Thaci tras declararle culpable de crímenes de guerra, incluido asesinato, tortura y detención ilegal, en el marco del conflicto en el territorio entre 1998 y 1999.La corte ha indicado que tanto Thaci, quien lideró durante la guerra el escuadrón paramilitar albanokosovar del Ejército de Liberación de Kosovo (ELK), como los otros tres acusados —Kadri Veseli, Rexhep Selimi y Jakup Krasniqi, altos cargos del grupo—, son culpables de crímenes de guerra por la detención arbitraria… Publicado también por: El Mundo - Internacional, ABC España - Internacional. Fuente: El País - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:75cf71a8d8a9662e</guid>
+      <pubDate>Wed, 16 Sep 2026 12:18:10 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>Ferrer Ferrer</dc:creator>
+      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
+      <media:content url="https://imagenes.elpais.com/resizer/v2/JTC2VDEXMFFGRH5HBGAPGP52PM.jpg?auth=67923ffb2e9129f922504a2b4493c8192f5eeaba27726671b7c8b357c6086a3a" medium="image" />
+      <enclosure url="https://imagenes.elpais.com/resizer/v2/JTC2VDEXMFFGRH5HBGAPGP52PM.jpg?auth=67923ffb2e9129f922504a2b4493c8192f5eeaba27726671b7c8b357c6086a3a" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Von der Leyen ofrece a Carney que "Canadá se convierta en el primer miembro asociado de la UE"</title>
       <link>https://www.elmundo.es/internacional/2026/09/16/6aaa5b84fc6c837f578b4585.html</link>
       <description>La presidenta de la Comisión Europea, Ursula von der Leyen, ha propuesto abrir la puerta a que Canadá se convierta en «el primer miembro asociado» de la Unión Europea, como parte de una nueva etapa en las relaciones bilaterales con la que reforzar sus lazos económicos, tecnológicos, industriales y de defensa.En presencia del primer ministro de Canadá, Mark Carney, la jefa del Ejecutivo comunitario ha propuesto dar este paso durante su intervención en el discurso sobre el Estado de la Unión ante el pleno del Parlamento Europeo reunido en Estrasburgo (Francia), que ha recibido al dirigente… Publicado también por: El País - Internacional, ABC España - Internacional. Fuente: El Mundo - Internacional.</description>
@@ -375,19 +450,6 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
       <media:content url="https://s.france24.com/media/display/49c6f538-b1a9-11f1-af91-f72ea3a769d9/w:1024/p:16x9/LA-chopper-crash-thumbnail.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/49c6f538-b1a9-11f1-af91-f72ea3a769d9/w:1024/p:16x9/LA-chopper-crash-thumbnail.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA</title>
-      <link>https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb</link>
-      <description>Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stripped of their citizenship, accusing them of “treason against the state”. NAZA, which was produced by the Guardian, is named for an acronym used by Israel’s intelligence service to indicate how many… Publicado también por: The Guardian - Culture, Al Jazeera English. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f27b6d98dd5ee862</guid>
-      <pubDate>Mon, 14 Sep 2026 07:28:26 +0000</pubDate>
-      <category>cultura</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Sian Cain and Lorenzo Tondo in Jerusalem, and agencies</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00350c1797ef42c4743253d03b9f3a42" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/dd4ef69614c96f364a2b95dce1a30cad7253d175/349_0_4487_3592/master/4487.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00350c1797ef42c4743253d03b9f3a42" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>EU chief backs plan for Canada to become 'associate member'</title>
@@ -453,19 +515,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc8/live/08f853a0-b08f-11f1-84c3-e1e2978ca87a.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Escocia, Gales e Irlanda del Norte reivindicaron su “derecho a la autodeterminación” dentro del Reino Unido</title>
-      <link>https://www.lanacion.com.ar/el-mundo/escocia-gales-e-irlanda-del-norte-reivindicaron-su-derecho-a-la-autodeterminacion-en-una-declaracion-nid14092026/</link>
-      <description>Los primeros ministros nacionalistas de las tres naciones se reunieron por primera vez en Cardiff cara a cara en un desafío independentista para Londres. "El panorama político en estas islas está cambiando", dijeron. Publicado también por: Clarín - Mundo, BBC News Mundo. Fuente: La Nación - El Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:922e4bb7e7691a03</guid>
-      <pubDate>Mon, 14 Sep 2026 12:31:50 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América Latina</category>
-      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
-      <media:content url="https://resizer.glanacion.com/resizer/v2/LPMKRFKDZBC4PPWAVWI34JA6HE.jpg?auth=dff3021ded8e568503d765d9b72fd8e68063cdb95bac13c38c0fd7ef3fa2b79f&amp;smart=true&amp;width=2000&amp;height=1208" medium="image" />
-      <enclosure url="https://resizer.glanacion.com/resizer/v2/LPMKRFKDZBC4PPWAVWI34JA6HE.jpg?auth=dff3021ded8e568503d765d9b72fd8e68063cdb95bac13c38c0fd7ef3fa2b79f&amp;smart=true&amp;width=2000&amp;height=1208" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>At least two killed and tents destroyed in Israeli strikes on Gaza camps</title>
       <link>http://www.africanews.com/2026/09/15/at-least-two-killed-and-tents-destroyed-in-israeli-strikes-on-gaza-camps/</link>
       <description>At least two people were killed and several others injured in Israeli strikes across Gaza on Monday, 14 September, according to hospital and health officials. Publicado también por: Euronews. Fuente: Africanews.</description>
@@ -481,18 +530,18 @@
       <enclosure url="http://images.euronews.com/articles/stories/09/91/34/60/640x360_cmsv2_28118a44-454c-56de-a322-22d7a82ca3a2-9913460.jpg?1789417244" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Mass funeral in Bukavu for 26 children killed in DR Congo school blaze</title>
-      <link>http://www.africanews.com/2026/09/14/mass-funeral-in-bukavu-for-26-children-killed-in-dr-congo-school-blaze/</link>
-      <description>Bukavu held a mass funeral on Monday, 14 September, for 26 children killed in a school fire and subsequent stampede three days earlier, as UNICEF and local authorities called for an investigation into the disaster. Publicado también por: Euronews. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6542860bb7613e9a</guid>
-      <pubDate>Mon, 14 Sep 2026 12:16:47 +0000</pubDate>
+      <title>At least 20 killed after Israeli-hit building in Gaza City collapses</title>
+      <link>https://www.theguardian.com/world/2026/sep/16/building-gaza-city-damaged-israeli-strikes-collapses-killed</link>
+      <description>Rescue workers say search for dozens of people hampered by lack of heavy machinery A building housing about 100 displaced Palestinian families has collapsed in Gaza City, killing at least 20 people, as rescuers search the rubble for dozens of people believed to be trapped, including children. A rescue team from Gaza’s civil defence said they had recovered the bodies of five children among the victims, while 25 injured people were taken to hospital. Medical sources said rescuers could hear the voices of people trapped beneath the rubble as they tried to reach them. Continue reading... Publicado también por: Sky News - World. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:012de9585d5bde09</guid>
+      <pubDate>Wed, 16 Sep 2026 11:34:31 +0000</pubDate>
       <category>mundo</category>
-      <category>África</category>
+      <category>Medio Oriente</category>
       <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/91/29/46/640x360_cmsv2_68798f81-4b45-5fc1-aee7-6af87b54ba08-9912946.jpg?1789386657" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/91/29/46/640x360_cmsv2_68798f81-4b45-5fc1-aee7-6af87b54ba08-9912946.jpg?1789386657" type="image/jpeg" length="0" />
+      <dc:creator>Lorenzo Tondo in Jerusalem, Seham Tantesh in Gaza and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/f48e9d6a471df02d3f694da5e12f653f1a52b219/201_0_4801_3840/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4045d9d50a49717c15974c164d368d48" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/f48e9d6a471df02d3f694da5e12f653f1a52b219/201_0_4801_3840/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4045d9d50a49717c15974c164d368d48" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Three dead after NBC News helicopter crashes in Los Angeles while covering bus accident</title>
@@ -586,30 +635,87 @@
       <enclosure url="https://th-i.thgim.com/public/news/national/yuvvki/article71466614.ece/alternates/LANDSCAPE_1200/iStock-961747352.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Zambians warned not to eat dead wildlife after anthrax kills dozens of animals</title>
-      <link>https://www.bbc.co.uk/news/articles/ce8en6v3601o</link>
-      <description>At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:db8a3777c50d6314</guid>
-      <pubDate>Mon, 14 Sep 2026 11:35:08 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb2/live/3c870970-b024-11f1-95e6-93ee8a80cb38.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edb2/live/3c870970-b024-11f1-95e6-93ee8a80cb38.jpg" type="image/jpeg" length="0" />
+      <title>Ed Sheeran's supporting acts quit US tour after Macklemore dropped over pro-Palestine comments</title>
+      <link>https://www.jpost.com/international/article-908804</link>
+      <description>Ed Sheeran’s US tour has been plunged into chaos after all four supporting acts withdrew on Tuesday in solidarity with US rapper Macklemore, who had earlier been dropped from the tour after making comments in support of Palestine. Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham and American singer Finneas all said they would no longer be performing. Publicado también por: France 24 - English. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7a6efa6bd30580f2</guid>
+      <pubDate>Wed, 16 Sep 2026 19:37:38 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <dc:creator>BY JERUSALEM POST STAFF</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://s.france24.com/media/display/cf297fbe-b1d8-11f1-b46f-3ff9dda05487/w:1024/p:16x9/Sheeran-thumbnail.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/cf297fbe-b1d8-11f1-b46f-3ff9dda05487/w:1024/p:16x9/Sheeran-thumbnail.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Indonesia races to find 129 missing after Java Sea ferry capsizes</title>
-      <link>https://www.euronews.com/video/2026/09/14/indonesia-races-to-find-129-missing-after-java-sea-ferry-capsizes</link>
-      <description>Indonesia intensified its search operation on 14 September for 129 people still missing after the Virgo Transport 8 ferry capsized in rough seas in the Java Sea the previous day. By then, 108 survivors had been rescued and six bodies recovered. Publicado también por: NPR - World, BBC News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3e5dbe5d7b019c01</guid>
-      <pubDate>Mon, 14 Sep 2026 08:29:53 +0000</pubDate>
-      <category>mundo</category>
+      <title>Ailton Major Ubaporanga ha comentado: Eu aposto que, se os animais votassem, eles jamais votariam em um candidato do PT</title>
+      <link>https://www.facebook.com/estadao/posts/pfbid05mNgcxbu61CwnNiecxJmX7eM5RqNUSTzMHv1mUynQnDxtqpfeKBaPp7oGc26zdQ4l?comment_id=1122134233805450&amp;__cft__%5B0%5D=AZgPTUucOQIiXrGZMLawt6DSzyln57xKFEpHv-jTrcei8zaa1lw0kZm4Xn5gUXm1wMy1ffxt8mcHPk_1bOLaFxoG-xRuAY9VJa3TRCZ_-0sP3LSh7Rh7oB6kSZbxnzkCpOZY1jLEYbaWg_oiVEN3cRN5IbjNmcE9bZN7hmtZ56idmmsIlEVGTW_d_HM&amp;__tn__=R-R</link>
+      <description>Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora | Mais de 30 artistas já estão confirmados oficialmente... Publicado también por: CNN Brasil. Fuente: Estadão.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b8aa5dbab26e4ab5</guid>
+      <pubDate>Wed, 16 Sep 2026 17:01:30 +0000</pubDate>
+      <category>cultura</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/estadao/">Estadão</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/3657132951161689809?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F08%2F55478925460_df8a9d2340_o.jpg%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=_Vxk6Y3pc3lZJEKPgLCsuQ&amp;_nc_zt=3&amp;oh=06_Q3_DASymqHfaIYygTTDNdumoVFfnXDSbdlRNbTMED7M9O3vc&amp;oe=6AAC8E5F" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/3657132951161689809?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F08%2F55478925460_df8a9d2340_o.jpg%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=_Vxk6Y3pc3lZJEKPgLCsuQ&amp;_nc_zt=3&amp;oh=06_Q3_DASymqHfaIYygTTDNdumoVFfnXDSbdlRNbTMED7M9O3vc&amp;oe=6AAC8E5F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Duterte appears in person at The Hague over 'war on drugs' killings</title>
+      <link>https://www.abc.net.au/news/2026-09-17/duterte-at-icc-hague/107162056</link>
+      <description>The 81-year-old served as president of the Philippines from 2016 to 2022, before being charged with crimes against humanity for setting up, funding and arming death squads that targeted narcotics peddlers and users. Publicado también por: Al Jazeera English. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c3a93a345e1b5187</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:16 +0000</pubDate>
+      <category>conflictos</category>
       <category>Asia</category>
-      <category>Europa</category>
+      <category>Oceanía</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/a8e34b4d9c7a039a4e1600677214c8b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=164&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/a8e34b4d9c7a039a4e1600677214c8b4?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=164&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump administration plans to send powerful bombs to Israel in $2.8 billion weapons sale</title>
+      <link>http://www.france24.com/en/video/20260916-trump-administration-plans-to-send-powerful-bombs-to-israel-in-2-8-billion-weapons-sale</link>
+      <description>The Trump administration is planning to deliver powerful 2,000-pound bombs to Israel as part of an upcoming arms deal, weapons that prompted such concerns about the possibility of mass casualties in Gaza that the Biden administration paused their delivery two years ago. France 24's Philip Turle tells us more. Publicado también por: Euronews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c41c7331a2fa3939</guid>
+      <pubDate>Wed, 16 Sep 2026 15:45:44 +0000</pubDate>
+      <category>mundo</category>
       <category>América del Norte</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77d4/live/bb287020-af75-11f1-a540-61c3f7fc4e6c.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/5ba9b4a8-b1e4-11f1-bcd1-e5727ccb1647/w:1024/p:16x9/EN-20260916-170436-170957-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/5ba9b4a8-b1e4-11f1-bcd1-e5727ccb1647/w:1024/p:16x9/EN-20260916-170436-170957-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>EU opens door for Canada to become first 'associate member'</title>
+      <link>http://www.france24.com/en/video/20260916-eu-opens-door-for-canada-to-become-first-associate-member</link>
+      <description>European Commission President Ursula von ⁠der Leyen said ​on Wednesday she wanted to open the door for Canada to become the European Union's first "associate member". France 24's Douglas Herbert tells us more. Publicado también por: The Independent - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1aa691c67c51ad2f</guid>
+      <pubDate>Wed, 16 Sep 2026 15:13:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/d120d508-b1db-11f1-aa36-3df65e1cd14d/w:1024/p:16x9/EN-20260916-160115-160859-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/d120d508-b1db-11f1-aa36-3df65e1cd14d/w:1024/p:16x9/EN-20260916-160115-160859-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live</title>
+      <link>https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates</link>
+      <description>Thaçi held criminally responsible for war crimes during the violent break from Serbia in the 1990s Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market, world class industries and services. She says its single market remains too fragmented and needs to reform further, with the aim of completing it by the end of next year. “ Do we want to rally around our European idea that together we can decide our own destiny? Or do we let our democracies be undermined by the proxies and puppets of authoritarians? Whether it is the ultra… Publicado también por: ABC News Australia. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c547a9a9bd50e64a</guid>
+      <pubDate>Wed, 16 Sep 2026 11:16:29 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Oceanía</category>
+      <dc:creator>Jakub Krupa</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4807504371f5eb03389577fe1f8a6eaa" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4807504371f5eb03389577fe1f8a6eaa" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US to bar some South Africans over claims of anti-white discrimination</title>
@@ -958,110 +1064,6 @@
       <enclosure url="https://s.france24.com/media/display/5803243c-b055-11f1-8bda-005056bf30b7/w:1024/p:16x9/ES-20260914-070449-070638-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Dron ruso ataca un tren de pasajeros en Ucrania a tan solo dos kilómetros de la frontera con Polonia... Ver más</title>
-      <link>https://www.facebook.com/reel/28752632201029510/?__cft__%5B0%5D=AZjy8547CBqbULHt7Pc1d_Z1EmFypnK-tcXUynjv8mG0zxUZafp6D6-8UPAuyzT351DKhMUUM2Mo_IuhSJYrsgnYrv4pEHt71LMLIfKRnLy0wi3uPnvzKCfOs_7K_Vx7W7h4LoGe-rV1CY6WAYnG5A3EdqsZUycfaCGB9TQWWS-e9WSe1e4A2wyn6BsajhBP-xst&amp;__tn__=%2CO%2CP-R</link>
-      <description>Dron ruso ataca un tren de pasajeros en Ucrania a tan solo dos kilómetros de la frontera con Polonia... Ver más Hahaha y que hacían consejeros militares en Ucrania ? Tenemos problemas para reproducir este vídeo. Más información Ver más comentarios Callahan Misaky Publicado también por: France 24 - Español. Fuente: DW Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1da53d94a56b9582</guid>
-      <pubDate>Mon, 14 Sep 2026 12:52:11 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
-      <media:content url="https://s.france24.com/media/display/99fd5934-afbf-11f1-9c22-005056a90284/w:1024/p:16x9/2026-09-12T144938Z-176613886-RC2QHNAMIBST-RTRMADP-3-UKRAINE-CRISIS-ATTACK-LUTSK.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/99fd5934-afbf-11f1-9c22-005056a90284/w:1024/p:16x9/2026-09-12T144938Z-176613886-RC2QHNAMIBST-RTRMADP-3-UKRAINE-CRISIS-ATTACK-LUTSK.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>'State-led discrimination': Turkey jails 16 people after raids in Izmir on LGBTQ+ groups</title>
-      <link>https://www.jpost.com/international/article-908512</link>
-      <description>Turkish police on Sunday arrested at least 60 people in mass raids on gay bars and the homes of LGBTQ activists, in what authorities said was an operation aimed at boosting traditional family values. The raids sparked condemnation from rights groups and opposition parties, as well as the European Union parliament's rapporteur on Turkey. France 24’s Jasper Mortimer has the latest. Publicado también por: France 24 - English. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8fa607fb34cad4f6</guid>
-      <pubDate>Mon, 14 Sep 2026 11:53:33 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://s.france24.com/media/display/0a5361c6-b018-11f1-a783-005056bfb2b6/w:1024/p:16x9/EN-20260914-101301-101619-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/0a5361c6-b018-11f1-a783-005056bfb2b6/w:1024/p:16x9/EN-20260914-101301-101619-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Tom Aspinall vacates UFC heavyweight title due to eye injury</title>
-      <link>https://www.aljazeera.com/sports/2026/9/14/tom-aspinall-vacates-ufc-heavyweight-title-due-to-eye-injury?traffic_source=rss</link>
-      <description>Britain's Tom Aspinall, who has not fought for almost a year, vacates his title because of complications in his recovery from an eye injury. Publicado también por: BBC Sport. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d0c657c27365beb1</guid>
-      <pubDate>Mon, 14 Sep 2026 11:11:14 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ceb/live/ccfa2150-af38-11f1-b681-9f0bf3c57d8b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ceb/live/ccfa2150-af38-11f1-b681-9f0bf3c57d8b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UK MPs and Lords call for new laws to tackle AI threat to human rights</title>
-      <link>https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords</link>
-      <description>Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakes UK politics live – latest updates British lawmakers are demanding more restrictions on the power of AI, warning the world is unprepared for the “potentially dire” consequences of the technology, in the latest sign of rising global concern. A new regulatory framework is needed for AI in the UK, including an independent oversight body and legislation to protect the public, according to the cross-party joint committee on human rights, comprising MPs and Lords. Continue reading... Publicado también por: BBC News - Business. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:526b61a37c5af623</guid>
-      <pubDate>Mon, 14 Sep 2026 11:07:24 +0000</pubDate>
-      <category>conflictos</category>
-      <category>sociedad</category>
-      <category>Global</category>
-      <dc:creator>Dan Milmo and Robert Booth</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/master/5799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1bf30f1b705ab581f5095514ba65a57" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/master/5799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c1bf30f1b705ab581f5095514ba65a57" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>At least one dead, 25 missing after boat carrying migrants sinks off Greece</title>
-      <link>https://www.aljazeera.com/news/2026/9/14/at-least-one-dead-25-missing-after-boat-carrying-migrants-sinks-off-greece?traffic_source=rss</link>
-      <description>It said search efforts continued for the approximately 25 missing people, as survivors said there were 77 people on the boat. Publicado también por: The Jerusalem Post - International. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b8a42a46676f3bd5</guid>
-      <pubDate>Mon, 14 Sep 2026 09:40:55 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>‘Tidal wave’ of Pfas being launched to satisfy AI industry, campaigners warn</title>
-      <link>https://www.theguardian.com/environment/2026/sep/14/pfas-firms-tidal-wave-forever-chemicals-ai-industry-demand-datacentres</link>
-      <description>Big manufacturers planning to produce more of the forever chemicals to meet demand from datacentres Pfas companies are launching a “tidal wave” of forever chemicals production to meet demand from the AI industry, a campaign organisation has warned. Despite alarm over the chemicals, which have been linked to cancer, a survey of the 10 biggest manufacturers found most had plans to increase production. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6c33c228da00d521</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:26 +0000</pubDate>
-      <category>conflictos</category>
-      <category>salud</category>
-      <category>Global</category>
-      <dc:creator>Damien Gayle Environment correspondent</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/383d2bea1e3bf96683eae24cb6a9f8335690c4c4/397_0_4762_3808/master/4762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32e4326c6c461325d8614a3b95588320" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/383d2bea1e3bf96683eae24cb6a9f8335690c4c4/397_0_4762_3808/master/4762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32e4326c6c461325d8614a3b95588320" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Iran-US war latest: Trump says he could keep Iranian oil ‘like Venezuela’ as Hormuz talks face setback</title>
-      <link>https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-oil-hormuz-saudi-houthis-b3049597.html</link>
-      <description>Oil prices rose by 3% to over $108 on Monday after new Houthi strikes on Saudi Arabia and Iranian attacks on ships in the Gulf Publicado también por: CNBC - World. Fuente: The Independent - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9c34d00b82c8ea64</guid>
-      <pubDate>Mon, 14 Sep 2026 05:39:02 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Alisha Rahaman Sarkar</dc:creator>
-      <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
-      <media:content url="https://static.independent.co.uk/2026/09/14/06/2026-09-14T021020Z_1000114421_RC2MINA0CLDT_RTRMADP_3_USA-TRUMP-IRELAND.JPG?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
-      <enclosure url="https://static.independent.co.uk/2026/09/14/06/2026-09-14T021020Z_1000114421_RC2MINA0CLDT_RTRMADP_3_USA-TRUMP-IRELAND.JPG?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Protests break out across Syria over fuel price increases</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02VWWe1fzUsvULm3k46d3GRYoMm72oW2qPxh9VapTXiHoTCY3vfR31khqGzh2CmAHel?__cft__%5B0%5D=AZipMLtdm2oelXYsHCn-5OSWOBuWvMK_FFa8MOy6FvyzxbtJag7Tz2SQ-dUH5EH7hE60x3OyP_VUo1Yrbpt6zEAlkIFoTVjfBnbzRvMEOxiiQcXXV5vDNboQLNNKvj2bSS6Wtya7_XdEZs5ku1SkY-MRL05Kmc563kR2kkYoXVt4K2V8T9TSAyW1XAc&amp;__tn__=%2CO%2CP-R</link>
-      <description>Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f6acbf9d80a3173d</guid>
-      <pubDate>Mon, 14 Sep 2026 05:30:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/809645976_2191981981732296_650709189835865185_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x757&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=LO4i21xzZI0Q7kNvwEH8HTA&amp;_nc_oc=AdqQY9chZY_M21ZOT3FeIMVjbUnA_z1V8IRvoHyeg3gTh-42utkePsB0jOvFC9FntmE&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=AeIwRMhZJ3OedWS7aZyN0A&amp;_nc_ss=7f289&amp;oh=00_AQKo21-MGwABOZcGiNMTsXiIlonp8o6v4toWsEa_huMBCQ&amp;oe=6AAD4AD6" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/809645976_2191981981732296_650709189835865185_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x757&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=LO4i21xzZI0Q7kNvwEH8HTA&amp;_nc_oc=AdqQY9chZY_M21ZOT3FeIMVjbUnA_z1V8IRvoHyeg3gTh-42utkePsB0jOvFC9FntmE&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=AeIwRMhZJ3OedWS7aZyN0A&amp;_nc_ss=7f289&amp;oh=00_AQKo21-MGwABOZcGiNMTsXiIlonp8o6v4toWsEa_huMBCQ&amp;oe=6AAD4AD6" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Official data shows police forces across England and Wales, excluding the British Transport Police, recorded 502,011 shoplifting offences in 2025-26 alone.... Ver más</title>
       <link>https://www.facebook.com/reel/29129571466660215/?__cft__%5B0%5D=AZi-9tpgsf1wR3o-7KFKthd0RYKlwrIFmJ_1oWhwMg2bQzpIMmd0A34piQ5E6F1optqlvsLRjZZgOZWKvFiZ0aPGt6wm_7tYjiBTHD1MJoTNHIF4_hFLuh_lICBScMKUe-deYqwBnmSEFHZwNN-Yk5LPfuCUUHLqysXVglSwGpuC_bxpZLx4ZkLkiN0nUTVD1swj&amp;__tn__=%2CO%2CP-R</link>
       <description>Official data shows police forces across England and Wales, excluding the British Transport Police, recorded 502,011 shoplifting offences in 2025-26 alone.... Ver más If the stock isn’t owned by a single individual, is it even theft? Tenemos problemas para reproducir este vídeo. Más información Ver más comentarios Andy Duchemin Ver las 2 respuestas Fuente: BBC News.</description>
@@ -1070,6 +1072,20 @@
       <category>mundo</category>
       <category>Global</category>
       <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+    </item>
+    <item>
+      <title>US limits visas for South African officials over alleged anti-white discrimination</title>
+      <link>https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o</link>
+      <description>The United States has announced a travel ban on South African officials it claims are behind discrimination against white people and other minority groups. Publicado también por: Sky News - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:69c1f37412cb1ff8</guid>
+      <pubDate>Wed, 16 Sep 2026 06:12:04 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c25/live/60c515b0-b18d-11f1-87e9-b3bd4eb00d4c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c25/live/60c515b0-b18d-11f1-87e9-b3bd4eb00d4c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Denmark Says Russian Warship Fired Flares at Military Helicopter</title>
@@ -1098,29 +1114,15 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5749/live/ee0b1740-b0a6-11f1-9c5d-0dd6cc52f198.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Dozens arrested as Turkish police raid LGBTQ bars, activists' homes</title>
-      <link>https://www.france24.com/en/video/20260914-dozens-arrested-as-turkish-police-raid-lgbtq-bars-activists-homes</link>
-      <description>Turkish police on Sunday made dozens of arrests in a slew of raids on gay bars and the homes of LGBTQ activists. Authorities said the raids came in the context of the "Decade of the Family" proclaimed by Turkish President Recep Tayyip Erdogan, aimed at "protecting our children, the institution of the family and social order". Publicado también por: BBC News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c7a105ec427d8462</guid>
-      <pubDate>Mon, 14 Sep 2026 10:58:30 +0000</pubDate>
+      <title>Gaza: Building collapse kills 21, including 11 children as perilous conditions persist for Palestinians</title>
+      <link>https://www.euronews.com/2026/09/16/gaza-building-collapse-kills-21-including-11-children-as-perilous-conditions-persist-for-p</link>
+      <description>At least 21 people, including 11 children, have died and dozens more are missing after an apartment building collapsed in Gaza from damage sustained in earlier Israeli strikes. Publicado también por: Al Jazeera English. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:021e146eab9a8c55</guid>
+      <pubDate>Wed, 16 Sep 2026 15:03:31 +0000</pubDate>
       <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/e130ea2c-b024-11f1-ae72-005056a97e36/w:1024/p:16x9/EN-20260914-104031-104206-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/e130ea2c-b024-11f1-ae72-005056a97e36/w:1024/p:16x9/EN-20260914-104031-104206-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Poland and Ukraine slam Russian strike on train near their border as 'escalation'</title>
-      <link>https://www.euronews.com/2026/09/14/poland-and-ukraine-slam-russian-strike-on-train-near-their-border-as-escalation</link>
-      <description>The strike hit a Warsaw-bound train near to the border a short time after another train carrying various foreign dignitaries passed through the same track. Publicado también por: BBC News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bd47b17dc47684cd</guid>
-      <pubDate>Mon, 14 Sep 2026 10:49:47 +0000</pubDate>
-      <category>conflictos</category>
+      <category>Medio Oriente</category>
       <category>Europa</category>
       <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba3/live/5f17e7c0-b015-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ba3/live/5f17e7c0-b015-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Maduro ally Alex Saab pleads guilty to money laundering in US court</title>
@@ -1157,6 +1159,83 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
+      <title>Al menos 67 muertos tras un derrumbe en una mina de oro en Sudán</title>
+      <link>https://www.clarin.com/mundo/67-muertos-derrumbe-mina-oro-sudan_0_4Nr98NT77I.html</link>
+      <description>El hecho ocurrió en la mina de oro Al-Zara, en la localidad de Nuhud, en la provincia de West Kodporan. Los rescatistas continúan trabajando para encontrar a sobrevivientes bajo los escombros. Publicado también por: El Mundo - Internacional. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3493a6ad7fa37dc2</guid>
+      <pubDate>Wed, 16 Sep 2026 11:05:06 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2026/09/16/HCW1NhLgE_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2026/09/16/HCW1NhLgE_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>4732 reproducciones · 67 reacciones | Por “la incompetencia y el caos” del Gobierno Petro, Estados Unidos descertifica a Colombia. En el mismo anuncio, la administración Trump elogió al presidente Abelardo de la Espriella calificándolo como “un firme defensor” de la nación. “El pueblo de Colombia tomó la valiente decisión de elegir a Abelardo de la Espriella como presidente” dice el texto, que además valora que “ha prometido liderar una campaña agresiva contra el cultivo de coca y la producción de cocaína, que alcanzaron niveles récord bajo las políticas socialistas fallidas de su predecesor”. “Colombia está en condiciones de recuperar su posición como nuestro principal socio de seguridad en el hemisferio, y las Fuerzas Militares, la Policía, los fiscales y los tribunales del país finalmente cuentan con un firme defensor en el presidente de la Espriella”, añadió. | NTN24</title>
+      <link>https://www.facebook.com/reel/1723021982144011/?comment_id=1999981437374239&amp;__cft__%5B0%5D=AZhMYs211B1Id99bjN33jn1jj4XzPLT_WXSzQAyO0Un5VfTeuuZYr6-TRUGYDhp7zyMEMwREm30bAA30w_iMcAAnGR9TwqvRppauD4AoRhKAqepwdVplzgRiPfk5XdRpumICMPaRz2LevmbidQOusEeRPfe4kXkZeou2FCdCggdi_mKdRYy_BbfcZTO_U7EI-CNI&amp;__tn__=R-R</link>
+      <description>Por “la incompetencia y el caos” del Gobierno Petro, Estados Unidos descertifica a Colombia. En el mismo anuncio, la administración Trump elogió al presidente Abelardo de la Espriella calificándolo... Por “la incompetencia y el caos” del Gobierno Petro, Estados Unidos descertifica a Colombia. En el mismo anuncio, la administración Trump elogió al... Fuente: NTN24.</description>
+      <guid isPermaLink="false">cron-rss-noticias:527f54390447c6b7</guid>
+      <pubDate>Wed, 16 Sep 2026 17:01:30 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/NTN24/">NTN24</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/813428809_18629052481009154_1718331965710061435_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=6nycaqZKOYQQ7kNvwGSl1MA&amp;_nc_oc=Adr6ZLH_4Qt31gvd0lLqLhzQ7E4Ygl83js8nShjGvb336qlFKhmF3pU2yMyLylDiCvY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=gptUz-z_yD6VM5-_5Vcejw&amp;_nc_ss=7f289&amp;oh=00_AQKahR0Fc9jPDokycNLcv7ZyIseUpXd8Usw2dSP9R_n5yg&amp;oe=6AB0A689" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t51.82787-15/813428809_18629052481009154_1718331965710061435_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=6nycaqZKOYQQ7kNvwGSl1MA&amp;_nc_oc=Adr6ZLH_4Qt31gvd0lLqLhzQ7E4Ygl83js8nShjGvb336qlFKhmF3pU2yMyLylDiCvY&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=gptUz-z_yD6VM5-_5Vcejw&amp;_nc_ss=7f289&amp;oh=00_AQKahR0Fc9jPDokycNLcv7ZyIseUpXd8Usw2dSP9R_n5yg&amp;oe=6AB0A689" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>38 reacciones · 27 comentarios | Repercussão - Um dia depois da sessão histórica no Supremo Tribunal Federal o presidente e candidato à reeleição pelo PT, Lula, se manifestou em entrevista a um podcast. O petista defendeu que qualquer pessoa que tenha cometido irregularidades seja investigada e julgada. "Veja, eu não era presidente quando o Alexandre de Moraes foi indicado para ministro da Suprema Corte. Ele [Flávio, candidato do PL à Presidência] era senador, ele deve ter votado no Alexandre de Moraes. Eu não era presidente quando eles indicaram o Kássio. Ele deve ter votado. Eu não era presidente quando eles indicaram o André Mendonça, portanto ele é o culpado e não eu. Então ele tenta jogar. E eu quero dizer para vocês em alto e bom som. Todo mundo que cometeu erro em qualquer área tem que ser julgado. O que eu defendo é um julgamento justo com direito de defesa. Mas a pessoa cometeu um delito, a pessoa tem que pagar um preço". Leia mais no #g1 #g1política #stf #lula #moraes | g1 - O Portal de Notícias da globo</title>
+      <link>https://www.facebook.com/reel/1573603387116251/?comment_id=1403410984465246&amp;__cft__%5B0%5D=AZhSbr76madV6Am7DmUX93oohJpH0x9pPnZ9Pp12QvAPGFxIDJ3awMxej8Whj3c2QqYS0-yFIe2wvBeVleyLyKb61FiCDbw5lDUGspN2Qpdr81vyxPvyTN_rB-4LrkG9-f73Y7vt37NTZHe1M0hcMGeXJyIgRtD4HH2dBJeUirDYdBIdsqzhN_GiGq3LeSXwnIzm&amp;__tn__=R-R</link>
+      <description>Repercussão - Um dia depois da sessão histórica no Supremo Tribunal Federal o presidente e candidato à reeleição pelo PT, Lula, se manifestou em entrevista a um podcast. O petista defendeu que... Repercussão - Um dia depois da sessão histórica no Supremo Tribunal Federal o presidente e candidato à reeleição pelo PT, Lula, se manifestou em... Fuente: g1.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1b5dec176e0cabda</guid>
+      <pubDate>Wed, 16 Sep 2026 17:01:30 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/g1/">g1</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813875877_1764160958187757_4395824844996997892_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=c-5qCcnv0UgQ7kNvwEbzjsH&amp;_nc_oc=AdpW2e9iUa1BBhJGlK9FSAvp9xm4vXk72JaY6e1WOISE1peUOHn8-xI9Ipr3vrOnPts&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=Y2TBMrPCmN58v-GRf8DMUw&amp;_nc_ss=7f289&amp;oh=00_AQJJA-kcev8Jue6A3WTx4MbdG3-RWuAEx1RLeA4NefAemA&amp;oe=6AB08459" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813875877_1764160958187757_4395824844996997892_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=c-5qCcnv0UgQ7kNvwEbzjsH&amp;_nc_oc=AdpW2e9iUa1BBhJGlK9FSAvp9xm4vXk72JaY6e1WOISE1peUOHn8-xI9Ipr3vrOnPts&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=Y2TBMrPCmN58v-GRf8DMUw&amp;_nc_ss=7f289&amp;oh=00_AQJJA-kcev8Jue6A3WTx4MbdG3-RWuAEx1RLeA4NefAemA&amp;oe=6AB08459" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>17 reacciones | 🔴EN VIVO🔴 ➡The Strongest Derrota por la Mínima a ABB ➡Conferencias de Arbitros ➡Nacional Potosí vs Always Ready ➡Continua la Fecha 20 | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1960135644655293/?comment_id=1405854484223052&amp;__cft__%5B0%5D=AZhaBnnnDqDRQMaLu_57jd5vdVTzb9dcMJGXqtGzKqLa17xnoO9WV2iZB9uWgT8yBC_tzCwtGq740heIO7aDv27lhUAMc7k58J_HDbFSVlWGYmhJVpItz0L90FTBuxO4oo04OSB_bdDRVm87pof6kFllY3HXn8o0T7IXjKpJsMPWOHf1NOTea-ZaDlj_9LdTCyM&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO🔴 ➡The Strongest Derrota por la Mínima a ABB ➡Conferencias de Arbitros ➡Nacional Potosí vs Always Ready ➡Continua la Fecha 20 Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cbb45903e0a228a0</guid>
+      <pubDate>Wed, 16 Sep 2026 17:01:30 +0000</pubDate>
+      <category>mundo</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/813876831_1399319895002078_8600690927324390575_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=H5Pc56TEKOwQ7kNvwGodwsc&amp;_nc_oc=AdqajZRzVRH2jZu2ct2EztRI1L9X_FgIejund21lpElBp5SNCszpfF-2geUhOE5lDBA&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=5hqNOysHIobp_6mw-r2HKg&amp;_nc_ss=7f289&amp;oh=00_AQKVGSWskkiF4acTRfk0k4iIdXQuC4DwddJ-Ja-Ik-dsNg&amp;oe=6AB097F3" medium="image" />
+      <enclosure url="https://scontent-ams2-1.xx.fbcdn.net/v/t15.5256-10/813876831_1399319895002078_8600690927324390575_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=H5Pc56TEKOwQ7kNvwGodwsc&amp;_nc_oc=AdqajZRzVRH2jZu2ct2EztRI1L9X_FgIejund21lpElBp5SNCszpfF-2geUhOE5lDBA&amp;_nc_zt=23&amp;_nc_ht=scontent-ams2-1.xx&amp;_nc_gid=5hqNOysHIobp_6mw-r2HKg&amp;_nc_ss=7f289&amp;oh=00_AQKVGSWskkiF4acTRfk0k4iIdXQuC4DwddJ-Ja-Ik-dsNg&amp;oe=6AB097F3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>21 mil reproducciones · 327 reacciones | LIVE: Media briefing on Ebola and other global health issues with Dr Tedros | World Health Organization (WHO)</title>
+      <link>https://www.facebook.com/WHO/videos/1384404030523288/?comment_id=1407152884893064&amp;__cft__%5B0%5D=AZg-2tf12jlP03mnLTomKqCV1fwVB_3II4b0hPSw2ffY8TrdKPaaETkugPUv4n44eEJLYaQgoilnazxbaadgt2E_4IY8J85VzMlPs56S5XVp-bivwR_PukLJUII-O9bT8g-tnLI6v-jTu1H9V7Oj3afWZVIFumLimxHDXLe9615d-pbELlbJwb8UHVS75ln2TFE&amp;__tn__=R-R</link>
+      <description>What measures will the Congolese government take to prevent this dangerous disease from spreading to other countries? Jiab Titima Fuente: World Health Organization.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1ba9259c498c9ba4</guid>
+      <pubDate>Wed, 16 Sep 2026 17:01:30 +0000</pubDate>
+      <category>salud</category>
+      <category>África</category>
+      <source url="https://www.facebook.com/WHO/">World Health Organization</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/812781539_1582938217197727_7918673803187889501_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sPUfhZIIPhYQ7kNvwEVDQEj&amp;_nc_oc=AdpB-eF41MvyKHD3qkhm8MLa_RmOyIS6kpxrjZBRZDeF81ra-NeI2dInxuxYFmyt-V4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=uDiQvNKIN4Ssfc62MlW5QA&amp;_nc_ss=7f289&amp;oh=00_AQK8FANj0dU9ex7c0qKTsMzy9Gi9-3Ig1nPMpH2ECXBOvw&amp;oe=6AB0AE51" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/812781539_1582938217197727_7918673803187889501_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=sPUfhZIIPhYQ7kNvwEVDQEj&amp;_nc_oc=AdpB-eF41MvyKHD3qkhm8MLa_RmOyIS6kpxrjZBRZDeF81ra-NeI2dInxuxYFmyt-V4&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=uDiQvNKIN4Ssfc62MlW5QA&amp;_nc_ss=7f289&amp;oh=00_AQK8FANj0dU9ex7c0qKTsMzy9Gi9-3Ig1nPMpH2ECXBOvw&amp;oe=6AB0AE51" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Safety crisis makes it more likely that governments will be spurred into action, says Yoshua Bengio</title>
+      <link>https://www.facebook.com/theguardian/posts/pfbid02NKYnmbLFt6wrMRCuyLLMjNqssTT77qVE6pL5h7xvA7vNqpnjLaKBwFKDMaHvJgD6l?__cft__%5B0%5D=AZgvpaTKLI1DU_1UOi4WhKHTXfQTqjEVaBkNSe9nhYSG-DSTaN7D1QhPy99iKSIFh7nlZsa63O__jiwEnFp-lHWBTavfY6NpTgDgaSfoz1k3lc1WC9lS4T5vAVgrVlwRc2rwZusUQrHD1SSQLnkc75In5jz4HnREgS8RmuCDPQqB_Ro7e2srhiDicP0&amp;__tn__=%2CO%2CP-R</link>
+      <description>Safety crisis makes it more likely that governments will be spurred into action, says Yoshua Bengio AI is the end of the technocrat hegemony....so no wonder they're squealing.... THEGUARDIAN.COM ‘Godfather of AI’ says tech regulation is nearing Covid-style pivot moment Paul Browne Fuente: The Guardian.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8e4e43fa0c495f61</guid>
+      <pubDate>Wed, 16 Sep 2026 16:45:29 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/theguardian/">The Guardian</source>
+      <media:content url="https://external-lhr11-1.xx.fbcdn.net/emg1/v/t13/736600126997978357?url=https%3A%2F%2Fechobox-media.s3.amazonaws.com%2Fsocial_media_images%2F469%2F469-1789577081-tiigd7f324tgeos46b11d0fdeijvbi3k.jpg&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lhr11-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=If1ly2-PrHQPP-f2PLXSLA&amp;_nc_zt=3&amp;oh=06_Q3_DAR-Ug75NUWGuN3SrmReJrHetW86tep6R1DgHH4LQ7uIj&amp;oe=6AACAB4E" medium="image" />
+      <enclosure url="https://external-lhr11-1.xx.fbcdn.net/emg1/v/t13/736600126997978357?url=https%3A%2F%2Fechobox-media.s3.amazonaws.com%2Fsocial_media_images%2F469%2F469-1789577081-tiigd7f324tgeos46b11d0fdeijvbi3k.jpg&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lhr11-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=If1ly2-PrHQPP-f2PLXSLA&amp;_nc_zt=3&amp;oh=06_Q3_DAR-Ug75NUWGuN3SrmReJrHetW86tep6R1DgHH4LQ7uIj&amp;oe=6AACAB4E" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>3896 reproducciones · 54 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🔴¡¡EN VIVO!!🔴 #ABB 🆚 #TheStrongest | ATB Digital</title>
       <link>https://www.facebook.com/ATBDigital/videos/1440696871282890/?comment_id=922020090576922&amp;__cft__%5B0%5D=AZhzFkOV_iW9mV4H7JAcr1HqHKqACHRfMjEp_GyZxQipW5XJ38EJC8Nl6tjz-Djzi364Yvgeqrs-6Yxl7eydvl9RYEpv4yMh-Ug7hhwchIrivQEzkdWZ3XX03l2GwVPPJS3fKOcpKzwfQo7qLspL9Q3u7zlfscRnnN3HQeYiOPCpFu6fJZqM5Ei4HjlEHbFEDw4&amp;__tn__=R-R</link>
       <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🔴¡¡EN VIVO!!🔴 #ABB 🆚 #TheStrongest Fuente: ATB Digital.</description>
@@ -1184,28 +1263,16 @@
     <item>
       <title>Burnham says budget will be ‘challenging’ but no risks will be taken with economy or living standards – UK politics live</title>
       <link>https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates</link>
-      <description>‘It’s going to be challenging because the picture around the world is challenging and particularly the situation in the Middle East,’ says PM Wes Streeting , the defence secretary, has posted this on social media ahead of Andy Burnham’s meeting with the Nato secretary general Mark Rutte later. Today I am reminded of the words of my Labour predecessor Denis Healey: “Once we cut defence expenditure to the extent where our security is imperilled, we have no houses, we have no hospitals, we have no schools. We have a heap of cinders.” [Britain] is leading, along with Nato allies, the push back… Fuente: The Guardian - World.</description>
+      <description>PM responds to criticism from former Bank of England chief economist Wes Streeting , the defence secretary, has posted this on social media ahead of Andy Burnham’s meeting with the Nato secretary general Mark Rutte later. Today I am reminded of the words of my Labour predecessor Denis Healey: “Once we cut defence expenditure to the extent where our security is imperilled, we have no houses, we have no hospitals, we have no schools. We have a heap of cinders.” [Britain] is leading, along with Nato allies, the push back against Russia’s dangerous and reckless campaign against us. Collectively… Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:24766e07e61786c5</guid>
       <pubDate>Wed, 16 Sep 2026 11:19:41 +0000</pubDate>
       <category>conflictos</category>
       <category>Global</category>
+      <category>Europa</category>
       <dc:creator>Andrew Sparrow</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/1849ea6d18fdd653276b9356d7490fbca3c86f91/927_364_3295_2636/master/3295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9715b35cab6a9eb7681b4db20c5fb28e" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/1849ea6d18fdd653276b9356d7490fbca3c86f91/927_364_3295_2636/master/3295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9715b35cab6a9eb7681b4db20c5fb28e" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Former Kosovo president Thaçi sentenced to 25 years in prison by international court in The Hague – Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/sep/16/european-union-ursula-von-der-leyen-eu-europe-latest-news-updates</link>
-      <description>Thaçi held criminally responsible for war crimes during the violent break from Serbia in the 1990s Von der Leyen says “kickstarting Europe’s economy is our number one priority,” as Europe needs to tap into its huge market, world class industries and services. She says its single market remains too fragmented and needs to reform further, with the aim of completing it by the end of next year. “ Do we want to rally around our European idea that together we can decide our own destiny? Or do we let our democracies be undermined by the proxies and puppets of authoritarians? Whether it is the ultra… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c547a9a9bd50e64a</guid>
-      <pubDate>Wed, 16 Sep 2026 11:16:29 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>Jakub Krupa</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4807504371f5eb03389577fe1f8a6eaa" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/0b0af3e09690fa2ca1fd2107b309c936a94651f9/136_188_3096_2477/master/3096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4807504371f5eb03389577fe1f8a6eaa" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>EL PAÍS organiza la tercera edición de Diálogos para la Seguridad, centrada en el papel de Europa en un mundo en crisis</title>
@@ -1546,60 +1613,6 @@
       <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
       <media:content url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/13392073743866276276?url=https%3A%2F%2Fimage.trueanthem.com%2FeJNmku5YaTIDx3mfyGeaXj12ZIjr_nqjGVScg7rQLFQ%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTJfV0JQNTA1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TBu3mgyD_0W28MfABhQ4Eg&amp;_nc_zt=3&amp;oh=06_Q3_DAeDD-DzZ7ymENLPaW2ernhlp66xZUO7J9zwLwUMM-P8m&amp;oe=6AAB274A" medium="image" />
       <enclosure url="https://external-dfw5-2.xx.fbcdn.net/emg1/v/t13/13392073743866276276?url=https%3A%2F%2Fimage.trueanthem.com%2FeJNmku5YaTIDx3mfyGeaXj12ZIjr_nqjGVScg7rQLFQ%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTJfV0JQNTA1LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-dfw5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=TBu3mgyD_0W28MfABhQ4Eg&amp;_nc_zt=3&amp;oh=06_Q3_DAeDD-DzZ7ymENLPaW2ernhlp66xZUO7J9zwLwUMM-P8m&amp;oe=6AAB274A" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pensioners are ‘big winners’ with triple-lock set to rise by 3.9%, lifting state pension to £13,000 – business live</title>
-      <link>https://www.theguardian.com/business/live/2026/sep/15/uk-companies-job-cuts-pay-growth-slows-grocery-inflation-interest-rates-ai-stocks-live-news-updates</link>
-      <description>Wage growth – used to set triple-lock pension – slows to 3.9%, meaning state pension should hit £13,000 next year ‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable? If the state pension rises to £13,000 next year, it will probably breach the UK’s tax-free personal allowance (currently £12,570) – the amount you can earn before paying income tax. However, pensioners who don’t receive any other income should still be exempt from paying tax if the state pension exceeds the personal allowance. In the 2025 Budget the government announced the personal allowance would… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d81826775ec6df87</guid>
-      <pubDate>Tue, 15 Sep 2026 13:13:27 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <dc:creator>Graeme Wearden</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddbf1768ac1c5d36dedbc7efac04718a" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/f2f9599d15cc295c15a25418367cb77c148c6a83/1542_1383_2104_1683/master/2104.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddbf1768ac1c5d36dedbc7efac04718a" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Drone shot down in Lithuania ‘probably from Russia’ as EU warns of ‘pattern of aggression’ - Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates</link>
-      <description>The European Commission’s president warned that recent actions in Denmark and Lithuania are ‘not isolated incidents’ Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania Ukrainian foreign minister Andrii Sybiha responded to the incident in Denmark, declaring Kyiv’s “full support” after “unacceptable actions targeting a Danish helicopter.” “ Moscow continues its attempts to destabilise Europe, not just Denmark. Joint and decisive action is required and Ukraine is ready to contribute to all efforts aimed at strengthening the protection of Europe from… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:612a6c76a5021ba4</guid>
-      <pubDate>Tue, 15 Sep 2026 13:07:49 +0000</pubDate>
-      <category>conflictos</category>
-      <category>politica</category>
-      <category>Europa</category>
-      <dc:creator>Jakub Krupa (now and earlier) and Martin Belam (earlier)</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c51247cdb74b2e7d314085df6b665fb" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/4990b84ab617abfeea1738696df0489b58b5e640/66_0_3987_3189/master/3987.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c51247cdb74b2e7d314085df6b665fb" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Pensioners just above threshold shouldn’t pay income tax, says No 10 – UK politics live</title>
-      <link>https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates</link>
-      <description>PM’s spokesperson says those whose only income is the state pension should not pay income tax in this parliament despite the expected rise to £13,000 The Liberal Democrats have said that they will try to introduce a cap on the amount people donate to political parties by amending the representation of the people bill as it goes through the Lords. Lisa Smart , the Lib Dem Cabinet Office spokesperson, said: We can’t keep playing whack-a-mole with each new attempt by Farage to sell out our democracy. Labour’s residency requirements aren’t good enough and the Conservatives simply sat on their… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e333ce0c924621a0</guid>
-      <pubDate>Tue, 15 Sep 2026 12:57:49 +0000</pubDate>
-      <category>politica</category>
-      <category>Global</category>
-      <dc:creator>Andrew Sparrow</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/f3a1089df63ff7e244abe824980607f8653b1e2a/724_1427_2286_1829/master/2286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66946f8b57f4f76d6de85cb077d7d138" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/f3a1089df63ff7e244abe824980607f8653b1e2a/724_1427_2286_1829/master/2286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=66946f8b57f4f76d6de85cb077d7d138" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Houthis Report Deadly Saudi Airstrikes as Kingdom Issues Mass Alerts</title>
-      <link>https://www.nytimes.com/2026/09/15/world/middleeast/yemen-saudi-arabia-houthis-attacks.html</link>
-      <description>The two sides traded accusations of attacks as fighting inside Yemen remains fierce. The escalating conflict threatens to further destabilize the Middle East. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a8125f4fd0421780</guid>
-      <pubDate>Tue, 15 Sep 2026 12:10:02 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <category>América del Norte</category>
-      <dc:creator>Ismaeel Naar</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/15/multimedia/15int-Saudi-Houthis-mfbg/15int-Saudi-Houthis-mfbg-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/15/multimedia/15int-Saudi-Houthis-mfbg/15int-Saudi-Houthis-mfbg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
