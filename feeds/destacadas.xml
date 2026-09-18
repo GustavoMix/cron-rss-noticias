@@ -7,23 +7,9 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Fri, 18 Sep 2026 00:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 04:57:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ed Sheeran's support acts quit US tour after Macklemore dropped</title>
-      <link>https://www.abc.net.au/news/2026-09-16/ed-sheerans-tour-in-trouble-after-opening-acts-drop-out/107157812</link>
-      <description>Ed Sheeran’s tour of North and South America was plunged into chaos Tuesday when four of his supporting acts abruptly quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments on stage. Hours after Sheeran posted on social media about Macklemore’s ousting and attributed the decision to the tour’s promoters, Irish acts Aaron Rowe and Beoga, the Danish band Lukas Graham, and Finneas posted on social media that they were leaving the tour. Rowe and Lukas... Publicado también por: South China Morning Post, BBC News - World, The Washington Post - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:286c6d5cd893e252</guid>
-      <pubDate>Tue, 15 Sep 2026 23:43:41 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/a6e4bb3a9c28af137eb24a0983c0b353?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/a6e4bb3a9c28af137eb24a0983c0b353?impolicy=wcms_crop_resize&amp;cropH=1969&amp;cropW=3500&amp;xPos=0&amp;yPos=72&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
     <item>
       <title>Former Kosovo president Hashim Thaci jailed for 25 years for war crimes</title>
       <link>https://www.independent.co.uk/news/world/crime/hashim-thaci-war-crimes-kosovo-president-the-hague-b3051110.html</link>
@@ -38,6 +24,20 @@
       <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
       <media:content url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2007/12/10/17/Kosovo2007.jpeg?width=1200&amp;auto=webp&amp;crop=3%3A2" medium="image" />
       <enclosure url="https://static.independent.co.uk/s3fs-public/thumbnails/image/2007/12/10/17/Kosovo2007.jpeg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>New tiger cat species identified in Bolivia, first in over a century</title>
+      <link>https://www.aljazeera.com/news/2026/9/18/new-tiger-cat-species-identified-in-bolivia-first-in-over-a-century?traffic_source=rss</link>
+      <description>New species of wild feline was discovered in Bolivia’s Yungas forest that is smaller than the average domestic ⁠cat A diminutive wild cat that inhabits Bolivia’s ⁠cloud forest has been identified as a previously unknown species, marking the first time a new living feline species has been formally named and described in more than a century. The cat, called tilcayo by local communities, is part of a group called tiger ⁠cats found across much of South ⁠America. It was found in Bolivia’s ​lush Yungas forest, a mountainous region where forests are often covered by clouds and surrounded by high… Publicado también por: The Guardian - World, The Hindu - International, South China Morning Post. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:43e36c740d174259</guid>
+      <pubDate>Fri, 18 Sep 2026 04:16:28 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad420e896e9ea2421da0e78b9b182d5f" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/3434cb2b735cf3a888007c59b6864fb6b3284902/492_0_4917_3934/master/4917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad420e896e9ea2421da0e78b9b182d5f" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>New cat species identified in Bolivia for first time in more than a century</title>
@@ -584,19 +584,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>OpenAI boss says world 'right to be afraid' but 'should trust' AI firms</title>
-      <link>https://www.bbc.co.uk/news/articles/cqx2zpj4y525o</link>
-      <description>As the world debates an AI slowdown, Sam Altman and several other tech leaders say they have incentives to self-police their AI advancements. Fuente: BBC News - Business.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d1f49adb34b12796</guid>
-      <pubDate>Wed, 16 Sep 2026 00:13:09 +0000</pubDate>
-      <category>economia</category>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cc2/live/2332d760-b15f-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Sweden’s PM resigns after centre-left bloc wins slim majority in election</title>
       <link>https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns</link>
       <description>Sweden’s conservative Prime Minister Ulf Kristersson announced his resignation on Thursday after the left-wing opposition won a slim majority in parliament in the country’s general election. “It is now the speaker of parliament who will lead the next steps on the path towards forming a new government. In order for this work to begin immediately, I hereby request to be relieved of my duties as prime minister,” Kristersson said in a letter to the speaker which he posted to social media. The four... Publicado también por: South China Morning Post. Fuente: The Guardian - World.</description>
@@ -605,6 +592,7 @@
       <category>politica</category>
       <category>conflictos</category>
       <category>Asia</category>
+      <category>Global</category>
       <dc:creator>Miranda Bryant Nordic correspondent</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/1e276cb45da0b205fc6146ad664465225d128e78/355_0_3810_3048/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=218530bcc07fae0df7b8524649bf85e1" medium="image" />
@@ -675,6 +663,19 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2198/live/753c0bc0-b19c-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2198/live/753c0bc0-b19c-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Aztec manuscript returns to Mexico after two centuries, on loan</title>
+      <link>https://www.dw.com/en/aztec-manuscript-returns-to-mexico-after-two-centuries-on-loan/a-79316983?maca=en-rss-en-world-4025-rdf</link>
+      <description>A prized 16th-century manuscript chronicling the rise and fall of the Aztec Empire has gone on display in Mexico City, nearly two centuries after it was taken to France, as Mexico continues to press Paris for its permanent return. Publicado también por: France 24 - English. Fuente: Deutsche Welle - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9f11dbf4b5bbd728</guid>
+      <pubDate>Fri, 18 Sep 2026 03:07:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://rss.dw.com/rdf/rss-en-world">Deutsche Welle - World</source>
+      <media:content url="https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US approves $414M uranium investment in Niger, two years after troops left</title>
@@ -982,22 +983,9 @@
       <enclosure url="https://i.guim.co.uk/img/media/3c27bedbd4302d83f4a9a8550d02971439dfc034/337_0_5730_4584/master/5730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=643b50c09483668e1cc373b10a19db9c" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Police crack down on protests against constitutional change in DR Congo</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02uFynCPk45kXnWNbXRDrVxgAt6yHVpEZbR9E2dFH2wRMGpZYa2sH9DWGLcRYbERCFl?__cft__%5B0%5D=AZgckY91mW7z9u_eNV2cDLJ1Zy-zDgn_bs3thKpKJ7_BZMFbuaHNoR6oHL4R8jOk6nyBO74XYmYQt_uFl88UzTlpGhWDvTTkTrVC5WhHzGIykNbgV-YJgZeCDmU3b9BxXEsQ6WHnr9abl55U7M3P18yDEwsGTdTKqpyV_DM33e2Sm9ulcXl_HjQ4NTs&amp;__tn__=%2CO%2CP-R</link>
-      <description>Demonstrations held across country against president's proposed constitutional changes seeking third term. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:35c9399d89fee0d4</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:46 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/811830512_1075003604941502_4442275426716917082_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x798&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=vNjqZEIeii4Q7kNvwFe9583&amp;_nc_oc=Adpx3M0bBTdiYnb8JpJD7A3PS5qWC9qHzAZYDQwvfIPqKOaol4uqzi4sbsxyUFIgo8I&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=xFiFVnVNCPVmzR-t-JTgrw&amp;_nc_ss=7f289&amp;oh=00_AQKWf8Tfl-2pPvcQgDOyY2Do4kp9GOcNixQGjlJvR77l9g&amp;oe=6AAFA09D" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/811830512_1075003604941502_4442275426716917082_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x798&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=vNjqZEIeii4Q7kNvwFe9583&amp;_nc_oc=Adpx3M0bBTdiYnb8JpJD7A3PS5qWC9qHzAZYDQwvfIPqKOaol4uqzi4sbsxyUFIgo8I&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=xFiFVnVNCPVmzR-t-JTgrw&amp;_nc_ss=7f289&amp;oh=00_AQKWf8Tfl-2pPvcQgDOyY2Do4kp9GOcNixQGjlJvR77l9g&amp;oe=6AAFA09D" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Warm words on Canada's EU 'associate membership' but no guarantees</title>
       <link>https://www.bbc.co.uk/news/articles/crlyqg1ekj4po</link>
-      <description>There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes Katya Adler. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <description>There is no certainty that the idea will ever get off the ground, let alone become a blueprint for other countries, writes the BBC's Katya Adler. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:e9990ba1b6978e75</guid>
       <pubDate>Thu, 17 Sep 2026 16:59:43 +0000</pubDate>
       <category>conflictos</category>
@@ -1138,6 +1126,29 @@
       <enclosure url="https://static01.nyt.com/images/2026/09/15/multimedia/15INT-DENMARK-RUSSIA-pmlq/15INT-DENMARK-RUSSIA-pmlq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Russia and China veto US-backed resolution to monitor Iran nuclear sanctions</title>
+      <link>https://www.euronews.com/2026/09/18/russia-and-china-veto-us-backed-resolution-to-monitor-iran-nuclear-sanctions</link>
+      <description>The proposal which the United States had drafted to extend the UN expert panel’s mandate for a year was defeated by a vote of 11-2, with Somalia and Pakistan abstaining because of the Russian and Chinese vetoes. Publicado también por: Al Jazeera English. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bb295d5541720006</guid>
+      <pubDate>Fri, 18 Sep 2026 04:27:18 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+    </item>
+    <item>
+      <title>Bank of Japan raises interest rates to 31-year high, flags concerns over inflation</title>
+      <link>https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html</link>
+      <description>Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks. Publicado también por: Al Jazeera English. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:99618895681898da</guid>
+      <pubDate>Fri, 18 Sep 2026 03:31:45 +0000</pubDate>
+      <category>economia</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
       <title>Viacha no está sola. El Gobierno entregó 8,2 toneladas de ayuda humanitaria y continúa acompañando a las familias afectadas. B... Ver más</title>
       <link>https://www.facebook.com/reel/2921585421567835/?__cft__%5B0%5D=AZhrhl_ANYYuJjESy8yLCNlDkysjfqJLDj_Kfu_22144vD1MOaYbMyR0vzA8YH8jc8BLgyTcAa7XtU8_lyYrxs-WrnmG4_PoJLJ-RymZf00AClMQZBoFKvaaAevELziqRDk_-rP1XCerTUE2g-_iimx6VqFKqvUooXupd1BIkTKQSsR0s4FXWj1Avenqi8TexCuV&amp;__tn__=%2CO%2CP-R</link>
       <description>Viacha no está sola. El Gobierno entregó 8,2 toneladas de ayuda humanitaria y continúa acompañando a las familias afectadas. B... Ver más Viacha no está sola. El Gobierno entregó 8,2 toneladas de ayuda humanitaria y continúa acompañando a las familias afectadas. B... Ver más Tenemos problemas para reproducir este vídeo. Más información Publicado también por: Urgente.bo. Fuente: Los Tiempos Digital.</description>
@@ -1220,6 +1231,31 @@
       <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
       <media:content url="https://www.clarin.com/img/2026/09/16/HCW1NhLgE_1200x630__1.jpg" medium="image" />
       <enclosure url="https://www.clarin.com/img/2026/09/16/HCW1NhLgE_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>4673 reproducciones · 72 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 19 🏙️LA PAZ 🏟️HERNANDO SILES 🔥 ¡¡EN VIVO!!🔥 #ClubBolívar 🆚 #GvSanJosé | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1101687158965673/?comment_id=2126690514621988&amp;__cft__%5B0%5D=AZgflrh0ziAnZggb8WSjfXtjmysk3lpuoW-aAd_h8ZyFmudi_I5RyF3UCUHUyiJXSZzQGMoguFsJoEH85T6N3YGIWofBq2Itl2-uTbyujLlHwY7Z2_5jWtrYlBeVJTYBiI3AJhpmYnPb5N3hp950cvtaWtgyYozkaY1ZfLogFCUSo9UwZ3RuDF-lIXrQ27WABiY&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 19 🏙️LA PAZ 🏟️HERNANDO SILES 🔥 ¡¡EN VIVO!!🔥 #ClubBolívar 🆚 #GvSanJosé Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a235a126e55dfabf</guid>
+      <pubDate>Fri, 18 Sep 2026 04:57:33 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/811615948_2174423716830391_2841698621558119357_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=tBY-XG7RgrEQ7kNvwFdVBHe&amp;_nc_oc=AdrhQZ4f2GdPb1XMTStOMjn6jdxXctNJt0LMNEo6NmrAaJ8GCXseZDJpdPi2Fb_G8TA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=k1Jm24MXtn4pqkUgD-2Omg&amp;_nc_ss=7f289&amp;oh=00_AQIzw1-jq6uRFGuVUWg64yn493VCySIsB843KyldlpH5ng&amp;oe=6AB2A123" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/811615948_2174423716830391_2841698621558119357_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=tBY-XG7RgrEQ7kNvwFdVBHe&amp;_nc_oc=AdrhQZ4f2GdPb1XMTStOMjn6jdxXctNJt0LMNEo6NmrAaJ8GCXseZDJpdPi2Fb_G8TA&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=k1Jm24MXtn4pqkUgD-2Omg&amp;_nc_ss=7f289&amp;oh=00_AQIzw1-jq6uRFGuVUWg64yn493VCySIsB843KyldlpH5ng&amp;oe=6AB2A123" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The parents of a 23-year-old woman who was struck and killed after her Uber driver left her along a Southern California freeway are speaking out after being awarded $40... Ver más</title>
+      <link>https://www.facebook.com/ABCNews/posts/pfbid028t7kZd4wnVtrPt8U3jhrEAj6qE1dS4uh8qMgAcWxYUiwTPGQPuZQLiMMABx14Bhql?__cft__%5B0%5D=AZjuN_A7hLF9tU9ZlMaGHt6drhLXXsTkyGeSGYuIKZJXqTonVUSmdiAWI5J7l8_UO7vSNAHmjuKuHVaQwWFD1lu7bQX8z0L_DI0KH99sUI5GR9Wm729zS-EjTM8PcE5NFTRxbZ438AtaR9j9TRpOkL-a2fs4KPSMzUrwgkfZW1DMkenekm10YVXPLGc&amp;__tn__=%2CO%2CP-R</link>
+      <description>The parents of a 23-year-old woman who was struck and killed after her Uber driver left her along a Southern California freeway are speaking out after being awarded $40... Ver más Ver más comentarios Norma Castillo Fuente: ABC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c830089ac726a265</guid>
+      <pubDate>Fri, 18 Sep 2026 04:46:03 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/ABCNews/">ABC News</source>
+      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/814535978_1236733838638689_8024070193254919865_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=usXQCiUGO4MQ7kNvwHgUCu6&amp;_nc_oc=Adr4_2CvKeKLt5sLioZNyXxjT-Et9kbAcwh3tTgOsXjzMt6L328SFpYUafcJREzqXNY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=aKjv3f97uQB7iDK0a4qWUw&amp;_nc_ss=7f289&amp;oh=00_AQJ5OWicLOuddk_tpumPC66o_b1D-3jdx-zo7UUACZ_YsA&amp;oe=6AB2AD9A" medium="image" />
+      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/814535978_1236733838638689_8024070193254919865_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=usXQCiUGO4MQ7kNvwHgUCu6&amp;_nc_oc=Adr4_2CvKeKLt5sLioZNyXxjT-Et9kbAcwh3tTgOsXjzMt6L328SFpYUafcJREzqXNY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=aKjv3f97uQB7iDK0a4qWUw&amp;_nc_ss=7f289&amp;oh=00_AQJ5OWicLOuddk_tpumPC66o_b1D-3jdx-zo7UUACZ_YsA&amp;oe=6AB2AD9A" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Hovalan Mojodaiblo Bazou ha comentado: Ultimately, universal access to stealth tech will come about once our rescuer, China, acquires a live blueprint</title>
@@ -1581,49 +1617,6 @@
       <source url="https://www.facebook.com/estadao/">Estadão</source>
       <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/813421106_1369565711833937_2028820392606814350_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=cQUYZM_3c9sQ7kNvwE3UU9H&amp;_nc_oc=Adofy0RrcjjzT5b5FUA5sIFCZmZOJxwE7wVB7s7zr_eY-dy8mqTrYPmeCox4kP8o5hY&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=b50B7UnT89OHAI5cNhWyQA&amp;_nc_ss=7f289&amp;oh=00_AQKHi4kpF6YUje_rVk2jc3dnd-h9Ptr_nUM3wSEqGGmrvA&amp;oe=6AB0F7C8" medium="image" />
       <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/813421106_1369565711833937_2028820392606814350_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=cQUYZM_3c9sQ7kNvwE3UU9H&amp;_nc_oc=Adofy0RrcjjzT5b5FUA5sIFCZmZOJxwE7wVB7s7zr_eY-dy8mqTrYPmeCox4kP8o5hY&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=b50B7UnT89OHAI5cNhWyQA&amp;_nc_ss=7f289&amp;oh=00_AQKHi4kpF6YUje_rVk2jc3dnd-h9Ptr_nUM3wSEqGGmrvA&amp;oe=6AB0F7C8" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BREAKING: The House passed a Russia and Iran sanctions bill championed by the late Sen. Lindsey Graham Wednesday night — sending the measure to President Trump’s desk for his…</title>
-      <link>https://www.facebook.com/ABCNews/posts/pfbid0YVwV7fy9vAEHfhDpv88SSrJ3P75Xu1bj2AsEisCpmWU4L5W6EV2CK8QtFQ9pp2FJl?__cft__%5B0%5D=AZj2WtTRHkX5JNlEV5sqbYqg_p0lFawWbvmmqSwakUMacv6u5tvuzBNiFGdrm_DYdG-rFwBSjxVepSdoUG9665f9xvaNBV4QZ7jTKiQNjbn2nScqu9seJdzFsy71gIWSotCwCgR9b7Z0X8iRlgf9bBiqeV7ijUdJbXSiAso0AG_WnRaWWK-d4jYwPrM&amp;__tn__=%2CO%2CP-R</link>
-      <description>BREAKING: The House passed a Russia and Iran sanctions bill championed by the late Sen. Lindsey Graham Wednesday night — sending the measure to President Trump’s desk for his signature. In a few years, many will proudly say that they lived through the Trump era: the man who changed his country and the world, who put an end to certain dictatorships and established a new world order, and who served… Fuente: ABC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1018a7bce3cda4cc</guid>
-      <pubDate>Wed, 16 Sep 2026 22:50:11 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/ABCNews/">ABC News</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16503175221540435004?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2Fe647e882-ef6d-4593-9cd7-7a37551929bf%2Fcapitol-2-ap-gmh-260914_1789403117671_hpMain_16x9.jpg%3Fw%3D1600&amp;fb_obo=1&amp;utld=abcnewsfe.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=rGYv_YcZJ_ENgDtRxbuJcQ&amp;_nc_zt=3&amp;oh=06_Q3_DAa3Vxm0KqjXnGVGzTJg0VxI4S7nQzCEPihkpzGcMKCa9&amp;oe=6AACED08" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16503175221540435004?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2Fe647e882-ef6d-4593-9cd7-7a37551929bf%2Fcapitol-2-ap-gmh-260914_1789403117671_hpMain_16x9.jpg%3Fw%3D1600&amp;fb_obo=1&amp;utld=abcnewsfe.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=rGYv_YcZJ_ENgDtRxbuJcQ&amp;_nc_zt=3&amp;oh=06_Q3_DAa3Vxm0KqjXnGVGzTJg0VxI4S7nQzCEPihkpzGcMKCa9&amp;oe=6AACED08" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australian politics live: People with child support debts to be banned from leaving Australia; Canavan defends Brethren church election involvement</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/sep/17/labor-immigration-policy-tony-burke-anthony-albanese-one-nation-ntwnfb</link>
-      <description>Follow the day’s news live Get our breaking news email , free app or daily news podcast Barnaby Joyce says Labor is copying and pasting One Nation’s homework because the measures we know so far around blocking the families of international students and preventing visa hopping have some similarity to what Pauline Hanson is suggesting. Speaking to the Today show a little earlier, Joyce says Burke’s last minute cancellation at the press club was “the greatest no-show since Amelia Earhart”. [Burke] can’t possibly be about to announce One Nation’s policy. I mean, Tony’s a great guy, right? I like… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:75f1fc8b56ed27a3</guid>
-      <pubDate>Wed, 16 Sep 2026 22:38:48 +0000</pubDate>
-      <category>politica</category>
-      <category>Oceanía</category>
-      <category>Global</category>
-      <dc:creator>Krishani Dhanji</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/89fed01eb736fd23a5a620116abf7c6d1438bcb3/0_2516_5504_4403/master/5504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27eb8cbd222743262529d96ea4abb05d" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/89fed01eb736fd23a5a620116abf7c6d1438bcb3/0_2516_5504_4403/master/5504.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27eb8cbd222743262529d96ea4abb05d" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fiji Declares a National Emergency as H.I.V. Cases Skyrocket</title>
-      <link>https://www.nytimes.com/2026/09/16/world/asia/fiji-hiv-national-emergency.html</link>
-      <description>Surging drug use has contributed to an epidemic in the Pacific island nation, where one in 60 adults is estimated to be living with the virus. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:58d1ef159f5264e4</guid>
-      <pubDate>Wed, 16 Sep 2026 21:44:40 +0000</pubDate>
-      <category>salud</category>
-      <category>ciencia</category>
-      <category>Oceanía</category>
-      <category>América del Norte</category>
-      <dc:creator>Zane Irwin</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-fiji-hiv-1-bpzf/16int-fiji-hiv-1-bpzf-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/16/multimedia/16int-fiji-hiv-1-bpzf/16int-fiji-hiv-1-bpzf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
