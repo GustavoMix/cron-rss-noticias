@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 19 Sep 2026 23:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:15:38 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -200,6 +200,7 @@
       <category>mundo</category>
       <category>Europa</category>
       <category>Oceanía</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754e/live/31c59420-b3e9-11f1-9fb5-25be39d7a18e.jpg" type="image/jpeg" length="0" />
@@ -284,6 +285,21 @@
       <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/532b1423-1c83-472f-882d-7c30b56327c8_48b3792f.jpg?itok=y3X6WRKV&amp;v=1789838250" medium="image" />
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/20/532b1423-1c83-472f-882d-7c30b56327c8_48b3792f.jpg?itok=y3X6WRKV&amp;v=1789838250" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Thick smoke seen near Riyadh airport after air raid alerts in Saudi capital</title>
+      <link>https://www.theguardian.com/world/2026/sep/19/saudi-arabia-riyadh-airport</link>
+      <description>Authorities issued warnings for city in first such alerts for Riyadh since fighting with Iran-backed Houthis escalated in July Yemen’s Houthis said they attacked “sensitive” sites in the Saudi capital with missiles and drones, hours after flames and a large plume of black smoke were seen rising above Riyadh airport on Saturday. The Saudi government sent air raid alerts to citizens by phone overnight warning of aerial attacks, marking the first time the government has issued such alerts for Riyadh since fighting with the Iran-backed Houthis escalated in July. Continue reading... Publicado también por: France 24 - English, CNBC - World, South China Morning Post. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5e438dc64cdb82bb</guid>
+      <pubDate>Sat, 19 Sep 2026 15:55:02 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Donna Ferguson, Yassin El-Moudden and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/975477497a09e1bb916ac60ca3ee53fecda3bad3/733_0_2316_1853/master/2316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=566b3a8e87cc878475430d48f8faa46a" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/975477497a09e1bb916ac60ca3ee53fecda3bad3/733_0_2316_1853/master/2316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=566b3a8e87cc878475430d48f8faa46a" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Trump says US has ‘permanent control’ of Greenland security: Does it?</title>
@@ -564,19 +580,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6559/live/83d8fba0-b2bb-11f1-9830-658a48c7da16.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Swedish PM Kristersson to resign after losing election</title>
-      <link>https://www.jpost.com/international/article-908949</link>
-      <description>"Now it is the speaker who will lead the next stage of the way to a new government," Swedish Prime Minister Ulf Kristersson said in a post on X/Twitter. Publicado también por: BBC News - World. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bb265b5c070a0192</guid>
-      <pubDate>Thu, 17 Sep 2026 15:30:10 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c987/live/23589710-b28c-11f1-8096-b33a1297275a.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Three students killed, including suspected gunman, in Philippine school shooting, mayor says</title>
       <link>https://www.jpost.com/international/article-909032</link>
       <description>Three students were killed in a school shooting in the southern Philippines on Friday, including a 16-year-old suspected gunman who turned ‌the gun on himself, provincial officials said. Eight others were injured, with four in critical condition. All the victims – Grade 9 students at Banga National High School – were aged 14 to 17, said Albert Palencia, mayor of Banga town in South Cotabato, where the shooting took place. The incident follows two fatal gun incidents since June at schools in the... Publicado también por: South China Morning Post. Fuente: The Jerusalem Post - International.</description>
@@ -634,19 +637,16 @@
       <enclosure url="https://static01.nyt.com/images/2026/09/18/multimedia/18xp-philippines-shooting-1-wffc-promo/18xp-philippines-shooting-1-wtmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Sweden’s PM resigns after centre-left bloc wins slim majority in election</title>
-      <link>https://www.theguardian.com/world/2026/sep/17/sweden-elections-prime-minister-resigns</link>
-      <description>Sweden’s conservative Prime Minister Ulf Kristersson announced his resignation on Thursday after the left-wing opposition won a slim majority in parliament in the country’s general election. “It is now the speaker of parliament who will lead the next steps on the path towards forming a new government. In order for this work to begin immediately, I hereby request to be relieved of my duties as prime minister,” Kristersson said in a letter to the speaker which he posted to social media. The four... Publicado también por: South China Morning Post. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3bf921dc3a8306b4</guid>
-      <pubDate>Thu, 17 Sep 2026 15:28:24 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
+      <title>Mum's viral barefoot race sparks debate over India's education crisis</title>
+      <link>https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo</link>
+      <description>Unprepared and in flip-flops, the 47-year-old widow ran 3km to try secure her daughter's future. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:64b87745eec80fdd</guid>
+      <pubDate>Sat, 19 Sep 2026 23:18:06 +0000</pubDate>
+      <category>mundo</category>
       <category>Asia</category>
-      <category>Global</category>
-      <dc:creator>Miranda Bryant Nordic correspondent</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/1e276cb45da0b205fc6146ad664465225d128e78/355_0_3810_3048/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=218530bcc07fae0df7b8524649bf85e1" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/1e276cb45da0b205fc6146ad664465225d128e78/355_0_3810_3048/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=218530bcc07fae0df7b8524649bf85e1" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a670/live/ef18c930-b113-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a670/live/ef18c930-b113-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Denmark cautiously optimistic over Trump’s Greenland deal</title>
@@ -1158,19 +1158,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a95a/live/e9df01c0-b2bf-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Athlete Joanna Wietrzyk apologises for continuing HYROX race after soiling herself</title>
-      <link>https://www.abc.net.au/news/2026-09-18/soiled-hyrox-athlete-gives-back-points/107166578</link>
-      <description>The athlete who had a bout of faecal incontinence during a HYROX competition has issued a public apology and retroactively withdrawn from the race, handing back points earned in the event. Publicado también por: BBC News - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7c74b210f316c7c2</guid>
-      <pubDate>Thu, 17 Sep 2026 15:32:25 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <dc:creator>Anna Cox</dc:creator>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/35ab144595bd1dd97a79ff8acc201128?impolicy=wcms_crop_resize&amp;cropH=743&amp;cropW=1320&amp;xPos=0&amp;yPos=300&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/35ab144595bd1dd97a79ff8acc201128?impolicy=wcms_crop_resize&amp;cropH=743&amp;cropW=1320&amp;xPos=0&amp;yPos=300&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>#EspacioSolicitado | Hay decisiones difíciles que debemos tomar para cuidar el futuro de Bolivia. L... Ver más</title>
       <link>https://www.facebook.com/reel/1531934395369053/?__cft__%5B0%5D=AZiIt8S6C5f_beKF_UfOEHw6uNN3D9pKYQIi_IDAQrhgpjJcghBhrfUKQtREoyB1qniiK7B3Ts3eYjJCIEFkL5rK3rzK6sCPPft2za9NvU381FNQ40EHGRZTv3UrK2hjiOa078BsUrGX3mIrkO3DBGtADh84trNtFPLqBih5J23lhKnxQF8Lh4FwiNBDb8FXzvV1&amp;__tn__=%2CO%2CP-R</link>
       <description>#EspacioSolicitado | Hay decisiones difíciles que debemos tomar para cuidar el futuro de Bolivia. L... Ver más #EspacioSolicitado | Hay decisiones difíciles que debemos tomar para cuidar el futuro de Bolivia. L... Ver más Si se bajan el sueldo a la mitad o que ganen 3000 como cualquier funcionarios ahí si sería un decisión difícil y muy acertada Tenemos problemas para reproducir este vídeo. Más… Publicado también por: Los Tiempos Digital. Fuente: EL DEBER.</description>
@@ -1236,6 +1223,30 @@
       <category>mundo</category>
       <category>Bolivia</category>
       <source url="https://www.facebook.com/lostiemposbol1/">Los Tiempos Digital</source>
+    </item>
+    <item>
+      <title>9179 reproducciones · 124 reacciones | Emergencia por incendio forestal en Villa de Leyva. Este es el panorama en la zona. Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
+      <link>https://www.facebook.com/reel/1108984391654808/?comment_id=4277139275837199&amp;__cft__%5B0%5D=AZjeuJgQ7ZXV28wkztSuNyfhPF3AGKCSWrAlJZgHtsOjqo1HKjofkdnmzi_m_sd32xck5Ugg_IOn5jWibtf_l9MeMQSGlRQy_O_UTBHNsJuZ49ZEImKriXGgeUPmSzrvCekDt0vibT-14uYO5ovXTnlv_IZzrFLUkNTtoazEIYt9SMWrdGIGGEHE7-WhHX6W6oa3&amp;__tn__=R-R</link>
+      <description>Emergencia por incendio forestal en Villa de Leyva. Este es el panorama en la zona. Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j Emergencia por incendio forestal en Villa de Leyva. Este es el panorama en la zona. Siga la señal de Noticias Caracol en vivo 👉🏻... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:238b69b18944641d</guid>
+      <pubDate>Sun, 20 Sep 2026 01:15:38 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/818261012_3035135506824567_8999095715261028495_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=U4VXkdlcvacQ7kNvwFgludm&amp;_nc_oc=AdqpIGDfZ1_3Izua2Ad42Y_r7huJpi09_ZZvFfRsIZ2_lbsj5DTyubG0JXpOFH9eS_8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=nydc9O0ofNx1yJ20pF0Zpg&amp;_nc_ss=7f289&amp;oh=00_AQLDII3e8rVZDNSZaFMSdZlICl0zcxJNj6mi1HEjvWygPA&amp;oe=6AB50492" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/818261012_3035135506824567_8999095715261028495_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=U4VXkdlcvacQ7kNvwFgludm&amp;_nc_oc=AdqpIGDfZ1_3Izua2Ad42Y_r7huJpi09_ZZvFfRsIZ2_lbsj5DTyubG0JXpOFH9eS_8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=nydc9O0ofNx1yJ20pF0Zpg&amp;_nc_ss=7f289&amp;oh=00_AQLDII3e8rVZDNSZaFMSdZlICl0zcxJNj6mi1HEjvWygPA&amp;oe=6AB50492" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1196 reproducciones · 9 comentarios | 🔴EN VIVO🔴 ➡Bolívar Derrota a GV San José ➡Oriente Petrolero Gano en Tarija ➡Continua la Fecha 20 | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1123275480261372/?comment_id=4646911795537817&amp;__cft__%5B0%5D=AZg7URKbR1ocuD3vjwQO-nSjdvx71l2cPsFPJBO1b7-QNah-IuGIcVD5uWKaQPu96P4r3oRqiP0WPsdJrxLjA3nqD5GaL-pFX8wVid9DbceksIV7VWttybfie8e8Ig8ftXcQHwz3JYJQHJqhGxWb0eISxqVtixhGR_rWzHmliblkTfbe8qjNq54nj91x3Foc7tQ&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Bolívar Derrota a GV San José ➡Oriente Petrolero Gano en Tarija ➡Continua la Fecha 20 Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:90d0206edb325813</guid>
+      <pubDate>Sun, 20 Sep 2026 01:15:38 +0000</pubDate>
+      <category>mundo</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/816164010_4132993966993954_7108744463166612760_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=DBglLOHBV8EQ7kNvwHA2JB-&amp;_nc_oc=AdqAqksj6w8zc_9EzwshdXjeVVxaIG2K1yRKtny05feeKh6j7XF9GhvbMrLE3HnFZDg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=_lnPQAEBw8YIeAzGtSdurw&amp;_nc_ss=7f289&amp;oh=00_AQIzdGyEyXcxJa9r9cjZQ7jPZrXLslKnUaPSxSftTMcOVQ&amp;oe=6AB51BFF" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/816164010_4132993966993954_7108744463166612760_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=DBglLOHBV8EQ7kNvwHA2JB-&amp;_nc_oc=AdqAqksj6w8zc_9EzwshdXjeVVxaIG2K1yRKtny05feeKh6j7XF9GhvbMrLE3HnFZDg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=_lnPQAEBw8YIeAzGtSdurw&amp;_nc_ss=7f289&amp;oh=00_AQIzdGyEyXcxJa9r9cjZQ7jPZrXLslKnUaPSxSftTMcOVQ&amp;oe=6AB51BFF" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>10 mil reproducciones · 142 reacciones | New surveillance video shows the moment a South Florida emergency room nurse was beaten and knocked down to the floor by a patient. The nurse now plans to file a $5 million lawsuit against the hospital for negligent supervision and security. | NBC News</title>
@@ -1317,6 +1328,8 @@
       <pubDate>Sat, 19 Sep 2026 22:54:34 +0000</pubDate>
       <category>mundo</category>
       <category>Oceanía</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
       <dc:creator>Penry Buckley</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/f5b87d87ae2a6fc24aa1aceafc4d812c71f6a18f/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa5a02fa2f2578a2cacb3febfc3a79c4" medium="image" />
@@ -1567,18 +1580,6 @@
       <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
       <media:content url="https://external-qro1-1.xx.fbcdn.net/emg1/v/t13/6701919912257168285?url=https%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fnoticias%2F96%2F2026%2F05%2F14%2Fhenrique-vorcaro-pai-de-daniel-vorcaro-1778757853806_v2_615x300.png&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-qro1-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=kJ8_s3OADonG-XxMj-YVyg&amp;_nc_zt=3&amp;oh=06_Q3_DATT3T5H__B2lRCTFAjcasjJInyqbUpGKc2seq2Sb4pIl&amp;oe=6AAFA2F1" medium="image" />
       <enclosure url="https://external-qro1-1.xx.fbcdn.net/emg1/v/t13/6701919912257168285?url=https%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fnoticias%2F96%2F2026%2F05%2F14%2Fhenrique-vorcaro-pai-de-daniel-vorcaro-1778757853806_v2_615x300.png&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-qro1-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=kJ8_s3OADonG-XxMj-YVyg&amp;_nc_zt=3&amp;oh=06_Q3_DATT3T5H__B2lRCTFAjcasjJInyqbUpGKc2seq2Sb4pIl&amp;oe=6AAFA2F1" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1009 reproducciones · 9 comentarios | 🔴EN VIVO🔴 ➡Bolívar Derrota a GV San José ➡Oriente Petrolero Gano en Tarija ➡Continua la Fecha 20 | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1123275480261372/?comment_id=4646911795537817&amp;__cft__%5B0%5D=AZg7t3XPxeAar5t3hq0HoOKX9ukgjNl8LlCbIni81ZTxWi_Ec7G3ZMe0xiktc1gPx_Hrg4dskn_A_54MYLSZqQgQ6QArkqIhDfDZ4i64rjrbs6aaw1HxAnVAuddMHfPU4lPRrejQOhx5OMnB1FKfSiHYCacuTyYvUdNKZgbv3rmKVnZ5FCrk09W8vCdLLxwIDpY&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡Bolívar Derrota a GV San José ➡Oriente Petrolero Gano en Tarija ➡Continua la Fecha 20 Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:15be87174de97c4e</guid>
-      <pubDate>Fri, 18 Sep 2026 21:48:38 +0000</pubDate>
-      <category>mundo</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/816164010_4132993966993954_7108744463166612760_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=DBglLOHBV8EQ7kNvwFcrspq&amp;_nc_oc=AdrpFGnUFHz70wQZUZJIoDrbPd1eM8KFi4vcu_Sqo51ljOa_YP3hgd7got_gWos3ibM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=X_1VT8aEDMdX1evS22Wa2A&amp;_nc_ss=7f289&amp;oh=00_AQILugzcFm28RahQljjLcvDrL6udPcoiElWzFOe6CfRwfA&amp;oe=6AB3923F" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/816164010_4132993966993954_7108744463166612760_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=DBglLOHBV8EQ7kNvwFcrspq&amp;_nc_oc=AdrpFGnUFHz70wQZUZJIoDrbPd1eM8KFi4vcu_Sqo51ljOa_YP3hgd7got_gWos3ibM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=X_1VT8aEDMdX1evS22Wa2A&amp;_nc_ss=7f289&amp;oh=00_AQILugzcFm28RahQljjLcvDrL6udPcoiElWzFOe6CfRwfA&amp;oe=6AB3923F" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
