@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 23 Sep 2026 17:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:29:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El dramático desalojo de una mujer de 87 años en Madrid desnuda la voracidad de un fondo buitre</title>
+      <link>https://www.clarin.com/mundo/dramatico-desalojo-mujer-87-anos-madrid-desnuda-voracidad-fondo-buitre_0_a8Nm042wIE.html</link>
+      <description>El caso de Maricarmen Abascal conmovió a España y mostró el lado más perverso de la especulación inmobiliaria. Hubo marchas de protesta en varias ciudades. La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, se desmarca del conflicto. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:eff84005f0e3dfcd</guid>
+      <pubDate>Wed, 23 Sep 2026 17:48:38 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2026/09/23/y0_PjvPhs_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2026/09/23/y0_PjvPhs_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Donald Trump says Canada has too many immigrants, but the math doesn’t add up</title>
       <link>https://timesofindia.indiatimes.com/world/us/donald-trump-says-canada-has-too-many-immigrants-but-the-math-doesnt-add-up/articleshow/134442547.cms</link>
@@ -387,97 +401,6 @@
       <source url="https://www.france24.com/es/rss">France 24 - Español</source>
       <media:content url="https://s.france24.com/media/display/86855ae8-b5ee-11f1-873b-1d61c7110e09/w:1024/p:16x9/ES-20260921-083459-083720-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/86855ae8-b5ee-11f1-873b-1d61c7110e09/w:1024/p:16x9/ES-20260921-083459-083720-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Ceuta solidarity shirt row: How the crisis engulfed Spanish football</title>
-      <link>https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss</link>
-      <description>Football has been dragged into growing tensions over the influx of migrants from Morocco to the Spanish enclave Ceuta. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b902d4cb8db1e341</guid>
-      <pubDate>Mon, 21 Sep 2026 17:45:40 +0000</pubDate>
-      <category>sociedad</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Aumenta el discurso de odio contra los refugiados rohingya en Malasia</title>
-      <link>https://www.france24.com/es/programas/los-observadores/20260921-aumenta-el-discurso-de-odio-contra-los-refugiados-rohingya-en-malasia</link>
-      <description>Hostigamiento en redes sociales, desinformación y campañas abiertas para expulsarlos: los refugiados rohingya en Malasia enfrentan una creciente ola de rechazo. Esta retórica antimigrante ya ha provocado el desalojo de más de un centenar de personas en una aldea y el cierre temporal de escuelas que acogían a niños de esta minoría musulmana huida de Birmania. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:74b395d82b3d7e5c</guid>
-      <pubDate>Mon, 21 Sep 2026 17:10:03 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>Los Observadores</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/8a26f5d4-b56d-11f1-a0d0-9ff5c3f464d4/w:1024/p:16x9/Los-Observadores-1.jpeg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/8a26f5d4-b56d-11f1-a0d0-9ff5c3f464d4/w:1024/p:16x9/Los-Observadores-1.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Perseguidos en sus países de origen, miles de migrantes esperaban comenzar una nueva vida en Estados Unidos. Sin embargo, muchos fueron expulsados a Camerún, país con e... Ver más</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid036XPQzqSTEWp6JwBVJdn8PJzHzu5CNMqMd33teBrb26b7cwAyLe5GFZnca6WB5RXml?__cft__%5B0%5D=AZi87k_w_XpNap-ricA8yyV-YnJvVOnczLsBd9z8iohehwHCZbTDyi1bwssx92oSDY7GN8JQAB6ORb0SyUz9tX54MYc4NCAY09kPjouwsOivCF_tN-_YxNCZJk4zNiyhPER37U6WfyGqYExhTGk4gqUpB19t4HY7VMsaEDE2KiaLvPNc7YIcwBucsq0&amp;__tn__=%2CO%2CP-R</link>
-      <description>Perseguidos en sus países de origen, miles de migrantes esperaban comenzar una nueva vida en Estados Unidos. Sin embargo, muchos fueron expulsados a Camerún, país con e... Ver más FRANCE24.COM Investigación: en Camerún, las víctimas de las deportaciones de Trump enfrentan un destino incierto Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:aa6c2e5aa4faab54</guid>
-      <pubDate>Mon, 21 Sep 2026 17:00:43 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/14144839865479240819?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2Fa21d16d8-b378-11f1-a1b5-5b4fdf021577%2Fw%3A1280%2Fp%3A16x9%2F1920x1080-cameroun-detention-LOGO.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea1-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=HjqhS-8L6kKwPnN7c1gYtw&amp;_nc_zt=3&amp;oh=06_Q3_DAe-uBWc1piJHaArDKE4VkoA6gzZhyL93Y22zxQVt2CVP&amp;oe=6AB34AD5" medium="image" />
-      <enclosure url="https://external-sea1-1.xx.fbcdn.net/emg1/v/t13/14144839865479240819?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2Fa21d16d8-b378-11f1-a1b5-5b4fdf021577%2Fw%3A1280%2Fp%3A16x9%2F1920x1080-cameroun-detention-LOGO.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea1-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=HjqhS-8L6kKwPnN7c1gYtw&amp;_nc_zt=3&amp;oh=06_Q3_DAe-uBWc1piJHaArDKE4VkoA6gzZhyL93Y22zxQVt2CVP&amp;oe=6AB34AD5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Protestas en Texas tras el disparo de un agente de ICE contra un migrante venezolano</title>
-      <link>https://www.bbc.com/mundo/articles/cq986rke4ny6o</link>
-      <description>Las protestas tuvieron lugar en Austin, después de que un repartidor venezolano fuera trasladado al hospital con una herida de bala en el torso. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ce1c92f93665f1e5</guid>
-      <pubDate>Mon, 21 Sep 2026 16:54:36 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0833/live/187a1df0-b5cf-11f1-8c16-65d8f060d73f.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0833/live/187a1df0-b5cf-11f1-8c16-65d8f060d73f.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Investigación: en Camerún, las víctimas de las deportaciones de Trump enfrentan un destino incierto</title>
-      <link>https://www.france24.com/es/%C3%A1frica/20260921-investigaci%C3%B3n-en-camer%C3%BAn-las-v%C3%ADctimas-de-las-deportaciones-de-trump-enfrentan-un-destino-incierto</link>
-      <description>Perseguidos en sus países de origen, miles de migrantes esperaban comenzar una nueva vida en Estados Unidos. Sin embargo, muchos fueron expulsados a Camerún, país con el que no tienen ningún vínculo. En conjunto con Forbidden Stories, France 24 investigó la situación de varios migrantes africanos alojados en un centro de Yaundé, tras su deportación por parte del gobierno de Donald Trump, en virtud de un acuerdo secreto negociado entre los líderes de ambos países. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4092bfde4d0d223c</guid>
-      <pubDate>Mon, 21 Sep 2026 16:14:09 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>África</category>
-      <dc:creator>David Rich</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/a21d16d8-b378-11f1-a1b5-5b4fdf021577/w:1024/p:16x9/1920x1080-cameroun-detention-LOGO.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/a21d16d8-b378-11f1-a1b5-5b4fdf021577/w:1024/p:16x9/1920x1080-cameroun-detention-LOGO.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US strikes on alleged drug boats may constitute ‘crimes against humanity’, UN expert says</title>
-      <link>https://www.theguardian.com/world/2026/sep/21/us-boat-strikes-crime-against-humanity</link>
-      <description>Dozens of US attacks on boats in the Pacific and Caribbean have killed more than 230 people since September 2025 A special rapporteur for the UN human rights council has concluded that there are “reasonable grounds to believe” that the United States attacks on boats allegedly carrying drugs in the Pacific and Caribbean “constituted crimes against humanity”. The boat strikes, carried out since September 2025 on the stated grounds of stopping drugs being trafficked by sea to the US, have killed more than 230 people. The latest, on Saturday, killed four people in the Caribbean. Continue… Publicado también por: BBC News - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:df0ea5c52d2ee89f</guid>
-      <pubDate>Mon, 21 Sep 2026 15:54:43 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <dc:creator>Tiago Rogero, South America correspondent</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/20237296add74a00f9d294b6609b91ecd9c04a07/459_0_4582_3666/master/4582.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cd3932044d0d6d41588dc4799d0c3ce" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/20237296add74a00f9d294b6609b91ecd9c04a07/459_0_4582_3666/master/4582.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cd3932044d0d6d41588dc4799d0c3ce" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Entre críticas y llamados a elecciones, Delcy Rodríguez llegó a EE.UU. para reunirse con Trump y hablar en la ONU</title>
-      <link>https://www.lanacion.com.ar/el-mundo/entre-criticas-y-llamados-a-elecciones-delcy-rodriguez-llego-a-eeuu-para-reunirse-con-trump-y-hablar-nid21092026/</link>
-      <description>La líder del chavismo sostendrá su primer cara a cara con el mandatario norteamericano y hablará en el organismo multilateral este jueves; la diáspora convoca a una protesta Fuente: La Nación - El Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1cd52d83f1ba7049</guid>
-      <pubDate>Mon, 21 Sep 2026 15:53:33 +0000</pubDate>
-      <category>sociedad</category>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>América Latina</category>
-      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
-      <media:content url="https://resizer.glanacion.com/resizer/v2/ZFLTEPXXL5ACHHLHVY7UFDOW7I.jpg?auth=92d9185f74a4264c87d09ebf485926a6fa751d563cdbb750ba88af5898ddf0f4&amp;smart=true&amp;width=2048&amp;height=1366" medium="image" />
-      <enclosure url="https://resizer.glanacion.com/resizer/v2/ZFLTEPXXL5ACHHLHVY7UFDOW7I.jpg?auth=92d9185f74a4264c87d09ebf485926a6fa751d563cdbb750ba88af5898ddf0f4&amp;smart=true&amp;width=2048&amp;height=1366" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
