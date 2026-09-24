@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 24 Sep 2026 19:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 22:31:06 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -19,6 +19,7 @@
       <category>mundo</category>
       <category>América del Norte</category>
       <category>Europa</category>
+      <category>Asia</category>
       <dc:creator>Amy B Wang</dc:creator>
       <source url="https://feeds.washingtonpost.com/rss/world">The Washington Post - World</source>
       <media:content url="https://static01.nyt.com/images/2026/09/23/multimedia/23xp-cube-promo-lpmg/23xp-cube-promo-lpmg-mediumSquareAt3X.jpg" medium="image" />
@@ -193,19 +194,17 @@
       <enclosure url="https://static01.nyt.com/images/2026/09/24/multimedia/24int-nkorea-ukraine-POW-lzqk/24int-nkorea-ukraine-POW-lzqk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump, Greenland, Denmark sign deal in bid to end Arctic standoff</title>
-      <link>https://www.jpost.com/international/article-909339</link>
-      <description>US President Donald Trump and the leaders of Greenland and Denmark signed an agreement on Tuesday that permits a larger US military presence on Greenland and may resolve a stand-off over the strategically located and mineral-rich island. The agreement, signed during Trump’s visit to the UN General Assembly in New York, stops short ‌of the US president’s demand that the United States adopt Greenland as a US territory to head off the growing Arctic presence of Russia and China. But the deal does... Publicado también por: South China Morning Post, The New York Times - World. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:00a31694cacf98c2</guid>
-      <pubDate>Tue, 22 Sep 2026 20:12:15 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
+      <title>US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout</title>
+      <link>https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss</link>
+      <description>Macklemore has announced a series of European concerts, called the Free Palestine Tour, after he was controversially dropped as Ed Sheeran's support act. Publicado también por: BBC News - World, Sky News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:934218e10847c8c9</guid>
+      <pubDate>Thu, 24 Sep 2026 19:22:27 +0000</pubDate>
+      <category>cultura</category>
       <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/d7ea36b9-1d03-4c75-90b9-ccc92c8599b9_ab2c6d49.jpg?itok=HltII7XK&amp;v=1790093131" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/22/d7ea36b9-1d03-4c75-90b9-ccc92c8599b9_ab2c6d49.jpg?itok=HltII7XK&amp;v=1790093131" type="image/jpeg" length="0" />
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec3b/live/dddb23a0-b840-11f1-aeab-cbd1b7662429.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Harvey Weinstein sentenced to 15 years for New York sexual assault</title>
@@ -318,6 +317,19 @@
       <enclosure url="https://i.guim.co.uk/img/media/b410679732df3d5d295e5bacb878e74d07453fb0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32b539cec7144839c6baf47085204bf5" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Four civilians killed in Pakistani strikes in Afghanistan, Taliban says</title>
+      <link>https://www.bbc.co.uk/news/articles/cm86xn0nnw58o</link>
+      <description>Pakistan says it struck 10 targets, adding the strikes were "strictly limited to identified military objectives". Publicado también por: Al Jazeera English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e601f93011709705</guid>
+      <pubDate>Thu, 24 Sep 2026 19:02:36 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/34396cd0-b827-11f1-9173-8b6ede38f022.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Eleven killed in mass shooting at house in South Africa</title>
       <link>https://www.bbc.co.uk/news/articles/crgjqxzl097eo</link>
       <description>At least 11 people have been killed in a mass shooting at a house party in South Africa. Publicado también por: Sky News - World. Fuente: BBC News - World.</description>
@@ -345,16 +357,19 @@
       <enclosure url="https://static.independent.co.uk/2026/09/23/7/45/HS4LWjMWYAAHlpk.jpeg?width=1200&amp;auto=webp&amp;trim=106%2C0%2C0%2C0" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Sri Lanka court convicts 15 men over deadly Easter Sunday bombings</title>
-      <link>https://www.bbc.co.uk/news/articles/cqy7z275yx65o</link>
-      <description>The Islamic State group-inspired attacks were among the deadliest in Sri Lanka's history, killing 42 foreigners. Publicado también por: NPR - World. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7b1e970c1bfdd0c0</guid>
-      <pubDate>Tue, 22 Sep 2026 19:47:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c53f/live/e033b760-b684-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
+      <title>Israel’s Netanyahu, at UN, calls accusations of genocide in Gaza ‘the biggest lie of the century’</title>
+      <link>https://www.thehindu.com/news/international/israels-netanyahu-at-un-calls-accusations-of-genocide-in-gaza-the-biggest-lie-of-the-century/article71505769.ece</link>
+      <description>Allegations of Israeli genocide in Gaza are not only false but “the biggest lie of the century”, Prime Minister Benjamin Netanyahu told world leaders on Thursday in a defiant speech that asserted his nation’s right to wage war against Iran – a speech that was not heard by scores of delegates who trooped out before he started speaking. Netanyahu, his voice rising in emphasis, said attacking Iran “was one of the easiest decisions I’ve ever had to make” and denounced as “moral cowards” a mass of... Publicado también por: France 24 - English, South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d98f83371d048864</guid>
+      <pubDate>Thu, 24 Sep 2026 20:18:35 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/t9admo/article71505773.ece/alternates/LANDSCAPE_1200/2296961569.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/t9admo/article71505773.ece/alternates/LANDSCAPE_1200/2296961569.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Judge orders White House to restore access to news outlets Trump banned</title>
@@ -407,6 +422,18 @@
       <category>América del Norte</category>
       <category>Medio Oriente</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>James Copenhaver, one of the men who was wounded during the attempted assassination of President Donald Trump at a Pennsylvania campaign rally in 2024, has died…</title>
+      <link>https://www.facebook.com/cnn/posts/pfbid0RdYeRvjRTnXoGnT7JKDbYsv1RDy3Uqk3tne5n3BWhuRG9P8kMFMZFP5GnBQ2AiNUl?__cft__%5B0%5D=AZjj5yLisPPuiRncdb5bcPN6dl8oERsNlHTOCb46CVcWWpXpPli1qSIwkzqzDnkjNCu5zt5-DQozKYdPaJZFRg6QHSFU1XI_hllBLfANKGrz4Ku_5bP9cjfkBd9jvltT2z75MxYgWwuLtiV9-ffzetLYo5DIypUpY0CKy4ksHvlNMFPSd46rqLxLXk8&amp;__tn__=%2CO%2CP-R</link>
+      <description>James Copenhaver, one of three campaign rally attendees shot in 2024 during an assassination attempt on then-candidate Donald Trump, has died. One of the victims of DJT's staged event. APNEWS.COM Man who was shot during 2024 Trump campaign rally in Butler, Pennsylvania, has died Ver más comentarios Harrison Wright Publicado también por: The Associated Press. Fuente: CNN.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f4a414d211dd518f</guid>
+      <pubDate>Thu, 24 Sep 2026 22:15:48 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/cnn/">CNN</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/819484450_1387571983446131_1494323108004796273_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=siJyIMHJcjQQ7kNvwHaVC3F&amp;_nc_oc=AdrcejWfEEmb9-L1JaRlXmKJpxykKKHZFJ1a1mO_mmq54wqBQ-EEmJPdqESOBpATlus&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=M86U6DWd8lLuB1M4dxNEvQ&amp;_nc_ss=7f289&amp;oh=00_AQL1JokkqRqujInC5yHMb0UXqXUTgJJS1m2dRf4wYe5eng&amp;oe=6ABB7B6D" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/819484450_1387571983446131_1494323108004796273_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=siJyIMHJcjQQ7kNvwHaVC3F&amp;_nc_oc=AdrcejWfEEmb9-L1JaRlXmKJpxykKKHZFJ1a1mO_mmq54wqBQ-EEmJPdqESOBpATlus&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=M86U6DWd8lLuB1M4dxNEvQ&amp;_nc_ss=7f289&amp;oh=00_AQL1JokkqRqujInC5yHMb0UXqXUTgJJS1m2dRf4wYe5eng&amp;oe=6ABB7B6D" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Rapper Macklemore announces 'Free Palestine' tour after Ed Sheeran fallout</title>
@@ -497,6 +524,33 @@
       <source url="https://www.facebook.com/bbcnews/">BBC News</source>
       <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/810996201_1335993398612595_6502794275683314143_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EFu2bdGoFo4Q7kNvwE5lJ6U&amp;_nc_oc=AdpygoWwLhqwJWaib2Nx9i1Knq3_9YZ_IKuO-jZ7wO8NZ4l_03R_jRkIqF78tHFRQW0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=VZhF4k7kfoWeRWz4X0C2hA&amp;_nc_ss=7f289&amp;oh=00_AQJPen2vq8Gs5m9sIL1zoiz5ORmT_1IJhjm06SVeKEsP9Q&amp;oe=6ABA4AEB" medium="image" />
       <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/810996201_1335993398612595_6502794275683314143_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EFu2bdGoFo4Q7kNvwE5lJ6U&amp;_nc_oc=AdpygoWwLhqwJWaib2Nx9i1Knq3_9YZ_IKuO-jZ7wO8NZ4l_03R_jRkIqF78tHFRQW0&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=VZhF4k7kfoWeRWz4X0C2hA&amp;_nc_ss=7f289&amp;oh=00_AQJPen2vq8Gs5m9sIL1zoiz5ORmT_1IJhjm06SVeKEsP9Q&amp;oe=6ABA4AEB" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iranian-American group sues Trump over war</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02QWM5RiFonzMddCsQfSDMSwMV13F1WEb6FeUmsJCCR3it3yxRefTf4h9Xdi8TTwnvl?__cft__%5B0%5D=AZjkKtLK2b0yCFAHIO3VVJ2m8zln6LO9tmBfE7k8W7V4JHl0xVAz5lInHqbR9REWIMJtXrQ2gbeeRqEb2Hh9S0HZfyZ8JxuMT-y8TagUAoTZqNYLCwe7AwcyHD6ZA-EYqziostIjwF8wNN6yqEMHXbdxOzXx2oncZ7KD4jghBzKBJb0dw4wnbUvOzpg&amp;__tn__=%2CO%2CP-R</link>
+      <description>Plaintiffs have families in Iran who have been harmed by the US war, they say. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:13773b5412c1ec8d</guid>
+      <pubDate>Thu, 24 Sep 2026 22:00:16 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/819668148_1048925384638000_5063904049656087032_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p180x540&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=s7t42756fwIQ7kNvwEneU5e&amp;_nc_oc=AdolZmfwLzf8xy44Is9VhlEpUNsnuLaBB1MTzEY6CONx5CGL7mhTQ38UP7q6FtGeQW4&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=KlGUcAAn_T4BA9DlDkhewQ&amp;_nc_ss=7f289&amp;oh=00_AQLikP2hF6xqz6XhBvAvWvJQy0rEldsHKOgnw15dT7S46w&amp;oe=6ABB77CE" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/819668148_1048925384638000_5063904049656087032_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p180x540&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=s7t42756fwIQ7kNvwEneU5e&amp;_nc_oc=AdolZmfwLzf8xy44Is9VhlEpUNsnuLaBB1MTzEY6CONx5CGL7mhTQ38UP7q6FtGeQW4&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=KlGUcAAn_T4BA9DlDkhewQ&amp;_nc_ss=7f289&amp;oh=00_AQLikP2hF6xqz6XhBvAvWvJQy0rEldsHKOgnw15dT7S46w&amp;oe=6ABB77CE" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Croatian court approves extradition in Nord Stream bombing case</title>
+      <link>https://www.aljazeera.com/news/2026/9/24/croatian-court-approves-extradition-in-nord-stream-bombing-case?traffic_source=rss</link>
+      <description>A Croatian court has approved the extradition of a Ukrainian man who is wanted in Germany in connection with the 2022 undersea explosions that damaged the Nord Stream gas pipelines, state media said on Thursday. The report from HRT Television quoted the suspect’s lawyer Ljubo Pavaskovic as saying that he will appeal the September 18 ruling. It was not immediately clear when the man could be handed over to Germany. He was arrested on a European warrant in the northern Croatian town of Pula in... Publicado también por: South China Morning Post. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cc00ac8e57dccb90</guid>
+      <pubDate>Thu, 24 Sep 2026 21:47:44 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/c695dad0-4268-46c1-97bc-7f5bb702089e_c0f24087.jpg?itok=3HMobKby&amp;v=1790268212" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/25/c695dad0-4268-46c1-97bc-7f5bb702089e_c0f24087.jpg?itok=3HMobKby&amp;v=1790268212" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Bajo una fuerte abstención, un partido cercano al rey gana las elecciones parlamentarias en Marruecos</title>
@@ -713,47 +767,29 @@
       <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/800086879_2032216857408115_7418675849450964171_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x900&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=KD_36-wJs8EQ7kNvwHZhXQM&amp;_nc_oc=AdqfdwXyu7zUgsxMuAXg5R4eVDOMsv5elBvSZnHGWC24s2MqVRKVHOTeFG4BloXT1nw&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=tnK_DPcJQrqClX4dU4QClA&amp;_nc_ss=7f289&amp;oh=00_AQJzYoUOPqkvpyNiu6-AUd393xCsqNIJlUL-vYZy-zj0tg&amp;oe=6AB8DF0E" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>En pleno choque con Trump, Lula defiende a Brasil en la ONU: "No cabe en el patio trasero de nadie"</title>
-      <link>https://www.france24.com/es/am%C3%A9rica-latina/20260922-en-pleno-choque-con-trump-lula-defiende-a-brasil-en-la-onu-no-cabe-en-el-patio-trasero-de-nadie</link>
-      <description>A menos de dos semanas de las elecciones presidenciales, el presidente brasileño, Luiz Inácio Lula da Silva, pronunció ante la Asamblea General de la ONU un discurso marcado por la campaña electoral. Denunció las "tentaciones hegemónicas" y las injerencias externas en América Latina, defendió el sistema electoral brasileño y advirtió que "la democracia está nuevamente en jaque". Publicado también por: El País - Internacional. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:163169a8ac928eb4</guid>
-      <pubDate>Tue, 22 Sep 2026 21:38:05 +0000</pubDate>
+      <title>Poland Starlink fire labelled 'sabotage' as Denmark warns of Russian threat</title>
+      <link>https://www.abc.net.au/news/2026-09-25/poland-starlink-station-sabotage-denmark-warning/107194146</link>
+      <description>The fire in central Poland engulfed the power station and backup generator, but the site is now operating normally. Publicado también por: BBC News - World. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:263c0da5fbc82f46</guid>
+      <pubDate>Thu, 24 Sep 2026 19:46:13 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Oceanía</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/bac1ae28821b9b94c7de2c26a5e00b09?impolicy=wcms_crop_resize&amp;cropH=942&amp;cropW=1674&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/bac1ae28821b9b94c7de2c26a5e00b09?impolicy=wcms_crop_resize&amp;cropH=942&amp;cropW=1674&amp;xPos=0&amp;yPos=47&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Delegates walk out of Netanyahu’s UN speech</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/9/24/delegates-walk-out-of-netanyahus-un-speech?traffic_source=rss</link>
+      <description>Dozens of delegates walked out of the assembly hall as Israeli Prime Minister Benjamin Netanyahu began his UN speech. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1b02071b02c93280</guid>
+      <pubDate>Thu, 24 Sep 2026 19:18:29 +0000</pubDate>
       <category>politica</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>France 24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/d541ea7c-b6cd-11f1-8d32-557acd7c815c/w:1024/p:16x9/fe50c0e940946ab8f4c16894acc9645b4997d6eew.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/d541ea7c-b6cd-11f1-8d32-557acd7c815c/w:1024/p:16x9/fe50c0e940946ab8f4c16894acc9645b4997d6eew.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The United Nations General Assembly is meeting. Is it accomplishing anything?</title>
-      <link>https://www.npr.org/2026/09/22/nx-s1-5955445/the-united-nations-general-assembly-is-meeting-is-it-accomplishing-anything</link>
-      <description>Here’s a look at what the 193-member United Nations does and how it works as leaders convene in New York for the annual General Assembly. Publicado también por: The New York Times - World. Fuente: NPR - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:78c7b5366ebef263</guid>
-      <pubDate>Tue, 22 Sep 2026 21:23:48 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Mary Louise Kelly</dc:creator>
-      <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
-      <media:content url="https://static01.nyt.com/images/2019/09/27/world/un-explainer1/un-explainer1-moth.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2019/09/27/world/un-explainer1/un-explainer1-moth.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Iran and US hold talks on sidelines of UN summit, says Trump</title>
-      <link>https://www.theguardian.com/world/2026/sep/22/iran-us-talks-sidelines-un-summit-trump-israel-us</link>
-      <description>Senior Iranian official indicates willingness to reopen strait of Hormuz if US takes steps to ease pressure on Tehran Iranian officials held three hours of talks with US special envoy Steve Witkoff on the sidelines of the UN general assembly, Donald Trump disclosed on Tuesday. He said there would a further meeting in the very near future. Continue reading... Publicado también por: Al Jazeera English. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f6f8760128966f19</guid>
-      <pubDate>Tue, 22 Sep 2026 21:21:59 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
       <category>Medio Oriente</category>
-      <dc:creator>Patrick Wintour in New York</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/0e83809b06b6077027cd3b905b78c52f8cc12e22/87_0_2573_2058/master/2573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdd42bc65efdbfe686c8a9f3caecf31e" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/0e83809b06b6077027cd3b905b78c52f8cc12e22/87_0_2573_2058/master/2573.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fdd42bc65efdbfe686c8a9f3caecf31e" type="image/jpeg" length="0" />
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbc7/live/4d40df20-b844-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbc7/live/4d40df20-b844-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Trump welcomes Xi Jinping with red carpet, military honours and flyover</title>
@@ -883,17 +919,6 @@
       <source url="https://www.facebook.com/RevistaSemana/">Revista Semana</source>
     </item>
     <item>
-      <title>Trump: US-Iran meeting at UN was ‘very good’</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss</link>
-      <description>The United States and Iran held a rare three-hour meeting in New York to discuss ending the war between the two countries, Trump said. Publicado también por: The Washington Post - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9b7d95c84c5d1d41</guid>
-      <pubDate>Tue, 22 Sep 2026 20:23:48 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
       <title>South Africa mass shooting leaves 11 dead as police search for three attackers</title>
       <link>http://www.africanews.com/2026/09/23/south-africa-mass-shooting-leaves-11-dead-as-police-search-for-three-attackers/</link>
       <description>Three shooters killed at least 11 people including a woman who was believed to be pregnant in an attack at a house party in South Africa, police said on Wednesday. Three others were wounded in the mass shooting late on Tuesday night in KwaMakhutha township around 30km (19 miles) south of the city of Durban on the east coast. The people had gathered at the house for a party when the suspects entered the house and opened fire, police said. Ten people, including the pregnant woman, died at the... Publicado también por: South China Morning Post. Fuente: Africanews.</description>
@@ -906,6 +931,55 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/92/46/93/640x360_cmsv2_4f11e354-ea87-55a2-b8d4-ca63aa5b2ddd-9924693.jpg?1790159313" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/92/46/93/640x360_cmsv2_4f11e354-ea87-55a2-b8d4-ca63aa5b2ddd-9924693.jpg?1790159313" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Exestrella del Liverpool confesó haber sido víctima de agresión sexual por parte de otro hombre</title>
+      <link>https://www.facebook.com/NTN24/posts/pfbid0EJDBL4ywc2jUEn8ZsWzBfT153UwS9yUyBLbMbpQBJ7htbGZWKeuFMDGh4ftiPVKrl?__cft__%5B0%5D=AZisi6K54vtI0am7rUwpvyAAay3zC2K0MuzL0Qmz61VrmK05w7RHouWqUerTXGnaPRpHEZNCcAzu0hQgO-F9LIURKDQEfPEhR8NUM72i-1u06XKXINPvrZZN1z5HDivWO5XLh5HxX-HJYrf1O-J5jgAyvf6My0d0ZqxEtfBfN9LcsOwOqbjDWCcT4g4&amp;__tn__=%2CO%2CP-R</link>
+      <description>Exestrella del Liverpool confesó haber sido víctima de agresión sexual por parte de otro hombre NTN24.COM Exestrella del Liverpool confesó haber sido víctima de agresión sexual por parte de otro hombre | NTN24.COM Fuente: NTN24.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c7318512cfe60242</guid>
+      <pubDate>Thu, 24 Sep 2026 22:31:06 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NTN24/">NTN24</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/273899993380120830?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F09%2F24162831%2FFoto-pagina-2-19.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=_vjgMrT_Pj5m7kG52P6WCA&amp;_nc_zt=3&amp;oh=06_Q3_DAV9wdkcXkbwJEcYN1fkChmPJKaGC3c_EUXJ-BHZU7DfJ&amp;oe=6AB78D69" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/273899993380120830?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F09%2F24162831%2FFoto-pagina-2-19.jpg%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=_vjgMrT_Pj5m7kG52P6WCA&amp;_nc_zt=3&amp;oh=06_Q3_DAV9wdkcXkbwJEcYN1fkChmPJKaGC3c_EUXJ-BHZU7DfJ&amp;oe=6AB78D69" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>3980 reproducciones · 101 reacciones | Tras acompañar el despliegue de seguridad en Santa Marta, el presidente Abelardo de la Espriella viajó a Cali y encabezó una intervención contra estructuras criminales. ¿Cuál es el balance del operativo? Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
+      <link>https://www.facebook.com/reel/1086603127483324/?comment_id=958753877276417&amp;__cft__%5B0%5D=AZhhjGcSJIdn2z2HMjIWNY3WTTZz0051TurPKlc_Ju4_P70QmZMEVsGVyRMTzOP5y6elMLmUVombWt2POgDHNqFlLe_1LuAo10GyxPkakOkTqa9v0RNOHLzfePfp2fxS-pM0c1P5c7jOadUS5kiGVI3bLXugfYRpT1a7iuT7ol5q95zFG_3kHboBFNB107YCiIAM&amp;__tn__=R-R</link>
+      <description>Tras acompañar el despliegue de seguridad en Santa Marta, el presidente Abelardo de la Espriella viajó a Cali y encabezó una intervención contra estructuras criminales. ¿Cuál es el balance del... Tras acompañar el despliegue de seguridad en Santa Marta, el presidente Abelardo de la Espriella viajó a Cali y encabezó una intervención contra... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:85fa8b24a34593c9</guid>
+      <pubDate>Thu, 24 Sep 2026 22:31:06 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/819927283_1651166326727420_6042248803610953340_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=GTBiRGzO13AQ7kNvwG3D28f&amp;_nc_oc=AdqDI2mHVPjcM_6_FdYi77CmmHBipoi_stWXbcvxZRPP08_LqgUWd26zsGlF_9urQyA&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ORUbpVd475oZep2y-z8wYg&amp;_nc_ss=7f289&amp;oh=00_AQKAlxWlHi37SQX7gmxwUrjQagBlVCMPGI9cPkQ6zGYnbA&amp;oe=6ABB635D" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/819927283_1651166326727420_6042248803610953340_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=GTBiRGzO13AQ7kNvwG3D28f&amp;_nc_oc=AdqDI2mHVPjcM_6_FdYi77CmmHBipoi_stWXbcvxZRPP08_LqgUWd26zsGlF_9urQyA&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=ORUbpVd475oZep2y-z8wYg&amp;_nc_ss=7f289&amp;oh=00_AQKAlxWlHi37SQX7gmxwUrjQagBlVCMPGI9cPkQ6zGYnbA&amp;oe=6ABB635D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>In an emergency request Thursday, the Trump administration urged the Supreme Court to revive its policy of deporting some migrants to places other than their country of... Ver más</title>
+      <link>https://www.facebook.com/CBSNews/posts/pfbid02z9bxZYTy8hQQKZunkf1eVGVrxsmAiBfe8Attp86pBQSuU3ude1jZwGBsnMvSUufDl?__cft__%5B0%5D=AZipx6HazRHffLbfx-YP87MhlQyC7XHAXtthyzkNbhjlyCyPd9i0KP0SHKHA_g9oer4rxDyjDxg4xmR9E1QHCpBMowmQ5qbgmNX-Ajhh3ljFR9TpNMsLjJc1ldM42hxgr9snGiqQm2lClSOJdxpjkSoWZUE-RXc9HgafQqa1cFGynZ-tad31wC3LrwY&amp;__tn__=%2CO%2CP-R</link>
+      <description>In an emergency request Thursday, the Trump administration urged the Supreme Court to revive its policy of deporting some migrants to places other than their country of... Ver más But look how well it discourages recidivism CBSNEWS.COM Trump administration urges Supreme Court to revive third-country deportation policy Ver más comentarios Robert Germanovich Fuente: CBS News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f79fdac94846699b</guid>
+      <pubDate>Thu, 24 Sep 2026 22:15:51 +0000</pubDate>
+      <category>sociedad</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/803174558150843931?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F15%2F78c2e3f6-4363-40a0-af0d-324a8245cf6e%2Fthumbnail%2F1200x630%2F7588de6dea09a3ed7eb50146d800aa4b%2Funtitled-519.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=t66nlDfaP80QYjYA7EetmQ&amp;_nc_zt=3&amp;oh=06_Q3_DAf67qZhLi56yaNGD-jhQIB2M31vYcsEn0AecmH2EgE2m&amp;oe=6AB7903D" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/803174558150843931?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F09%2F15%2F78c2e3f6-4363-40a0-af0d-324a8245cf6e%2Fthumbnail%2F1200x630%2F7588de6dea09a3ed7eb50146d800aa4b%2Funtitled-519.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=t66nlDfaP80QYjYA7EetmQ&amp;_nc_zt=3&amp;oh=06_Q3_DAf67qZhLi56yaNGD-jhQIB2M31vYcsEn0AecmH2EgE2m&amp;oe=6AB7903D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Australia news live: Paterson says PM’s AI hack timing not a coincidence; gen Z going without for a house</title>
+      <link>https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb</link>
+      <description>Follow the day’s news live Get our breaking news email , free app or daily news podcast Charlton says AI incidents likely to become ‘more and more prevalent’ Andrew Charlton , the assistant minister for science, technology and the digital economy, said yesterday’s reported hack of Medicare by an OpenAI agent was a “novel” moment for cybersecurity, but was likely to become “more and more prevalent in the future”. In this type of situation, you know, you would expect for an incident which is as serious as this, you would expect that disclosure to be delivered in a very serious way. It was not… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7c7528c6c61de3ae</guid>
+      <pubDate>Thu, 24 Sep 2026 22:04:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Oceanía</category>
+      <dc:creator>Nick Visser</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b9acc1c60a18ed1ae2a01b3b7e04b3a" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/eca6016bbb98e2eef003e15b054fda6b70f79d4a/513_0_4045_3236/master/4045.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b9acc1c60a18ed1ae2a01b3b7e04b3a" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>'The lads wanted me to stick one up him' - Wood relives fastest spells</title>
@@ -1458,29 +1532,16 @@
       <enclosure url="https://s.france24.com/media/display/c6a6940a-b6bd-11f1-8745-d5a6f2570fbe/w:1024/p:16x9/ES-20260922-121317-121505-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>En Santa Cruz, universitarios expresaron su rechazo a la propuesta de incrementar el pasaje del transporte público y se declararon en estado de alerta y emergencia. ... Ver más</title>
-      <link>https://www.facebook.com/NoticiasBolivision/posts/pfbid02n3VQCtMb8CVfPPbuu3fztHk8kvqSytmPhqFfLZ46axMXBXgKjo7P8Ef7bKtnNMdTl?__cft__%5B0%5D=AZhWRNufMfE5ooW6TFjvrAfEQ_oYCRgLp5fXB85FqknnE8xZXIW418zmm5G5nrPBOG0mYqC48MP8FAvYxvMKfSGChDo52yYXGVjv9oySwhUjw_yhn0oHJoo-cJtPdWclribV4ZKUqk_hBSUU237MzbPgWZGwLs50_chrovUT7n7CRVLJ12XAeGt_rolBKZYhqt41MafbOVjZAKTwS2c&amp;__tn__=%2CO%2CP-R</link>
-      <description>En Santa Cruz, universitarios expresaron su rechazo a la propuesta de incrementar el pasaje del transporte público y se declararon en estado de alerta y emergencia. ... Ver más Vayan ha reclamar al pollo Red Bolivisión 55 min · Guery Mamani Fuente: Noticias Bolivisión.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0834792cead6fec1</guid>
-      <pubDate>Tue, 22 Sep 2026 21:20:18 +0000</pubDate>
+      <title>Priest killed and four injured in knife attack at Polish abbey</title>
+      <link>https://www.bbc.co.uk/news/articles/c607lrvm41l3o</link>
+      <description>A male suspect from Ukraine was arrested after the stabbings in the town of Jarosław, police say. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b01970ea5b737e79</guid>
+      <pubDate>Thu, 24 Sep 2026 19:18:12 +0000</pubDate>
       <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/NoticiasBolivision/">Noticias Bolivisión</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/792235752_949507940945571_6036927613202183151_n.png?stp=dst-jpg_tt6&amp;cstp=mx1440x1800&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=sxzbTQple40Q7kNvwGE85gB&amp;_nc_oc=AdooILhiHNdmfmeZqZqT6fJTc0xqSQlVBochGq25biassh7JW5uboqA715eCP8hB9qU&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=ena60F2KcYeQSstzHt1nfQ&amp;_nc_ss=7f289&amp;oh=00_AQJhkqMvdJhvtkqPfpBz4AsjwBH_jylMmbPj7LSuENhn_w&amp;oe=6AB8E570" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/792235752_949507940945571_6036927613202183151_n.png?stp=dst-jpg_tt6&amp;cstp=mx1440x1800&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=sxzbTQple40Q7kNvwGE85gB&amp;_nc_oc=AdooILhiHNdmfmeZqZqT6fJTc0xqSQlVBochGq25biassh7JW5uboqA715eCP8hB9qU&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=ena60F2KcYeQSstzHt1nfQ&amp;_nc_ss=7f289&amp;oh=00_AQJhkqMvdJhvtkqPfpBz4AsjwBH_jylMmbPj7LSuENhn_w&amp;oe=6AB8E570" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Man Utd and Liverpool eye Mitchell - Wednesday's gossip</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o</link>
-      <description>Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan attacker Alejandro Garnacho is on the radar of La Liga clubs, while Chelsea want Gambian teenager Adama Jeng, plus more. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3f0ba764e72960e7</guid>
-      <pubDate>Tue, 22 Sep 2026 21:19:41 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3a/live/9219d670-b6c7-11f1-991e-856baf8e71f7.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3a/live/9219d670-b6c7-11f1-991e-856baf8e71f7.png" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b58/live/c831d5d0-b836-11f1-b1d1-571ed4d7ff2c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>La pobreza subió a 32,3% en el primer semestre de 2026, según la medición del INDEC</title>
@@ -1522,72 +1583,6 @@
       <source url="https://news.un.org/feed/subscribe/en/news/all/rss.xml">UN News</source>
       <media:content url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-06.jpg/image560x340cropped.jpg" medium="image" />
       <enclosure url="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-04-2026-UNDP-Tuvalu-06.jpg/image560x340cropped.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>In Amish country, nurses go door to door to stop deadly spread of measles</title>
-      <link>https://www.bbc.co.uk/news/articles/ck3wjyjgj37po</link>
-      <description>With four measles-related deaths in Pennsylvania, health officials are hoping to get people on board with vaccines in private. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7122afca5b5ce0a5</guid>
-      <pubDate>Thu, 24 Sep 2026 00:15:46 +0000</pubDate>
-      <category>cultura</category>
-      <category>salud</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b31/live/276fdbc0-b768-11f1-a7b2-f3bdba1cd194.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>#GrupoFides | ¡No te pierdas el programa #SinConcesiones de este miércoles! Síguenos a partir de la 16:00 a través de la señal de Radio Fides y el #streaming. Mi... Ver más</title>
-      <link>https://www.facebook.com/ANFidesBolivia/posts/pfbid02xXTs9cF936nLHh3emtobN7eBowQoNLZ5LZ3twisJX4JghZWn7ETDUH6YeRRxNpbul?__cft__%5B0%5D=AZhr1Aq5HpScWrRNNkV_XgRioNEsIOTQnNnJmRlJMdI8vwzXHH3OvrvnmcaxCocTXwRdvUiiXmTkteQS6oO0sy0wVz_ypwQDrYu3ZCtCqiz32gkTvahXaiK3_dRn2Z1rjtmg3xUDzfsy5uZN-v8-RcorCsseOJObQVZ4ty7MiDRhlegGD5gdOrBzjU0&amp;__tn__=%2CO%2CP-R</link>
-      <description>#GrupoFides | ¡No te pierdas el programa #SinConcesiones de este miércoles! Síguenos a partir de la 16:00 a través de la señal de Radio Fides y el #streaming. Mi... Ver más #GrupoFides | ¡No te pierdas el programa #SinConcesiones de este miércoles! Síguenos a partir de la 16:00 a través de la señal de Radio Fides y el #streaming. Mi... Ver más Publicado también por: Radio Fides de Bolivia. Fuente: Agencia de Noticias Fides - ANF.</description>
-      <guid isPermaLink="false">cron-rss-noticias:de9e11fd96a45cbe</guid>
-      <pubDate>Wed, 23 Sep 2026 20:23:02 +0000</pubDate>
-      <category>mundo</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ANFidesBolivia/">Agencia de Noticias Fides - ANF</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/821523418_1733485164550430_8234336692182391826_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1080&amp;ctp=p526x296&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=-WBvyDItrvoQ7kNvwHdhKDF&amp;_nc_oc=AdpgcegyR1VfxviUJOE24ctDNSrKV9q_m4U2yPictwEZUj1mOgV0KtPVHIcsnlbDuyA&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=eevp-C1OHWNfJeVbZtKyCg&amp;_nc_ss=7f289&amp;oh=00_AQKb3W2vc_eSM4nW9gmkkp5DCwnnd0Z8pyJU2UiGRPFSwg&amp;oe=6ABA2276" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/821523418_1733485164550430_8234336692182391826_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1080&amp;ctp=p526x296&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=-WBvyDItrvoQ7kNvwHdhKDF&amp;_nc_oc=AdpgcegyR1VfxviUJOE24ctDNSrKV9q_m4U2yPictwEZUj1mOgV0KtPVHIcsnlbDuyA&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=eevp-C1OHWNfJeVbZtKyCg&amp;_nc_ss=7f289&amp;oh=00_AQKb3W2vc_eSM4nW9gmkkp5DCwnnd0Z8pyJU2UiGRPFSwg&amp;oe=6ABA2276" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El dramático desahucio de la anciana Maricarmen de 87 años que expone la gravedad de la crisis de vivienda en España</title>
-      <link>https://www.bbc.com/mundo/articles/cw5y4znkpl4lo</link>
-      <description>Maricarmen, inquilina de un piso en el centro de Madrid, no podía pagar el alquiler fijado por la empresa que lo compró años atrás. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fd7cc2df50da3583</guid>
-      <pubDate>Wed, 23 Sep 2026 17:06:54 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dca/live/3f969030-b773-11f1-a7b2-f3bdba1cd194.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1dca/live/3f969030-b773-11f1-a7b2-f3bdba1cd194.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Harvey Weinstein sentenced to 15 years in prison for 2006 sex crime in New York after retrial</title>
-      <link>https://www.independent.co.uk/news/world/americas/crime/harvey-weinstein-sentencing-me-too-miriam-haley-b3055204.html</link>
-      <description>Harvey Weinstein, the disgraced movie mogul, was sentenced to 15 years in prison Wednesday for a felony sex crime in another #MeToo reckoning. Weinstein’s sentencing for sexually assaulting one-time TV production assistant Miriam Haley followed a legal odyssey spanning more than six years after his 2020 conviction was overturned. A jury found Weinstein guilty again at a retrial last year. Once among the most powerful figures in the entertainment industry, Weinstein was an Oscar-winning producer... Publicado también por: South China Morning Post. Fuente: The Independent - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cc751cb7ca86f0d2</guid>
-      <pubDate>Wed, 23 Sep 2026 16:39:18 +0000</pubDate>
-      <category>cultura</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>Michael R. Sisak and John Seewer</dc:creator>
-      <source url="https://www.independent.co.uk/news/world/rss">The Independent - World</source>
-      <media:content url="https://static.independent.co.uk/2026/09/23/15/10/AP26266543820181.jpg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" medium="image" />
-      <enclosure url="https://static.independent.co.uk/2026/09/23/15/10/AP26266543820181.jpg?width=1200&amp;auto=webp&amp;trim=0%2C0%2C0%2C0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Estados Unidos invita formalmente a Putin a la cumbre del G-20 en Miami en diciembre</title>
-      <link>https://www.elmundo.es/internacional/2026/09/23/6ab3f366e85ece55378b458d.html</link>
-      <description>La Administración Trump ha invitado al presidente ruso, Vladímir Putin , a acudir a la próxima cumbre del G20 , que tendrá lugar los próximos 14 y 15 de diciembre en Miami, según ha confirmado este miércoles el secretario de Estado de Estados Unidos, Marco Rubio.«El presidente (Trump) está dispuesto a dialogar y reunirse prácticamente con cualquiera. Es un hombre de negocios que se basa más en el sentido común que en la ortodoxia política. Para resolver problemas, hay que encontrarse con personas con las que no estás de acuerdo o con las que puedas tener algún tipo de desacuerdo. Por eso… Publicado también por: ABC España - Internacional. Fuente: El Mundo - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0cc5446bb42c34ab</guid>
-      <pubDate>Wed, 23 Sep 2026 15:49:14 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Pablo R. Suanzes</dc:creator>
-      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
-      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/23/17901785056858.jpg" medium="image" />
-      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/23/17901785056858.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
