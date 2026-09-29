@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 29 Sep 2026 08:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:58:26 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -51,21 +51,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/100af420-bba4-11f1-b5d5-0be7b4d3c75d.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump rejects Iran proposal for deal to reopen Hormuz</title>
-      <link>https://www.scmp.com/news/world/middle-east/article/3368917/trump-rejects-iran-proposal-deal-reopen-hormuz</link>
-      <description>US President Donald Trump on Saturday rejected a truce deal proposed by Iran that Tehran said could have reopened the Strait of Hormuz to shipping within a week. The waterway is key to the world’s energy supply and is now central to the conflict between the US and Iran, which is at a stalemate after nearly seven months. “I reject their proposal,” Trump told reporters outside the White House. “They want to make a deal where they open the Strait immediately because they’re losing so badly. “They... Publicado también por: BBC News - World, The New York Times - World, Al Jazeera English, The Guardian - World, The Hindu - International. Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:199a35c45aabad68</guid>
-      <pubDate>Sat, 26 Sep 2026 17:02:16 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <dc:creator>Agence France-Presse</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/0df8e795-72b0-4af7-9112-46876ded56bb_90dcf663.jpg?itok=WlHRLpG0&amp;v=1790442129" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/27/0df8e795-72b0-4af7-9112-46876ded56bb_90dcf663.jpg?itok=WlHRLpG0&amp;v=1790442129" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>SpaceX’s Starship rocket reaches orbit for first time</title>
@@ -140,21 +125,6 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/9f52cb1f-6d46-4b8d-addc-0ed58076fe4f_ee772bae.jpg?itok=Xcgq7Pto&amp;v=1790653181" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump rechaza la propuesta de Irán para reabrir el estrecho de Ormuz</title>
-      <link>https://elpais.com/us/2026-09-26/trump-rechaza-la-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz.html</link>
-      <description>El régimen islámico había ofrecido abrir el paso a la importante vía marítima y retomar las negociaciones sobre su programa nuclear si Washington flexibiliza las sanciones a las exportaciones y acepta un alto el fuego que abarque al Líbano Publicado también por: BBC News Mundo, La Nación - El Mundo, El Mundo - Internacional. Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:429db36a7fecf1ee</guid>
-      <pubDate>Sat, 26 Sep 2026 19:00:16 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <dc:creator>Jesús-Sérvulo González Moreno</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/L47QCZ5AXBNE7BILFYMOQ4UJ2I.jpg?auth=4e6be93383214a9ded22ad9330fd49a7ceb14ad722a93f8b098454ed7a0ea7eb" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/L47QCZ5AXBNE7BILFYMOQ4UJ2I.jpg?auth=4e6be93383214a9ded22ad9330fd49a7ceb14ad722a93f8b098454ed7a0ea7eb" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>La socialdemócrata Magdalena Andersson renuncia a formar Gobierno en Suecia</title>
       <link>https://www.elmundo.es/internacional/2026/09/28/6aba78b0e4d4d8a2498b459c.html</link>
       <description>La líder socialdemócrata sueca, Magdalena Andersson , ha anunciado este lunes que comunicaría al presidente del Parlamento su incapacidad para formar gobierno en la situación actual. Su bloque de centroizquierda obtuvo una ajustada mayoría que le ha impedido constituir un nuevo ejecutivo .Su decisión se ha producido después de que el Partido de la Izquierda anunciara durante el fin de semana que apoyaría a un candidato a la presidencia del Parlamento perteneciente al partido rival , el Partido Moderado, según Andersson, esta postura socavó sus intentos de formar gobierno.«Por supuesto, tomo… Publicado también por: El País - Internacional, ABC España - Internacional. Fuente: El Mundo - Internacional.</description>
@@ -168,6 +138,34 @@
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/28/17906061844651.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Polo makes landfall in Mexico as a category 3 hurricane</title>
+      <link>https://phys.org/news/2026-09-polo-landfall-mexico-category-hurricane.html</link>
+      <description>This year's Pacific hurricane season is shaping up as more severe than usual, as a Super El Niño, an extreme version of a recurring weather pattern, wreaks devastation, in the form of historic droughts and flooding. Publicado también por: Euronews, BBC News - World. Fuente: Phys.org.</description>
+      <guid isPermaLink="false">cron-rss-noticias:436277b85b25ccc7</guid>
+      <pubDate>Tue, 29 Sep 2026 14:49:58 +0000</pubDate>
+      <category>ambiente</category>
+      <category>ciencia</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://phys.org/rss-feed/">Phys.org</source>
+      <media:content url="https://scx1.b-cdn.net/csz/news/tmb/2026/puerto-san-carlos-a-to-1.jpg" medium="image" />
+      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/puerto-san-carlos-a-to-1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Estonia blames Russia for arson attack on drone maker supplying Ukraine</title>
+      <link>https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine</link>
+      <description>European and Nato leaders express support for Estonia after August attack on manufacturer in Tallinn Europe live – latest updates European and Nato leaders have expressed full support for Estonia and Ukraine after the Baltic state said an August arson attack on a drone manufacturer supplying Kyiv was an act of sabotage commissioned by Moscow’s security services. Estonia’s foreign minister, Margus Tsahkna, said on social media on Tuesday that such attacks were “absolutely unacceptable” and that Russia’s chargé d’affaires in the Estonian capital, Tallinn, was being summoned to his ministry… Publicado también por: BBC News - World, South China Morning Post. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ffb3857358809e16</guid>
+      <pubDate>Tue, 29 Sep 2026 14:20:39 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Jon Henley Europe correspondent and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd9050a65085844f88f1d7317d015ad6" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd9050a65085844f88f1d7317d015ad6" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>US prosecutors reopen case of alleged gang rape at Cornell University</title>
       <link>https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro</link>
       <description>US prosecutors reopened an investigation on Monday into an alleged 2024 gang rape at Cornell University after the woman involved accused the school of failing to punish those responsible adequately. In a lawsuit, she said seven Chi Phi fraternity members drugged her with ketamine and assaulted her. Cornell closed the fraternity and expelled several students. Publicado también por: France 24 - English, The Hindu - International. Fuente: BBC News - World.</description>
@@ -179,21 +177,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump reportedly rejects Iran’s seven-day peace deal to reopen strait of Hormuz</title>
-      <link>https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz</link>
-      <description>Tehran awaits official response to plan, but US president is said to expect renewed strikes after midterms Iran is ⁠awaiting an official US response to its proposal to reopen the strait of Hormuz within a week and resume nuclear talks in return for the lifting of the US naval blockade of Iranian ports, as Donald Trump was reported to have rejected the deal. Although Iran is yet to receive his official response, the US president is said to be privately sceptical Iran would meet his demands to dismantle its nuclear programme, according to unnamed US officials cited by the Wall Street Journal… Publicado también por: The Hindu - International, BBC News - World, The New York Times - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4e9eb71a09dba830</guid>
-      <pubDate>Sat, 26 Sep 2026 12:38:46 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <dc:creator>Donna Ferguson and agencies</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/2210b6ca25038caad4fe6ef57ca94dcacd18dab6/713_0_4502_3602/master/4502.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c64bad1f804fc0b052aa70af4a7fac1" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/2210b6ca25038caad4fe6ef57ca94dcacd18dab6/713_0_4502_3602/master/4502.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c64bad1f804fc0b052aa70af4a7fac1" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>3 people killed, 4 injured in shooting at Detroit strip club, police say</title>
@@ -280,17 +263,16 @@
       <enclosure url="https://i.guim.co.uk/img/media/266ab97ced0c659894f5723386d1dad16012f0c5/1167_48_5810_4646/master/5810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82f641ac79a13d4f19571a709de97e0e" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Tenth woman's body found in South Africa suburb as police probe killings</title>
-      <link>https://www.bbc.co.uk/news/articles/c3vgyyj8q807o</link>
-      <description>South African police on Saturday found another body in Ekurhuleni, east of Johannesburg, bringing to 10 the number of women found dead in the municipality over the past two months Publicado también por: The Hindu - International, Africanews. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c179146b83513496</guid>
-      <pubDate>Sat, 26 Sep 2026 18:30:04 +0000</pubDate>
+      <title>Former world snooker champion Graeme Dott has been jailed for seven years for historical child sex abuse.... Ver más</title>
+      <link>https://www.facebook.com/reel/1095929473025932/?__cft__%5B0%5D=AZhObn0axnTPd39WzHYvtNqv0dr8ytoWnRsc9kqheW1dH3-BeWn49As0yFuw_Q7pOZtj-tWx06I9DsMYMq8EFtwevxI1wHVFvDACMna7iiVw0tYba5i1h3KW_5hkMookXlfOEnTpVZP74A9A7__ffx6SdIGAgpoiPQfDU8typnhGauzI0dk4i4L-6uzs56nsi3OW&amp;__tn__=%2CO%2CP-R</link>
+      <description>Former world snooker champion Graeme Dott has been jailed for seven years for historical child sex abuse.... Ver más Tenemos problemas para reproducir este vídeo. Más información Sky News ha limitado quién puede comentar esta publicación. Publicado también por: BBC Sport. Fuente: Sky News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:48e452fe922a7c5d</guid>
+      <pubDate>Tue, 29 Sep 2026 15:22:42 +0000</pubDate>
       <category>mundo</category>
-      <category>África</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <source url="https://www.facebook.com/skynews/">Sky News</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a851/live/c37c7150-bbea-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a851/live/c37c7150-bbea-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Serbia’s populist President Vucic resigns to run for Prime Minister at early vote</title>
@@ -428,6 +410,19 @@
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/0eb1864e3f5f1c7506ab83b2fce4ebee?impolicy=wcms_crop_resize&amp;cropH=2344&amp;cropW=4167&amp;xPos=0&amp;yPos=61&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Israeli settlers attack West Bank village, blocking family's return home</title>
+      <link>https://www.thehindu.com/news/international/israeli-settlers-attack-west-bank-village-blocking-familys-return-home/article71525097.ece</link>
+      <description>Two houses belonging ⁠to the Tubasi family in Jalud village were seized by settlers weeks ago, amid a surge of settler violence and land seizures that have drawn international condemnation. Publicado también por: BBC News - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dca28211dc41d59e</guid>
+      <pubDate>Tue, 29 Sep 2026 15:33:32 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/5pph92/article71525131.ece/alternates/LANDSCAPE_1200/2026-09-29T090520Z_1803415936_RC2WSNAD56IP_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/5pph92/article71525131.ece/alternates/LANDSCAPE_1200/2026-09-29T090520Z_1803415936_RC2WSNAD56IP_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Journalist to be crowned king of Uganda’s Tooro after succession row</title>
       <link>https://www.independent.co.uk/news/world/africa/tooro-king-rukidi-nyabongo-uganda-b3058023.html</link>
       <description>Kijanangoma is being crowned amid a dispute over a young heir whom the royal clan does not recognise. Publicado también por: BBC News - World. Fuente: The Independent - World.</description>
@@ -495,45 +490,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8087/live/4f71efd0-b9cc-11f1-aade-db4851409c93.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Brazil's Lula bans online gambling ahead of presidential election</title>
-      <link>https://www.bbc.co.uk/news/articles/c914ddj21rzlo</link>
-      <description>Brazil’s President Luiz Inácio Lula da Silva on Friday signed an order banning fixed-odds betting just over a week ahead of the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt. Publicado también por: France 24 - English. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b93250aab6a68118</guid>
-      <pubDate>Sat, 26 Sep 2026 15:46:40 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10f/live/bf3283b0-b95a-11f1-b4ff-03f89ad0727d.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Huge crowds greet Pope in Paris ahead of open-air Mass</title>
-      <link>https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro</link>
-      <description>More than half a million people are expected to attend the event in the heart of the French capital. Publicado también por: France 24 - English. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6c5820c6aca16741</guid>
-      <pubDate>Sat, 26 Sep 2026 12:51:10 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9589/live/54ec10f0-b9a7-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9589/live/54ec10f0-b9a7-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Brazil's President Lula bans online betting ahead of presidential election</title>
-      <link>https://www.france24.com/en/brazil-s-president-lula-bans-online-betting-ahead-of-presidential-election</link>
-      <description>Brazil’s President Luiz Inácio Lula da Silva on Friday signed an order banning fixed-odds betting just over a week ahead of the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt. Publicado también por: BBC News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9693b07a159f48e3</guid>
-      <pubDate>Sat, 26 Sep 2026 12:36:01 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/49fe2a58-b9a6-11f1-b2a7-c959b9d22ec6/w:1024/p:16x9/2026-09-25T010102Z-1209481582-RC2OPNAX5WNZ-RTRMADP-3-BRAZIL-ELECTION-LULA.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/49fe2a58-b9a6-11f1-b2a7-c959b9d22ec6/w:1024/p:16x9/2026-09-25T010102Z-1209481582-RC2OPNAX5WNZ-RTRMADP-3-BRAZIL-ELECTION-LULA.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'</title>
       <link>https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz</link>
       <description>Trump's response comes after Iranian Foreign Minister Abbas Araghchi said on Friday that "if the necessary conditions are met, the strait can be reopened, and normal maritime traffic can resume within seven days". Publicado también por: Al Jazeera English, Euronews. Fuente: NPR - World.</description>
@@ -545,6 +501,19 @@
       <category>Europa</category>
       <dc:creator>Ava Pukatch</dc:creator>
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
+    </item>
+    <item>
+      <title>Tokyo suffers the longest streak of rainy days on record</title>
+      <link>https://phys.org/news/2026-09-tokyo-longest-streak-rainy-days.html</link>
+      <description>Tokyo has recorded 34 consecutive days of rain, marking the longest such streak on record, according to Japan's weather agency. Publicado también por: Euronews. Fuente: Phys.org.</description>
+      <guid isPermaLink="false">cron-rss-noticias:49fc88b60207dd4f</guid>
+      <pubDate>Tue, 29 Sep 2026 15:30:01 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://phys.org/rss-feed/">Phys.org</source>
+      <media:content url="https://scx1.b-cdn.net/csz/news/tmb/2026/files-tokyo-has-logged.jpg" medium="image" />
+      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/files-tokyo-has-logged.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Eviction of 87-year-old sparks protests in Madrid over housing crisis</title>
@@ -586,6 +555,18 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f86/live/e13d82a0-bbdc-11f1-bfea-9d5bb7e7d40b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f86/live/e13d82a0-bbdc-11f1-bfea-9d5bb7e7d40b.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nigerian attempts to break world record by dancing non-stop for seven days</title>
+      <link>https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o</link>
+      <description>Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:092b3ec1843defb4</guid>
+      <pubDate>Mon, 28 Sep 2026 15:39:19 +0000</pubDate>
+      <category>salud</category>
+      <category>África</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb2/live/f4252dc0-bb49-11f1-a071-65d2e11c8f4a.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb2/live/f4252dc0-bb49-11f1-a071-65d2e11c8f4a.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Las imágenes de la acampada en la Puerta del Sol de Madrid para protestar por la crisis de vivienda</title>
@@ -648,28 +629,29 @@
       <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/8286743631008238494?url=https%3A%2F%2Fimage.trueanthem.com%2FUXZPERCeAKIstlVqhcKhd15_bmlSwqRUNZxNkt8-Ew8%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9hYTY3NDgwLzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzYwMDB4Mzk5OCswKzEvcmVzaXplLzk4MHg2NTMhL3F1YWxpdHkvOTAvP3VybD1odHRwcyUzQSUyRiUyRmFzc2V0cy5hcG5ld3MuY29tJTJGNTclMkYyOSUyRjhhY2U0YTY3M2I2ODNhNzVlOGEyMzJjN2IxODUlMkY0NzM1M2Q0NDkyY2E0NTNlYTNmYmFmYmQzOGZhZTg5MA.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=HhX_t2RrHCqOQ1D4c2vZPg&amp;_nc_zt=3&amp;oh=06_Q3_DAW5wXzTOIVkkMMlkO8cdsi-ckgAnMa8i6gSgLLHH-NsM&amp;oe=6ABA5018" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency</title>
-      <link>https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo</link>
-      <description>Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d3f38991f363c740</guid>
-      <pubDate>Sat, 26 Sep 2026 17:47:09 +0000</pubDate>
-      <category>ambiente</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
+      <title>US 30-year Treasury yield hits highest since 2002</title>
+      <link>https://www.facebook.com/financialtimes/posts/pfbid02ikV8bY5fxoj99eVjhYNLY9nNGxxepgMHCnX47XoQWrTGb3LnCvBjiuDPss1CEYVtl?__cft__%5B0%5D=AZiL5bjTgQGDNhw8WYoJRvoT-kFV05HnIuZ9Qlne-LsAbH9px1ChY1LX-DBYuSo3gNmhQEVh7442C24UbP6i2LoidB2OTIyr4_W6bG_45Rwsh0os1gTsLVfzTnNb8-jecAe-bTuYa3bopFTm5BNtoWbivR9C1VKvZOqQg46Wx3x5Gy8gQeTVz7LLA1Q&amp;__tn__=%2CO%2CP-R</link>
+      <description>U.S. Treasury yields rose Tuesday, adding to their rip-roaring moves to multiyear highs due to concerns around inflation and central bank monetary policy. Publicado también por: CNBC - World. Fuente: Financial Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:583bd05617cd5778</guid>
+      <pubDate>Tue, 29 Sep 2026 15:35:38 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/552057704646192592?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F886017bf-fdce-454a-a0ea-3adb13f1136e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=OdgYlkjvm2UZIhFmZN_3Fg&amp;_nc_zt=3&amp;oh=06_Q3_DAfngV9NHbNScbMxzAXPw4SyvWeFtk049tGAW9yhCpdG-&amp;oe=6ABDC7F8" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/552057704646192592?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F886017bf-fdce-454a-a0ea-3adb13f1136e.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=OdgYlkjvm2UZIhFmZN_3Fg&amp;_nc_zt=3&amp;oh=06_Q3_DAfngV9NHbNScbMxzAXPw4SyvWeFtk049tGAW9yhCpdG-&amp;oe=6ABDC7F8" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>British national among six dead in building explosion close to Acropolis in Athens</title>
-      <link>https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o</link>
-      <description>Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1585775467ce3dfc</guid>
-      <pubDate>Sat, 26 Sep 2026 12:47:25 +0000</pubDate>
+      <title>South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon</title>
+      <link>https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon</link>
+      <description>District judge orders record fine for region and says incidents of pollution cannot be tolerated A water company has been ordered to pay a record fine of almost £8m for hundreds of sewage spills at popular bathing spots and sensitive habitats in Cornwall and Devon. On one occasion, untreated sewage gushed through a harbour wall on a bank holiday weekend but South West Water (SWW) engineers took 10 hours to attend. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3ed4a4af8c91a609</guid>
+      <pubDate>Tue, 29 Sep 2026 15:19:57 +0000</pubDate>
       <category>mundo</category>
       <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/b65e6fe0-b984-11f1-a8ed-73305fe15fa1.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7057/live/b65e6fe0-b984-11f1-a8ed-73305fe15fa1.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Steven Morris</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/faad4247e6b249706f93dac6fe2eca6a0bbf48f5/65_0_4714_3772/master/4714.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e2f8537b5388f24e13c7637913f6ac3" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/faad4247e6b249706f93dac6fe2eca6a0bbf48f5/65_0_4714_3772/master/4714.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e2f8537b5388f24e13c7637913f6ac3" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers</title>
@@ -903,80 +885,29 @@
       <enclosure url="https://i.guim.co.uk/img/media/b1b1bf1f72519b196c5a09afca6f3d6a81f9a5ae/403_0_4518_3614/master/4518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e6e0eb5e4d24014ab538f1b2c722dd" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Nearly one million people attend Pope Leo's open-air mass in Paris</title>
-      <link>https://www.jpost.com/international/article-909780</link>
-      <description>Crowds line Place de la Concorde on second day of pontiff’s first official papal visit to France in 18 years Hundreds of thousands of people lined the Avenue des Champs-Élysées in ⁠Paris on Saturday to attend an open-air mass with Pope Leo, on the second day of his visit to France. The Vatican estimated 700,000 people turned out for the outdoor mass with the 71-year-old American pope – about 100,000 more than the number of people who had registered to attend. Continue reading... Publicado también por: The Guardian - World. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:eb4daa83892d0dd0</guid>
-      <pubDate>Sat, 26 Sep 2026 19:19:52 +0000</pubDate>
+      <title>Quién es Christa Pike, la primera mujer que será ejecutada en Tennessee en más de 200 años: qué crimen cometió y por qué hoy recibiría otra pena</title>
+      <link>https://www.clarin.com/mundo/christa-pike-primera-mujer-ejecutada-tennessee-200-anos-crimen-cometio-hoy-recibiria-pena_0_BE8D7PHH8p.html</link>
+      <description>En 1995, con 18 años, torturó y asesinó a Collen Slemmer durante un campamento de formación laboral. Su novio participó del crimen, pero evitó la pena de muerte porque aún era menor de edad. Los atenuantes que la Justicia no tuvo en cuenta cuando la condenó hace tres décadas. Publicado también por: BBC News Mundo. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dc2011b69c00cc1d</guid>
+      <pubDate>Tue, 29 Sep 2026 13:12:32 +0000</pubDate>
       <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://i.guim.co.uk/img/media/bbefde4e437129a3c3c51f00b15e11a00d97d766/267_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd7aa2da595b7c249a98b5b980187a28" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/bbefde4e437129a3c3c51f00b15e11a00d97d766/267_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd7aa2da595b7c249a98b5b980187a28" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Manchester City confident they can prove ‘innocence’ over charges: Chairman</title>
-      <link>https://www.aljazeera.com/sports/2026/9/26/manchester-city-confident-they-can-prove-innocence-over-charges-chairman?traffic_source=rss</link>
-      <description>Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's innocence after they were found guilty of breaking Premier League financial rules. Publicado también por: BBC Sport. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bf5accbe14923cde</guid>
-      <pubDate>Sat, 26 Sep 2026 15:49:57 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Unas 700.000 personas colman París para la misa más multitudinaria de León XIV en Francia</title>
-      <link>https://www.france24.com/es/francia/20260926-unas-700-000-personas-colman-par%C3%ADs-para-la-misa-m%C3%A1s-multitudinaria-de-le%C3%B3n-xiv-en-francia</link>
-      <description>El papa recorrió los Campos Elíseos antes de presidir la eucaristía en la plaza de la Concordia, el acto principal de su segundo día de visita oficial a Francia. Previamente, el líder de la Iglesia católica visitó un centro de acogida e integración de migrantes y se reunió con catecúmenos y neófitos en el Instituto Católico de París. León XIV terminará el día en Lourdes, donde se reunirá el domingo con siete víctimas de abusos por parte de miembros de la Iglesia. Publicado también por: El País - Internacional. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bfa9e2522c05f988</guid>
-      <pubDate>Sat, 26 Sep 2026 15:32:09 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>France 24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/f341f00a-b9b4-11f1-bba8-555a0aff87a4/w:1024/p:16x9/2026-09-26T135857Z-496216932-RC21RNAJR250-RTRMADP-3-POPE-FRANCE.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/f341f00a-b9b4-11f1-bba8-555a0aff87a4/w:1024/p:16x9/2026-09-26T135857Z-496216932-RC21RNAJR250-RTRMADP-3-POPE-FRANCE.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Fórmula 1: Russell vence duelo com Verstappen e leva o GP do Azerbaijão</title>
-      <link>https://www.facebook.com/jornaloglobo/posts/pfbid029HGsWB7GqUsUD9h4WByrQVkt8o4LsWR1YwWLhk2YNuNa6oSpEJusU9uXRkcJGPmwl?__cft__%5B0%5D=AZi9jchRV-Fcopy8r2K55YZ6Y5n4cD6jirETRHv5YzCFybsbRUlxXa-8Vmtay8pvyjWAM7ZLRNTv54V2hthBk1Qzn9LTVOrScRxRcOlCmIIwkzb5kkutiBBjiAom1A9GZ-lpb6H3Izq-1LYFOmhpUnGn67Byph9dFXeqEusXUSfFBDIIlB4eFxy8DDY&amp;__tn__=%2CO%2CP-R</link>
-      <description>George Russell segura Verstappen e vence GP do Azerbaijão de Fórmula 1 CNNBRASIL.COM.BR George Russell segura Verstappen e vence GP do Azerbaijão de Fórmula 1 | CNN Brasil Publicado también por: CNN Brasil. Fuente: O Globo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0e08f76bf0bd5857</guid>
-      <pubDate>Sat, 26 Sep 2026 13:12:06 +0000</pubDate>
-      <category>deportes</category>
       <category>América Latina</category>
-      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/13797199924516185378?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2F3hFDTmonKQbu5ar9HY3g-SxGpL4%3D%2F4416x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2F3%2FD%2F52EvJRSfiBqBe3Ci3GmA%2F116367620-mercedes-british-driver-george-russell-makes-a-pit-stop-during-the-formula-one-azerba.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=ZA706Z4OVAf8EiNMTbtoFg&amp;_nc_zt=3&amp;oh=06_Q3_DAVdz4TtY985AxUgDEv7i9FxuOW7AjVam6jot60_CiKJC&amp;oe=6AB9865D" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/13797199924516185378?url=https%3A%2F%2Fs2-oglobo.glbimg.com%2F3hFDTmonKQbu5ar9HY3g-SxGpL4%3D%2F4416x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_da025474c0c44edd99332dddb09cabe8%2Finternal_photos%2Fbs%2F2026%2F3%2FD%2F52EvJRSfiBqBe3Ci3GmA%2F116367620-mercedes-british-driver-george-russell-makes-a-pit-stop-during-the-formula-one-azerba.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=ZA706Z4OVAf8EiNMTbtoFg&amp;_nc_zt=3&amp;oh=06_Q3_DAVdz4TtY985AxUgDEv7i9FxuOW7AjVam6jot60_CiKJC&amp;oe=6AB9865D" type="image/jpeg" length="0" />
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2025/10/03/iG5eVjP96_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2025/10/03/iG5eVjP96_1200x630__1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Why has the Yemen government called for a general mobilisation?</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0men6fN7EVh8XgL4yguYxbV6SNnxEs9GTQbuWpd3G2FY75HtFM7yJjSYJ3SG8sHJRl?__cft__%5B0%5D=AZia0wYHJx46m-dD6J5Htcn4hrYQv13JyLib4Y0d2ss3RBss7Ok5J0q5Tj5DxWG1V5yBZUAA5IKLuEH-XiXe54EAeBFQRr-l3KWTs33B5ZHEgsIMWUb-65vYeB_AptZTBZaKnl2Eacxv-I3tIH-bp9swlhM8TMR70kId-_1VWhz2bh0d64SwGrzTWck&amp;__tn__=%2CO%2CP-R</link>
-      <description>Yemeni government offers amnesty to Houthi defectors, aiming to weaken rebel ranks and rebuild national unity. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a13b8721906364de</guid>
-      <pubDate>Sat, 26 Sep 2026 13:00:20 +0000</pubDate>
+      <title>Man charged over AI image of crocodile in Singapore reservoir</title>
+      <link>https://www.bbc.co.uk/news/articles/c6grveg7d9zro</link>
+      <description>A 30-year-old man was charged on Tuesday over an AI-generated image of a crocodile at Pandan Reservoir in Singapore that prompted authorities to search for the reptile and suspend water activities there. Ye Lin, a Myanmar national, was handed two charges – one count of communicating a false message and one count of obstructing the course of justice. Speaking through an interpreter, he told the court that he intended to plead guilty, and would not be engaging a lawyer. On August 20, Ye Lin... Publicado también por: South China Morning Post. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f8e14abd10cc7108</guid>
+      <pubDate>Tue, 29 Sep 2026 13:08:55 +0000</pubDate>
       <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/825279499_1015825648182093_2077643791594101236_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=UokX3knI9OoQ7kNvwEH7Xes&amp;_nc_oc=Adp8azzUQ8kkqY11Vew5FpkGuiGCkLW5lWNW2j0SPjDvd740at4diOB67O17pjWqgn4&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=DBa1V28K9fBVe8dNM454xQ&amp;_nc_ss=7f289&amp;oh=00_AQLdnThON-MeumMCRuRCEM0gE1qQjJ5_mKQffqOZ4wHm6Q&amp;oe=6ABD989F" medium="image" />
-      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/825279499_1015825648182093_2077643791594101236_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=UokX3knI9OoQ7kNvwEH7Xes&amp;_nc_oc=Adp8azzUQ8kkqY11Vew5FpkGuiGCkLW5lWNW2j0SPjDvd740at4diOB67O17pjWqgn4&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=DBa1V28K9fBVe8dNM454xQ&amp;_nc_ss=7f289&amp;oh=00_AQLdnThON-MeumMCRuRCEM0gE1qQjJ5_mKQffqOZ4wHm6Q&amp;oe=6ABD989F" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El Papa llama a “ver a quienes son invisibilizados” en un centro de ayuda a migrantes de París</title>
-      <link>https://elpais.com/internacional/2026-09-26/el-papa-llama-a-ver-a-quienes-son-invisibilizados-en-un-centro-de-ayuda-a-migrantes-de-paris.html</link>
-      <description>El papa recorrió los Campos Elíseos antes de presidir la eucaristía en la plaza de la Concordia, el acto principal de su segundo día de visita oficial a Francia. Previamente, el líder de la Iglesia católica visitó un centro de acogida e integración de migrantes y se reunió con catecúmenos y neófitos en el Instituto Católico de París. León XIV terminará el día en Lourdes, donde se reunirá el domingo con siete víctimas de abusos por parte de miembros de la Iglesia. Publicado también por: France 24 - Español. Fuente: El País - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ab6e65ce1cbb299b</guid>
-      <pubDate>Sat, 26 Sep 2026 12:14:17 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>Íñigo Domínguez</dc:creator>
-      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
-      <media:content url="https://imagenes.elpais.com/resizer/v2/AEBQA7V5SJJ2FOM4CIXKU7VC7Q.jpg?auth=6ef12f4a4e05272de130a590716a14b8814ea01e3a5cfddc69242b81e87ab1fa" medium="image" />
-      <enclosure url="https://imagenes.elpais.com/resizer/v2/AEBQA7V5SJJ2FOM4CIXKU7VC7Q.jpg?auth=6ef12f4a4e05272de130a590716a14b8814ea01e3a5cfddc69242b81e87ab1fa" type="image/jpeg" length="0" />
+      <category>Asia</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US ban on Canadian alcohol and dairy comes into effect as trade war drags on</title>
@@ -999,32 +930,6 @@
       <category>mundo</category>
       <category>América del Norte</category>
       <source url="https://www.facebook.com/APNews/">The Associated Press</source>
-    </item>
-    <item>
-      <title>Republic of Ireland to wear black armbands for Israel game</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo</link>
-      <description>Republic of Ireland players intend to wear black armbands "in recognition of all lives lost in the [Gaza] conflict" for Sunday's Nations League game against Israel in Hungary, after confirming they will go ahead with the fixture. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:111e03c5341370e5</guid>
-      <pubDate>Sat, 26 Sep 2026 14:58:44 +0000</pubDate>
-      <category>deportes</category>
-      <category>Medio Oriente</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OpenAI bots meddled with multiple US Government agency sites</title>
-      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
-      <description>Article URL: https://www.bbc.com/news/articles/cw62jje658dlo Comments URL: https://news.ycombinator.com/item?id=49856665 Points: 91 # Comments: 137 Publicado también por: BBC News - World. Fuente: Hacker News - Portada.</description>
-      <guid isPermaLink="false">cron-rss-noticias:dce8b4e470785e08</guid>
-      <pubDate>Sat, 26 Sep 2026 14:03:54 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>Betelbuddy</dc:creator>
-      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe1e/live/6ddbd170-b954-11f1-96dc-f7c10dbde38b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion</title>
@@ -1083,18 +988,6 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
     </item>
     <item>
-      <title>Trump rejects Iranian offer to reopen Strait of Hormuz</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss</link>
-      <description>Trump's response comes after Iranian Foreign Minister Abbas Araghchi said on Friday that "if the necessary conditions are met, the strait can be reopened, and normal maritime traffic can resume within seven days". Publicado también por: Euronews. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:624936c755b5e3e5</guid>
-      <pubDate>Sat, 26 Sep 2026 18:00:43 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
       <title>Watch: mass Madrid protests over Maricarmen eviction and housing crisis</title>
       <link>http://www.africanews.com/2026/09/27/watch-mass-madrid-protests-over-maricarmen-eviction-and-housing-crisis/</link>
       <description>Protesters in Madrid have spent a second night camping in Puerta del Sol, turning the capital’s main square into a makeshift housing protest camp after the eviction of 87-year-old María del Carmen Abascal, widely known as “Maricarmen”. Publicado también por: Euronews. Fuente: Africanews.</description>
@@ -1138,31 +1031,111 @@
       <enclosure url="http://images.euronews.com/articles/stories/09/92/96/62/640x360_cmsv2_fc4bc3f4-2962-58ca-94e1-df1f70522ff6-9929662.jpg?1790518372" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Tenth woman found dead in South Africa's string of mystery killings</title>
-      <link>http://www.africanews.com/2026/09/26/tenth-woman-found-dead-in-south-africas-string-of-mystery-killings/</link>
-      <description>South African police on Saturday found another body in Ekurhuleni, east of Johannesburg, bringing to 10 the number of women found dead in the municipality over the past two months Publicado también por: The Hindu - International. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:30cdd960178e0114</guid>
-      <pubDate>Sat, 26 Sep 2026 12:46:53 +0000</pubDate>
+      <title>1619 reproducciones · 35 reacciones | 🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente Petrolero ➡Comienza la Fecha 6 de la Copa Paceña | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1387563060024535/?comment_id=2204924310236654&amp;__cft__%5B0%5D=AZhEzmfyJxyTIiU2qpZIdwpa_d6cQKFf-5MHjdfNbXWif0tJuDMkA3bQkvJFgUVFrWupIHpIlP5HZCsghlPhZLi4U_g3PJlbUsRl8J959Q0S_3_itphfzTF_yjvCLIDTrLMjS6Pe9rA7xleR4ukzWnJKvAS8z4RJ-oeaEKdfZa4T1wBTvVwe6QJ9ZB7xQdWPgF4&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente Petrolero ➡Comienza la Fecha 6 de la Copa Paceña 🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d67713ba783f07ed</guid>
+      <pubDate>Tue, 29 Sep 2026 15:58:26 +0000</pubDate>
       <category>mundo</category>
-      <category>África</category>
-      <category>Asia</category>
-      <dc:creator>editorial@africanews.com</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/92/14/84/640x360_cmsv2_742c0dfb-ad47-5360-b8e0-1353283a3a1e-9921484.jpg?1790419090" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/92/14/84/640x360_cmsv2_742c0dfb-ad47-5360-b8e0-1353283a3a1e-9921484.jpg?1790419090" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/828713859_3090076184666685_5251993034698589792_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=eI06uJuXIfcQ7kNvwGfYBDj&amp;_nc_oc=AdocqZShTIoIL0NVy1pjU0w6xjyO-UJNcwoQVRVbm4PTvbQqP4Y_3CWzGwr68eo70Wg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=FXQ-k6aBNNYsG2ZVnWlTSg&amp;_nc_ss=7f289&amp;oh=00_AQNB76Sz6jWh4ssBD_5jcN3XD-d7tpWSkBGxTH5TxVC6AA&amp;oe=6AC1AE11" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/828713859_3090076184666685_5251993034698589792_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=eI06uJuXIfcQ7kNvwGfYBDj&amp;_nc_oc=AdocqZShTIoIL0NVy1pjU0w6xjyO-UJNcwoQVRVbm4PTvbQqP4Y_3CWzGwr68eo70Wg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=FXQ-k6aBNNYsG2ZVnWlTSg&amp;_nc_ss=7f289&amp;oh=00_AQNB76Sz6jWh4ssBD_5jcN3XD-d7tpWSkBGxTH5TxVC6AA&amp;oe=6AC1AE11" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>At least 11 dead following suicide bomb attack in northwestern Pakistan</title>
-      <link>https://www.euronews.com/2026/09/26/at-least-11-dead-following-suicide-bomb-attack-in-northwestern-pakistan</link>
-      <description>The Tehreek-e-Taliban Pakistan (TTP) group, or Pakistani Taliban, has claimed responsibility for the bombing. The group, founded in late 2007, is allied with the Afghan Taliban. Publicado también por: The Times of India - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7d7e47b5c6173f6f</guid>
-      <pubDate>Sat, 26 Sep 2026 12:19:02 +0000</pubDate>
-      <category>mundo</category>
+      <title>Breaking news: President Trump has launched America.gov, a government chatbot for researching public services.... Ver más</title>
+      <link>https://www.facebook.com/washingtonpost/posts/pfbid02Pvpc5fkVyxfjmkaDYvLnSzyY5Hz9eA4nhizw9xcZGBPohcYJGw2WfKSibY9vka5Rl?__cft__%5B0%5D=AZjNk_9HXWfPpInkQ13tmKBPUMWtt8t_DiZ_x36bQbnMbOUQt7YswBShYzr6Qr3MyPSi0IMpClEnpbJcRvYsiiPqeTja_WHKOEJjhxRhjjItdVAW0SIgIrX3akBNh-L6KVHEvHO9_aG92g_ny7CKzupN1R2qJRdCbZppjXTY5Xb3izPj1WFhz1DO5pM&amp;__tn__=%2CO%2CP-R</link>
+      <description>Breaking news: President Trump has launched America.gov, a government chatbot for researching public services.... Ver más Dear Lindsay Clancy, I cried today... not from anger, not from fear, but from the strange relief of seeing someone stand upright in a world that bends itself into knots. I cried because conviction is lonely, and you carry yours into rooms where it isn’... Ver más… Fuente: The Washington Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c75b588dc3f92f60</guid>
+      <pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
+      <category>politica</category>
+      <category>salud</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
+      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/1032151535935586443?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-29%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa4a2b49e-edb2-4d31-aa0e-a25843fb9091&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Qls9sJX71_RbDxy1wUfFOQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbj3wJEwYk46AV5pBQDYwuK4MgQJbg3DKQZ_4NAn6k27&amp;oe=6ABDB05E" medium="image" />
+      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/1032151535935586443?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-29%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa4a2b49e-edb2-4d31-aa0e-a25843fb9091&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Qls9sJX71_RbDxy1wUfFOQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbj3wJEwYk46AV5pBQDYwuK4MgQJbg3DKQZ_4NAn6k27&amp;oe=6ABDB05E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Dozens Killed in Myanmar Military Bombing</title>
+      <link>https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html</link>
+      <description>An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9912a469afb3715a</guid>
+      <pubDate>Tue, 29 Sep 2026 15:20:14 +0000</pubDate>
+      <category>conflictos</category>
       <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>Tiffany May</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/00int-myanmar-airstrike-bpcm/00int-myanmar-airstrike-bpcm-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/00int-myanmar-airstrike-bpcm/00int-myanmar-airstrike-bpcm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis</title>
+      <link>https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html</link>
+      <description>The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:41c956e28c8f9750</guid>
+      <pubDate>Tue, 29 Sep 2026 15:06:48 +0000</pubDate>
+      <category>mundo</category>
       <category>Europa</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://static.toiimg.com/photo/msid-134504063,imgsize-38641.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-134504063,imgsize-38641.cms" type="image/jpeg" length="0" />
+      <category>América del Norte</category>
+      <dc:creator>Jason Horowitz and Carlos Barragán</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-spain-housing-01-hczq/29int-spain-housing-01-hczq-mediumSquareAt3X-v2.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-spain-housing-01-hczq/29int-spain-housing-01-hczq-mediumSquareAt3X-v2.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Blackmail, ‘mafia boys’ and rants from a Beirut bedroom – after 10 weeks of theatre what might Icac deliver?</title>
+      <link>https://www.theguardian.com/australia-news/2026/sep/30/icac-nsw-liberals-what-did-inquiry-really-achieve-ntwnfb</link>
+      <description>You could be forgiven for thinking the inquiry has been a bit of a damp squib. But high-profile resignations are not the only measure of Icac’s success Get our breaking news email , free app or daily news podcast Many people watching the Independent Commission Against Corruption hearings in Sydney over the past two months have come to admire the forensic questioning of the counsel assisting the inquiry, Peggy Dwyer SC. As she set out the complicated allegations in detail on the opening day in July, Dwyer emphasised the central role of electoral donations laws, observing: “Money in politics… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:01b76bb565fbe384</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:54 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Oceanía</category>
+      <dc:creator>Penry Buckley</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/55a4242ba4aae70039514f09c53dfa5f066a8369/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a31f4ce6f9ea22486c9dcfd0df7534f3" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/55a4242ba4aae70039514f09c53dfa5f066a8369/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a31f4ce6f9ea22486c9dcfd0df7534f3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Andy Burnham coloca la crisis de la vivienda como prioridad de su programa de Gobierno</title>
+      <link>https://elpais.com/internacional/2026-09-29/andy-burnham-coloca-la-crisis-de-la-vivienda-como-prioridad-de-su-programa-de-gobierno.html</link>
+      <description>“No debe ser un juego de ganadores y perdedores, sino el bien esencial para una buena vida”, ha dicho el primer ministro británico Fuente: El País - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7ae523d487bede2e</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:18 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>Rafa De Miguel</dc:creator>
+      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
+      <media:content url="https://imagenes.elpais.com/resizer/v2/75BVY5OHZJNE5O76WC7LASTHRY.jpg?auth=d3459a94a166ea7f5facdf1d226323f5f23981b9f80ab9f38a91e875a3380c72" medium="image" />
+      <enclosure url="https://imagenes.elpais.com/resizer/v2/75BVY5OHZJNE5O76WC7LASTHRY.jpg?auth=d3459a94a166ea7f5facdf1d226323f5f23981b9f80ab9f38a91e875a3380c72" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Spain announces plan to ease housing crisis amid outcry over eviction of 87-year-old</title>
+      <link>https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction</link>
+      <description>Measures, which need to be approved in Congress, include extending ban on evictions of vulnerable people Spain’s Socialist Workers’ party-led coalition government has approved a range of measures aimed at easing the country’s housing crisis, including extending a ban on evictions of vulnerable tenants until 2030, after a public outcry over the eviction of an 87-year-old disabled woman from her Madrid apartment last week. Two decrees have been approved by cabinet but will need to be approved in Congress, where the coalition lacks a majority. The government has requested a special parliamentary… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:27cf8d35449486c3</guid>
+      <pubDate>Tue, 29 Sep 2026 14:27:03 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>Stephen Burgen in Barcelona</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/4f3b7f80409cbf633eaad7dc939612e51caae389/698_0_4760_3808/master/4760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b04e8f49b20e1e13b8656deac4dd55b" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/4f3b7f80409cbf633eaad7dc939612e51caae389/698_0_4760_3808/master/4760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b04e8f49b20e1e13b8656deac4dd55b" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Calais Jungle: A child and 2 women killed during Channel crossing attempt</title>
+      <link>https://www.france24.com/en/video/20260929-calais-jungle-a-child-and-2-women-killed-during-channel-crossing-attempt</link>
+      <description>A 10-year-old child and two women died Monday on the treacherous migration route across the English Channel from France, apparently trampled to death on a boat packed with more than 100 people, French authorities said. The so-called “taxi boat" ran into difficulty off the northern French coast, with its passengers asking for help, authorities said. Such inflatable boats attempt the dangerous crossing after picking up people from the beaches of northern France, where they wade into the sea to clamber aboard. FRANCE 24's Claire Paccalin tells us more. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7f4801f3a2cf55e0</guid>
+      <pubDate>Tue, 29 Sep 2026 14:09:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/451c5d88-bc0e-11f1-bb6e-8f3418d01115/w:1024/p:16x9/EN-20260929-151754-152651-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/451c5d88-bc0e-11f1-bb6e-8f3418d01115/w:1024/p:16x9/EN-20260929-151754-152651-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>3 comentarios | 🔴EN VIVO🔴 ➡La Selección Boliviana Perdió Contra Paraguay ➡Bolívar le gana a Blooming ➡The Strongest le gana por la mínima a Guabira ➡Finalizo la Fecha 5 de la Copa Paceña | ATB Digital</title>
@@ -1205,7 +1178,7 @@
     <item>
       <title>Burnham is told axing pension triple lock would be ‘electoral suicide’ as he prepares to address Labour conference – UK politics live</title>
       <link>https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates</link>
-      <description>Union leader says getting rid of triple lock not ‘the right thing’ as the PM prepares to lay out his ‘hope comes from honesty’ vision in Liverpool this afternoon Burnham promises to roll back privatisation with government-backed grid plan Andy Burnham has posted this on social media this morning. It is slightly condensed version of the overnight briefing given to the media. (See 8.40am .) We can’t carry on as we are. Politics as usual has taken Britain backwards, and more of the same won’t get us where we need to be. We are committed to the triple lock. It’s in our manifesto. The triple lock… Fuente: The Guardian - World.</description>
+      <description>PM, in first speech to party conference as leader, insists his plans are a ‘good deal’ for older people Burnham to signal willingness to look at scrapping pension triple lock to fund social care Angela Rayner , the housing secretary, has apparently confirmed that Andy Burnham will float the prospect of getting rid of the pensions triple lock to help fund the creation of an NHS-style care service. Asked about the prospect on Sky’s Electoral Dysfunction podcast, Rayner said that Burnham was “absolutely right to start the conversation” and that he was being “brave”. The high principle on this is… Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:bd38705c4ecab470</guid>
       <pubDate>Tue, 29 Sep 2026 08:09:20 +0000</pubDate>
       <category>conflictos</category>
@@ -1590,6 +1563,30 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/828257214_1225730059773927_7974904981277996784_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=8NrKNnPYIasQ7kNvwEc3Euj&amp;_nc_oc=AdrjX__IzfdD6uZBLEPeM3movGtrRGXay0NXVIu6UPGt9TkwIoCYzed3VbOWSiThRQg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=f6LyVIzYiQwohAK4b28OKg&amp;_nc_ss=7f289&amp;oh=00_AQOmq5cLCrSXPk4hSAHd981XUzDpHp60q1Gjai_fcGnScw&amp;oe=6ABF9179" medium="image" />
       <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/828257214_1225730059773927_7974904981277996784_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=8NrKNnPYIasQ7kNvwEc3Euj&amp;_nc_oc=AdrjX__IzfdD6uZBLEPeM3movGtrRGXay0NXVIu6UPGt9TkwIoCYzed3VbOWSiThRQg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=f6LyVIzYiQwohAK4b28OKg&amp;_nc_ss=7f289&amp;oh=00_AQOmq5cLCrSXPk4hSAHd981XUzDpHp60q1Gjai_fcGnScw&amp;oe=6ABF9179" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Etíope sofre cãibras e deixa escapar recorde mundial na Maratona de Berlim... Ver más</title>
+      <link>https://www.facebook.com/folhadesp/posts/pfbid09EsereKhMwM4TkNP2JJNJpHTiuiZ3che41vQcTTctiBYPvarETpTsmTJd3pSJKPQl?__cft__%5B0%5D=AZjEClgfxx8tOtgOqGUFd6MP-n2CiRlrh0Ti29n6bBrsNaXMrfm0w5s9iqmNhL6w3vCN-BV_AjV86J-UD7IYA0GFeJcwBG6lILn1FhDKJ_Q6kez8iAH9gFy2ELFMkXSdXIIPMTY4XgQXcoz_TMSesA7UMduseSByRxPhl36XtIKE_cVQndAu5zBNLG8&amp;__tn__=%2CO%2CP-R</link>
+      <description>Etíope sofre cãibras e deixa escapar recorde mundial na Maratona de Berlim... Ver más WWW1.FOLHA.UOL.COM.BR Etíope sofre cãibras e deixa escapar recorde mundial na Maratona de Berlim Fuente: Folha de S.Paulo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:873df74d0fe2d82d</guid>
+      <pubDate>Mon, 28 Sep 2026 00:41:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
+      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/10639017918509030400?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F09%2F27%2F17905250756ab93e9376f3f_1790525075_3x2_rt.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=pDA8UOR9X7dNTCdAWkSB8A&amp;_nc_zt=3&amp;oh=06_Q3_DAekwShJCxepbrkOECv2XXAk4I-af44i-4J1PrcRlahfG&amp;oe=6ABB9B47" medium="image" />
+      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/10639017918509030400?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F09%2F27%2F17905250756ab93e9376f3f_1790525075_3x2_rt.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=pDA8UOR9X7dNTCdAWkSB8A&amp;_nc_zt=3&amp;oh=06_Q3_DAekwShJCxepbrkOECv2XXAk4I-af44i-4J1PrcRlahfG&amp;oe=6ABB9B47" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Plenty of Salvadorans would like their president’s AI-fuelled plans to be genuine successes. But Nayib Bukele also has a track record of using policies to amass power</title>
+      <link>https://www.facebook.com/TheEconomist/posts/pfbid029RMeheEoDMXyWeigrNjtusNwR1WiRy2Lzqrrb6N9XPwJWmcTR2HEmFmVJtHbgjZjl?__cft__%5B0%5D=AZiB5kzsJNGrjpGtSxBpJjwGuGnSfWvOr27xBx4VSxAOjV913OcDl0wJtg19fUxI9ZFFaw0wXNWUnXbqNbygTc-n8P-2znakf1js2KonYsJhM44dL1R16fJtA1e86m0NeQTOd9zHPVxVdxjXVScsC0jxHEv8mow6lftADkfDbr_qHcveWBSFWAsoBgM&amp;__tn__=%2CO%2CP-R</link>
+      <description>Plenty of Salvadorans would like their president’s AI-fuelled plans to be genuine successes. But Nayib Bukele also has a track record of using policies to amass power ECONOMIST.COM The dictator’s laboratory: Nayib Bukele is pushing AI hard Fuente: The Economist.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2dd816e1e48f5219</guid>
+      <pubDate>Mon, 28 Sep 2026 00:30:52 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/6811067328307142785?url=https%3A%2F%2Fimage.trueanthem.com%2F5wyCQH5hPLWWPVWaubzz8zD8nlS4-R-DGwodLGPeF_Q%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MjZfQU1QMDAxLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=h6SPXZqp3e3LBxH7LN8AWQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbq9t3aIMTqbLT_HEVRTrmbnh6OzhgJT5I10QUYpimRN&amp;oe=6ABBA6A6" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/6811067328307142785?url=https%3A%2F%2Fimage.trueanthem.com%2F5wyCQH5hPLWWPVWaubzz8zD8nlS4-R-DGwodLGPeF_Q%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MjZfQU1QMDAxLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=h6SPXZqp3e3LBxH7LN8AWQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbq9t3aIMTqbLT_HEVRTrmbnh6OzhgJT5I10QUYpimRN&amp;oe=6ABBA6A6" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
