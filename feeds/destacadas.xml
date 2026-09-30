@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 30 Sep 2026 00:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:49:55 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -21,20 +21,6 @@
       <category>África</category>
       <category>Medio Oriente</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Two mass shootings in South Africa leave 27 dead</title>
-      <link>https://www.bbc.co.uk/news/articles/ck5ywnp075d1o</link>
-      <description>Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police. The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, about 50 miles… Publicado también por: The New York Times - World, The Hindu - International, The Guardian - World, Euronews, France 24 - English. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0d286171623418ba</guid>
-      <pubDate>Sun, 27 Sep 2026 13:50:14 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg" type="image/jpeg" length="0" />
     </item>
@@ -127,6 +113,20 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/9f52cb1f-6d46-4b8d-addc-0ed58076fe4f_ee772bae.jpg?itok=Xcgq7Pto&amp;v=1790653181" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Morocco's King Mohammed VI appoints Fatima Mansouri as the country's first female prime minister</title>
+      <link>https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini</link>
+      <description>King Mohammed VI appointed Fatima Ezzahra El Mansouri on Tuesday as Morocco’s first woman prime minister after her liberal-centrist party came out on top in a September 23 parliamentary election, the royal palace said. The king asked El Mansouri to form a new government, the palace said in a ‌statement. El Mansouri’s Authenticity and Modernity Party (PAM) was created in 2008 by an adviser to the king and has since positioned itself as a counterweight to the Islamist Justice and Development Party... Publicado también por: Al Jazeera English, South China Morning Post, The Washington Post - World, The Jerusalem Post - International, Africanews, France 24 - English. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4c97561ea4fe7de7</guid>
+      <pubDate>Wed, 30 Sep 2026 04:21:51 +0000</pubDate>
+      <category>politica</category>
+      <category>África</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/03aac564-9ef1-4fd8-8ee0-01509f62d61a_4d1eabac.jpg?itok=vm-wgbk_&amp;v=1790721444" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/03aac564-9ef1-4fd8-8ee0-01509f62d61a_4d1eabac.jpg?itok=vm-wgbk_&amp;v=1790721444" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>La socialdemócrata Magdalena Andersson renuncia a formar Gobierno en Suecia</title>
       <link>https://www.elmundo.es/internacional/2026/09/28/6aba78b0e4d4d8a2498b459c.html</link>
       <description>La líder socialdemócrata sueca, Magdalena Andersson , ha anunciado este lunes que comunicaría al presidente del Parlamento su incapacidad para formar gobierno en la situación actual. Su bloque de centroizquierda obtuvo una ajustada mayoría que le ha impedido constituir un nuevo ejecutivo .Su decisión se ha producido después de que el Partido de la Izquierda anunciara durante el fin de semana que apoyaría a un candidato a la presidencia del Parlamento perteneciente al partido rival , el Partido Moderado, según Andersson, esta postura socavó sus intentos de formar gobierno.«Por supuesto, tomo… Publicado también por: El País - Internacional, ABC España - Internacional. Fuente: El Mundo - Internacional.</description>
@@ -203,6 +203,7 @@
       <category>mundo</category>
       <category>Europa</category>
       <category>Asia</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
@@ -429,6 +430,20 @@
       <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-wedela-johannesburg_7362749.jpg?20260927191757" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>US Supreme Court lets Trump resume deportations to third countries</title>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3369275/us-supreme-court-lets-trump-resume-deportations-third-countries</link>
+      <description>The US Supreme Court on Tuesday let President Donald Trump’s administration continue swiftly deporting people to countries other than their own for now, while the justices consider whether the policy is legal. The apparent 6-3 order temporarily lifts lower court requirements for migrants to get a chance to object before being sent to countries to which they have no ties. The Supreme Court will hear arguments in December. Justices Sonia Sotomayor, Elena Kagan and Ketanji Brown Jackson would have... Publicado también por: The Hindu - International, CNBC - World. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a1a963c41971af33</guid>
+      <pubDate>Wed, 30 Sep 2026 03:21:23 +0000</pubDate>
+      <category>sociedad</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <dc:creator>Associated Press</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/9906a246-aecb-4ed1-868a-a6df56403f73_0150dbb4.jpg?itok=TWicMurX&amp;v=1790738482" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/9906a246-aecb-4ed1-868a-a6df56403f73_0150dbb4.jpg?itok=TWicMurX&amp;v=1790738482" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>SpaceX’s Starship reaches orbit for the first time</title>
       <link>https://www.euronews.com/2026/09/28/spacexs-starship-reaches-orbit-for-the-first-time</link>
       <description>The black-and-silver behemoth, standing more than 120 meters (131 yards) tall, rose through a thick cloud of smoke on an ambitious 14th test flight Publicado también por: The Hindu - International, CNBC - World. Fuente: Euronews.</description>
@@ -505,19 +520,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/27nyt2/article71521579.ece/alternates/LANDSCAPE_1200/Cornell_Fraternity_Lawsuit_31918.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Ireland team to wear black armbands as players vote to go ahead with Israel game</title>
-      <link>https://www.euronews.com/2026/09/27/ireland-team-to-wear-black-armbands-as-players-vote-to-go-ahead-with-israel-game</link>
-      <description>The Israeli FA issued a statement commending the FAI and the Irish squad for deciding to go ahead with the match, saying: "Football has won." Publicado también por: BBC News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:bec17b4ab0b1bc23</guid>
-      <pubDate>Sun, 27 Sep 2026 13:06:31 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Tokyo suffers the longest streak of rainy days on record</title>
       <link>https://phys.org/news/2026-09-tokyo-longest-streak-rainy-days.html</link>
       <description>Tokyo has recorded 34 consecutive days of rain, marking the longest such streak on record, according to Japan's weather agency. Publicado también por: Euronews. Fuente: Phys.org.</description>
@@ -544,20 +546,6 @@
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
       <media:content url="http://images.euronews.com/articles/stories/09/92/98/26/640x360_cmsv2_ffd36db2-3b84-57ca-b8fa-2a5ca872da94-9929826.jpg?1790533838" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/92/98/26/640x360_cmsv2_ffd36db2-3b84-57ca-b8fa-2a5ca872da94-9929826.jpg?1790533838" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>South Africa reels from spate of mass shootings that killed 38 people in a week</title>
-      <link>https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week</link>
-      <description>Gunmen killed at least 27 people in two mass shootings in South Africa’s two largest cities, police said Sunday, in the latest violence to strike the crime-weary country Publicado también por: Africanews. Fuente: NPR - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9e96d9b3f172a040</guid>
-      <pubDate>Sun, 27 Sep 2026 13:01:27 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <category>América del Norte</category>
-      <dc:creator>Kate Bartlett</dc:creator>
-      <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/92/52/32/640x360_cmsv2_ea06de9c-f043-59af-ac15-b46c1f9041c5-9925232.jpg?1790491566" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/92/52/32/640x360_cmsv2_ea06de9c-f043-59af-ac15-b46c1f9041c5-9925232.jpg?1790491566" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Morocco names first female prime minister after historic election victory</title>
@@ -634,16 +622,31 @@
       <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/825328911_1599705878003252_3099877754882304990_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=hSZo3bs5UqoQ7kNvwGjn97r&amp;_nc_oc=AdpRvg8mIdDb4csIPWH8jBJz2Bg6oipelYYe_UUg48um6GknRuq1E0-k_u-yOrHEgrc&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=iuSZOQ-ktS75MycTVuDA8w&amp;_nc_ss=7f289&amp;oh=00_AQLtGLoCIGqus_NQG64uU8dr9viZhlcMzw6tiX9xqNU9uA&amp;oe=6ABF4189" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Afghanistan says it killed 28 fighters, wounded 32 after group crosses over from Pakistan</title>
-      <link>https://www.jpost.com/international/article-909841</link>
-      <description>The Afghan Defence Ministry alleges Pakistani intelligence trained and sent former Afghan security personnel across the border, an allegation Islamabad has not responded to Publicado también por: The Hindu - International. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:14a54a05465bfe55</guid>
-      <pubDate>Sun, 27 Sep 2026 12:39:58 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <title>Half a million trees to be planted in England in three years, says government</title>
+      <link>https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle</link>
+      <description>Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weather Half a million trees will be planted across England in the next three years to protect against extreme weather, the environment secretary, Angela Eagle, will pledge on Wednesday morning. Mayors, local authorities, charities and grassroots groups will be given new funding and responsibilities for restoring natural landscapes such as wetlands, river edges and meadows, which can provide natural flood management and reduce the damage done by droughts. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2874c6fe53d9ca44</guid>
+      <pubDate>Wed, 30 Sep 2026 06:08:17 +0000</pubDate>
+      <category>ambiente</category>
+      <category>Global</category>
+      <dc:creator>Fiona Harvey Environment editor</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/9180db3f9519fc2a08e087c42137e2e6b47f08f1/656_0_3280_2624/master/3280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=840d98e82db62a5a6e36d07e174178d7" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/9180db3f9519fc2a08e087c42137e2e6b47f08f1/656_0_3280_2624/master/3280.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=840d98e82db62a5a6e36d07e174178d7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Approval of biggest coal project in NSW planning commission’s history described as ‘infamous betrayal’</title>
+      <link>https://www.theguardian.com/australia-news/2026/sep/30/hunter-valley-coal-project-singleton-ipc-planning-decision</link>
+      <description>Independent Planning Commission says climate change impacts from Hunter Valley project will be ‘outweighed’ by economic benefits Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The New South Wales independent planner has approved the biggest coalmine project to ever go before it, allowing mining to continue until 2045 at a Hunter Valley project described by climate groups as a “carbon bomb”. The Independent Planning Commission (IPC) has greenlit the Hunter Valley Operations (HVO) Continuation Project after a contentious… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f94930114900cf89</guid>
+      <pubDate>Wed, 30 Sep 2026 05:48:20 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <category>Oceanía</category>
+      <dc:creator>Graham Readfearn Environment and climate correspondent</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/c1983bb97d7b3afbead813cd8443ac0ec20a0751/1196_0_2832_2266/master/2832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f1c8fc8c5140d76bc3b6fda036eeaa9" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/c1983bb97d7b3afbead813cd8443ac0ec20a0751/1196_0_2832_2266/master/2832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f1c8fc8c5140d76bc3b6fda036eeaa9" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>La polémica de la Virgen de Aparecida: religión y bulos en la disputa entre Flávio Bolsonaro y Lula</title>
@@ -708,6 +711,7 @@
       <category>mundo</category>
       <category>Europa</category>
       <category>Asia</category>
+      <category>América del Norte</category>
       <dc:creator>FRANCE 24</dc:creator>
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/6f8c126a-bc37-11f1-9d3f-177f79e345bf/w:1024/p:16x9/AP26272438005114.jpg" medium="image" />
@@ -970,19 +974,16 @@
       <enclosure url="https://s.france24.com/media/display/b06a006c-ba4d-11f1-8ac4-555a0aff87a4/w:1024/p:16x9/EN-20260927-100524-100857-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit</link>
-      <description>Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governments Two giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta , Georgia, as part of an agreement between the Chinese and US governments. While in Washington DC for a three - day summit with Donald Trump , Chinese president Xi Jinping announced that the pandas would arrive in Atlanta in the coming days. The loan of the pandas to the Atlanta zoo was one of the few concrete outcomes to come out of Xi’s state visit with the US president, which… Publicado también por: The Independent - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:97280c21f856cf9a</guid>
-      <pubDate>Sun, 27 Sep 2026 13:14:42 +0000</pubDate>
-      <category>politica</category>
+      <title>Three takeaways from Trump's 'Super Intelligence' summit</title>
+      <link>https://www.bbc.co.uk/news/articles/cme30dz5vkzko</link>
+      <description>The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:89fc17a2ea793f7f</guid>
+      <pubDate>Wed, 30 Sep 2026 04:01:52 +0000</pubDate>
+      <category>mundo</category>
       <category>América del Norte</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/b1b1bf1f72519b196c5a09afca6f3d6a81f9a5ae/403_0_4518_3614/master/4518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e6e0eb5e4d24014ab538f1b2c722dd" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/b1b1bf1f72519b196c5a09afca6f3d6a81f9a5ae/403_0_4518_3614/master/4518.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56e6e0eb5e4d24014ab538f1b2c722dd" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Quién es Christa Pike, la primera mujer que será ejecutada en Tennessee en más de 200 años: qué crimen cometió y por qué hoy recibiría otra pena</title>
@@ -1005,6 +1006,7 @@
       <pubDate>Tue, 29 Sep 2026 13:08:55 +0000</pubDate>
       <category>mundo</category>
       <category>Asia</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bee8/live/73545b90-bc06-11f1-90b9-913e4354ed35.png" type="image/jpeg" length="0" />
@@ -1030,6 +1032,18 @@
       <category>mundo</category>
       <category>América del Norte</category>
       <source url="https://www.facebook.com/APNews/">The Associated Press</source>
+    </item>
+    <item>
+      <title>Pentagon: Boeing will produce US Navy's next-generation stealth fighter planes</title>
+      <link>https://www.jpost.com/international/article-910151</link>
+      <description>Boeing was also selected in March last year to build the Air Force's new stealthy F-47 fighter, giving it two marquee sixth-generation jet contracts in consecutive years. Publicado también por: CNBC - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1776c23b8f478e4a</guid>
+      <pubDate>Wed, 30 Sep 2026 07:48:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
     </item>
     <item>
       <title>La Agenda 50/50 inicia una implementación progresiva y ordenada para todo el país, incluyendo capitales, ciudades intermedias y municipios pequeños. #... Ver más</title>
@@ -1115,6 +1129,70 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/92/96/62/640x360_cmsv2_fc4bc3f4-2962-58ca-94e1-df1f70522ff6-9929662.jpg?1790518372" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/92/96/62/640x360_cmsv2_fc4bc3f4-2962-58ca-94e1-df1f70522ff6-9929662.jpg?1790518372" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>BREAKING: At least 500 settlers have stormed the Al-Aqsa Mosque compound in occupied East Jerusalem under the protection of Israeli forces on the fifth day of the Jewis... Ver más</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid035qRQ7Ut9XTH5BkUHoqAcRZwx5nsthmf4XW8uUJ8kYm5mtytrvAjkhT2jUDLkcdxAl?__cft__%5B0%5D=AZg61qkX6VFCGnzz3ID_R6wfUPhJrkrecDfMPVHfbPPMFh27M680s1y0ELQrNRy9nvzjwyXzg5OhWd9zd98qrtl70rJEQTyDMRrNCqbtITGpZ_3ENxVp0MB_9cUEYbCU8IPNvjtUUzpWY3XdlQ5RLFRb8_so519g3ti7cLD1LGPiL2kZ3N7hodXPock&amp;__tn__=%2CO%2CP-R</link>
+      <description>BREAKING: At least 500 settlers have stormed the Al-Aqsa Mosque compound in occupied East Jerusalem under the protection of Israeli forces on the fifth day of the Jewis... Ver más God bless Israel Ver más comentarios Wonderlands Mensah Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:be5d5e5d3e9b6811</guid>
+      <pubDate>Wed, 30 Sep 2026 06:39:09 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/829250487_28470395225948431_292015405686884222_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1bglLLkeQGcQ7kNvwFTSz3g&amp;_nc_oc=AdqpCYpu7hnqtreOvGvxhOk6dNJdTqn_zFuyk7LsCyvkvTvxvN1f2kszJGOR4x82jds&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=9E_l-5P5Jixj5dvNOFkXQA&amp;_nc_ss=7f289&amp;oh=00_AQMh4P1OF-0_FgNscK3t1HeTwp2TkVURUEmyb24YuisGzA&amp;oe=6AC29ACF" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/829250487_28470395225948431_292015405686884222_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1bglLLkeQGcQ7kNvwFTSz3g&amp;_nc_oc=AdqpCYpu7hnqtreOvGvxhOk6dNJdTqn_zFuyk7LsCyvkvTvxvN1f2kszJGOR4x82jds&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=9E_l-5P5Jixj5dvNOFkXQA&amp;_nc_ss=7f289&amp;oh=00_AQMh4P1OF-0_FgNscK3t1HeTwp2TkVURUEmyb24YuisGzA&amp;oe=6AC29ACF" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At the Labour Party conference, the prime minister made three announcements regarding dangerous live wires of British politics: old-age pensions, the voting system and ... Ver más</title>
+      <link>https://www.facebook.com/TheEconomist/posts/pfbid02jwchM4U7TkmBo45S5S3WHfqYpTfU8mquYUTR5bxP3ukJhbfxfmAGcTtVUYiHwobzl?__cft__%5B0%5D=AZgSB_bAmqJFM_BbneERnBEvMKY1X51XUZERJzb0HAKRAnMJ07NFM0KbIP5QwRzLol5q4uTAy_lx78oxDkFaDEIOXOf3oVi_sfFTJXQe9X0xGG6ThFos47UOgM2nm0xndLCb6uey2YbtR7icCmUNNHiNVZgcIsZrEEFgYZx_Eq13tIRQEX6tnxYrEzM&amp;__tn__=%2CO%2CP-R</link>
+      <description>At the Labour Party conference, the prime minister made three announcements regarding dangerous live wires of British politics: old-age pensions, the voting system and ... Ver más ECONOMIST.COM Andy Burnham gets bold at last Fuente: The Economist.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7688768d736465f8</guid>
+      <pubDate>Wed, 30 Sep 2026 06:30:26 +0000</pubDate>
+      <category>politica</category>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
+      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/12386458658523464851?url=https%3A%2F%2Fimage.trueanthem.com%2FFC7r3rVd62ShZMvWDfrMlnP-aj6mBxH9gPaHSAju-dg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjEwMDNfQlJQNTA0LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=MumNgHsfa-MaOrYru8-A-w&amp;_nc_zt=3&amp;oh=06_Q3_DASjueQyBQJ4T9A_r5-ZjNcjNlf9BBwoyd2r-2G9ULW1Q&amp;oe=6ABE92BC" medium="image" />
+      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/12386458658523464851?url=https%3A%2F%2Fimage.trueanthem.com%2FFC7r3rVd62ShZMvWDfrMlnP-aj6mBxH9gPaHSAju-dg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjEwMDNfQlJQNTA0LmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=MumNgHsfa-MaOrYru8-A-w&amp;_nc_zt=3&amp;oh=06_Q3_DASjueQyBQJ4T9A_r5-ZjNcjNlf9BBwoyd2r-2G9ULW1Q&amp;oe=6ABE92BC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>World’s seas heated by a record 23 zettajoules last year</title>
+      <link>https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025</link>
+      <description>The injection of thermal energy, 40 times that used by humanity in total, comes amid an increasing rise in sea levels and continuing acidification A record-breaking 23 zettajoules of heat was sunk into the world’s seas last year, leaving ocean waters hotter, higher and less hospitable, a report has found. The explosive addition of thermal energy, which was almost 40 times greater than all the energy humanity used that year, comes amid far-reaching changes to the deep water bodies fundamental to life on Earth. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8739a4d3fed42f10</guid>
+      <pubDate>Wed, 30 Sep 2026 06:00:13 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Ajit Niranjan</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/2bdc72b5bc11ccf5d1859f17fd5d425d21944b92/1093_0_5466_4373/master/5466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb495ba2af8b9dd353841ce4469bc6ab" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/2bdc72b5bc11ccf5d1859f17fd5d425d21944b92/1093_0_5466_4373/master/5466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb495ba2af8b9dd353841ce4469bc6ab" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?</title>
+      <link>https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him</link>
+      <description>In today’s newsletter: ​At Labour conference members are basking in the glow of the Burnham bounce. But beneath the enthusiasm lies a growing sense that delivery must follow hopeful messaging Good morning from Liverpool (and hello again to the newsletter subscribers I met in person, as I took First Edition on tour to Labour party conference). It’s the first gathering of the party faithful since Andy Burnham ousted Keir Starmer in July, in what I’ve heard delicately referred to as a “soft coup”, and the theme of this conference is “Hope again.” UK news | One of the five men arrested near RAF… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0d4cfbc8384ce6d5</guid>
+      <pubDate>Wed, 30 Sep 2026 05:59:53 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Libby Brooks</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/6e8a1c247e65f98875f42ff17245ad083fd2db61/388_0_4736_3789/master/4736.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=894af4586ff8dba3f86818ae817087e9" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/6e8a1c247e65f98875f42ff17245ad083fd2db61/388_0_4736_3789/master/4736.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=894af4586ff8dba3f86818ae817087e9" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Live: Several people killed as Russia launches new round of strikes on Kyiv</title>
+      <link>https://www.france24.com/en/europe/20260930-live-several-people-killed-as-russia-launches-new-round-of-strikes-on-kyiv</link>
+      <description>At least three people, including a child, have died after Russia launched another round of strikes on Kyiv and its surrounding regions overnight to Wednesday, officials said. Several people were also wounded in the attacks. In Poland, two airports, in Lublin and Rzeszow, were briefly shut over “military aviation activity” during Russian attacks on Ukraine. Follow our liveblog for all the latest updates. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:785b9afedd7ddcf6</guid>
+      <pubDate>Wed, 30 Sep 2026 05:35:15 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/05499916-bc8e-11f1-8dc9-177f79e345bf/w:1024/p:16x9/000-C9QP39E.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1676 reproducciones · 36 reacciones | Manchester City says it will appeal after an independent commission convicted the club of 114 out of 115 charges of breaking Premier League financial rules. The probe found the club used ‘sham’ contracts to inflate revenue and understate costs by more than $1.19 billion. 🟢 More on Al Jazeera English - Sport | Al Jazeera English</title>
@@ -1514,84 +1592,6 @@
       <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
       <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/829633113_1687886829431105_111808817128350004_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=0K9xK4Nr4DEQ7kNvwF6Fqzc&amp;_nc_oc=AdpfnVGZgin5-fGzTbziL3MFke8axoW_FRQCkUiMjyTQwLp3thDWJfWFtzVBp-lBJqQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=siaH8KWTd9MVR0z6bPYZ0w&amp;_nc_ss=7f289&amp;oh=00_AQOjtRF0tsrx4JlQuM3mOrX1AhmMc4N4Cs3qDCkqOgLusQ&amp;oe=6AC0CEE7" medium="image" />
       <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/829633113_1687886829431105_111808817128350004_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=0K9xK4Nr4DEQ7kNvwF6Fqzc&amp;_nc_oc=AdpfnVGZgin5-fGzTbziL3MFke8axoW_FRQCkUiMjyTQwLp3thDWJfWFtzVBp-lBJqQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=siaH8KWTd9MVR0z6bPYZ0w&amp;_nc_ss=7f289&amp;oh=00_AQOjtRF0tsrx4JlQuM3mOrX1AhmMc4N4Cs3qDCkqOgLusQ&amp;oe=6AC0CEE7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australia news live: Chalmers defends record as RBA’s cash rate decision due; killed police officer Mia Lay remembered</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb</link>
-      <description>Follow the day’s news live Get our breaking news email , free app or daily news podcast Chalmers doesn’t want Australia to ‘carry the can’ for decisions on other side of the world Chalmers said he doesn’t believe inflation is out of control, but he doesn’t want to see Australians “carry the can for decisions” on the other side of the world. And that’s equally important in the Reserve Bank’s mandate, dual mandate, which talks about maintaining full employment at the same time as they go for price stability, which means inflation in the target band. I think that’s pretty clear. And what we’ve… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:76d8557ffa5b7622</guid>
-      <pubDate>Mon, 28 Sep 2026 21:51:49 +0000</pubDate>
-      <category>economia</category>
-      <category>Oceanía</category>
-      <dc:creator>Nick Visser</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/515d1119e357fd1f5e6b9348d6501616a51f1a16/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbd21ed948b09f2445224c1a0be36e34" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/515d1119e357fd1f5e6b9348d6501616a51f1a16/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbd21ed948b09f2445224c1a0be36e34" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Directo a... Barcelona y la presión al Gobierno por la crisis de vivienda</title>
-      <link>https://www.france24.com/es/video/20260928-directo-a-barcelona-y-la-presi%C3%B3n-al-gobierno-por-la-crisis-de-vivienda</link>
-      <description>Sindicatos de inquilinos y colectivos sociales enviaron un mensaje al presidente del Gobierno, Pedro Sánchez, para reclamar medidas más contundentes frente al aumento de los alquileres y la dificultad de acceso a una vivienda. Aunque el caso de Maricarmen, la mujer de 87 años que enfrentó un desahucio, se ha convertido en uno de los símbolos de las protestas, muchos jóvenes aseguran ser las principales víctimas de la emergencia habitacional. Denuncian que los altos precios de compra y alquiler les impiden independizarse, formar un hogar y desarrollar sus proyectos de vida. Desde Barcelona… Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cd8237dd50f03d08</guid>
-      <pubDate>Mon, 28 Sep 2026 20:38:10 +0000</pubDate>
-      <category>politica</category>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/e81100e0-bb7b-11f1-a442-11fa9f8a3b4f/w:1024/p:16x9/ES-20260928-124410-125146-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/e81100e0-bb7b-11f1-a442-11fa9f8a3b4f/w:1024/p:16x9/ES-20260928-124410-125146-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Un ICE más 'discreto' alcanza récord de arrestos en agosto: hubo 1.600 cada día</title>
-      <link>https://www.france24.com/es/programas/en-contexto/20260928-un-ice-m%C3%A1s-discreto-alcanza-r%C3%A9cord-de-arrestos-en-agosto-hubo-1-600-cada-d%C3%ADa</link>
-      <description>Los primeros meses del año hubo un gran despliegue de la agencia migratoria ICE. Había mucho ruido cuando sus agentes llegaba a una localidad de EE. UU.. Pero en el verano se dio un cambio. Mucho más 'discreto', pero más efectivo. Agostó rompió un récord de arrestos con casi 51.000. No solo ocupan lugares estratégicos, como tiendas, intersecciones o aeropuertos, su efectividad también se ha incrementado por las alianzas con instituciones locales de seguridad. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e1feca26fa7ffe32</guid>
-      <pubDate>Mon, 28 Sep 2026 20:32:41 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>Patricio Peralta</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/5b7bb75c-b7ec-11f1-99dc-833f01c30b8b/w:1024/p:16x9/AP26037827736376.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/5b7bb75c-b7ec-11f1-99dc-833f01c30b8b/w:1024/p:16x9/AP26037827736376.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>32 mil reproducciones · 926 reacciones | Part of a mountain collapsed into a river in Nepal’s Mustang region, after heavy rains triggered deadly flooding and landslides. Authorities are warning of more flash flooding in the country, as river levels continue to rise. | Al Jazeera English</title>
-      <link>https://www.facebook.com/reel/1368325681957255/?comment_id=1410366767182508&amp;__cft__%5B0%5D=AZidj25G5vRa5fO8ifcmORHPabGY2HMoxQiRluoMSSejDOfZaRNlIyC0ImJ39mpr8rEzdgcNDEDqQ9cdAfEmzY-XUJUhvYTsL8q_0Jb7E_8oFu6Nbh_FPfRlyEEOMpbPONGdTQrzqbcE07bsYLUvr0wpr9t6n3Ou7T59WUvlmRKS0ncMt83JbFYl-BeQTf-P5lTO&amp;__tn__=R-R</link>
-      <description>Part of a mountain collapsed into a river in Nepal’s Mustang region, after heavy rains triggered deadly flooding and landslides. Authorities are warning of more flash flooding in the country, as... Part of a mountain collapsed into a river in Nepal’s Mustang region, after heavy rains triggered deadly flooding and landslides. Authorities are warning... Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:dd2a640180cb28d8</guid>
-      <pubDate>Mon, 28 Sep 2026 15:34:07 +0000</pubDate>
-      <category>ambiente</category>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/829846555_1647571866994512_108614546765713432_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EzI7Gb4a0HAQ7kNvwFwe7H0&amp;_nc_oc=AdoZFrEgHKIpdHVhjNWUuDRv77sQEq8uLywyZjZE2tzHAKm0MlVS3-Dskc0q7w3rONo&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=YcDoT1z71oZQVW8KtfIeJw&amp;_nc_ss=7f289&amp;oh=00_AQMSkOftTukzgLdOYidm3jXmTm7XQh7aiPkQWszRsJQ5bQ&amp;oe=6AC05DF0" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/829846555_1647571866994512_108614546765713432_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=EzI7Gb4a0HAQ7kNvwFwe7H0&amp;_nc_oc=AdoZFrEgHKIpdHVhjNWUuDRv77sQEq8uLywyZjZE2tzHAKm0MlVS3-Dskc0q7w3rONo&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=YcDoT1z71oZQVW8KtfIeJw&amp;_nc_ss=7f289&amp;oh=00_AQMSkOftTukzgLdOYidm3jXmTm7XQh7aiPkQWszRsJQ5bQ&amp;oe=6AC05DF0" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>2739 reproducciones · 22 reacciones | #Colombia | Estas son las principales noticias de Cartagena y Bolívar: nuevas estaciones de Policía y más novedades Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
-      <link>https://www.facebook.com/reel/2353448331729279/?comment_id=1076857938588943&amp;__cft__%5B0%5D=AZi4HPuo_NgE22Q-oZehz-MYR33TNmKeAi8h5DQKm2wbrmZNRLrpm9WBrV0c-NkL53GQrouKxarsZU7llP3APYk7KKVBlIlFYPry-xqzvCoLfFvARBJXOBJht0GZ3epKnK-saLO0KhYYHj4ig0xb2dC6mhVb5u3rUXlOwLh7cpqjJGu7bDZIyDnWDHc8PLPoYF6B&amp;__tn__=R-R</link>
-      <description>#Colombia | Estas son las principales noticias de Cartagena y Bolívar: nuevas estaciones de Policía y más novedades Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j #Colombia | Estas son las principales noticias de Cartagena y Bolívar: nuevas estaciones de Policía y más novedades Siga la señal de Noticias Caracol en... Fuente: Noticias Caracol.</description>
-      <guid isPermaLink="false">cron-rss-noticias:49369093d5cdb51f</guid>
-      <pubDate>Mon, 28 Sep 2026 15:34:07 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/828467169_1630556795411577_1873684729465547869_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=NdrEg9FIeg4Q7kNvwGbGd-N&amp;_nc_oc=Adq9K4b8D-CdnWaUsQJu2xpOB2b28r0Ul8iNZiGC5Jisiw5XhAW3SWkJ8zzyskVtJ8w&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=oNpxq8TPhmG9otvdjPebAQ&amp;_nc_ss=7f289&amp;oh=00_AQPuD7CkaAn5RnNFL3fHtihvVhHlS31pwBblyA0a4xt5-w&amp;oe=6AC04BAB" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/828467169_1630556795411577_1873684729465547869_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=NdrEg9FIeg4Q7kNvwGbGd-N&amp;_nc_oc=Adq9K4b8D-CdnWaUsQJu2xpOB2b28r0Ul8iNZiGC5Jisiw5XhAW3SWkJ8zzyskVtJ8w&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=oNpxq8TPhmG9otvdjPebAQ&amp;_nc_ss=7f289&amp;oh=00_AQPuD7CkaAn5RnNFL3fHtihvVhHlS31pwBblyA0a4xt5-w&amp;oe=6AC04BAB" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1635 reproducciones · 26 reacciones | 🔴EN VIVO🔴 ➡La Selección Boliviana Perdió Contra Paraguay ➡Bolívar le gana a Blooming ➡The Strongest le gana por la mínima a Guabira ➡Finalizo la Fecha 5 de la Copa Paceña | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1633121461494370/?comment_id=1763610144847909&amp;__cft__%5B0%5D=AZg7ZImafqMCvcpvx1augeMYjcRF3pSB5FyCeatbh2WqHULlWMseIvGZfYY0tfhpOWONtQq0fZZnfecaRLskfM4SBthoWYMtlndI6sXOUWHE1rLWvUSqq3d7l0oBZStTB_qSSOxk7vGVwVQxbfZGVGAi_fyQCt0O7FxDS6ZheZUDly0IDcUcHtgLgn8r6ffIjXM&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡La Selección Boliviana Perdió Contra Paraguay ➡Bolívar le gana a Blooming ➡The Strongest le gana por la mínima a Guabira ➡Finalizo la Fecha 5 de la Copa Paceña 🔴EN VIVO🔴 ➡La Selección Boliviana Perdió Contra Paraguay ➡Bolívar le gana a Blooming ➡The Strongest le gana por la mínima a Guabira ➡Finalizo la Fecha 5... Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f996ea895219cad2</guid>
-      <pubDate>Mon, 28 Sep 2026 15:34:07 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/827860385_3517214791774038_2116685637822280183_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=iPV30NgRJ24Q7kNvwEm5rb7&amp;_nc_oc=AdrjGhl2J2PFYF6Vx6ODu8H3jwYQAUilREVgW-ulBfWpTWCBSDYAFNoUu01bX9-64G8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=2CutNam_RO3ac39ZBBLAmw&amp;_nc_ss=7f289&amp;oh=00_AQNLBAzlNb0hA1BE9WBvBcr6B6tDVDH8kifDf9xa9ZRF9w&amp;oe=6AC071DF" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/827860385_3517214791774038_2116685637822280183_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=iPV30NgRJ24Q7kNvwEm5rb7&amp;_nc_oc=AdrjGhl2J2PFYF6Vx6ODu8H3jwYQAUilREVgW-ulBfWpTWCBSDYAFNoUu01bX9-64G8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=2CutNam_RO3ac39ZBBLAmw&amp;_nc_ss=7f289&amp;oh=00_AQNLBAzlNb0hA1BE9WBvBcr6B6tDVDH8kifDf9xa9ZRF9w&amp;oe=6AC071DF" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
