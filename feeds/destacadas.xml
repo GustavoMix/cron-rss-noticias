@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 01 Oct 2026 05:58:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:19:15 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -39,6 +39,19 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-morocco-pm-1-bfqz/29int-morocco-pm-1-bfqz-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-morocco-pm-1-bfqz/29int-morocco-pm-1-bfqz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash</title>
+      <link>https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o</link>
+      <description>Police confirmed in a short statement on X that the helicopter was carrying six occupants but could not immediately confirm the identities of the victims. Publicado también por: Al Jazeera English, Africanews. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3b55d320a468c41e</guid>
+      <pubDate>Thu, 01 Oct 2026 13:02:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>África</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/576a4920-bd51-11f1-b976-539055889f76.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21c/live/576a4920-bd51-11f1-b976-539055889f76.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>U.K. PM says 'strong indications' Iran involved in airbase incident</title>
@@ -100,6 +113,21 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/29/9f52cb1f-6d46-4b8d-addc-0ed58076fe4f_ee772bae.jpg?itok=Xcgq7Pto&amp;v=1790653181" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Israel's Netanyahu says co-pilot tried to crash Tel Aviv-bound plane</title>
+      <link>https://www.france24.com/en/tv-shows/press-review/20261001-israel-s-netanyahu-says-co-pilot-tried-to-crash-tel-aviv-bound-plane</link>
+      <description>Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack ‘Whoever is hearing me, we need help’: how flight 1073 survived its 17,000ft plunge One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to try to crash the aircraft, the Israeli prime minister, Benjamin Netanyahu, has said, as Israeli officials said they were investigating whether the incident was an attempted terror attack on Israelis. Eyewitnesses reported chaos onboard the flydubai flight, as the attacker tried to… Publicado también por: The Guardian - World, The Washington Post - World, The Hindu - International, Euronews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3a1d106323c9ec63</guid>
+      <pubDate>Thu, 01 Oct 2026 10:00:45 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Dheepthika LAURENT</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/ef0e3a14-bd62-11f1-9a20-ddce071186a9/w:1024/p:16x9/Anglais-2026-10-01T05-22-59-158Z.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ef0e3a14-bd62-11f1-9a20-ddce071186a9/w:1024/p:16x9/Anglais-2026-10-01T05-22-59-158Z.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Morocco's King Mohammed VI appoints Fatima Mansouri as the country's first female prime minister</title>
       <link>https://www.euronews.com/2026/09/30/moroccos-king-mohammed-vi-appoints-fatima-mansouri-as-the-countrys-first-female-prime-mini</link>
       <description>King Mohammed VI appointed Fatima Ezzahra El Mansouri on Tuesday as Morocco’s first woman prime minister after her liberal-centrist party came out on top in a September 23 parliamentary election, the royal palace said. The king asked El Mansouri to form a new government, the palace said in a ‌statement. El Mansouri’s Authenticity and Modernity Party (PAM) was created in 2008 by an adviser to the king and has since positioned itself as a counterweight to the Islamist Justice and Development Party... Publicado también por: Al Jazeera English, South China Morning Post, The Washington Post - World, The Jerusalem Post - International, Africanews, France 24 - English. Fuente: Euronews.</description>
@@ -116,7 +144,7 @@
     <item>
       <title>Christa Pike, la primera mujer condenada a muerte en Tennessee (EE.UU.), sobrevive a las dos inyecciones letales</title>
       <link>https://www.abc.es/internacional/christa-pike-primera-mujer-condenada-muerte-tennessee-20261001071428-nt.html</link>
-      <description>Christa Pike, la primera mujer con orden de ejecución en Tennesse (EE.UU.), ha sobrevivido a dos inyecciones letales y se encuentra hospitalizada, según han informado sus abogados. En un comunicado, el equipo de defensa de la mujer de 50 años mencionó «dificultad para acceder a las venas». Testigos citados por los medios afirmaron poco antes que Pike siguió respirando y roncando tras recibir la inyección letal.Apenas unas horas antes, la Corte Suprema de EE. UU. había despejado el camino para que Pike se convirtiera en la primera mujer en morir por inyección letal en el estado sureño de… Publicado también por: BBC News Mundo, France 24 - Español. Fuente: ABC España - Internacional.</description>
+      <description>Christa Pike , la primera mujer con orden de ejecución en Tennesse (EE.UU.), ha sobrevivido a las dos inyecciones letales y se encuentra hospitalizada, según han informado sus abogados este jueves. En un comunicado, el equipo de defensa de la mujer de 50 años mencionó «dificultad para acceder a las venas». Testigos citados por los medios afirmaron poco antes que Pike siguió respirando y roncando tras recibir la inyección letal de pentobarbital.Apenas unas horas antes, la Corte Suprema de EE.UU. había despejado el camino para que Pike se convirtiera en la primera mujer en morir por inyección… Publicado también por: BBC News Mundo, France 24 - Español. Fuente: ABC España - Internacional.</description>
       <guid isPermaLink="false">cron-rss-noticias:a1b44fa34c325c9f</guid>
       <pubDate>Thu, 01 Oct 2026 05:23:11 +0000</pubDate>
       <category>mundo</category>
@@ -195,20 +223,6 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd9050a65085844f88f1d7317d015ad6" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/5a010263b29032daec0fa967166cc0c5ecb5c0b9/1101_0_6190_4952/master/6190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd9050a65085844f88f1d7317d015ad6" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US prosecutors reopen case of alleged gang rape at Cornell University</title>
-      <link>https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro</link>
-      <description>US prosecutors reopened an investigation on Monday into an alleged 2024 gang rape at Cornell University after the woman involved accused the school of failing to punish those responsible adequately. In a lawsuit, she said seven Chi Phi fraternity members drugged her with ketamine and assaulted her. Cornell closed the fraternity and expelled several students. Publicado también por: France 24 - English, The Hindu - International. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ec3ab64ffc86c24f</guid>
-      <pubDate>Tue, 29 Sep 2026 00:38:23 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/019d/live/f41b88a0-bb7c-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Chaos in Tennessee as Christa Pike survives two doses of lethal injection</title>
@@ -337,6 +351,18 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/9906a246-aecb-4ed1-868a-a6df56403f73_0150dbb4.jpg?itok=TWicMurX&amp;v=1790738482" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names</title>
+      <link>https://www.bbc.co.uk/news/articles/cqx2z23xj555o</link>
+      <description>The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c092c0dbfdabc726</guid>
+      <pubDate>Thu, 01 Oct 2026 11:37:46 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Stabbing on Dubai-Tel Aviv flydubai flight: What happened and what we know so far</title>
       <link>https://www.thehindu.com/news/international/what-happened-on-flydubai-flight-from-dubai-to-tel-aviv/article71531333.ece</link>
       <description>A co-pilot of a flydubai aircraft carrying more than 170 passengers from Dubai to Tel Aviv allegedly stabbed the pilot and attempted to crash the plane Publicado también por: BBC News - World. Fuente: The Hindu - International.</description>
@@ -454,18 +480,6 @@
       <enclosure url="https://static.independent.co.uk/2026/09/29/08/2026-09-28T140752Z_1268246182_RC2ASNAHP618_RTRMADP_3_UGANDA-KING.JPG?width=1200&amp;auto=webp&amp;trim=0%2C136%2C0%2C135" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>U.S. prosecutors reopen Cornell gang rape case after outcry</title>
-      <link>https://www.thehindu.com/news/international/us-prosecutors-reopen-cornell-gang-rape-case-after-outcry/article71521578.ece</link>
-      <description>The newly-released details of the alleged incident have fuelled allegations that the university was too lenient and reignited a debate over sexual assault on U.S. campuses Publicado también por: BBC News - World. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c140369c8e32c456</guid>
-      <pubDate>Mon, 28 Sep 2026 21:44:43 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/27nyt2/article71521579.ece/alternates/LANDSCAPE_1200/Cornell_Fraternity_Lawsuit_31918.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/27nyt2/article71521579.ece/alternates/LANDSCAPE_1200/Cornell_Fraternity_Lawsuit_31918.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Tokyo suffers the longest streak of rainy days on record</title>
       <link>https://phys.org/news/2026-09-tokyo-longest-streak-rainy-days.html</link>
       <description>Tokyo has recorded 34 consecutive days of rain, marking the longest such streak on record, according to Japan's weather agency. Publicado también por: Euronews. Fuente: Phys.org.</description>
@@ -577,6 +591,63 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f86/live/e13d82a0-bbdc-11f1-bfea-9d5bb7e7d40b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f86/live/e13d82a0-bbdc-11f1-bfea-9d5bb7e7d40b.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Christa Pike sigue con vida tras recibir dos inyecciones letales en Tennessee</title>
+      <link>https://elpais.com/us/2026-09-30/el-tribunal-supremo-permite-la-ejecucion-de-christa-pike-en-tennessee.html</link>
+      <description>"Parece que no salió como debía salir", informó uno de los periodistas que estaba como testigo de la ejecución. Las autoridades penitenciarias no supieron explicar qué fue lo que ocurrió. El Tribunal Supremo de Estados Unidos autorizó la ejecución que había sido frenada este miércoles por un tribunal federal. Publicado también por: Clarín - Mundo. Fuente: El País - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:57f6f887556d6542</guid>
+      <pubDate>Thu, 01 Oct 2026 12:36:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <dc:creator>Abel Fernández</dc:creator>
+      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
+      <media:content url="https://imagenes.elpais.com/resizer/v2/NNCXODBZJ5DEBFYKHHFFFZBFPM.jpg?auth=89f4cc62a51437f909d7a8e1877049024d3afc0f5a0c39694f787f50d8ac9e6b" medium="image" />
+      <enclosure url="https://imagenes.elpais.com/resizer/v2/NNCXODBZJ5DEBFYKHHFFFZBFPM.jpg?auth=89f4cc62a51437f909d7a8e1877049024d3afc0f5a0c39694f787f50d8ac9e6b" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Burundi agrees to receive US third-country deportees, excluding those with crime or terror links</title>
+      <link>https://www.jpost.com/international/article-910288</link>
+      <description>Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠ Donald Trump ’s hardline ⁠ immigration ​policy . However, Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye. Tuesday’s announcement gave no details of numbers, timing or financial ⁠details. Continue reading... Publicado también por: The Guardian - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:73c176a5260d5889</guid>
+      <pubDate>Thu, 01 Oct 2026 11:44:02 +0000</pubDate>
+      <category>sociedad</category>
+      <category>América del Norte</category>
+      <category>África</category>
+      <category>Medio Oriente</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7b8cc5fa5cfb47ccbb564c4a9904202" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7b8cc5fa5cfb47ccbb564c4a9904202" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Flydubai pilot attack: UAE probes possible 'terror' link</title>
+      <link>https://www.thehindu.com/news/international/uae-investigates-possible-terrorist-link-in-flydubai-incident/article71532445.ece</link>
+      <description>The United Arab Emirates on Thursday launched an investigation into the Israel-bound FlyDubai FZ1073 flight from Dubai in which a copilot allegedly stabbed his captain in an apparent attempt to crash the plane. The UAE’s chief prosecutor said the possibility of a terror link will be probed. Follow our liveblog for all the latest developments. Publicado también por: France 24 - English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:77679464ef4c88f5</guid>
+      <pubDate>Thu, 01 Oct 2026 11:43:46 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/2ma9b6/article71532580.ece/alternates/LANDSCAPE_1200/Israel_Mideast_Emergency_Landing_37551.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/2ma9b6/article71532580.ece/alternates/LANDSCAPE_1200/Israel_Mideast_Emergency_Landing_37551.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Tennessee death row inmate Christa Pike survives two lethal injections</title>
+      <link>https://www.france24.com/en/video/20261001-tennessee-death-row-inmate-christa-pike-survives-two-lethal-injections</link>
+      <description>A Tennessee woman convicted of a murder three decades ago survived two lethal injection doses on Wednesday, marking the state's second failed execution this year. Christa Pike, 50, had been set to become the first woman to be executed in the southern US state in 200 years. The botched execution prompted the state’s governor to halt the one remaining execution for the rest of the year and launch a “comprehensive review”. Publicado también por: Euronews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1026a178a846fc75</guid>
+      <pubDate>Thu, 01 Oct 2026 11:41:36 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/5c1f6006-bd8b-11f1-b07e-d367a0468893/w:1024/p:16x9/Pike-execution-thumbnail.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/5c1f6006-bd8b-11f1-b07e-d367a0468893/w:1024/p:16x9/Pike-execution-thumbnail.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Christa Pike’s attempted execution fails as she is rushed to hospital after surviving two doses of lethal injection</title>
@@ -854,57 +925,6 @@
       <enclosure url="https://i.guim.co.uk/img/media/faad4247e6b249706f93dac6fe2eca6a0bbf48f5/65_0_4714_3772/master/4714.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e2f8537b5388f24e13c7637913f6ac3" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02SSj5WS5QHJxd9JijEKe94Lv61Qht41QbQ445sf2bp6VSYvJg9h7Cgmq5KS4bmYWcl?__cft__%5B0%5D=AZgovJLVLsVXwlEnUsV6tomviyyKClWrc-pwZuzrUq3x36QVcuCBKinODd_EGQ20EX2kAggBDGqrNQVWvSKGlY3wDwx6CYjtW1HTAwUQQjVx5ti7wopZv_qJ4_Tru5RaoQZUKu4TTtWxjLlHamCtQoPjEM-CDlw4hxllC_XEnxDNfF8b2Wzx1_7hexA&amp;__tn__=%2CO%2CP-R</link>
-      <description>Hungary's Parliament lifts immunity of incumbent leader and two former ministers, clearing the way for criminal probes. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8cfe81bb7d7db9c4</guid>
-      <pubDate>Tue, 29 Sep 2026 01:30:10 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/827594121_2443366896155153_8489722161706625394_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=GyfvlI6EI04Q7kNvwHzGv9P&amp;_nc_oc=AdrjanJ-TbUIiCjwSJN2LlDG-L1nfnbJJ7ElVJ-p3euWqtyZXKmkSF0l_zcrU613bY0&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=Hq8y_dlAtTIyCI6FU8Lm-A&amp;_nc_ss=7f289&amp;oh=00_AQNb3tddVFuAPYkJX2Mc9M-fjiByEyD0lC0Abzj5AKKsNg&amp;oe=6AC0F8D8" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/827594121_2443366896155153_8489722161706625394_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=GyfvlI6EI04Q7kNvwHzGv9P&amp;_nc_oc=AdrjanJ-TbUIiCjwSJN2LlDG-L1nfnbJJ7ElVJ-p3euWqtyZXKmkSF0l_zcrU613bY0&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=Hq8y_dlAtTIyCI6FU8Lm-A&amp;_nc_ss=7f289&amp;oh=00_AQNb3tddVFuAPYkJX2Mc9M-fjiByEyD0lC0Abzj5AKKsNg&amp;oe=6AC0F8D8" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anthropic warns AI may pose 'existential risks to humanity' in IPO filing: Reuters</title>
-      <link>https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html</link>
-      <description>Anthropic plans to warn IPO investors that advanced AI could pose “catastrophic or existential risks to humanity.” Publicado también por: Financial Times. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6109594d8b51f001</guid>
-      <pubDate>Tue, 29 Sep 2026 01:23:15 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/14096992189105163061?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F2d7c5a8f-c202-466f-8e5b-fdf19320f2d6.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=qnPpUekw628E8QmaxIA4MA&amp;_nc_zt=3&amp;oh=06_Q3_DAWfyeNto9b7a78Qjp5JhjNGKTcmDsNKCxRM3zcgtOcmy&amp;oe=6ABCFEC3" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/14096992189105163061?url=https%3A%2F%2Fimages.ft.com%2Fv3%2Fimage%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F2d7c5a8f-c202-466f-8e5b-fdf19320f2d6.jpg%3Fsource%3Dnext-barrier-page%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1&amp;fb_obo=1&amp;utld=ft.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=qnPpUekw628E8QmaxIA4MA&amp;_nc_zt=3&amp;oh=06_Q3_DAWfyeNto9b7a78Qjp5JhjNGKTcmDsNKCxRM3zcgtOcmy&amp;oe=6ABCFEC3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0r6dBmZxRtrDfj1FQpkrSgDmFNa8WKRHR8Dr1PmzHZFzBEYpFXshRGmmcmf8dtKZfl?__cft__%5B0%5D=AZgjUESKJqyzLY564DvOARnk_XENGd_lRhgzcbvfhQwn1qjAGkiYbZ1McAsMNdi_0sCWMTsbJRKFzLjvS0a-yD1b6bmwdWYFwhgj-uyBKvFOwcnvbF3bCWMCGsg0DiBsNBUwFE17VEqhW7JuvfSB7jAfZcxi-kJVBJNlicP6RSy2u54vpM6-VwRB59A&amp;__tn__=%2CO%2CP-R</link>
-      <description>The visit took place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e8a48b23d46241d7</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:51 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/825292222_1801866911088443_6732785438919005558_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=PEUMqyVtOTQQ7kNvwFQ_9Jy&amp;_nc_oc=AdpN-iPo5h2BsqKusQ4X65CMhiGWhmCNQaemVbf9mDxIfLYcAPbdqL4eKhUvx3wV82Q&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=UzKoO3IPyq3cJe_LHdkGag&amp;_nc_ss=7f289&amp;oh=00_AQMii_HVFtGItGw91pdur-UodU10yDhJxkGIlESnFvN4wA&amp;oe=6AC0AFD5" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/825292222_1801866911088443_6732785438919005558_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=PEUMqyVtOTQQ7kNvwFQ_9Jy&amp;_nc_oc=AdpN-iPo5h2BsqKusQ4X65CMhiGWhmCNQaemVbf9mDxIfLYcAPbdqL4eKhUvx3wV82Q&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=UzKoO3IPyq3cJe_LHdkGag&amp;_nc_ss=7f289&amp;oh=00_AQMii_HVFtGItGw91pdur-UodU10yDhJxkGIlESnFvN4wA&amp;oe=6AC0AFD5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump announces plan for $15 billion steel plant, would be largest in U.S. history</title>
-      <link>https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html</link>
-      <description>Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election. Publicado también por: The Independent - World. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9ac27851079fefa5</guid>
-      <pubDate>Mon, 28 Sep 2026 21:20:00 +0000</pubDate>
-      <category>economia</category>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-      <media:content url="https://static.independent.co.uk/2026/09/28/15/2026-09-28T012337Z_591298361_RC2YRNAZJDLV_RTRMADP_3_USA-TRUMP.JPG?width=1200&amp;auto=webp&amp;trim=0%2C43%2C0%2C43" medium="image" />
-      <enclosure url="https://static.independent.co.uk/2026/09/28/15/2026-09-28T012337Z_591298361_RC2YRNAZJDLV_RTRMADP_3_USA-TRUMP.JPG?width=1200&amp;auto=webp&amp;trim=0%2C43%2C0%2C43" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>By Historical Tradition, a failed execution was seen as an "Act of God"/"God's Intervention", and no further attempts would be made.</title>
       <link>https://www.facebook.com/APNews/posts/pfbid05anmC1Bmprh1G75vkLyjSM9coBp5Mvy9J9G3hFjNBsDPAKqBPDxbNmMp1YvRgj3Yl?comment_id=936265875805276&amp;__cft__%5B0%5D=AZije-Be5WDbzXabknHunDSFmBZOK3uaoPMTxBsz7HYIsz5nX6ASCRT24i3xH7wLlKrYKyeLDMSz1EYSyt0R3xGt6KQ9iRQ90ZJXcbvuJ5qTFZeoL_FCVtuoAyqH_SFMLcc4spT_G3k-3h3aBCBhN2EGzKolfB_0sS1jL8Q1rEEQsJOmG19nU5L6NGg&amp;__tn__=R-R</link>
       <description>By Historical Tradition, a failed execution was seen as an "Act of God"/"God's Intervention", and no further attempts would be made. Michael Currie Fuente: The Associated Press.</description>
@@ -990,16 +1010,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db51/live/1fd12340-bb7a-11f1-a430-4d16ee157c41.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>So sad, love the rangers win or lose. Im still grateful for that 2023 WS win. 11-0 historical on the road run, never been done before probably wont ever be done again. Texas…</title>
-      <link>https://www.facebook.com/APNews/posts/pfbid02AMdnpqczHw2VnAyKYwqmh57AMvUQVtZdx3j7JHEMZXkJLp1xzoYMwscKAGwkxxSMl?comment_id=2800117697052192&amp;__cft__%5B0%5D=AZiIMAWcGwz8YAkGosJXIy6GGZkJB4QUlPeyopx5K07gJ_cMabaewHQIbLdO4VCRQ-tn6MXQYGVTH4OyEuMMlLkYxTEXo_boDBOcj7QC5FirjDF7tKqyw5weDXsOReZRpR3h8QBrSFShHiC1T90kXX-LYQyQhG02elNdfbLG5rDSHri85fvrsVO4B_A&amp;__tn__=R-R</link>
-      <description>So sad, love the rangers win or lose. Im still grateful for that 2023 WS win. 11-0 historical on the road run, never been done before probably wont ever be done again. Texas Rangers 4 life! Lawrence Tarin Fuente: The Associated Press.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d84c261bf098ac62</guid>
-      <pubDate>Mon, 28 Sep 2026 22:07:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/APNews/">The Associated Press</source>
-    </item>
-    <item>
       <title>Google releases Gemini 4 Argon, called its most powerful model yet</title>
       <link>https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/</link>
       <description>Gemini 4 Argon is Alphabet's most advanced model yet, with major coding, cybersecurity, and complex professional work improvements. Publicado también por: CNBC - World. Fuente: TechCrunch.</description>
@@ -1045,14 +1055,123 @@
       <source url="https://www.facebook.com/Urgente.boPeriodico/">Urgente.bo</source>
     </item>
     <item>
-      <title>AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion</title>
-      <link>https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html</link>
-      <description>AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model […] Publicado también por: The Verge. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4b81a5dc6fe8867e</guid>
-      <pubDate>Mon, 28 Sep 2026 21:41:25 +0000</pubDate>
-      <category>economia</category>
+      <title>1198 reproducciones · 11 reacciones | September is famously the heart of Atlantic hurricane season. But this year? Not a single one. Meanwhile, the Pacific keeps cranking storms out with record intensity. https://cnn.it/4iZIP0H | CNN</title>
+      <link>https://www.facebook.com/reel/1448917230699462/?comment_id=3389885441214202&amp;__cft__%5B0%5D=AZiRFThqVaGuFg6giF-Phg-bAUDRmeXSj_5JqX2kJK6tpVggGO4OVhIRho0CDINJKTRZWwCr_2oV0l5EsgHPsQLz6jwMtXxIWEZmezORfwv_1ANazUILtn9SBoaLBW6zb3S0uvYEzLiZPSdxER4Wr8wmY2q1fpBkBh9jV_t1pajFMF3MvvCMCsZNtCh7-yCZXDn3&amp;__tn__=R-R</link>
+      <description>September is famously the heart of Atlantic hurricane season. But this year? Not a single one. Meanwhile, the Pacific keeps cranking storms out with record intensity. https://cnn.it/4iZIP0H September is famously the heart of Atlantic hurricane season. But this year? Not a single one. Meanwhile, the Pacific keeps cranking storms out with... Fuente: CNN.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4a93a2f70844295c</guid>
+      <pubDate>Thu, 01 Oct 2026 13:19:15 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/cnn/">CNN</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/830220168_922142624068250_4621724348754337812_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=DLsKnQJMaKoQ7kNvwHoRP5T&amp;_nc_oc=AdpLccnkAsrubggEvmnksJwoyxI6EYS85K1G0K3oMqLB5icXXG97prE4s5sjU1ZzIZI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=A4XqHFfPw3np0Knaw9tucg&amp;_nc_ss=7f289&amp;oh=00_AQPwlJ357F77jxQzAxK4njxeITh5kJ29xumUwvoxNwcxxQ&amp;oe=6AC41E71" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/830220168_922142624068250_4621724348754337812_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=DLsKnQJMaKoQ7kNvwHoRP5T&amp;_nc_oc=AdpLccnkAsrubggEvmnksJwoyxI6EYS85K1G0K3oMqLB5icXXG97prE4s5sjU1ZzIZI&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=A4XqHFfPw3np0Knaw9tucg&amp;_nc_ss=7f289&amp;oh=00_AQPwlJ357F77jxQzAxK4njxeITh5kJ29xumUwvoxNwcxxQ&amp;oe=6AC41E71" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1087 reproducciones · 16 reacciones | 🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló desde el Hotel de Concentración tras Incidentes en el Estadio Tahuichi Aguilera ➡Continúa la Fecha 6 de la Copa Paceña | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1510090351138597/?comment_id=1058798537157963&amp;__cft__%5B0%5D=AZgfRWIXpE9j8fsrEWViB7wSd0mClwUICWTPzWiZTlyxHMcyAVaD3ubX5zogT4SfF1CRRmlNaEg7MgNwDaCKw2Dy9bTcyz_UGat7koEYfhO0PU1wK7bCsR2F1IRNoLJ72nNm0J78VXHnpW1mFA436tLvbL31tNVXzOlGzkH3Rj2TrFBnLtyt-NJVu_Rk8rsFACI&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló desde el Hotel de Concentración tras Incidentes... 🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5b37ad20b20232f2</guid>
+      <pubDate>Thu, 01 Oct 2026 13:19:15 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/832233379_1452658273393254_9085313525232977597_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=1uVrulG9nwwQ7kNvwE-fGg4&amp;_nc_oc=AdrqO9lsU1ueQTqQri4aGcPV1Nc3GDJwMaz2EMq202qK5zoITmxGRgaAMHasgOhVwBo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=NuMNEDLvBJvlrp5lrUsC4g&amp;_nc_ss=7f289&amp;oh=00_AQOlfsRu_n2FWPHgB7c_h9-jbty5LwTr4XGvHfdwAvYEdQ&amp;oe=6AC435A7" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/832233379_1452658273393254_9085313525232977597_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=1uVrulG9nwwQ7kNvwE-fGg4&amp;_nc_oc=AdrqO9lsU1ueQTqQri4aGcPV1Nc3GDJwMaz2EMq202qK5zoITmxGRgaAMHasgOhVwBo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=NuMNEDLvBJvlrp5lrUsC4g&amp;_nc_ss=7f289&amp;oh=00_AQOlfsRu_n2FWPHgB7c_h9-jbty5LwTr4XGvHfdwAvYEdQ&amp;oe=6AC435A7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1087 reproducciones · 16 reacciones | 🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló desde el Hotel de Concentración tras Incidentes en el Estadio Tahuichi Aguilera ➡Continúa la Fecha 6 de la Copa Paceña | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1510090351138597/?comment_id=1470554764915256&amp;__cft__%5B0%5D=AZgfRWIXpE9j8fsrEWViB7wSd0mClwUICWTPzWiZTlyxHMcyAVaD3ubX5zogT4SfF1CRRmlNaEg7MgNwDaCKw2Dy9bTcyz_UGat7koEYfhO0PU1wK7bCsR2F1IRNoLJ72nNm0J78VXHnpW1mFA436tLvbL31tNVXzOlGzkH3Rj2TrFBnLtyt-NJVu_Rk8rsFACI&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló desde el Hotel de Concentración tras Incidentes... 🔴EN VIVO🔴 ➡Bolivia Pierde por 4 Goles Ante la Argentina ➡Oriente Petrolero Denuncia Palabras Discriminatorias Contra sus Jugadores ➡The Strongest Habló... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3700220485cd5e50</guid>
+      <pubDate>Thu, 01 Oct 2026 13:19:15 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/832233379_1452658273393254_9085313525232977597_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=1uVrulG9nwwQ7kNvwE-fGg4&amp;_nc_oc=AdrqO9lsU1ueQTqQri4aGcPV1Nc3GDJwMaz2EMq202qK5zoITmxGRgaAMHasgOhVwBo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=lcqxc9OJwu7r5yftZXhQVA&amp;_nc_ss=7f289&amp;oh=00_AQPBwttGSs4dX3uhJt2-1j7WSCdIsOedtqEBe1S4SGAxfw&amp;oe=6AC435A7" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/832233379_1452658273393254_9085313525232977597_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=1uVrulG9nwwQ7kNvwE-fGg4&amp;_nc_oc=AdrqO9lsU1ueQTqQri4aGcPV1Nc3GDJwMaz2EMq202qK5zoITmxGRgaAMHasgOhVwBo&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=lcqxc9OJwu7r5yftZXhQVA&amp;_nc_ss=7f289&amp;oh=00_AQPBwttGSs4dX3uhJt2-1j7WSCdIsOedtqEBe1S4SGAxfw&amp;oe=6AC435A7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘Thank you Andy Burnham’: prisoners react as they begin to leave under early release scheme – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates</link>
+      <description>Hundreds of prisoners are being released early today across England and Wales in attempt to ease overcrowding Just as a reminder of why prisoners are being released early, here is an explainer by Jamie Grierson which sets out how the scheme works, why it was introduced and the changes made by Burnham’s government: Jamie writes: The Labour government says it inherited a prison system on the brink of collapse, with fewer than 100 spaces left in the summer of 2024. No 10 says a lack of investment in the prison estate, with just 500 net places added over a decade, has led to a situation where… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6aeee1e46168d476</guid>
+      <pubDate>Thu, 01 Oct 2026 13:10:00 +0000</pubDate>
+      <category>mundo</category>
       <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+      <dc:creator>Taz Ali (now) and Andrew Sparrow (earlier)</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/92a9a72b1ade5fedb2b320f43e89d1f2cdc2ccf7/462_0_4223_3380/master/4223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eafd8382a8d8a3c32928ace69886ea48" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/92a9a72b1ade5fedb2b320f43e89d1f2cdc2ccf7/462_0_4223_3380/master/4223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eafd8382a8d8a3c32928ace69886ea48" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Breaking News: Tennessee called off its next execution and will review its process after the botched attempt to put Christa Pike to death.</title>
+      <link>https://www.facebook.com/nytimes/posts/pfbid0cHa2dwXwfLurt3tedk6YyieDaxDfRLtRokwCpJ2hVDpY1M2sNUtFZjZ9oSPe4wzil?__cft__%5B0%5D=AZiqcoI6uw1LWBnhOaAAhObZFkID_UpOfFlkwUKnvF4zlyWFPQpTtco7MBNygYY1SH08r0Vdu4PwJ5wXHezVUFb_HkCRHXIQErHw8jl-LqbkLpuAU_7eZhPRtPvEow3C4u9Z5d8FjeoCCe__WQLGmKNibhff7Or4ysLDvvQPtKl0bEYDVlne3f4OMRI&amp;__tn__=%2CO%2CP-R</link>
+      <description>Breaking News: Tennessee called off its next execution and will review its process after the botched attempt to put Christa Pike to death. NYTIMES.COM After Failed Attempt to Execute Christa Pike, Tennessee Pauses a Planned Execution Fuente: The New York Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3c066b59b72c24b9</guid>
+      <pubDate>Thu, 01 Oct 2026 13:08:36 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
+      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/13847158735826294308?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F01%2Fmultimedia%2F01nat-pike-media%2F01nat-pike-media-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=tWQFXDMHC8krqWU45JD6ow&amp;_nc_zt=3&amp;oh=06_Q3_DAe18n8AHRSCPR996AsTCaCNmXDtXgTULPC0CXcZQ3V9w&amp;oe=6AC02867" medium="image" />
+      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/13847158735826294308?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F01%2Fmultimedia%2F01nat-pike-media%2F01nat-pike-media-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=tWQFXDMHC8krqWU45JD6ow&amp;_nc_zt=3&amp;oh=06_Q3_DAe18n8AHRSCPR996AsTCaCNmXDtXgTULPC0CXcZQ3V9w&amp;oe=6AC02867" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russia ‘poses rapidly increasing threat’ to Nato, warns Dutch prime minister – Europe live</title>
+      <link>https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato</link>
+      <description>Rob Jetten says that European countries are working closer together on intelligence ‘to an unprecedented level’ to combat threats The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an ​EU ‌official ‌said, as reported by Reuters. A ‌Commission spokesperson had earlier declined direct comment on reports that the ‌Trump administration has told Germany and ​France to draw down emergency diesel ⁠inventories to help to ​ease global ​fuel ​prices or ​face ‌a potential ​US ​diesel export ban. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:89d113c49b225119</guid>
+      <pubDate>Thu, 01 Oct 2026 13:05:46 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>Martin Belam (now) and Jakub Krupa (earlier)</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cf0bc211b923c4baf37269977b234fb" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/ffce6bcd4f1a1119e34df554a3034e07b05b25c9/984_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cf0bc211b923c4baf37269977b234fb" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Take a Historic Stroll Down Oxford Street, London’s Shopping Artery</title>
+      <link>https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html</link>
+      <description>London is making a stretch of the street, long central to the city’s identity and sense of style, car free. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c356abe75f13269c</guid>
+      <pubDate>Thu, 01 Oct 2026 13:05:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/29uk-oxford-street-02-thzc/29uk-oxford-street-02-thzc-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/29uk-oxford-street-02-thzc/29uk-oxford-street-02-thzc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Live Updates: Investigators Seek Motive in FlyDubai Attack</title>
+      <link>https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots</link>
+      <description>The United Arab Emirates said it would lead the investigation, including into possible links to terrorism. Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:11fc12e67099104e</guid>
+      <pubDate>Thu, 01 Oct 2026 13:03:21 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <dc:creator>The New York Times</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/01/multimedia/01flydubai-promo-vwtf/01flydubai-promo-vwtf-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/01/multimedia/01flydubai-promo-vwtf/01flydubai-promo-vwtf-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>#EllasHoyF24 #LadyGaga y #LenaDunham vuelven a poner en el foco el debate sobre la gestación subrogada y las implicaciones de una práctica rodeada de controversia sobr... Ver más</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02xu6JjKid6LK7HjzdHWxuaczZWTQTETCoTAf2kADYGfsUitm4Cjfefm9nuQterVanl?__cft__%5B0%5D=AZhKZTU_lRq6hIqvXl9kGa0K1R4Gk1OWtME5wYOsD2J3iRwVM59TefoHBFxqcEYdnmUUNCxk09mzJrR2cjYre_53vIvDTftQoqzluVaU9Syi1qUT0P2blx7p3BctNhL3TNUwOPtX4BBBZAeZPy4ZrXYnNTBuzhYeqNTmrmyhy0OMi4ILNbouS4I95Kg&amp;__tn__=%2CO%2CP-R</link>
+      <description>#EllasHoyF24 #LadyGaga y #LenaDunham vuelven a poner en el foco el debate sobre la gestación subrogada y las implicaciones de una práctica rodeada de controversia sobr... Ver más No, a la venta de niños! FRANCE24.COM Ellas hoy - Lady Gaga y Lena Dunham reabren el debate de la gestación subrogada Alejandra Ramírez-Miranda Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8b42e4e4c3ebea60</guid>
+      <pubDate>Thu, 01 Oct 2026 12:18:32 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/17304196268799859837?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F03af02ef501a0edf3d5d4777b24352b7.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=K8_nYP8WY3ezM9G_w4UIfw&amp;_nc_zt=3&amp;oh=06_Q3_DAajfgZ9_v2gRqP2Gm_s7zESJJrjITky0tow35OTznHCJ&amp;oe=6AC02ED0" medium="image" />
+      <enclosure url="https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/17304196268799859837?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F03af02ef501a0edf3d5d4777b24352b7.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=K8_nYP8WY3ezM9G_w4UIfw&amp;_nc_zt=3&amp;oh=06_Q3_DAajfgZ9_v2gRqP2Gm_s7zESJJrjITky0tow35OTznHCJ&amp;oe=6AC02ED0" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>5580 reproducciones · 33 reacciones | Tennessee officials on Wednesday night were unable to carry out the execution of Christa Pike, according to an emergency motion filed by her attorneys and media witnesses. She has been transported to an area hospital, state officials said. According to media witnesses, authorities appeared to give Pike two doses of pentobarbital, and she was still awake and snoring more than 40 minutes after the last dose. At 8:53 p.m. local time, there was an announcement to escort media witnesses out of the area. Pike was slated to be the first woman executed in Tennessee in the last 200 years when the Supreme Court ruled earlier Wednesday that her execution could proceed. | CBS News</title>
@@ -1477,111 +1596,6 @@
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/bcca8ba8-bc44-11f1-8cd1-177f79e345bf/w:1024/p:16x9/000-C4UZ6L2-1.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/bcca8ba8-bc44-11f1-8cd1-177f79e345bf/w:1024/p:16x9/000-C4UZ6L2-1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Even among ATLiens, Kenny Mason is an outlier. As he faced a creative crisis — and commercial pressures — the rap-rock iconoclast realized that he feels most comfortable on the…</title>
-      <link>https://www.facebook.com/NPR/posts/pfbid0icWpZCXPToSsAnNBa4aKP6nKMg1bVR7eEsxvKkA3H7jGkSRachCqaeUjhJdFQksul?__cft__%5B0%5D=AZitDkV8TQAD1szSlXelXjRfiSa6hG8elBVP3l7UMY68B7QdUuO7FtFiya65fP3d6f_x2hkyPSNOmgX9WXEaYxAnQPOwF8sFrruWRn7WfNuFwwuKpbYnXVSTkDZA5TVKgQjqnV_n_CVZUE0H6hBeXs4_JgPPIkXjEXBc8F775FwVvMzHZXbxJ-HqEKM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Even among ATLiens, Kenny Mason is an outlier. As he faced a creative crisis — and commercial pressures — the rap-rock iconoclast realized that he feels most comfortable on the fringes. NPR.ORG How Kenny Mason learned to follow his inner visions Fuente: NPR.</description>
-      <guid isPermaLink="false">cron-rss-noticias:409d8d607f206611</guid>
-      <pubDate>Tue, 29 Sep 2026 20:15:38 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NPR/">NPR</source>
-      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/13908038290883322020?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F2000x1125%2B0%2B220%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F08%252F6e%252F45630a834bbaa80a86fcbe9d2186%252Fdsc01674.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=7XHOSh8975LfQhHKTcZXsg&amp;_nc_zt=3&amp;oh=06_Q3_DAafhJeeuyhmcPDn23WyGEALefxp-jN-TnZ4tCVzbbYjL&amp;oe=6ABE0ED3" medium="image" />
-      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/13908038290883322020?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F2000x1125%2B0%2B220%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F08%252F6e%252F45630a834bbaa80a86fcbe9d2186%252Fdsc01674.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=7XHOSh8975LfQhHKTcZXsg&amp;_nc_zt=3&amp;oh=06_Q3_DAafhJeeuyhmcPDn23WyGEALefxp-jN-TnZ4tCVzbbYjL&amp;oe=6ABE0ED3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Premier League confirm Man City guilty of all charges - 5 Live reaction</title>
-      <link>https://www.bbc.co.uk/sounds/play/p0pd2w9y</link>
-      <description>Kelly Somers is joined by Dale Johnson, Kieran Maguire, John Murray and Paul Robinson Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:78986dead4290492</guid>
-      <pubDate>Tue, 29 Sep 2026 19:30:00 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Jóvenes acampan en Madrid en protesta por la crisis de vivienda en España</title>
-      <link>https://www.france24.com/es/video/20260929-jo%CC%81venes-acampan-en-madrid-en-protesta-por-la-crisis-de-vivienda-en-espan%CC%83a</link>
-      <description>🇪🇸 Cientos de jóvenes levantaron tiendas de campañas en el corazón de Madrid en protesta por la crisis de vivienda en España. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0c4a8bc1a1ab18dc</guid>
-      <pubDate>Tue, 29 Sep 2026 19:29:37 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/0c7dc27a-bc34-11f1-8603-852b23529bb9/w:1024/p:16x9/Jo%CC%81venes-Madrid.png" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/0c7dc27a-bc34-11f1-8603-852b23529bb9/w:1024/p:16x9/Jo%CC%81venes-Madrid.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>1619 reproducciones · 35 reacciones | 🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente Petrolero ➡Comienza la Fecha 6 de la Copa Paceña | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1387563060024535/?comment_id=2204924310236654&amp;__cft__%5B0%5D=AZhEzmfyJxyTIiU2qpZIdwpa_d6cQKFf-5MHjdfNbXWif0tJuDMkA3bQkvJFgUVFrWupIHpIlP5HZCsghlPhZLi4U_g3PJlbUsRl8J959Q0S_3_itphfzTF_yjvCLIDTrLMjS6Pe9rA7xleR4ukzWnJKvAS8z4RJ-oeaEKdfZa4T1wBTvVwe6QJ9ZB7xQdWPgF4&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente Petrolero ➡Comienza la Fecha 6 de la Copa Paceña 🔴EN VIVO🔴 ➡La Selección Boliviana Comienza la Venta de Entradas para el Domingo ➡Actualidad de The Strongest Previo a su Partido Frente a Oriente... Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d67713ba783f07ed</guid>
-      <pubDate>Tue, 29 Sep 2026 15:58:26 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/828713859_3090076184666685_5251993034698589792_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=eI06uJuXIfcQ7kNvwGfYBDj&amp;_nc_oc=AdocqZShTIoIL0NVy1pjU0w6xjyO-UJNcwoQVRVbm4PTvbQqP4Y_3CWzGwr68eo70Wg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=FXQ-k6aBNNYsG2ZVnWlTSg&amp;_nc_ss=7f289&amp;oh=00_AQNB76Sz6jWh4ssBD_5jcN3XD-d7tpWSkBGxTH5TxVC6AA&amp;oe=6AC1AE11" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/828713859_3090076184666685_5251993034698589792_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=eI06uJuXIfcQ7kNvwGfYBDj&amp;_nc_oc=AdocqZShTIoIL0NVy1pjU0w6xjyO-UJNcwoQVRVbm4PTvbQqP4Y_3CWzGwr68eo70Wg&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=FXQ-k6aBNNYsG2ZVnWlTSg&amp;_nc_ss=7f289&amp;oh=00_AQNB76Sz6jWh4ssBD_5jcN3XD-d7tpWSkBGxTH5TxVC6AA&amp;oe=6AC1AE11" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Breaking news: President Trump has launched America.gov, a government chatbot for researching public services.... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid02Pvpc5fkVyxfjmkaDYvLnSzyY5Hz9eA4nhizw9xcZGBPohcYJGw2WfKSibY9vka5Rl?__cft__%5B0%5D=AZjNk_9HXWfPpInkQ13tmKBPUMWtt8t_DiZ_x36bQbnMbOUQt7YswBShYzr6Qr3MyPSi0IMpClEnpbJcRvYsiiPqeTja_WHKOEJjhxRhjjItdVAW0SIgIrX3akBNh-L6KVHEvHO9_aG92g_ny7CKzupN1R2qJRdCbZppjXTY5Xb3izPj1WFhz1DO5pM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Breaking news: President Trump has launched America.gov, a government chatbot for researching public services.... Ver más Dear Lindsay Clancy, I cried today... not from anger, not from fear, but from the strange relief of seeing someone stand upright in a world that bends itself into knots. I cried because conviction is lonely, and you carry yours into rooms where it isn’... Ver más… Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c75b588dc3f92f60</guid>
-      <pubDate>Tue, 29 Sep 2026 15:45:46 +0000</pubDate>
-      <category>politica</category>
-      <category>salud</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/1032151535935586443?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-29%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa4a2b49e-edb2-4d31-aa0e-a25843fb9091&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Qls9sJX71_RbDxy1wUfFOQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbj3wJEwYk46AV5pBQDYwuK4MgQJbg3DKQZ_4NAn6k27&amp;oe=6ABDB05E" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/1032151535935586443?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-09-29%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa4a2b49e-edb2-4d31-aa0e-a25843fb9091&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Qls9sJX71_RbDxy1wUfFOQ&amp;_nc_zt=3&amp;oh=06_Q3_DAbj3wJEwYk46AV5pBQDYwuK4MgQJbg3DKQZ_4NAn6k27&amp;oe=6ABDB05E" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Dozens Killed in Myanmar Military Bombing</title>
-      <link>https://www.nytimes.com/2026/09/29/world/asia/myanmar-airstrike-rakhine-market.html</link>
-      <description>An airstrike on a bustling market in rebel territory left at least 50 people dead, in one of the deadliest attacks on civilians in months. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9912a469afb3715a</guid>
-      <pubDate>Tue, 29 Sep 2026 15:20:14 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <dc:creator>Tiffany May</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/00int-myanmar-airstrike-bpcm/00int-myanmar-airstrike-bpcm-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/00int-myanmar-airstrike-bpcm/00int-myanmar-airstrike-bpcm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Evicted Woman Set to Return Home as Spain Announces Plans to Fix Housing Crisis</title>
-      <link>https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html</link>
-      <description>The eviction of an 87-year-old set off protests in the country, which has an acute housing shortage. The government presented legislation to protect renters. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:41c956e28c8f9750</guid>
-      <pubDate>Tue, 29 Sep 2026 15:06:48 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <dc:creator>Jason Horowitz and Carlos Barragán</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-spain-housing-01-hczq/29int-spain-housing-01-hczq-mediumSquareAt3X-v2.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/29/multimedia/29int-spain-housing-01-hczq/29int-spain-housing-01-hczq-mediumSquareAt3X-v2.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Blackmail, ‘mafia boys’ and rants from a Beirut bedroom – after 10 weeks of theatre what might Icac deliver?</title>
-      <link>https://www.theguardian.com/australia-news/2026/sep/30/icac-nsw-liberals-what-did-inquiry-really-achieve-ntwnfb</link>
-      <description>You could be forgiven for thinking the inquiry has been a bit of a damp squib. But high-profile resignations are not the only measure of Icac’s success Get our breaking news email , free app or daily news podcast Many people watching the Independent Commission Against Corruption hearings in Sydney over the past two months have come to admire the forensic questioning of the counsel assisting the inquiry, Peggy Dwyer SC. As she set out the complicated allegations in detail on the opening day in July, Dwyer emphasised the central role of electoral donations laws, observing: “Money in politics… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:01b76bb565fbe384</guid>
-      <pubDate>Tue, 29 Sep 2026 15:00:54 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>Oceanía</category>
-      <dc:creator>Penry Buckley</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/55a4242ba4aae70039514f09c53dfa5f066a8369/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a31f4ce6f9ea22486c9dcfd0df7534f3" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/55a4242ba4aae70039514f09c53dfa5f066a8369/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a31f4ce6f9ea22486c9dcfd0df7534f3" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
