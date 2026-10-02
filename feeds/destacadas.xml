@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Fri, 02 Oct 2026 15:56:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:51:27 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -198,20 +198,6 @@
       <enclosure url="https://static.independent.co.uk/2026/09/30/15/2026-09-30T135639Z_1416470123_RC2PTNAYXSRM_RTRMADP_3_TENNESSEE-EXECUTION.JPG?width=1200&amp;auto=webp&amp;trim=0%2C8%2C0%2C8" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Israeli officials say diverted flydubai incident may be attempted 'terror attack'</title>
-      <link>https://www.cnbc.com/2026/09/30/israel-flight-diverted-saudi-arabia-brawl-pilots-flydubai.html</link>
-      <description>The co-pilot of a flight from Dubai to Tel Aviv is believed to have stabbed the captain in a possible attempted “terror attack” on Wednesday, forcing the plane to divert to Saudi Arabia where it landed safely, three Israeli officials have said. They said the cabin crew entered the cockpit and took control of flydubai flight FZ1073 from the United Arab Emirates to Israel, which diverted to Saudi Arabia as it flew over Jordanian airspace. One of the officials identified the attacker as an Omani... Publicado también por: South China Morning Post, ABC News Australia. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d8aa9349596abfa7</guid>
-      <pubDate>Wed, 30 Sep 2026 12:47:16 +0000</pubDate>
-      <category>economia</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <category>Oceanía</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/532c207e-c128-4b47-8a0e-88c0da36e528_f1f49386.jpg?itok=ZfclrUC8&amp;v=1790756272" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/532c207e-c128-4b47-8a0e-88c0da36e528_f1f49386.jpg?itok=ZfclrUC8&amp;v=1790756272" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>UK-France 'one in, one out' migrant deal scrapped</title>
       <link>https://news.sky.com/story/uk-france-one-in-one-out-migrant-deal-scrapped-13593740</link>
       <description>A British-French agreement aimed at reducing the number of people trying to cross the English Channel in small boats has been scrapped, London said Wednesday. The pilot programme was intended to break the business model of "people smugglers" by exchanging undocumented migrants who had made the crossing for people who legally applied for asylum. Publicado también por: France 24 - English, BBC News - World. Fuente: Sky News - World.</description>
@@ -222,6 +208,20 @@
       <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
       <media:content url="https://e3.365dm.com/26/09/1920x1080/skynews-hardelot-france-dinghy_7359295.jpg?20260923113340" medium="image" />
       <enclosure url="https://e3.365dm.com/26/09/1920x1080/skynews-hardelot-france-dinghy_7359295.jpg?20260923113340" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>DR Congo Ebola outbreak killed more than 4,000: official figures</title>
+      <link>https://www.euronews.com/2026/10/02/dr-congo-ebola-outbreak-killed-more-than-4000-official-figures</link>
+      <description>The worst ever Ebola outbreak in the Democratic Republic of Congo has now killed more than 4,000 people out of more than 8,000 confirmed cases, Congolese officials said on Friday. Publicado también por: The Hindu - International, Sky News - World. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3bc7574b3f6b6c50</guid>
+      <pubDate>Fri, 02 Oct 2026 16:40:42 +0000</pubDate>
+      <category>salud</category>
+      <category>África</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/5hlqet/article71536491.ece/alternates/LANDSCAPE_1200/APTOPIX_Congo_Ebola_682_5.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/5hlqet/article71536491.ece/alternates/LANDSCAPE_1200/APTOPIX_Congo_Ebola_682_5.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Russia tries to freeze Ukraine as it suffers record casualties and retreats</title>
@@ -296,6 +296,30 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows... Ver más</title>
+      <link>https://www.facebook.com/Reuters/posts/pfbid0RuVgfsKXQ9LJG3wqJw1FrhRZAZxjfdEpLxGaoQSpsU6QN248RGbffR6hEePjNgENl?__cft__%5B0%5D=AZhbk-fp2O93uh49VB4vaDyWosNy5br1i-958XVxuAqRE4w7m7939A3yewZmIZDnvJvMotQs4Q7ztW54jqPOcoQY0S6gKZrHYNm7VEDYurBsF5m7X1oxpErJKi4MGaeRdUwYL-kDU4bd31co45OMl1o6UnlRE98nWJmvcjGLX-MV1ZjXBX6oTJiMjj8&amp;__tn__=%2CO%2CP-R</link>
+      <description>EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows Click the link in the comments below. Publicado también por: CNBC - World. Fuente: Reuters.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e0ca3c2119843cc3</guid>
+      <pubDate>Fri, 02 Oct 2026 20:41:22 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/Reuters/">Reuters</source>
+      <media:content url="https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/830997107_1626731459235074_209787592993222457_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=h4DDEiQgC9oQ7kNvwH0iU_-&amp;_nc_oc=AdqeTcteBc3XNZCfrvkHSLJeA68OIFUH8dVSjjB_7uzAqKOCOr3xpGSKxOAkE3G8W0Y&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=nFhfjDUpixcnqK964NMiRQ&amp;_nc_ss=7f289&amp;oh=00_AQPgnCYz64jGHZMRbEPHeGhxJ7K9_SFAeRctXw294_aInw&amp;oe=6AC5D4ED" medium="image" />
+      <enclosure url="https://scontent-atl3-2.xx.fbcdn.net/v/t39.99422-6/830997107_1626731459235074_209787592993222457_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x628&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=h4DDEiQgC9oQ7kNvwH0iU_-&amp;_nc_oc=AdqeTcteBc3XNZCfrvkHSLJeA68OIFUH8dVSjjB_7uzAqKOCOr3xpGSKxOAkE3G8W0Y&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-2.xx&amp;_nc_gid=nFhfjDUpixcnqK964NMiRQ&amp;_nc_ss=7f289&amp;oh=00_AQPgnCYz64jGHZMRbEPHeGhxJ7K9_SFAeRctXw294_aInw&amp;oe=6AC5D4ED" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Two Iranian nationals have been charged with terror offences over an alleged plot to target the Jewish community in Manchester, police said.... Ver más</title>
+      <link>https://www.facebook.com/bbcnews/posts/pfbid02dsxh2B97dR1DzAvtxDtdGbytqpSmc4K4CXBtUiaX63AXrN7NzYvqDZ8dc7cWjG9wl?__cft__%5B0%5D=AZiFAV6r08HWbEQBWSFAbl5TI7fuTN0YkSC3Qga6E05cC9L32wrYSncwhqWQ4iXIj_YY3XiR8kdngxp3bAcmC3rHW_75qXhBrLgEwhO7Aey0iZfRzCV9W7h25sAYWd0ZpheJjsWFMa3-pDjlUYfjVa38nSHRBCAR4FYKlWY9tRhJ-GM4vnojIjyc8OQ&amp;__tn__=%2CO%2CP-R</link>
+      <description>The men were arrested on 20 September, on the eve of Yom Kippur, the holiest day in the Jewish calendar Two Iranian men have been charged in relation to an alleged terror plot targeting Manchester’s Jewish community. Rahman Salehi, 35, and Salam Ahmadyan, 36, have been charged with preparing to commit an act of terrorism or assisting another to commit an act of terrorism. Continue reading... Publicado también por: The Guardian - World. Fuente: BBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dc6b73eb93e9b06b</guid>
+      <pubDate>Fri, 02 Oct 2026 20:18:36 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/830958260_1852397415775384_2747081504780783468_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=fqFbAAoPDE0Q7kNvwF47rpN&amp;_nc_oc=Adq96O66WybHDwIzs4M1lNxqm4KzNLDAnx48ifpSQwP5o-r4ei2tqN5utkNSFOfZYig&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=-ma7Yquw3e3DkTliveU0lQ&amp;_nc_ss=7f289&amp;oh=00_AQOpwjiCRUWqLqP59Txv_1qi9TPv5ZhFdPu9juSVqA-d_Q&amp;oe=6AC5E70F" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/830958260_1852397415775384_2747081504780783468_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=fqFbAAoPDE0Q7kNvwF47rpN&amp;_nc_oc=Adq96O66WybHDwIzs4M1lNxqm4KzNLDAnx48ifpSQwP5o-r4ei2tqN5utkNSFOfZYig&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=-ma7Yquw3e3DkTliveU0lQ&amp;_nc_ss=7f289&amp;oh=00_AQOpwjiCRUWqLqP59Txv_1qi9TPv5ZhFdPu9juSVqA-d_Q&amp;oe=6AC5E70F" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Christa Pike in critical condition after Tennessee botched execution, lawyer says</title>
       <link>https://www.euronews.com/2026/10/02/christa-pike-in-critical-condition-after-tennessee-botched-execution-lawyer-says</link>
       <description>Pike was 18 when she and her boyfriend beat and killed Colleen Slemmer, 19, at a job training camp for young people. Publicado también por: BBC News - World. Fuente: Euronews.</description>
@@ -328,6 +352,7 @@
       <pubDate>Thu, 01 Oct 2026 18:48:46 +0000</pubDate>
       <category>mundo</category>
       <category>Asia</category>
+      <category>Medio Oriente</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg" type="image/jpeg" length="0" />
@@ -382,18 +407,6 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/ddefaa12d63472dca06b102e4d510d00?impolicy=wcms_crop_resize&amp;cropH=2320&amp;cropW=4124&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/ddefaa12d63472dca06b102e4d510d00?impolicy=wcms_crop_resize&amp;cropH=2320&amp;cropW=4124&amp;xPos=0&amp;yPos=55&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Christa Pike afronta sus últimas horas: hoy será la primera mujer ejecutada en Tennessee en 200 años</title>
-      <link>https://www.lanacion.com.ar/el-mundo/christa-pike-afronta-sus-ultimas-horas-hoy-sera-la-primera-mujer-ejecutada-en-tennessee-en-200-anos-nid30092026/</link>
-      <description>Los abogados de Pike, que asesinó a una joven en 1995, afirman que debería recibir clemencia y que si fuera juzgada hoy no sería condenada a muerte. Publicado también por: BBC News Mundo. Fuente: La Nación - El Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d857907a1a289054</guid>
-      <pubDate>Wed, 30 Sep 2026 13:00:23 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
-      <media:content url="https://resizer.glanacion.com/resizer/v2/2MPZJHY5J5CQNGVSQZFZY6TTAA.png?auth=0908116810a21ed04863fbdfc9ea9621751b7f344ec61d1acb3c220007e74e63&amp;smart=true&amp;width=613&amp;height=442" medium="image" />
-      <enclosure url="https://resizer.glanacion.com/resizer/v2/2MPZJHY5J5CQNGVSQZFZY6TTAA.png?auth=0908116810a21ed04863fbdfc9ea9621751b7f344ec61d1acb3c220007e74e63&amp;smart=true&amp;width=613&amp;height=442" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Zimbabwe probes helicopter crash that killed tycoon Chivayo</title>
@@ -534,6 +547,61 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/a7dfc5c0-bcec-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US suspends consular services in Brazil as Lula and Bolsonaro fight for election</title>
+      <link>https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election</link>
+      <description>PRESS REVIEW – Friday, October 2: We look at reactions in the French papers after high school blockades turned violent across France. We also look ahead to Brazil's two-round presidential election, which begins this weekend. The electoral campaign culminated with the cancellation of a presidential debate after both President Lula and his rival Flavio Bolsonaro pulled out. Finally, this year's Comedy Wildlife Awards finalists do not disappoint. Publicado también por: France 24 - English. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:651e38c55d3b6e1b</guid>
+      <pubDate>Fri, 02 Oct 2026 20:40:14 +0000</pubDate>
+      <category>politica</category>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+      <media:content url="https://s.france24.com/media/display/17c4225e-be2e-11f1-a575-1ff0321dbbd3/w:1024/p:16x9/Anglais-2026-10-02T06-43-03-076Z.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/17c4225e-be2e-11f1-a575-1ff0321dbbd3/w:1024/p:16x9/Anglais-2026-10-02T06-43-03-076Z.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Coast Guard Says It Stopped Ships Carrying Fuel to Cuba</title>
+      <link>https://www.nytimes.com/2026/10/02/world/americas/coast-guard-cuba-ships-oil.html</link>
+      <description>US says ship thought to be using common ‘dark fleet’ tactics was boarded and taken to Mexico as embargo continues The US Coast ⁠Guard has announced that it intercepted a large cargo ship carrying fuel bound for Cuba , as the ⁠Trump administration’s crippling ⁠oil embargo against ​the island nation continued. The vessel named Grace was stopped on 5 September in the Caribbean Sea between Cuba ⁠and Mexico while using tactics to evade authorities, the Coast Guard said. The New York Times reported that the ship ⁠was 91 metres (300ft) long. Continue reading... Publicado también por: The Guardian - World. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c34dd1da49c7fe19</guid>
+      <pubDate>Fri, 02 Oct 2026 20:32:05 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <dc:creator>David C. Adams</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/02/multimedia/02cuba-oil-smuggle-vzhg/02cuba-oil-smuggle-vzhg-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/02/multimedia/02cuba-oil-smuggle-vzhg/02cuba-oil-smuggle-vzhg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>G7 to release 100 million barrels of oil and diesel after Trump export ban threat</title>
+      <link>https://www.bbc.co.uk/news/articles/ck87zg8jnwngo</link>
+      <description>Members of the Group of Seven bloc of highly industrialised economies on Friday agreed to release 100 million barrels of diesel and crude oil from their reserves over four months, averting a potential US ban on diesel exports. The European Union had earlier pushed back against Washington's threat, with an EU official saying the 27-member bloc “fully” rejected the move. Publicado también por: France 24 - English. Fuente: BBC News - Business.</description>
+      <guid isPermaLink="false">cron-rss-noticias:88844e07c797c3d6</guid>
+      <pubDate>Fri, 02 Oct 2026 20:25:19 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>King Charles III to acknowledge ‘darkest days’ of Britain’s colonial rule during Caribbean tour</title>
+      <link>https://www.theguardian.com/uk-news/2026/oct/02/king-charles-darkest-days-britain-colonial-rule-caribbean-tour</link>
+      <description>Buckingham Palace say the king will not ‘shy away’ from Britain’s role in slavery when he visits Commonwealth nations later this month King Charles III will acknowledge the “darkest days” of colonial rule and slavery while touring Caribbean countries on a visit beginning this month, a Buckingham Palace spokesperson said on Friday. The king will first visit the Bahamas and Guyana alone, followed by a trip to Antigua and Barbuda with Queen Camilla, where Charles will give a speech at a meeting of Commonwealth heads of government, the palace said. Continue reading... Publicado también por: South China Morning Post. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:281645aeb7b5b60c</guid>
+      <pubDate>Fri, 02 Oct 2026 19:02:56 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/43669bed2e961978a6795c27541a8d129fea838c/582_0_3215_2573/master/3215.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08e3d4fd98002671dbbb4eb0fe1a2357" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/43669bed2e961978a6795c27541a8d129fea838c/582_0_3215_2573/master/3215.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08e3d4fd98002671dbbb4eb0fe1a2357" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>“Luchaba por mi vida, pero no podía dejar morir a los demás”, relató el piloto indio apuñalado en vuelo de Flydubai... Ver más</title>
@@ -847,49 +915,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/2wzvxr/article71528881.ece/alternates/LANDSCAPE_1200/AP09_30_2026_000453A.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>American Forces Withdraw From Iraq 23 Years After Invading</title>
-      <link>https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-troop-withdrawal.html</link>
-      <description>The Americans did not understand the country when they invaded in 2003. From the earliest days, there were signs of the trouble ahead, our correspondent recalls. Publicado también por: ABC News Australia. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cf4229e4cee440d2</guid>
-      <pubDate>Wed, 30 Sep 2026 12:58:56 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>América del Norte</category>
-      <category>Oceanía</category>
-      <dc:creator>Alissa J. Rubin</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/09/30/multimedia/30int-iraq-us-reflections-wtgb/30int-iraq-us-reflections-wtgb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Burundi agrees to receive ‘third-country’ migrant deportees from US</title>
-      <link>https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration</link>
-      <description>Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠ Donald Trump ’s hardline ⁠ immigration ​policy . However, the authorities in Bujumbura, the country’s economic capital, said Burundi will only accept those not accused of crime or terrorism links, said ⁠Nancy Ninette Mutoni, a spokesperson for the country’s president, Évariste Ndayishimiye. Tuesday’s announcement gave no details of numbers, timing or financial… Publicado también por: Africanews. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a57adcdf2627ea5f</guid>
-      <pubDate>Wed, 30 Sep 2026 12:47:15 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <category>África</category>
-      <dc:creator>Reuters</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7b8cc5fa5cfb47ccbb564c4a9904202" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/3c9052fcf07ee901977375d6acb1fcaa1a4b9e02/423_0_4886_3911/master/4886.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7b8cc5fa5cfb47ccbb564c4a9904202" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UK banks are Europe’s biggest coal financiers, report finds</title>
-      <link>https://www.theguardian.com/environment/2026/sep/30/uk-banks-are-europe-biggest-providers-coal-financing-report-finds</link>
-      <description>Study says UK-based banks provided $8.3bn in coal financing in four years, with Barclays and HSBC leading rise UK banks are Europe’s biggest financial backers of the global coal industry, providing billions of pounds in funding for the climate-wrecking fossil fuel in the past four years, according to a report. The study found UK-based banks had provided $8.3bn (£6.2bn) in coal financing since Cop26 in Glasgow in 2021 , when global leaders pledged to “phase down” coal use. This compared with $4.9bn from German banks and $3.4bn from French banks over the same period. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:75c78134d69f191a</guid>
-      <pubDate>Wed, 30 Sep 2026 11:58:24 +0000</pubDate>
-      <category>ciencia</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <dc:creator>Matthew Taylor</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/553671d63cd38e5bb770771821d8d723576c936d/461_0_4490_3592/master/4490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d5950c77b35090920be9a94bfedbaea" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/553671d63cd38e5bb770771821d8d723576c936d/461_0_4490_3592/master/4490.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d5950c77b35090920be9a94bfedbaea" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>¿Quién es Smit Machchhar, el piloto indio apuñalado que según Israel frustró un atentado en un vuelo de Flydubai?</title>
       <link>https://www.france24.com/es/medio-oriente/20261001-qui%C3%A9n-es-smit-machchhar-el-piloto-indio-apu%C3%B1alado-que-seg%C3%BAn-israel-frustr%C3%B3-un-atentado-en-un-vuelo-de-flydubai</link>
       <description>Smit Machchhar, capitán indio de la aerolínea emiratí flydubai, se convirtió en protagonista de un incidente de seguridad aérea después de que su copiloto presuntamente lo apuñalara durante un vuelo entre Dubái y Tel Aviv, en el que viajaban 174 personas. Gravemente herido, Machchhar habría conseguido abrir la puerta de la cabina para permitir la intervención de pasajeros y tripulantes, que redujeron al presunto agresor mientras otros dos pilotos que se encontraban a bordo asumían el control de la aeronave. El Gobierno de Benjamin Netanyahu lo califica como el “héroe” que evitó una tragedia… Publicado también por: BBC News Mundo. Fuente: France 24 - Español.</description>
@@ -927,18 +952,6 @@
       <enclosure url="https://s.france24.com/media/display/97e2e0e8-bced-11f1-9d0b-d367a0468893/w:1024/p:16x9/AP26271435063936.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Africa's richest man launches Kenya oil refinery despite land protests</title>
-      <link>https://www.bbc.co.uk/news/articles/cmkg8dpwy25po</link>
-      <description>The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ef3146be582110b1</guid>
-      <pubDate>Wed, 30 Sep 2026 11:25:12 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ff/live/eb5c7d60-bcac-11f1-a3e9-bbda6f9b9e25.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Eleição de 1998: Já como presidente e candidato à reeleição, FHC, preferido pela Globo, decidiu não participar de nenhum debate televisivo no primeiro turno.</title>
       <link>https://www.facebook.com/jornaloglobo/posts/pfbid0uJB4tqovYwiNuEwe3ABWdALByooR7MpSWuPQvcV1BXdgZbrF6zLDi8R5fML5sXpRl?comment_id=1811881319946149&amp;__cft__%5B0%5D=AZiVUfXcInko4LAQFi-APmlZhjuA3sYgyOI-2cKeC4aEmSV_MnqhJMDeFTYhGCXqeR3zpLbXmidg93EQ4gbZon6n39MycNMk3nCK24-dbsdC7FftP3SehFeun4DblgmESG14_elOJIDgSDMgW0eHJLLGSCDxgpxB74duu-7AzmPxIwyI4G8uTPeOL8U&amp;__tn__=R-R</link>
       <description>Eleição de 1998: Já como presidente e candidato à reeleição, FHC, preferido pela Globo, decidiu não participar de nenhum debate televisivo no primeiro turno. A estratégia evitou o confronto direto, e o debate da TV Globo naquele ano chegou a ser cance... Ver más Carlos Magno Barbosa Eleição de 1998: Já como presidente e candidato à reeleição, FHC, preferido pela Globo, decidiu não participar de… Publicado también por: CNN Brasil. Fuente: O Globo.</description>
@@ -960,16 +973,81 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
     </item>
     <item>
-      <title>Senate blocks measure requiring report on Israeli violence in West Bank</title>
-      <link>https://www.washingtonpost.com/politics/2026/10/01/senate-blocks-measure-requiring-report-israeli-violence-west-bank/</link>
-      <description>The Senate voted 47 to 51 to block the resolution. The vote was largely along party lines, with every Republican voting no except for Rand Paul and every Democrat voting yes except for John Fetterman Publicado también por: The Jerusalem Post - International. Fuente: The Washington Post - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f0f88ec8c973e5d3</guid>
-      <pubDate>Wed, 30 Sep 2026 12:45:00 +0000</pubDate>
-      <category>politica</category>
+      <title>Nepal plans to drain four glacial lakes after deadly floods</title>
+      <link>https://www.thehindu.com/news/international/nepal-plans-to-drain-four-glacial-lakes-after-deadly-floods/article71538382.ece</link>
+      <description>The work of draining “through gated structures” will start after a detailed study, and could take up ⁠to six years to complete, said Sanjeeb Baral, the Centre’s executive director. Publicado también por: ABC News Australia. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7d782d8cf9314769</guid>
+      <pubDate>Fri, 02 Oct 2026 18:09:03 +0000</pubDate>
+      <category>ambiente</category>
+      <category>Asia</category>
+      <category>Oceanía</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/caqr42/article71538400.ece/alternates/LANDSCAPE_1200/2026-10-02T155205Z_828488838_RC2D6NAJSGPH_RTRMADP_3_NEPAL-FLOODS.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/caqr42/article71538400.ece/alternates/LANDSCAPE_1200/2026-10-02T155205Z_828488838_RC2D6NAJSGPH_RTRMADP_3_NEPAL-FLOODS.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>2630 reproducciones · 61 reacciones | #Mundo | Habló el piloto del avión de FlyDubai que resultó herido tras el reciente intento de atentado perpetrado por su compañero de vuelo el pasado 30 de septiembre. Esto dijo Siga la señal de Noticias Caracol en vivo 👉 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
+      <link>https://www.facebook.com/reel/1081996508011578/?comment_id=1085885747363675&amp;__cft__%5B0%5D=AZj-MWdBUngjrSAdLT1fdrDH8GZdIvuToPG1_3r45MrF8JaCSbD-ag0Wd2XGSVNXYNl51bGkW05dwgF5xtu-3oO2PfRePvZor-I00dANWozeTHaUnycof2bgkS0byXpbGMf-AshbGdm8CK3osM5GEj3qT_mNOYJcMjsGDvd4i7kteiOyM7Lhx4IEfFw2Re7rJ8X5&amp;__tn__=R-R</link>
+      <description>#Mundo | Habló el piloto del avión de FlyDubai que resultó herido tras el reciente intento de atentado perpetrado por su compañero de vuelo el pasado 30 de septiembre. Esto dijo Siga la señal de... #Mundo | Habló el piloto del avión de FlyDubai que resultó herido tras el reciente intento de atentado perpetrado por su compañero de vuelo el pasado 30... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:da3ef9eb03d44819</guid>
+      <pubDate>Fri, 02 Oct 2026 20:51:27 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/833187323_1141485265465183_512967902679265679_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=TRZ3OfQH86MQ7kNvwH4AfKK&amp;_nc_oc=Adozy2p3PF25jp_MpSM-CIf4wBNQEEuTsgOtpfBFKm8mXeIzi93UCBDsFQ4XzNVffu4&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=ACH8S9i08SHTx1f54dg27A&amp;_nc_ss=7f289&amp;oh=00_AQNu-NqcWK0E3vb5AKd6G6Apgn--TPrnCeT-BdUX7ukzPQ&amp;oe=6AC5F1EB" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/833187323_1141485265465183_512967902679265679_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=TRZ3OfQH86MQ7kNvwH4AfKK&amp;_nc_oc=Adozy2p3PF25jp_MpSM-CIf4wBNQEEuTsgOtpfBFKm8mXeIzi93UCBDsFQ4XzNVffu4&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=ACH8S9i08SHTx1f54dg27A&amp;_nc_ss=7f289&amp;oh=00_AQNu-NqcWK0E3vb5AKd6G6Apgn--TPrnCeT-BdUX7ukzPQ&amp;oe=6AC5F1EB" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Koch recorre en esta entrevista con EL PAÍS algunos de los momentos más intensos de su histórica misión a la Luna el pasado abril y reflexiona sobre cómo será la carrer... Ver más</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid0kJUgfw5da3i28PXaFTd6cCwkJiuQ7qMc2oov1kUYsezwtb8cjsEugJsLQ62EyHqrl?__cft__%5B0%5D=AZjXquBmBF0J-zGLjlLFqH3WyBJPHWf1gF_vW93_CYZTPy9k_dmCGyFSfVWVpUrRhm7Av0hFGG3lPm2olxOyY8pCS6ZnqbDQFKhCp3QaQZm6e77zUf5wKmpw-pQ1FnLkDLOeAjLsbr0ygdXYSzPdoghLichLCAXf1kj8R5SUbcwmWBrq3oIyR07pDg4&amp;__tn__=%2CO%2CP-R</link>
+      <description>Koch recorre en esta entrevista con EL PAÍS algunos de los momentos más intensos de su histórica misión a la Luna el pasado abril y reflexiona sobre cómo será la carrer... Ver más ELPAIS.COM Christina Koch, primera mujer en viajar hasta la Luna: “Veíamos destellos azules cuando cerrábamos los ojos” Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7853f7c3ff718cd9</guid>
+      <pubDate>Fri, 02 Oct 2026 20:48:44 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/13811901946006055257?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FOBKZEAWUKBITXKF7ISL6C3RC7U.jpg%3Fauth%3D0e0c966bb160b17e34d710413354f7707b8ca297f2fc19260e25c7899dbf1292%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Sf_1DKu4SRS6nj4yFebuEg&amp;_nc_zt=3&amp;oh=06_Q3_DAXBbZ9YylQGozYcSryeydliZ6gqtKC_-esPDs1Uq3c7Y&amp;oe=6AC1FC3C" medium="image" />
+      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/13811901946006055257?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FOBKZEAWUKBITXKF7ISL6C3RC7U.jpg%3Fauth%3D0e0c966bb160b17e34d710413354f7707b8ca297f2fc19260e25c7899dbf1292%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Sf_1DKu4SRS6nj4yFebuEg&amp;_nc_zt=3&amp;oh=06_Q3_DAXBbZ9YylQGozYcSryeydliZ6gqtKC_-esPDs1Uq3c7Y&amp;oe=6AC1FC3C" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>FT Exclusive: A skyscraper in midtown New York has smashed rent records by leasing its top two floors to a low-profile hedge fund for up to $21.2mn a year. ... Ver más</title>
+      <link>https://www.facebook.com/financialtimes/posts/pfbid02YBPA9AqX8hqr2FJ9HVVU4Fop8JvP3YNfgHqoZQRbJzuFUGinMDwpiGcfLnhtCJJEl?__cft__%5B0%5D=AZgAVOcEr2hLeKaj8ZWfJO4pwO4ZyyHQ3Cc4itgC_atg4yGFl8KynQLcJ_wY554pRhLPqp6RGeyHUHxm_OosN3AWu8h0DqVLj8gpiiLSlD0Jgyv9a8adJJjyii2JXrg2FmbZ-PTQBQdU2Yu_Oxm_CtwpC1Nh6KIAwfvuwe2_i1lJXRIPXl2W3kva4eY&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: Financial Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ebfbb64517f0937a</guid>
+      <pubDate>Fri, 02 Oct 2026 20:40:09 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/829874745_1130403422774550_5715844571008453169_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=042Lo-P7q84Q7kNvwE2v0XV&amp;_nc_oc=Adoto0HcYzWX7Jw-3ZtnY2MJEUljewJAGr7gpOwFLLOhMlZeZXCmPe-maAI_fRlD7Hg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=BrIW5vKX9Dawgm1f7gWVQw&amp;_nc_ss=7f289&amp;oh=00_AQMMZnZrBV859muauGoRgUuqeNTCAjai-lhQHP7zRwmMFA&amp;oe=6AC5DCE1" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/829874745_1130403422774550_5715844571008453169_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s640x640&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=042Lo-P7q84Q7kNvwE2v0XV&amp;_nc_oc=Adoto0HcYzWX7Jw-3ZtnY2MJEUljewJAGr7gpOwFLLOhMlZeZXCmPe-maAI_fRlD7Hg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=BrIW5vKX9Dawgm1f7gWVQw&amp;_nc_ss=7f289&amp;oh=00_AQMMZnZrBV859muauGoRgUuqeNTCAjai-lhQHP7zRwmMFA&amp;oe=6AC5DCE1" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israel Says 170 Killed in Gaza Were Militants Posing as Media Workers</title>
+      <link>https://www.nytimes.com/2026/10/02/world/middleeast/israel-gaza-militants-journalists-killed.html</link>
+      <description>The Israeli military published an investigation it said rebuts accusations that it intentionally targeted journalists, but rights group say it is responsible for hundreds of news media deaths. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5bd1f259a7bb5a0a</guid>
+      <pubDate>Fri, 02 Oct 2026 20:01:49 +0000</pubDate>
+      <category>conflictos</category>
       <category>Medio Oriente</category>
       <category>América del Norte</category>
-      <dc:creator>Noah Robertson</dc:creator>
-      <source url="https://feeds.washingtonpost.com/rss/world">The Washington Post - World</source>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-Gaza-Journalists-ztvb/02int-Gaza-Journalists-ztvb-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/02/multimedia/02int-Gaza-Journalists-ztvb/02int-Gaza-Journalists-ztvb-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>G7 to release up to 100m barrels of emergency oil and diesel reserves</title>
+      <link>https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency</link>
+      <description>Leaders agree a coordinated drawdown after surge in prices and Donald Trump’s threat to cut off US supplies Leaders of G7 nations are to release up to 100m barrels of their emergency diesel and crude oil stockpiles after Donald Trump threatened to cut off supplies of US diesel. The French President, Emmanuel Macron, said ministers from some of world’s largest economies had agreed to release stocks from their strategic oil reserves after crisis talks on Friday. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d3b0a628a7f932e7</guid>
+      <pubDate>Fri, 02 Oct 2026 18:52:03 +0000</pubDate>
+      <category>politica</category>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <dc:creator>Joanna Partridge, Jillian Ambrose and Mark Sweney</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/cd8bc11681e930e9fb439157f7dff38ec4bf8e2a/912_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b03b4230ae5f9f2cd96c3515c6492c5" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/cd8bc11681e930e9fb439157f7dff38ec4bf8e2a/912_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b03b4230ae5f9f2cd96c3515c6492c5" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1240 reproducciones · 21 reacciones | 🔴EN VIVO🔴 ➡Gambia Cancela el Partido Frente a Bolivia ➡The Strongest Llega a La Paz y hablan de lo Ocurrido en Santa Cruz ➡Bolívar Gana por la Mínima a GV San José ➡Termina la Fecha 6 de la Copa Paceña | ATB Digital</title>
@@ -1511,84 +1589,6 @@
       <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
       <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/829156298_2061982174473385_8151860419994010068_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=UHR1xWqi4dYQ7kNvwE3S1J2&amp;_nc_oc=AdqyLkGtg9FsCvYUaY9vPvveAwmCokaFbCnN1WkbJ1e0VIzJuPtxtUTnO15BwQqJvJM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=aNVx0a2n3FeRshvrxjXl2A&amp;_nc_ss=7f289&amp;oh=00_AQOwbhxhOea9RwnaHfA4mhVcnbZJo4SoTcT6BQ-bu1yvyA&amp;oe=6AC35873" medium="image" />
       <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/829156298_2061982174473385_8151860419994010068_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=UHR1xWqi4dYQ7kNvwE3S1J2&amp;_nc_oc=AdqyLkGtg9FsCvYUaY9vPvveAwmCokaFbCnN1WkbJ1e0VIzJuPtxtUTnO15BwQqJvJM&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=aNVx0a2n3FeRshvrxjXl2A&amp;_nc_ss=7f289&amp;oh=00_AQOwbhxhOea9RwnaHfA4mhVcnbZJo4SoTcT6BQ-bu1yvyA&amp;oe=6AC35873" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australia news live: ATO finds one-quarter of big firms pay zero tax; almost one in two homebuyers using 5% deposit scheme</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb</link>
-      <description>Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will provide supports to children up to 8 years old with mild to moderate autism or developmental delays. They will be made ineligible for federal aid through the NDIS in 2028. This scheme is helping Australians, particularly young Australians, get their foot in the door and achieve the dream of home ownership. When it comes… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:383d4f26d7a6e95d</guid>
-      <pubDate>Wed, 30 Sep 2026 23:39:32 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <dc:creator>Nick Visser</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/967b5d61aea89d52c38181d97e57e8b9e8aab909/517_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3755f69329116d4d88b8c5e420108726" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/967b5d61aea89d52c38181d97e57e8b9e8aab909/517_0_3743_2995/master/3743.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3755f69329116d4d88b8c5e420108726" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Our model gives them a record chance of claiming both the House of Representatives and the Senate. Register for free to explore our data</title>
-      <link>https://www.facebook.com/TheEconomist/posts/pfbid09FXktoQkHshYAyLQ9uCqgZeMzC83TwgMeEHyq266Yi9J27JdNdjtTbgw8g7q9rswl?__cft__%5B0%5D=AZjQkWlquhapIeXRTRTqx5cg0toQWHdbfR--sUYilqeA-yPqYXV9_DbSFGg8VJdIF2ezFj25uNbkvBYIZKMQjW7j0SLa3D9vWkT1_Kv4_U4xCcF-wi7_sQ5cmXUgW-5u8beLP_U5W3m_pWo1i1JhpKmP6pp0PBXg9LPatSxRHBrOyGapW2S_NnXPnkw&amp;__tn__=%2CO%2CP-R</link>
-      <description>Our model gives them a record chance of claiming both the House of Representatives and the Senate. Register for free to explore our data ECONOMIST.COM High petrol prices could hand Democrats a mighty midterm victory Fuente: The Economist.</description>
-      <guid isPermaLink="false">cron-rss-noticias:58cc1af59e3b2b32</guid>
-      <pubDate>Wed, 30 Sep 2026 23:30:08 +0000</pubDate>
-      <category>economia</category>
-      <category>politica</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/TheEconomist/">The Economist</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9110740381359529975?url=https%3A%2F%2Fimage.trueanthem.com%2Fb2Q50pVNCy7eCISrJhcmF2FIEmNGfhRKm3BtxXauDRs%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTlfV09UNDQ2LnBuZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=WVEdT7oT4rcfjKNWag8wDw&amp;_nc_zt=3&amp;oh=06_Q3_DAaPlmpatxZyLNsKSJ3bBGv1poeOA8COw-c8Czn9oIsVY&amp;oe=6ABF713E" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9110740381359529975?url=https%3A%2F%2Fimage.trueanthem.com%2Fb2Q50pVNCy7eCISrJhcmF2FIEmNGfhRKm3BtxXauDRs%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly93d3cuZWNvbm9taXN0LmNvbS9jb250ZW50LWFzc2V0cy9pbWFnZXMvMjAyNjA5MTlfV09UNDQ2LnBuZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=WVEdT7oT4rcfjKNWag8wDw&amp;_nc_zt=3&amp;oh=06_Q3_DAaPlmpatxZyLNsKSJ3bBGv1poeOA8COw-c8Czn9oIsVY&amp;oe=6ABF713E" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across…</title>
-      <link>https://www.facebook.com/NPR/posts/pfbid02rkdUPLz3DKS11mduhNUXTcCjDH4cVbAY3tkxhaMvaewouBFC5nxiUSknr8MxPF73l?__cft__%5B0%5D=AZjr9d3scrBiT3C5z-G8OTo38Pqu8LJqgzG5cvaknm8krPsgBPJVOWUf8LspRzX0exeYACVGN1mLDoH7qYxCNiG0hXq46qdOumBITmWmBpf9vHCsvjfwJok46y7q57W5kVr3OG5nY-9quTJdJlJYpRncdwpq2eKoSuwGB0qwxjd4JsN2JPlI2Kw8bo8&amp;__tn__=%2CO%2CP-R</link>
-      <description>Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe. If only someone had warned us about this. If only someone had made a movie highlighting the issue only to be laughed at. If only we had listened all those decades ago. NPR.ORG Swiss glaciers suffer another year of… Fuente: NPR.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a199e0f712f45423</guid>
-      <pubDate>Wed, 30 Sep 2026 23:28:26 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NPR/">NPR</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/8964712915674858307?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F2000x1125%2B0%2B152%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fd7%252F06%252F92fb3d454823b47041801337f49b%252F03-clariden-mhuss.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=-RPJ8BWle6n6gDnYsjICTw&amp;_nc_zt=3&amp;oh=06_Q3_DARfqf1tbk3Ejw_EbzR36KwtICr_i-BD-pjN9r1SkMToS&amp;oe=6ABF93FA" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/8964712915674858307?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F2000x1125%2B0%2B152%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fd7%252F06%252F92fb3d454823b47041801337f49b%252F03-clariden-mhuss.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=-RPJ8BWle6n6gDnYsjICTw&amp;_nc_zt=3&amp;oh=06_Q3_DARfqf1tbk3Ejw_EbzR36KwtICr_i-BD-pjN9r1SkMToS&amp;oe=6ABF93FA" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>28 reacciones · 3 comentarios | #Mundo | Un avión que volaba de Dubái a Tel Aviv fue desviado este miércoles a Arabia Saudí por un "altercado entre la tripulación", según lo dio a conocer el Ministerio de Transporte israelí. Un piloto habría atacado al otro Siga la señal de Noticias Caracol en vivo 👉🏻 https://tinyurl.com/ywechn5j | Noticias Caracol</title>
-      <link>https://www.facebook.com/reel/1524678502753271/?comment_id=1125850110392604&amp;__cft__%5B0%5D=AZg3AGcmFRIEv8bvkfqXUg8hFKZC7zm3-UXvrF9EvFe69Yxa6keUu86Zbkr6q6M8Jwdu1uo5_z6R2IV-gpAYECFK3_Qaq7783geIAPCl9NA0VJMeRHt5bQqSXX9lJEVpE1pdM1ukOcoDROl7bj-K8N7hj0wyI9m80aSudcqLY5ApMWkRvMailooNpFtOId0QjCIh&amp;__tn__=R-R</link>
-      <description>#Mundo | Un avión que volaba de Dubái a Tel Aviv fue desviado este miércoles a Arabia Saudí por un "altercado entre la tripulación", según lo dio a conocer el Ministerio de Transporte israelí. Un... #Mundo | Un avión que volaba de Dubái a Tel Aviv fue desviado este miércoles a Arabia Saudí por un "altercado entre la tripulación", según lo dio a... Fuente: Noticias Caracol.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a22102626b9f6414</guid>
-      <pubDate>Wed, 30 Sep 2026 19:29:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/830327266_1391001052691399_5055487390750455845_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=YHzLZFkHG8QQ7kNvwGF6Adu&amp;_nc_oc=AdoZQVFvADrXXSucweOS57rp5rDYGIpRuu_N3XWi2ZKA3ahbja4bSXwzLvD0WS55IKU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=8oNL43Kko0ibQAfBya0Vrw&amp;_nc_ss=7f289&amp;oh=00_AQPMVGJEtcg3NTKL4Atq8dnJTeq6YEsXoftmWuOrT9_jbQ&amp;oe=6AC32E9D" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/830327266_1391001052691399_5055487390750455845_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=YHzLZFkHG8QQ7kNvwGF6Adu&amp;_nc_oc=AdoZQVFvADrXXSucweOS57rp5rDYGIpRuu_N3XWi2ZKA3ahbja4bSXwzLvD0WS55IKU&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=8oNL43Kko0ibQAfBya0Vrw&amp;_nc_ss=7f289&amp;oh=00_AQPMVGJEtcg3NTKL4Atq8dnJTeq6YEsXoftmWuOrT9_jbQ&amp;oe=6AC32E9D" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>3 comentarios | 🇧🇴 La Ley de Prediarios destina Bs 209,5 millones a necesidades urgentes, incluyendo Bs 87,6 millones para prediarios y la gestión del régimen penitenciario. #UCE #ComunicaciónBolivia #Prediarios #RégimenPenitenciario #Bolivia | Correo del Sur</title>
-      <link>https://www.facebook.com/reel/1452794073362900/?comment_id=1143213184935577&amp;__cft__%5B0%5D=AZj8bp9XphbdaLRAxpEK03SUtqsCnw7aosc4vpAglns0E3dlJRj438W3xkyviDXWN361-zu6talNoIHW56_XNSSdyusP4vRvvh8fgljaGHiPmMtE1Jwr-79MGeqDIcbcNScUYECZxHYcAyqooIpSyEIh2vT7UknZL6IdX7u3zhDhQhZx5EilyfEPQCZWLk_sxPY-&amp;__tn__=R-R</link>
-      <description>🇧🇴 La Ley de Prediarios destina Bs 209,5 millones a necesidades urgentes, incluyendo Bs 87,6 millones para prediarios y la gestión del régimen penitenciario. #UCE #ComunicaciónBolivia #Prediarios... 🇧🇴 La Ley de Prediarios destina Bs 209,5 millones a necesidades urgentes, incluyendo Bs 87,6 millones para prediarios y la gestión del régimen... Fuente: Correo del Sur.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0911939a3e362259</guid>
-      <pubDate>Wed, 30 Sep 2026 19:29:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/correodelsur/">Correo del Sur</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/829454010_2288136382008566_1369031262432453434_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=tswW_fb5hcUQ7kNvwGJwoKv&amp;_nc_oc=AdoaxUcW3CUlgvRCGQaI5UiVONa96wkac6dJ3lEfYo5ahIGLOSS6BOam6Wgw_eo09yc&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=uckpENLC9lNuV6wXKLi_mg&amp;_nc_ss=7f289&amp;oh=00_AQMRqhqBa7uN7Ds8g6EYpbt2J8NNfRTDzQG0EzKZok0K0A&amp;oe=6AC31AF5" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/829454010_2288136382008566_1369031262432453434_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=tswW_fb5hcUQ7kNvwGJwoKv&amp;_nc_oc=AdoaxUcW3CUlgvRCGQaI5UiVONa96wkac6dJ3lEfYo5ahIGLOSS6BOam6Wgw_eo09yc&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=uckpENLC9lNuV6wXKLi_mg&amp;_nc_ss=7f289&amp;oh=00_AQMRqhqBa7uN7Ds8g6EYpbt2J8NNfRTDzQG0EzKZok0K0A&amp;oe=6AC31AF5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>11 reacciones | 🔴EN VIVO🔴 ➡Hoy Bolivia vs Argentina ➡The Strongest Visita a Oriente Petrolero ➡Continua la Fecha 6 de la Copa Paceña | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1390931593210769/?comment_id=1556210553205627&amp;__cft__%5B0%5D=AZiEqyzimsJ-iEAWbfRAk9a_jxNj7Z3dj96OV4CbQFKZYel94_TC3GK8FN0Ji4YGJ8m7A_h42O6iUMclHrIngsdYCHhIcUOobsBnwRM7F08S5G4WU7VdauRTIgh6CcZ0CZ3CrC7ZlHl7WKAQ0AakQGlVqzMOK_oQh2PgpggkjnOnZXTi0g6TykLc6C9lPBlheYk&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡Hoy Bolivia vs Argentina ➡The Strongest Visita a Oriente Petrolero ➡Continua la Fecha 6 de la Copa Paceña Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9bbdfcc5aca0c483</guid>
-      <pubDate>Wed, 30 Sep 2026 19:29:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/831356833_1430030382607878_5342641039009100170_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=jFlwDNhbZmoQ7kNvwF_IuSA&amp;_nc_oc=AdpyTBEvfktD7lEAD4DV6Kob-O8RGTLcM0YcZylgq5FPPvqAGCzGpvGuU0Z3nxSVKX8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=80mWUwpye1wJtr33Umj75Q&amp;_nc_ss=7f289&amp;oh=00_AQMo7DXESpGemL13PkepRDhKaNbmy_JEfP6CXelWKqqE2w&amp;oe=6AC32FB2" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/831356833_1430030382607878_5342641039009100170_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=jFlwDNhbZmoQ7kNvwF_IuSA&amp;_nc_oc=AdpyTBEvfktD7lEAD4DV6Kob-O8RGTLcM0YcZylgq5FPPvqAGCzGpvGuU0Z3nxSVKX8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=80mWUwpye1wJtr33Umj75Q&amp;_nc_ss=7f289&amp;oh=00_AQMo7DXESpGemL13PkepRDhKaNbmy_JEfP6CXelWKqqE2w&amp;oe=6AC32FB2" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
