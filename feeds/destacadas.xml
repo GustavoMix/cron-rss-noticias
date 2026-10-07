@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Wed, 07 Oct 2026 00:49:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:21:19 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -104,6 +104,7 @@
       <category>mundo</category>
       <category>Medio Oriente</category>
       <category>Oceanía</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg" type="image/jpeg" length="0" />
@@ -427,22 +428,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/7k6lhi/article71545027.ece/alternates/LANDSCAPE_1200/2026-10-04T220222Z_1030229220_RC2LWNAB2WTF_RTRMADP_3_BRAZIL-ELECTION.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Lula and Bolsonaro face off in Brazil presidential race</title>
-      <link>https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race</link>
-      <description>Twelve candidates are on the ballot, but the presidential race is centred on two rivals: President Luiz Inacio Lula da Silva and Flavio Bolsonaro. Lula is seeking a fourth and final term, warning that Brazil’s sovereignty is at stake amid pressure from Donald Trump. Bolsonaro, meanwhile, has highlighted his ties to the White House, saying Brazil needs better deals with the US, including over its rare mineral resources. Nick Rushworth has more on the controversial senator. Dr Andrea Aruska de Souza Santos, Director of King's College Brazil Institute in London, shares further insights. Publicado también por: Al Jazeera English, The New York Times - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e01f6d0c205770df</guid>
-      <pubDate>Sun, 04 Oct 2026 11:56:08 +0000</pubDate>
-      <category>conflictos</category>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/4af16eb0-bfe7-11f1-a8ca-dd51fcab6130/w:1024/p:16x9/EN-20261004-130852-131819-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/4af16eb0-bfe7-11f1-a8ca-dd51fcab6130/w:1024/p:16x9/EN-20261004-130852-131819-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>OpenAI admits response to Australian government hacks 'not good enough'</title>
       <link>https://www.bbc.co.uk/news/articles/cmx2qne2j88wo</link>
       <description>Top executive Jason Kwon tells hearing company has added "more precautions" to its training environments. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
@@ -507,18 +492,6 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US Marine arrested over murder of woman in Okinawa, Japan</title>
-      <link>https://www.bbc.co.uk/news/articles/cme3xw4yy28do</link>
-      <description>A 20-year-old US marine was arrested on Sunday in Japan’s Okinawa prefecture on suspicion of robbing and murdering a local woman, police said. Davin Ballard stationed at the Futenma Airbase is suspected of killing Anna Yagi, 39, and taking her wallet and backpack in the early hours of Saturday at a hotel in Naha, according to the Okinawa prefectural police. The suspect has denied the charges, they added. Ballard was seen entering the hotel with Yagi, who was found dead on Saturday morning,... Publicado también por: South China Morning Post. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:15b04fbd4eebc30e</guid>
-      <pubDate>Sun, 04 Oct 2026 14:36:57 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Resultados en vivo de las elecciones en Brasil: cómo van las presidenciales 2026</title>
@@ -634,6 +607,18 @@
       <enclosure url="https://s.france24.com/media/display/e51e2346-c075-11f1-b3a9-578a4b968fd6/w:1024/p:16x9/2026-10-01T000000Z-449953788-MT1ABCPR1020895020-RTRMADP-3-FRANCE-EDUCATION.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>1953 reproducciones · 32 reacciones | Students, teachers and officials in high schools across France are urged by the government to discuss conditions that have led to widespread protests and blockades. Demonstrations swept across France on October 6, the biggest day of what Prime Minister Sebastien Lecornu described as the most violent student demonstrations in decades. #france #paris #protests #studentprotests #schools #live #Reuters #News Keep up with the latest news from around the world: https://www.reuters.com/ | Reuters</title>
+      <link>https://www.facebook.com/Reuters/videos/2543650256101638/?comment_id=1081692168009472&amp;__cft__%5B0%5D=AZhE1JK5ycZ14FBMfzUfgH0oSZlO9IRoWcsxMDPsW7prnUvE-kEuWEkh9pepx3jtTE0Dznsvowa9wYzLda_jsAMAzaT9moabGnvmnuEqrUGUJo1MN4g9fbYjBw75Gzexv9GdKwnhfnPqCMWHMUL6yhV0gcKR5axC_Ap790SpR-pOZrZJYbpTW4uP-SpuVFyvy2A&amp;__tn__=R%5D-R</link>
+      <description>Students, teachers and officials in high schools across France are urged by the government to discuss conditions that have led to widespread protests and blockades. Demonstrations swept across France... Students, teachers and officials in high schools across France are urged by the government to discuss conditions that have led to widespread protests and... Fuente: Reuters.</description>
+      <guid isPermaLink="false">cron-rss-noticias:22304ec9b1943e0c</guid>
+      <pubDate>Wed, 07 Oct 2026 07:21:19 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/Reuters/">Reuters</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/839012748_1795942021721120_2571401786874147489_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=d2xNcEUCtjIQ7kNvwFx8nG1&amp;_nc_oc=AdrjQVxQ72RywbzzACd_PJmrBkwBAET0GgIIDT3X5zqL_YsaSDzjHU2f7aFglRLT64Q&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=V4MDOl_2KYFJWZ3ic3-LjQ&amp;_nc_ss=7f289&amp;oh=00_AQNuum8BivM9r36jfLZZf4EdfJV6bC-HJmLIwdDz5bQ5rw&amp;oe=6ACBB099" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/839012748_1795942021721120_2571401786874147489_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=d2xNcEUCtjIQ7kNvwFx8nG1&amp;_nc_oc=AdrjQVxQ72RywbzzACd_PJmrBkwBAET0GgIIDT3X5zqL_YsaSDzjHU2f7aFglRLT64Q&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=V4MDOl_2KYFJWZ3ic3-LjQ&amp;_nc_ss=7f289&amp;oh=00_AQNuum8BivM9r36jfLZZf4EdfJV6bC-HJmLIwdDz5bQ5rw&amp;oe=6ACBB099" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>BREAKING: The U.S. stock market hits an all-time high as expectations rise for companies to keep making more money.</title>
       <link>https://www.facebook.com/APNews/posts/pfbid0buBfmoekPAwqiDsnh7qBLM8UBbdDCJhLaHUxvE6pdetuuHbeZtugbk5wJgjFaLYBl?__cft__%5B0%5D=AZii9BhOtfROQJOwxBC1aE8-ZLKixVF5MmLw_7CrpAtg26Olkps_ftVHemY9cN0CrUMV1u52DPYJEyk0GDkm3WjR1loZiD1Jww3xTaktF5kGNW9Ri7xDMOk-I9eYs00zoGkugwoJi8fRyzp4S5rMYzG7oVm3Oho03EHtPsVxki5Jaune9YSFkzXuOzY&amp;__tn__=%2CO%2CP-R</link>
       <description>BREAKING: The U.S. stock market hits an all-time high as expectations rise for companies to keep making more money. APNEWS.COM US stocks rise to a record on expectations for companies to make even fatter profits Fuente: The Associated Press.</description>
@@ -697,9 +682,23 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e07/live/7077a210-c093-11f1-a4af-19dbf5352a59.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Scientists who put faith in technology less likely to take climate action</title>
+      <link>https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action</link>
+      <description>‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes needed Scientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study. The report from the London School of Economics found they are 23% less likelyto sign petitions or take part in protests than peers who doubt that technology is the answer. They are also 18% less likely to make high-impact lifestyle changes, from reducing flights to changing to a vegan or vegetarian diet. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1fe870cd35fe7be8</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:36 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Matthew Taylor</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/12cc622b72243227a583bfa8c7ae6c1f62f88478/532_0_3328_2662/master/3328.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cec99fdf3078c54dd524b871f193327" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/12cc622b72243227a583bfa8c7ae6c1f62f88478/532_0_3328_2662/master/3328.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cec99fdf3078c54dd524b871f193327" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Hunter Valley community group wins landmark high court climate change case</title>
       <link>https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley</link>
-      <description>Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group says A Hunter Valley community group has won Australia’s first high court case to consider climate change, in a ruling advocates say sets a binding national precedent for fossil fuel projects in New South Wales. In a landmark judgment, the nation’s highest court upheld a unanimous ruling by the NSW court of appeal that overturned MACH Energy’s proposed expansion of its Mount Pleasant coalmine in Musswellbrook. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <description>Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group says Get our breaking news email , free app or daily news podcast A Hunter Valley community group has won Australia’s first high court case to consider climate change, in a ruling advocates say sets a binding national precedent for fossil fuel projects in New South Wales. In a landmark judgment, the nation’s highest court ruled that the approval of MACH Energy’s Mount Pleasant coalmine expansion in Muswellbrook was invalid. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:9f90dcbc1856fabf</guid>
       <pubDate>Wed, 07 Oct 2026 00:20:29 +0000</pubDate>
       <category>ambiente</category>
@@ -738,6 +737,21 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/82c6fe5366fee9b17f8f70ff5cd0f09d046ddfb5/0_1200_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=121337264c2a0b64a92ea8547cf1d0a8" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/82c6fe5366fee9b17f8f70ff5cd0f09d046ddfb5/0_1200_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=121337264c2a0b64a92ea8547cf1d0a8" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Former German spy chief detained over suspected treasonous espionage</title>
+      <link>https://www.france24.com/en/europe/20261006-former-german-spy-chief-detained-over-suspected-treasonous-espionage</link>
+      <description>Former German spy chief August Hanning was detained Tuesday on suspicion of treason and espionage after prosecutors accused him of paying for secret intelligence documents and using them to prepare an analysis for a foreign intelligence service, in a case that could strain Berlin’s ties with allied spy agencies. Publicado también por: The Hindu - International, NPR - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:37dd9ca5e9540089</guid>
+      <pubDate>Tue, 06 Oct 2026 21:34:02 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/95531a82-c189-11f1-8815-b942c38e4bd7/w:1024/p:16x9/91a7ef13c7a16e3d52ad91fa615eb093b8a68a0f.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/95531a82-c189-11f1-8815-b942c38e4bd7/w:1024/p:16x9/91a7ef13c7a16e3d52ad91fa615eb093b8a68a0f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Exjefe de inteligencia alemán es detenido bajo sospecha de espionaje... Ver más</title>
@@ -815,6 +829,7 @@
       <category>conflictos</category>
       <category>tecnologia</category>
       <category>Europa</category>
+      <category>Global</category>
       <dc:creator>Jon Brodkin</dc:creator>
       <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg" medium="image" />
@@ -1039,71 +1054,6 @@
       <enclosure url="https://s.france24.com/media/display/daa775ba-c00d-11f1-86df-578a4b968fd6/w:1024/p:16x9/2026-10-02T154814Z-1310255220-RC24TNATK0SJ-RTRMADP-3-USA-CRIME-CORNELL.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Yemen presidency announces military drive to retake all Houthi territory</title>
-      <link>https://www.thehindu.com/news/international/yemen-presidency-announces-military-drive-to-retake-all-houthi-territory/article71544431.ece</link>
-      <description>I announce today the start of military operations to retake the remaining territories of the republic and extend the authority of the state and its institutions across the entire national territory, says Rashad al-Alimi, the head of Yemen's presidential council Publicado también por: Al Jazeera English. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:86001072d6796afc</guid>
-      <pubDate>Sun, 04 Oct 2026 15:15:01 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/mjxx71/article71544437.ece/alternates/LANDSCAPE_1200/2026-10-04T135416Z_2043846249_RC2DWNAEDWQD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/mjxx71/article71544437.ece/alternates/LANDSCAPE_1200/2026-10-04T135416Z_2043846249_RC2DWNAEDWQD_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Iran tells US: there is ‘no military solution’ to end the war</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss</link>
-      <description>"If our enemies again choose the path of military confrontation, our response will be stronger than before, and we will defend ourselves with even more force," Mr. Araghchi said at a gathering of foreign ambassadors Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7a846cfb78453a7a</guid>
-      <pubDate>Sun, 04 Oct 2026 15:06:14 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/pivcnv/article71543314.ece/alternates/LANDSCAPE_1200/International.EGKHFJQPTN.3.jpg.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/pivcnv/article71543314.ece/alternates/LANDSCAPE_1200/International.EGKHFJQPTN.3.jpg.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What are the five questions being asked regarding the Flydubai attack?</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0SXY1sDfMSZRyfZCd36jCo1iryDVxGDYrX4qFf9G9RANkmebxQH51GK1dmBNgZdSAl?__cft__%5B0%5D=AZg-YfF67nzitPV3kqvozNCE8Tct2zCbBmcdTOOagr0WxkhdqTyQtrq-XnH0AWVbQZ-vLp0MDDEUCtaJJZNzaKS-FOEuxUw7azs_Qo6f0B2yEAFYLq0iAD9Yj1oM2YjR5aFdSqQus4Sf46CIu-S7ZmFCAx1WB7hcokFswFVjYNqG7Pzo4aP22bTpXYQ&amp;__tn__=%2CO%2CP-R</link>
-      <description>As investigations are conducted, official versions of the incident have come under scrutiny. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:06440b3df9ced819</guid>
-      <pubDate>Sun, 04 Oct 2026 15:00:19 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/834123592_1645462517369103_2537096207406288881_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x803&amp;ctp=p600x600&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=FXOe7f6G5rYQ7kNvwFX7F-6&amp;_nc_oc=Adrji_s-g1TyiSuHRjDmlqDoLCQr1nguZV20XJRJeOxpB-HPVAhEmB_gOq6UV8fCQ20&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=5czBlY-0ucuK9ZhkP2yUqg&amp;_nc_ss=7f289&amp;oh=00_AQNu9YQPKG9GaNDHUGU2DRk-jCYbV3cwnqGpBOBTLaJxNw&amp;oe=6AC82E8D" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/834123592_1645462517369103_2537096207406288881_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x803&amp;ctp=p600x600&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=FXOe7f6G5rYQ7kNvwFX7F-6&amp;_nc_oc=Adrji_s-g1TyiSuHRjDmlqDoLCQr1nguZV20XJRJeOxpB-HPVAhEmB_gOq6UV8fCQ20&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=5czBlY-0ucuK9ZhkP2yUqg&amp;_nc_ss=7f289&amp;oh=00_AQNu9YQPKG9GaNDHUGU2DRk-jCYbV3cwnqGpBOBTLaJxNw&amp;oe=6AC82E8D" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australia and Turkey criticised for hosting UN climate conference while embracing coal</title>
-      <link>https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal</link>
-      <description>Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The hosts of the next major United Nations climate conference, Turkey and Australia, are facing criticism for being partners in a coal supply chain while remaining near silent on the need for a global deal to rapidly get off fossil fuels. With the Cop31 summit in the Turkish Mediterranean city of Antalya just a month away, the two countries running the fortnight-long talks have… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:68aeba57d3bde1b4</guid>
-      <pubDate>Sun, 04 Oct 2026 14:00:32 +0000</pubDate>
-      <category>ciencia</category>
-      <category>América Latina</category>
-      <category>Oceanía</category>
-      <dc:creator>Adam Morton in Nadi, Fiji</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/b38f197a970ed6f4dbd632fdc85328e1fc89d988/457_0_3750_3003/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da04122808c391644926269578a4ad93" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/b38f197a970ed6f4dbd632fdc85328e1fc89d988/457_0_3750_3003/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da04122808c391644926269578a4ad93" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Photos: Community unites in Senegal’s Dakar to clean dilapidated school</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0NTeB1TSAAEUbQA36z1TNjFfsuBoE7W8ZWkPqwiuYEhuSam9HiCaE3HuFhtbiY6dal?__cft__%5B0%5D=AZi2t81ZD9iVYI9Q4gPyW0lYyNaRePOsYnNBNHQv5X8ZeJU3sJ3cVDzZIcnPXdzk59iHlhdyNtY72JwFuzqzUku7VB94ibhDR45wNHbsGgdVyYGoBib-gL3ClFmCpt2jkp3nVDiI4I6dH2-CNvYooqVA7GXxJvR2ri-m54CKVh6dHZO9vM9xOFaXLyo&amp;__tn__=%2CO%2CP-R</link>
-      <description>Volunteers and students prepare safer, cleaner classrooms in advance of the academic year in Senegal's capital. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0dcad0fc557d6128</guid>
-      <pubDate>Sun, 04 Oct 2026 09:30:47 +0000</pubDate>
-      <category>salud</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/833574813_2262191658516015_6621742909633636777_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=oCjAboY0fFAQ7kNvwGLX6ho&amp;_nc_oc=AdpoyOlE97njh9IEsExymBtlZloqNE7T2yX5dX4wvuZs2EgtLZx3lnAE6Jl0iKW8mWI&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=ozj35zpilHa8uA8GCWKMEg&amp;_nc_ss=7f289&amp;oh=00_AQMYoCto0EVNwsXJJ0VGDApAbZHYOts1KcL2yelrlTCvJw&amp;oe=6AC7EE9F" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/833574813_2262191658516015_6621742909633636777_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=oCjAboY0fFAQ7kNvwGLX6ho&amp;_nc_oc=AdpoyOlE97njh9IEsExymBtlZloqNE7T2yX5dX4wvuZs2EgtLZx3lnAE6Jl0iKW8mWI&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=ozj35zpilHa8uA8GCWKMEg&amp;_nc_ss=7f289&amp;oh=00_AQMYoCto0EVNwsXJJ0VGDApAbZHYOts1KcL2yelrlTCvJw&amp;oe=6AC7EE9F" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Ship sinks off Bulgaria after drone attack in Black Sea</title>
       <link>https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss</link>
       <description>It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
@@ -1193,6 +1143,57 @@
       <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
       <media:content url="https://www.clarin.com/img/2026/10/04/ea3P4b0Sm_1200x630__1.jpg" medium="image" />
       <enclosure url="https://www.clarin.com/img/2026/10/04/ea3P4b0Sm_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>ÚLTIMA HORA | La Inspección de Trabajo regularizó a 47.000 falsos autónomos en 2025, la mayor cifra de la serie https://social.elpais.com/vsfzo1</title>
+      <link>https://www.facebook.com/reel/1121638780303029/?__cft__%5B0%5D=AZgnsmtOc3gyJ8Q68DnCpM2eIOdAySERy4WhJiu8Emg55_jvFXhRVFxZxvcz-vug6iy1gtYzOt0YIw99TUDiVvuMdH5x7_NUzlYSx4lfVMAhG5uPYzwYn3rBUntOhZ_nviCzy0caQpNFR7RI5sfGfmV55wudqGkyMIdkgCYsdu3UwnljgI3JSZI6PV6Mkpdb9kfx&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6ff8a7d18dad25cb</guid>
+      <pubDate>Wed, 07 Oct 2026 07:17:16 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/838671793_2348393605969427_822093909365878220_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx600x338&amp;ctp=s600x338&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=d2b52d&amp;_nc_ohc=rCrIyEFq7F4Q7kNvwEYPt_1&amp;_nc_oc=AdoVvcLyCXiOdV-zgZHsTcJrNCdpzDXE45MSBetgCFb1pk-XXtWgZ9CcVDvWM-NK0Qs&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-3.xx&amp;_nc_gid=Q2QAhHOBzGb5XtLyk8MS_g&amp;_nc_ss=7f289&amp;oh=00_AQMBxtMmZw7e1BcJcAfgrmoD3iUodrtIYvlLLpWKeW_WPg&amp;oe=6ACBD6EA" medium="image" />
+      <enclosure url="https://scontent-lga3-3.xx.fbcdn.net/v/t15.5256-10/838671793_2348393605969427_822093909365878220_n.jpg?stp=dst-jpg_tt6&amp;cstp=mx600x338&amp;ctp=s600x338&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=d2b52d&amp;_nc_ohc=rCrIyEFq7F4Q7kNvwEYPt_1&amp;_nc_oc=AdoVvcLyCXiOdV-zgZHsTcJrNCdpzDXE45MSBetgCFb1pk-XXtWgZ9CcVDvWM-NK0Qs&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-3.xx&amp;_nc_gid=Q2QAhHOBzGb5XtLyk8MS_g&amp;_nc_ss=7f289&amp;oh=00_AQMBxtMmZw7e1BcJcAfgrmoD3iUodrtIYvlLLpWKeW_WPg&amp;oe=6ACBD6EA" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Badenoch to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates</link>
+      <description>Conservative leader will deliver her keynote speech to Tory conference later Good morning. Kemi Badenoch is expected to announce cuts to inheritance tax (IHT) this morning in a keynote conference speech that will claim the next election will be a “battle of ideas” between a government spending ever more money, and a Conservative party determined to make the state live within its means. The Tories have not confirmed that inheritance tax cuts will be proposed. Equally, they have done nothing at all to quash speculation that Badenoch will make an announcement along these lines, to the point… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5e6e8d25f4f402fb</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:38 +0000</pubDate>
+      <category>politica</category>
+      <category>Global</category>
+      <dc:creator>Andrew Sparrow</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/4217ab300e849454c3eb1648510a452af2a4bc1e/740_318_3730_2984/master/3730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0430914697fef19586f23f3439b4f39a" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/4217ab300e849454c3eb1648510a452af2a4bc1e/740_318_3730_2984/master/3730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0430914697fef19586f23f3439b4f39a" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.</title>
+      <link>https://www.facebook.com/NPR/posts/pfbid0qW7rb7VkmNDd5or1LBncpTJu6javypaawxyUjhY7ofujC8nxKbt62qMvEvhUSnEal?__cft__%5B0%5D=AZhPuaoTpns4NXQQFijK2zusNARG8ZL73plCwWQ7BXp8uOGjyr09aPEZW0OYrK8D3oA3NWeNmaC4649xnX3_jVh6fmJsPlnT1v5u5JfnX7ao6_KL5EVwiZVIvMJm1RuZbX3I6OhLmAwAk7E2NovoOvkMV9IJAeDpINcpKoMp0PwDJ6zklabbi3O2Sj0&amp;__tn__=%2CO%2CP-R</link>
+      <description>Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with. Lol, the war "it" started rather than the war they started. Like when a toddler says, "The milk spilled" as if they weren't the responsible party. Patrick Stearns Hamas started the war. Lol, it would be so funny if this… Fuente: NPR.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8283c5b3bfebf92d</guid>
+      <pubDate>Wed, 07 Oct 2026 06:14:48 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NPR/">NPR</source>
+      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/9250605561942181250?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5616x3159%2B0%2B293%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fbd%252F5c%252F82fe8b6e4660a74535ad9ebe431d%252Fap26280136486373.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=n356SOtEAUWUeOrv3GKbmA&amp;_nc_zt=3&amp;oh=06_Q3_EAcfeMtWnYt8VXRgc_S91DNKbD-jGbT6YpRFifj6kIYr3&amp;oe=6AC7DCD9" medium="image" />
+      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/9250605561942181250?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F5616x3159%2B0%2B293%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fbd%252F5c%252F82fe8b6e4660a74535ad9ebe431d%252Fap26280136486373.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=n356SOtEAUWUeOrv3GKbmA&amp;_nc_zt=3&amp;oh=06_Q3_EAcfeMtWnYt8VXRgc_S91DNKbD-jGbT6YpRFifj6kIYr3&amp;oe=6AC7DCD9" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least two killed in fire caused by 'massive strikes' on Kyiv</title>
+      <link>https://www.france24.com/en/europe/20261007-at-least-two-killed-in-fire-caused-by-massive-strikes-on-kyiv</link>
+      <description>At least two people were killed in a fire in Kyiv after what President Volodymyr Zelensky described as"massive strikes" on the Ukrainian capital on Wednesday. Ukraine has come under increased attack in recent weeks as Russian attacks have targeted energy infrastructure and rail and road transport. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5ad356d77e6a3673</guid>
+      <pubDate>Wed, 07 Oct 2026 05:56:19 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/8bc7294e-c211-11f1-8aec-ff8cff4603f0/w:1024/p:16x9/2026-10-07T053758Z-164245437-RC22YNA4P69K-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/8bc7294e-c211-11f1-8aec-ff8cff4603f0/w:1024/p:16x9/2026-10-07T053758Z-164245437-RC22YNA4P69K-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Una batalla legal con potencial para sentar un precedente histórico en materia ambiental llegó a la #CorteSuprema de #EstadosUnidos</title>
