@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 08 Oct 2026 01:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:31:19 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -23,6 +23,20 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/21cfc2a203595abca788f56196865d2f?impolicy=wcms_crop_resize&amp;cropH=1595&amp;cropW=2836&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/21cfc2a203595abca788f56196865d2f?impolicy=wcms_crop_resize&amp;cropH=1595&amp;cropW=2836&amp;xPos=0&amp;yPos=141&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Texas execution first in US since Christa Pike survived botched lethal injection</title>
+      <link>https://www.euronews.com/2026/10/08/texas-execution-first-in-us-since-christa-pike-survived-botched-lethal-injection</link>
+      <description>Texas has executed seven people so far this year, up from five in both 2025 and 2024. A further two executions are scheduled to take place in the state in November. Publicado también por: BBC News - World, The Times of India - World, The Hindu - International. Fuente: Euronews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9dc579df68633a47</guid>
+      <pubDate>Thu, 08 Oct 2026 06:08:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d330/live/7a937e50-c2bd-11f1-a495-0d8c3b3fd3d3.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d330/live/7a937e50-c2bd-11f1-a495-0d8c3b3fd3d3.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>German ex-spy chief arrested for suspected espionage, treason</title>
@@ -256,32 +270,17 @@
       <enclosure url="https://i.guim.co.uk/img/media/fb7a7e187cd208a7efe3f87552633d72922dad18/436_0_3560_2848/master/3560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55b61cc67368cd0c613df1b6551a35d5" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Spain’s Leader Calls Early Election After Housing Crisis Roils Government</title>
-      <link>https://www.nytimes.com/2026/10/05/world/europe/spain-snap-elections-sanchez.html</link>
-      <description>The defeat infuriated those protesting the country’s increasingly expensive housing market and underscored the difficulties his minority coalition government faces in passing legislation Publicado también por: The Hindu - International. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0c9972711058b2da</guid>
-      <pubDate>Mon, 05 Oct 2026 18:16:04 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Carlos Barragán and Jason Horowitz</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/05/multimedia/05int-spain-live-hqtl-cop-promo/05int-spain-live-hqtl-cop-promo-mediumSquareAt3X-v3.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Two dead after ship catches fire, sinks in Black Sea</title>
-      <link>https://www.thehindu.com/news/international/two-dead-after-ship-catches-fire-sinks-in-black-sea/article71548666.ece</link>
-      <description>The cause of the fire was not given and authorities did not answer questions on whether a drone was involved Publicado también por: Al Jazeera English. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:154c44170c864ed7</guid>
-      <pubDate>Mon, 05 Oct 2026 16:57:53 +0000</pubDate>
+      <title>Three people killed in Houthi attacks on Saudi Arabia airports, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo</link>
+      <description>The Saudi General Authority for Civil Aviation did not blame any party for the attacks at Abha and Riyadh’s King Khalid international airports, but Houthi rebels took credit earlier for the airport strikes Publicado también por: The Hindu - International. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:689d6a8748666862</guid>
+      <pubDate>Thu, 08 Oct 2026 03:32:35 +0000</pubDate>
       <category>mundo</category>
-      <category>Asia</category>
       <category>Medio Oriente</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/qnbt1q/article71548674.ece/alternates/LANDSCAPE_1200/2026-10-05T150002Z_1974670076_RC22XNAQIP2B_RTRMADP_3_ROMANIA-INCIDENT.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/qnbt1q/article71548674.ece/alternates/LANDSCAPE_1200/2026-10-05T150002Z_1974670076_RC22XNAQIP2B_RTRMADP_3_ROMANIA-INCIDENT.JPG" type="image/jpeg" length="0" />
+      <category>Asia</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7a/live/b062fdf0-c2b6-11f1-babe-4199b0e7ccea.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Tennessee execution survivor Christa Pike is conscious and speaking, lawyers say</title>
@@ -313,6 +312,21 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/89x8vk/article71551197.ece/alternates/LANDSCAPE_1200/2026-10-06T111024Z_644644562_RC2MXNA8LKV4_RTRMADP_3_FRANCE-PROTEST.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Yemen’s Houthis claim strikes on Saudi airports, killing 3</title>
+      <link>https://www.scmp.com/news/world/middle-east/article/3370112/houthi-strikes-saudi-airports-leave-3-dead-dozens-wounded</link>
+      <description>Saudi authorities said Wednesday three people were killed in attacks on two of the kingdom’s international airports, including in the capital Riyadh, after Yemen’s Houthis claimed to have fired on both transport hubs. The Iran-backed Houthis have claimed a wave of attacks on Saudi civilian infrastructure in recent weeks, which came as Riyadh-backed forces pressed a counteroffensive against the group’s territorial gains. Since Yemen’s civil war reignited in July, more than 200,000 people have... Publicado también por: The Hindu - International, Deutsche Welle - World. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1d3057c44909eea7</guid>
+      <pubDate>Thu, 08 Oct 2026 01:54:42 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/08/ba129c58-e896-497b-a986-6e0ddeee75b2_955567c7.jpg?itok=gL19crP6&amp;v=1791427287" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/08/ba129c58-e896-497b-a986-6e0ddeee75b2_955567c7.jpg?itok=gL19crP6&amp;v=1791427287" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Evicted Spanish octogenarian Maricarmen Abascal, heart of Spain's housing protests, has died</title>
       <link>https://www.thehindu.com/news/international/evicted-spanish-octogenarian-maricarmen-abascal-heart-of-spains-housing-protests-has-died/article71557243.ece</link>
       <description>Maricarmen ⁠Abascal, the 87-year-old woman whose ⁠dramatic eviction last month sparked mass ⁠housing protests in Spain that ultimately led to an early election, has died, Madrid’s tenants’ union said on Wednesday, provoking an outpouring of grief and anger on the streets of the capital. Abascal had been in hospital since her eviction on ‌September 23 from her home of more than 70 years, when police and social workers removed her by stretcher. Since then, protests have included activists camping... Publicado también por: South China Morning Post, France 24 - English. Fuente: The Hindu - International.</description>
@@ -338,6 +352,19 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/webb-captures-commotio.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Acclaimed Indian actor Nana Patekar dies aged 75</title>
+      <link>https://www.aljazeera.com/news/2026/10/8/acclaimed-indian-actor-nana-patekar-dies-aged-75?traffic_source=rss</link>
+      <description>Patekar won three National Film Awards and received the Padma Shri, one of the country's highest civilian honours. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6558954483ae7fdf</guid>
+      <pubDate>Thu, 08 Oct 2026 06:30:42 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b982/live/ad6e1830-c2c7-11f1-a761-c59b3c40da47.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b982/live/ad6e1830-c2c7-11f1-a761-c59b3c40da47.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Spanish pensioner whose eviction sparked nationwide protests dies, union says</title>
       <link>https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo</link>
       <description>Maricarmen Abascal, the 87-year-old woman whose eviction from her home of seven decades sparked protests across Spain, has died. Publicado también por: ABC News Australia. Fuente: BBC News - World.</description>
@@ -346,6 +373,7 @@
       <category>mundo</category>
       <category>Europa</category>
       <category>Oceanía</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ee/live/06010330-c283-11f1-98ea-35e6bf307fc9.jpg" type="image/jpeg" length="0" />
@@ -373,33 +401,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>No 10 insists RAF Fairford is safe after US withdraws its bombers from base</title>
-      <link>https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base</link>
-      <description>A dozen B-1s stationed at Gloucestershire base redeployed over concerns about possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1 bombers that had been stationed at the Gloucestershire base over security concerns about a possible threat from Iran. The prime minister’s spokesperson, speaking during a scheduled briefing, said “yes” when asked if the military site was safe – contrasting with the concern the US military revealed during the hasty redeployment the day before. Continue reading... Publicado también por: BBC News - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f3862a7c6c3847b8</guid>
-      <pubDate>Mon, 05 Oct 2026 18:07:27 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Dan Sabbagh and Aletha Adu</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/919ffd990a150557466063299c1b06d1007f4aec/446_0_2119_1696/master/2119.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da81eb4f4f9cfbde081a4edf500f9454" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/919ffd990a150557466063299c1b06d1007f4aec/446_0_2119_1696/master/2119.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da81eb4f4f9cfbde081a4edf500f9454" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>FlyDubai co-pilot planned to crash aircraft into Tel Aviv airport</title>
-      <link>https://www.euronews.com/2026/10/05/flydubai-co-pilot-planned-to-crash-aircraft-into-tel-aviv-airport</link>
-      <description>The FlyDubai co-pilot behind the hijacking attempt wanted to crash the jet into Ben Gurion Airport and previously flew the sensitive Israel route, according to multiple sources close to the investigation, amid increasingly difficult questions about the circumstances of the narrowly avoided tragedy. Publicado también por: BBC News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2b9ccee8fb28a933</guid>
-      <pubDate>Mon, 05 Oct 2026 16:55:53 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/b4ef58e0-c0be-11f1-bc2e-018d645d8d21.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfd0/live/b4ef58e0-c0be-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Kenya Records Ebola Case for First Time</title>
@@ -458,6 +459,20 @@
       <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg" medium="image" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump says he deserves Nobel Peace Prize, but doubts he will get it</title>
+      <link>https://www.thehindu.com/news/international/trump-says-he-deserves-the-nobel-peace-prize-doubts-winning-this-year/article71558284.ece</link>
+      <description>US President ⁠Donald Trump, who waged war ⁠with Iran and has ⁠yet to broker peace in Ukraine, said on Wednesday that he should win the Nobel Peace Prize but acknowledged doubt about his chances. “I don’t know what their decision is going to be,” Trump said of the ‌2026 award, which the Norwegian Nobel Committee will announce on Friday. “They have a reputation for maybe not giving it to people like me.” Since his return to the White House last year, Trump has repeatedly said he deserves what may... Publicado también por: The Jerusalem Post - International, South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:88a8a6f4600e53c9</guid>
+      <pubDate>Thu, 08 Oct 2026 04:19:27 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/2vzwax/article71558293.ece/alternates/LANDSCAPE_1200/AP10_08_2026_000007B.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/2vzwax/article71558293.ece/alternates/LANDSCAPE_1200/AP10_08_2026_000007B.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>BREAKING: The Democratic National Committee sues the Trump administration, alleging taxpayer-funded television ads violate propaganda law.</title>
@@ -532,6 +547,45 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/06/802457ea-83ee-4727-9ca4-98e1bcecb703_a671233e.jpg?itok=xC28fsdh&amp;v=1791239561" medium="image" />
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/06/802457ea-83ee-4727-9ca4-98e1bcecb703_a671233e.jpg?itok=xC28fsdh&amp;v=1791239561" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>How October 7 redrew the map of the Middle East</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid026FtZgTEqJgsz6MsYzAa6nsA4UDNbPGwoMQjN32VcPmjvtVH8a4S4ux5PHfPEUW9Zl?__cft__%5B0%5D=AZjQ9SfpneqdZZDNhb2Gu1mxWiIweM5gNNAGR8Ymv2bYaE1vZFIvkBsP6-O00UTlJSPgRXwjEUqUSisKG86QpbplK0u4DStcwJjlQOQgOVUqS6grUMPJuSH2bxlLVKSgaAcL5ilfCUV1Tjq0CVZg6_azrY4MGFLUFxHd-vBQCEQQLYCC-4P8C18AUIY&amp;__tn__=%2CO%2CP-R</link>
+      <description>Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7915f9bf94602dd4</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:13 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/839264971_1805692967296608_7370847793066528989_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x675&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=2wNBEPY4pe8Q7kNvwG9LUSO&amp;_nc_oc=Adp_XQHRsKyhnJwwb4MkLFZyB0Is2rQSBPPPqD-PyiFuDGXiJO4yMxFIoowKKUY_2l4&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=WUnmvy5pHSahHsHqbjhhUA&amp;_nc_ss=7f289&amp;oh=00_AQPLGhdEyWWBXx8sBzDwrSY35WY2shZ_0QlxFF_po3NGAQ&amp;oe=6ACD00CC" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/839264971_1805692967296608_7370847793066528989_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x675&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=2wNBEPY4pe8Q7kNvwG9LUSO&amp;_nc_oc=Adp_XQHRsKyhnJwwb4MkLFZyB0Is2rQSBPPPqD-PyiFuDGXiJO4yMxFIoowKKUY_2l4&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=WUnmvy5pHSahHsHqbjhhUA&amp;_nc_ss=7f289&amp;oh=00_AQPLGhdEyWWBXx8sBzDwrSY35WY2shZ_0QlxFF_po3NGAQ&amp;oe=6ACD00CC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband</title>
+      <link>https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband</link>
+      <description>Foreign secretary says former consulate general will remain independent, operational ⁠and serving Palestinian people The foreign secretary, ⁠Ed Miliband, has said Britain’s consulate general ⁠building in ⁠East Jerusalem ​will not be closing but will ⁠be known as a UK mission, remaining independent, operational ⁠and serving Palestinian people. Israel had ​ordered the ‌British consulate ‌in East Jerusalem to close ‌on Thursday over the UK’s plans to impose sanctions on settlements in the West Bank. Continue reading... Publicado también por: Al Jazeera English. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7dfcfc11718fade6</guid>
+      <pubDate>Thu, 08 Oct 2026 06:51:05 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <dc:creator>Reuters</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5b51c75f3c1caefdbc495fe5d51d953" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5b51c75f3c1caefdbc495fe5d51d953" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump says 'we don't think' Russian plague is bioweapon</title>
+      <link>https://www.thehindu.com/news/international/trump-says-we-dont-think-russian-plague-is-bioweapon/article71558509.ece</link>
+      <description>US President Donald Trump said Wednesday that the death of a Russian plague laboratory worker did not appear to be linked to a biological weapon. "We don't think so. We're going to find out soon enough, but we don't think so," Trump told reporters in the Oval Office when asked if a "bio-weapon" was involved. Russia warned earlier against "false" information as reports emerged of a second suspected case. The US and UN have urged Russia to be more transparent. FRANCE 24's Fraser Jackson reports from Washington. Publicado también por: France 24 - English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0a8ecc14cc5d0480</guid>
+      <pubDate>Thu, 08 Oct 2026 06:12:36 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/hb4ne3/article71558607.ece/alternates/LANDSCAPE_1200/AP10_08_2026_000022A.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/hb4ne3/article71558607.ece/alternates/LANDSCAPE_1200/AP10_08_2026_000022A.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Indian opposition leader Rahul Gandhi detained over election chief protest</title>
@@ -957,18 +1011,6 @@
       <enclosure url="https://s.france24.com/media/display/742b95f2-c100-11f1-9da3-13420ab900a2/w:1024/p:16x9/lucas-Pavanato-y-Niolas-Ferreira.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Pentagon stops using Anthropic AI tools after blacklisting company, BBC told</title>
-      <link>https://www.bbc.co.uk/news/articles/c5j9x9pr0240o</link>
-      <description>It labelled Anthropic a "supply chain risk" in February after the firm refused to remove safety guardrails from its tools. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e15f627d21a62b6a</guid>
-      <pubDate>Mon, 05 Oct 2026 16:13:21 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Israelis mourn October 7 attack as Palestinians in Gaza live in ruins of war</title>
       <link>http://www.africanews.com/2026/10/07/israelis-mourn-october-7-attack-as-palestinians-in-gaza-live-in-ruins-of-war/</link>
       <description>Israelis are gathering Wednesday to commemorate the third anniversary of the October 7 attack that killed 1,200 people and saw 251 taken hostage. In Gaza, the territory's almost two million people live in ruins. Publicado también por: ABC News Australia. Fuente: Africanews.</description>
@@ -982,6 +1024,18 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/94/23/25/640x360_cmsv2_c22a57de-8102-5df5-89f2-4156196d359c-9942325.jpg?1791356139" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/94/23/25/640x360_cmsv2_c22a57de-8102-5df5-89f2-4156196d359c-9942325.jpg?1791356139" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>34 mil reproducciones · 469 reacciones | LIVE: Media briefing on global health issues with @DrTedros | World Health Organization (WHO)</title>
+      <link>https://www.facebook.com/WHO/videos/1090041757276093/?comment_id=903478612699529&amp;__cft__%5B0%5D=AZgTg34Mo6BtcZwp83JTnvYMZqXs8yGilaGIGPgPbzcFD3sa4m5HBRV32ukgucrHCaeDhsTR_F7icqZgCmae0EYFSBfhUci1lITdSz3I6raw-_KLPD2V-cIXnqVv5Y7CjQAuRprleCjwKpExABdGXZWrjOzirkkFH6gVXpyLFA-hYgjd-8vpY_desLMjsYaHQrc&amp;__tn__=R-R</link>
+      <description>LIVE: Media briefing on global health issues with @DrTedros Fuente: World Health Organization.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c6546a88eb3ae3b0</guid>
+      <pubDate>Thu, 08 Oct 2026 07:31:19 +0000</pubDate>
+      <category>salud</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/WHO/">World Health Organization</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/841575928_945691251488149_6323146318340651819_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=svB-_lfM5AMQ7kNvwFbJf4J&amp;_nc_oc=Adqaoj588I_Q8YnvEblf40xxJlw7HvNp8jHcrISTzNhkLUH5unjWnJYlXpgjsKyfS0I&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=JZpx5CW86IwYq49Ag15THw&amp;_nc_ss=7f289&amp;oh=00_AQP-qWf7DAz-SUptzH76xjDOVcZ6ED-d_nOx_AxZ-QcRaA&amp;oe=6ACD1967" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/841575928_945691251488149_6323146318340651819_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=svB-_lfM5AMQ7kNvwFbJf4J&amp;_nc_oc=Adqaoj588I_Q8YnvEblf40xxJlw7HvNp8jHcrISTzNhkLUH5unjWnJYlXpgjsKyfS0I&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=JZpx5CW86IwYq49Ag15THw&amp;_nc_ss=7f289&amp;oh=00_AQP-qWf7DAz-SUptzH76xjDOVcZ6ED-d_nOx_AxZ-QcRaA&amp;oe=6ACD1967" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1252 reproducciones · 21 reacciones | Memorials took place across Israel, marking three years since 1,200 people were killed in a Hamas-led attack across the country. Israeli President Isaac Herzog said: 'We shall dance again, we shall live again'. Watch more on Sky News: https://trib.al/eDYjO7a | Sky News</title>
@@ -1361,80 +1415,32 @@
       <enclosure url="https://i.guim.co.uk/img/media/65cdd02cfb427992188b065c406aabf68c35b0da/0_346_2196_1758/master/2196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e2479347dc1a657d164654d16a18b8a" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Fabio Oliveira ha comentado: Uol , consegue mandar áudio chorando por favor 🥺🙌🏻</title>
-      <link>https://www.facebook.com/UOLNoticias/posts/pfbid02HZhFgXs4otwZQPmwbCjeKfERdahiW3Wb1PuPUzwfEBrrhJQQD1cqNy1vvHKc3h3hl?comment_id=1003543032774288&amp;__cft__%5B0%5D=AZgP7Ryg0B7P-PBWBQnwX2z6_6awsao9X4FTxfYDM-TdNmqKR-w9zpKYiQXEr-li0UU0ocuzWBYggschMH7IAXyXXW-NhNRj47lgFOchp5iCLPiT67Y4BSR1CVx0qOxONodYEcV5RobdvyCaCbHX88SmCGlJEYI3_3gLPvsNnMN0iE7mALJ5ETEXG9E&amp;__tn__=R-R</link>
-      <description>Uol , consegue mandar áudio chorando por favor Fabio Oliveira Fuente: UOL Notícias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:51950ad9c33ab1ee</guid>
-      <pubDate>Mon, 05 Oct 2026 18:34:56 +0000</pubDate>
+      <title>«¿Dónde estoy?»: las primeras palabras de Christa Pike al despertar en el hospital tras su fallida ejecución</title>
+      <link>https://www.abc.es/internacional/primeras-palabras-christa-pike-despertar-hospital-tras-20261008090213-nt.html</link>
+      <description>«¿Dónde estoy? ¿Quiénes son ustedes?», fueron las primeras palabras de Christa Pike después de recobrar la conciencia y sobrevivir a dos inyecciones letales de pentobarbital por orden de una ejecución en una cárcel de Tennesse (EE.UU.). La codenada, de 50 años, iba a ser desconectada de los aparatos de soporte vital cuando mostró signos de reanimación pero para sorpresa de todos se despertó y comenzó a hablar. Ahora se encuentra en el hospital atada y esposada a la cama a la espera de su suerte.«El lunes por la noche, entendíamos que Christa estaba con muerte cerebral y que el soporte vital… Publicado también por: El Mundo - Internacional. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2a5fb9c0f59ccbe4</guid>
+      <pubDate>Thu, 08 Oct 2026 07:15:51 +0000</pubDate>
       <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>ABC</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/christa-kVEE-U302124214513GPD-1200x840@diario_abc.JPG" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/08/christa-kVEE-U302124214513GPD-1200x840@diario_abc.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Maduro y Cilia Flores serán acusados de presuntas torturas a estadounidenses, según la CNN</title>
+      <link>https://www.elmundo.es/internacional/2026/10/08/6ac731e8e9cf4a19438b457b.html</link>
+      <description>• Los fiscales de Nueva York prevén acusarlos por torturas aplicadas en cárceles venezolanas. • El nuevo expediente se sumará a los cargos vigentes por conspiración para importar cocaína, narcoterrorismo y posesión de armas destructoras. Publicado también por: Clarín - Mundo. Fuente: El Mundo - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:92c666c2782c61f6</guid>
+      <pubDate>Thu, 08 Oct 2026 06:19:41 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
       <category>América Latina</category>
-      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
-      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/11506635891706535502?url=https%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fnoticias%2F3c%2F2026%2F10%2F05%2Fnikolas-ferreira-julia-zanatta-e-ze-trovao-1791224072854_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=hDYfKH0lgmTj08gx-_E4Sg&amp;_nc_zt=3&amp;oh=06_Q3_DAdVfXJvj5Wt_qWKx73XpSmXPwVTs3TYNch0UsRPIpsXp&amp;oe=6AC5D084" medium="image" />
-      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/11506635891706535502?url=https%3A%2F%2Fconteudo.imguol.com.br%2Fc%2Fnoticias%2F3c%2F2026%2F10%2F05%2Fnikolas-ferreira-julia-zanatta-e-ze-trovao-1791224072854_v2_615x300.jpg&amp;fb_obo=1&amp;utld=imguol.com.br&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=hDYfKH0lgmTj08gx-_E4Sg&amp;_nc_zt=3&amp;oh=06_Q3_DAdVfXJvj5Wt_qWKx73XpSmXPwVTs3TYNch0UsRPIpsXp&amp;oe=6AC5D084" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Al menos dos personas han perdido la vida y una más se encuentra desaparecida en Cataluña después de una noche de récords de #lluvias en #Barcelona y otros municipios... Ver más</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02qFbJLTwNBPr8a1XzYfTEXH2K8mTV4SqPRUoX5VNJcDWLMDQs7WKw5baEYu1vkLazl?__cft__%5B0%5D=AZg9LizpEVecMSjql1b53TvxavYYsJRBgv72ZsdXcOGh0NdIvPdeGkngWpPj1mAZqAtKDgx-BqfHhU8Z19jvVPO0f0NFcSzHMza3Zsqj_vDn2w005ilKSfElRfyU4wQxllvdV9GRJ0Ba-AmulQ4BCxigk3YS5HJP1BlUnaUgUIo5NM6gdavJZwdXvKw&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4f5b1b32554c6205</guid>
-      <pubDate>Mon, 05 Oct 2026 18:25:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/838219631_1562774648870192_4109878076796630383_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s590x590&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=T146xPKi2gYQ7kNvwFVaPHK&amp;_nc_oc=AdqjSbwwPYrr56vNAbWgU-AbEEH08X0hOOWn3IkS2F2Nep6K4gXdlk9RjAIYI443Qmg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=U2N5ZTaK7Q3nZfqDPPZgoQ&amp;_nc_ss=7f289&amp;oh=00_AQPEg5RN6-ySZRUUTUGz2EYNliB-GhhHvI0BE9gvLIiOiA&amp;oe=6AC9CB48" medium="image" />
-      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/838219631_1562774648870192_4109878076796630383_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s590x590&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=T146xPKi2gYQ7kNvwFVaPHK&amp;_nc_oc=AdqjSbwwPYrr56vNAbWgU-AbEEH08X0hOOWn3IkS2F2Nep6K4gXdlk9RjAIYI443Qmg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=U2N5ZTaK7Q3nZfqDPPZgoQ&amp;_nc_ss=7f289&amp;oh=00_AQPEg5RN6-ySZRUUTUGz2EYNliB-GhhHvI0BE9gvLIiOiA&amp;oe=6AC9CB48" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.</title>
-      <link>https://www.facebook.com/NPR/posts/pfbid02MBGaigqgBtXBfSTahziqQFiqF19yA7HoEuc43xtqBUYpFeqBQELpeiCwF9y1myazl?__cft__%5B0%5D=AZi-BZSfFsTRw8w4T22j8sZbFrNDMKQqRJhFO6qQWwHuc2pEveEaiFWQLHHyglrO35XzKz_5dF1OhIE-sAMtI6DGEhiLw_HptcXYxz4GJLu8Uwu_IlQMWtkz95W1a6siBVCQhThjxwPY_Mw8krxk0zUJist1r2Okxt4SI9pF3kiVwec94hm4FyoJbpM&amp;__tn__=%2CO%2CP-R</link>
-      <description>The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people. It’s a war zone what did they think was taking place there a tea party?!? NPR.ORG She died covering war for Fox News. Her parents blame the network — and a star reporter Ver más comentarios David Majka Fuente: NPR.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5ec74fa69906bd05</guid>
-      <pubDate>Mon, 05 Oct 2026 18:16:10 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NPR/">NPR</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16838783896577036082?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4800x2700%2B0%2B0%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fc1%252F6f%252F09b190a0450caf4225fc0a616abb%252Fukraine-fox1.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=R20m0f9i0DvvLv-xa8yVwQ&amp;_nc_zt=3&amp;oh=06_Q3_DAQ-zIvdcE9A4PZwTsbaTVd6CiQVJFrIDt5_4T5x9mzcQ&amp;oe=6AC5AEB9" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16838783896577036082?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F4800x2700%2B0%2B0%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252Fc1%252F6f%252F09b190a0450caf4225fc0a616abb%252Fukraine-fox1.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=R20m0f9i0DvvLv-xa8yVwQ&amp;_nc_zt=3&amp;oh=06_Q3_DAQ-zIvdcE9A4PZwTsbaTVd6CiQVJFrIDt5_4T5x9mzcQ&amp;oe=6AC5AEB9" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A Russian plague lab worker died of "pneumonia of unknown origin," officials say, in response to initial reports that she was exposed to the deadly bacteria during a lab accident.</title>
-      <link>https://www.facebook.com/CBSNews/posts/pfbid0q7jJF6VkmU74S51WdHfHzzQmHw6iEfrWqrcLThi2y3JsgVvDLrR6Zr1cyx6qJgVFl?__cft__%5B0%5D=AZjCFsyMjLy_9wzi63qNRLgKOICEn5fU-73q99bv_U1sH-8Nu_iWdaHanvketq8EDKrR2nrC8cJi0tdzZZmm9NHxwGuBy1326svsT8MaaJd1FRONSJHoHJi8GsosfGAd7N8ff_uJfypHiUhBD7HSgbVVwEjIto37x53Ah39pdlmnU07AuqXgqBlEhok&amp;__tn__=%2CO%2CP-R</link>
-      <description>A Russian plague lab worker died of "pneumonia of unknown origin," officials say, in response to initial reports that she was exposed to the deadly bacteria during a lab accident. Stop me if you’ve heard this before ￼ CBSNEWS.COM Russia plays down plague fears and denies lab accident, says scientist died of "pneumonia of unknown origin" Ver más comentarios Gene Hosier Fuente: CBS News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:87031f69e1d69f87</guid>
-      <pubDate>Mon, 05 Oct 2026 18:16:06 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/8916732852417882438?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F10%2F05%2F388b9ea5-710b-4a5c-a29a-c9adc8246351%2Fthumbnail%2F1200x630%2F37e8f50b69da88abcd59a8a05ec49b85%2Fplague-bacteria-2216288745.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=dnJtx35awnzlLNWvR6nNhg&amp;_nc_zt=3&amp;oh=06_Q3_DATbR8yUL6wVh6pFUlQCkWH1z2fqsFK-QjmsT7SIFZp2c&amp;oe=6AC5CCB7" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/8916732852417882438?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F10%2F05%2F388b9ea5-710b-4a5c-a29a-c9adc8246351%2Fthumbnail%2F1200x630%2F37e8f50b69da88abcd59a8a05ec49b85%2Fplague-bacteria-2216288745.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=dnJtx35awnzlLNWvR6nNhg&amp;_nc_zt=3&amp;oh=06_Q3_DATbR8yUL6wVh6pFUlQCkWH1z2fqsFK-QjmsT7SIFZp2c&amp;oe=6AC5CCB7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The Atlantic Ocean hasn’t seen a hurricane yet this year in a season that remains among the quietest on record, driven by a strong El Niño pattern.... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid027VXiVhRgoLgt9jxwTCmjVUYiPWVbsjbHeK1yY3wFCdXVqfwkoER1g91T9xeLnEdDl?__cft__%5B0%5D=AZh_a4ukHhXno0WO6l8kJLX-wLW1qY6CSVu4H2fe0Tx9AYhlklAn1Kw1gYRK0mu0jC97cPDyglqRyzJ5QuK5xJWIRHrSJF0jo9ynJUqbevCfRMGAVZ8_6C5r8gcCsHJ_bBVh_QaDmJ1aDyVLUxMAmOafgfo9d5EqzMQPDt_HF2GvNt-AK_cHuTFAiDU&amp;__tn__=%2CO%2CP-R</link>
-      <description>The Atlantic Ocean hasn’t seen a hurricane yet this year in a season that remains among the quietest on record, driven by a strong El Niño pattern.... Ver más So....who's at greatest risk here? People living along the coast of the Gulf of Mexico or those living on the coast of the Gulf of America? Or maybe those living on the coast of the Golfo del Gringo Loco??? WASHINGTONPOST.COM A tropical… Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2e584c3389046fe8</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:46 +0000</pubDate>
-      <category>ambiente</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/4260667286611822885?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-05%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F9a7746ae-1ab6-4d2a-afa3-341760be005a&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=m02melkGhJJVBH7x6EUYJA&amp;_nc_zt=3&amp;oh=06_Q3_DAWxAA9fnKJK25WUw9nxL98eieBAmi94-oHAYjqiCR_Fi&amp;oe=6AC5CB16" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/4260667286611822885?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-05%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F9a7746ae-1ab6-4d2a-afa3-341760be005a&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=m02melkGhJJVBH7x6EUYJA&amp;_nc_zt=3&amp;oh=06_Q3_DAWxAA9fnKJK25WUw9nxL98eieBAmi94-oHAYjqiCR_Fi&amp;oe=6AC5CB16" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>De Alemania a Grecia: así responden los países europeos a la crisis de vivienda</title>
-      <link>https://www.france24.com/es/europa/20261005-de-alemania-a-grecia-as%C3%AD-responden-los-pa%C3%ADses-europeos-a-la-crisis-de-vivienda</link>
-      <description>El encarecimiento de los alquileres y de la vivienda, la falta de oferta y los problemas vinculados a los desahucios atraviesan buena parte de Europa, pero no existe una única respuesta frente a la crisis. Mientras algunos gobiernos apuestan por aumentar la construcción y limitar determinadas rentas, otros priorizan la libertad de mercado o endurecen las condiciones para recuperar una vivienda ante el impago. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:888698479cee8a59</guid>
-      <pubDate>Mon, 05 Oct 2026 17:16:04 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>France 24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/64630dc6-bf20-11f1-8088-13e372f41e70/w:1024/p:16x9/2026-10-03T111336Z-1311562056-RC2NVNADKVHT-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/64630dc6-bf20-11f1-8088-13e372f41e70/w:1024/p:16x9/2026-10-03T111336Z-1311562056-RC2NVNADKVHT-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Efe</dc:creator>
+      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914402916470.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/08/17914402916470.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>🔵#GrupoFides | #ANF #Seguridad Justicia dicta seis meses de detención preventiva en la cárcel San Sebastián, en Cochabamba, para el dirigente evista, Nelson Virreira, procesado por las movilizaciones que duraron más de un mes. | ANF Noticias Fides</title>
@@ -1452,7 +1458,7 @@
     <item>
       <title>Venezuela's Maduro to face new US charges over alleged torture of Americans, says official</title>
       <link>https://www.jpost.com/international/article-910972</link>
-      <description>Ousted Venezuelan President Nicolas Maduro and his wife, Cilia Flores, are expected to face new criminal charges in ‌the US over the alleged torture of Americans held in the South American country, a US official said on Wednesday. The new charges could come as soon as Thursday, according to the official, who was briefed on the ⁠investigation. Maduro and Flores were captured by the US military from their ‌homes in Caracas on January 3 and brought to New York to face drug-trafficking charges.... Publicado también por: South China Morning Post. Fuente: The Jerusalem Post - International.</description>
+      <description>Ousted Venezuelan president Nicolas Maduro and his wife Cilia Flores are expected to face new criminal charges ‌in the United States over allegations that Americans detained in Venezuela were tortured, a US official said on Wednesday. The new charges could come as soon as Thursday, according to the official, who was briefed on the investigation. Maduro, who led Venezuela for 13 years, and Flores were captured by the US military from their home in Caracas on January 3 and brought to New York ⁠to... Publicado también por: South China Morning Post. Fuente: The Jerusalem Post - International.</description>
       <guid isPermaLink="false">cron-rss-noticias:0a94a6c45e139474</guid>
       <pubDate>Wed, 07 Oct 2026 23:52:20 +0000</pubDate>
       <category>conflictos</category>
