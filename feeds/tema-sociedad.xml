@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 11 Oct 2026 20:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:49:24 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -61,6 +61,20 @@
       <source url="https://www.facebook.com/LaPatriaBolivia/">La Patria Bolivia</source>
       <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/841924221_2687055201756265_380853611760473987_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x1050&amp;ctp=s590x590&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=b4pEP0EM1uYQ7kNvwEhIPf7&amp;_nc_oc=Ado8ZOEjzmGYSXFcflrgDtMso7gewc4fyaDd9tF7IM8jRMPLT_61w-eri1ByT245rjU&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=4QSll8Ex_iNtXc5qJoEkOA&amp;_nc_ss=7f289&amp;oh=00_AQNeAunMujazx5DdDQgXctH1NhZq8iMBC8jTybkcmzUnUA&amp;oe=6AD1C80C" medium="image" />
       <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t39.99422-6/841924221_2687055201756265_380853611760473987_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x1050&amp;ctp=s590x590&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=b4pEP0EM1uYQ7kNvwEhIPf7&amp;_nc_oc=Ado8ZOEjzmGYSXFcflrgDtMso7gewc4fyaDd9tF7IM8jRMPLT_61w-eri1ByT245rjU&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=4QSll8Ex_iNtXc5qJoEkOA&amp;_nc_ss=7f289&amp;oh=00_AQNeAunMujazx5DdDQgXctH1NhZq8iMBC8jTybkcmzUnUA&amp;oe=6AD1C80C" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>'At least 72' miners killed in airstrike</title>
+      <link>https://news.sky.com/story/at-least-72-miners-killed-in-airstrike-on-sudan-egypt-border-13597904</link>
+      <description>Dozens of miners have been killed in an airstrike in the border region between Sudan and Egypt, according to a human rights group. Fuente: Sky News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:86742cc1726f364b</guid>
+      <pubDate>Sun, 11 Oct 2026 16:25:00 +0000</pubDate>
+      <category>sociedad</category>
+      <category>conflictos</category>
+      <category>África</category>
+      <category>Europa</category>
+      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
+      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-gold-mining-miners_7374427.jpg?20261011173627" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-sudan-gold-mining-miners_7374427.jpg?20261011173627" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>UN: At least 109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes</title>
@@ -179,6 +193,18 @@
       <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
       <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/11/17917139645190.jpg" medium="image" />
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/11/17917139645190.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least 139 dead and 84 missing after boat capsizes</title>
+      <link>https://news.sky.com/story/109-dead-after-ship-sinks-off-coast-of-djibouti-un-agency-says-13597707</link>
+      <description>A boat has capsized off the coast of Djibouti leaving at least 139 migrants dead and 84 missing, a United Nations agency has reported. Fuente: Sky News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:50a3ee7fa8ec9dd3</guid>
+      <pubDate>Sun, 11 Oct 2026 10:08:00 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
+      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-migrant-boat-sinks_7374697.jpg?20261012003017" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-migrant-boat-sinks_7374697.jpg?20261012003017" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Al menos 109 migrantes muertos y 116 desparecidos en un naufragio frente a Yibuti</title>
@@ -847,42 +873,6 @@
       <source url="https://www.facebook.com/elpais/">El País</source>
       <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/14095874797627189739?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FRAIPSRC5WBFEHCY2CNGTRLTI6Y.jpg%3Fauth%3D08fa60d5bc154ff3f7ea2d956682ef68ada05aceb911434f162f68e2e7788069%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=2d-ULz8bM_70mOwuJhBJ0g&amp;_nc_zt=3&amp;oh=06_Q3_EAWZQPHa6Z6yq6VQRwc-dT8tN4Fm_lnbXA3T-wGfKi4FJ&amp;oe=6ACA427D" medium="image" />
       <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/14095874797627189739?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FRAIPSRC5WBFEHCY2CNGTRLTI6Y.jpg%3Fauth%3D08fa60d5bc154ff3f7ea2d956682ef68ada05aceb911434f162f68e2e7788069%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=2d-ULz8bM_70mOwuJhBJ0g&amp;_nc_zt=3&amp;oh=06_Q3_EAWZQPHa6Z6yq6VQRwc-dT8tN4Fm_lnbXA3T-wGfKi4FJ&amp;oe=6ACA427D" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Protestas estudiantiles: cinco claves de una crisis que tiene en jaque a Francia</title>
-      <link>https://www.france24.com/es/francia/20261008-protestas-estudiantiles-cinco-claves-de-una-crisis-que-tiene-en-jaque-a-francia</link>
-      <description>Las protestas en Francia comenzaron a mediados de septiembre por la falta de profesores y recursos en un liceo de las afueras de París, pero rápidamente se extendieron por todo el país y sumaron a universitarios, docentes y sindicatos. Los estudiantes exigen 10.000 millones de euros para la educación y mantienen la presión sobre un Gobierno que busca contener el déficit y la deuda. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9281cfe402390001</guid>
-      <pubDate>Thu, 08 Oct 2026 23:42:35 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>Guido Burdman</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/c87b4cd8-c371-11f1-9415-27c2853ad5a5/w:1024/p:16x9/2026-10-08T142820Z-1529162305-RC21ZNA7VQ0C-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/c87b4cd8-c371-11f1-9415-27c2853ad5a5/w:1024/p:16x9/2026-10-08T142820Z-1529162305-RC21ZNA7VQ0C-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Informe desde París: sindicatos y universitarios se unen a manifestaciones de estudiantes</title>
-      <link>https://www.france24.com/es/video/20261008-informe-desde-par%C3%ADs-sindicatos-y-universitarios-se-unen-a-manifestaciones-de-estudiantes</link>
-      <description>Las protestas de los estudiantes de liceos se extienden en Francia. A los jóvenes de instituciones públicas se han adherido los estudiantes de liceos particulares, de la periferia y universitarios, así como los sindicatos del personal educativo. Mientras el Gobierno asegura que el movimiento está perdiendo fuerza, los manifestantes afirman que las autoridades están intentando ganar tiempo esperando hasta fin de mes para hacer anuncios concretos. Informa nuestra periodista Erika Olavarría. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:69a05179f81f55a2</guid>
-      <pubDate>Thu, 08 Oct 2026 21:24:09 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/09a7f11e-c35b-11f1-a17b-4b195755b8ed/w:1024/p:16x9/ES-20261008-143158-143328-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/09a7f11e-c35b-11f1-a17b-4b195755b8ed/w:1024/p:16x9/ES-20261008-143158-143328-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OS ELEITOS | O governador eleito em Roraima, Arthur Henrique (PL), defende redirecionar os recursos da Operação Acolhida, destinados a acomodação de imigrantes venezuel... Ver más</title>
-      <link>https://www.facebook.com/reel/2276970569764904/?__cft__%5B0%5D=AZh4rU86i2sHfombNf9085LyJcGzXl2XNEm2856TL9kEtbZntXNsdaPrJZoZGViMVQCBtT_ZvqfJYXxZGQeDh-ppH5Jp2RQazPFbHwraIIenxg50G9SmFsI0xDwsWdnwnUg-wUc3gF3v2Rnv3zTuq5cw-kEgheC53WKLUQ00N04y6b-m_lBd_TDLrDShDBN_ciXA&amp;__tn__=%2CO%2CP-R</link>
-      <description>OS ELEITOS | O governador eleito em Roraima, Arthur Henrique (PL), defende redirecionar os recursos da Operação Acolhida, destinados a acomodação de imigrantes venezuel... Ver más Tenemos problemas para reproducir este vídeo. Más información Fuente: Estadão.</description>
-      <guid isPermaLink="false">cron-rss-noticias:524b99e4fd33de72</guid>
-      <pubDate>Thu, 08 Oct 2026 21:17:43 +0000</pubDate>
-      <category>sociedad</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/estadao/">Estadão</source>
     </item>
   </channel>
 </rss>

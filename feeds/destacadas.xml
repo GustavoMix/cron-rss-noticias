@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 11 Oct 2026 20:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:49:24 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -478,6 +478,19 @@
       <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/11/arabia-saudi-kWBC-U302179390980z9E-1200x840@diario_abc.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Pakistani national killed in second Houthi strike on Riyadh airport</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistani-national-killed-second-houthi-strike-riyadh-airport?traffic_source=rss</link>
+      <description>Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s Airport. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1e17e9aae91ded2a</guid>
+      <pubDate>Sun, 11 Oct 2026 23:20:46 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border</title>
       <link>https://www.thehindu.com/news/international/rights-group-says-paramilitary-drone-strike-in-sudan-killed-41-near-ethiopian-border/article71569304.ece</link>
       <description>Eight children are said to be among those killed by the strike, which hit a gathering of displaced people. Publicado también por: BBC News - World. Fuente: The Hindu - International.</description>
@@ -489,6 +502,20 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/q5abmf/article71569332.ece/alternates/LANDSCAPE_1200/Civilian-death-GD8FL3NPN.4.jpg.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/q5abmf/article71569332.ece/alternates/LANDSCAPE_1200/Civilian-death-GD8FL3NPN.4.jpg.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Russia interfered in Brexit referendum, British PM says</title>
+      <link>https://www.abc.net.au/news/2026-10-12/russia-interfered-in-brexit-referendum-british-pm-says/107254822</link>
+      <description>Britain’s Prime Minister Andy Burnham has said the UK is “clear” there was Russian interference in the Brexit referendum. He said that when he entered No 10 Downing Street a few months ago, he had asked whether Moscow interfered in the 2016 vote on whether to leave the EU and was given “the clear answer that yes there was”. The prime minister said he believes it is important to put this “clearly on the record” to help voters in Germany and France understand that “some of this politics is... Publicado también por: South China Morning Post, The Guardian - World. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c34ac41abedc589f</guid>
+      <pubDate>Sun, 11 Oct 2026 22:58:43 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <category>Oceanía</category>
+      <category>Asia</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/8821ece92c568a142cd4dd8b426d01d1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/8821ece92c568a142cd4dd8b426d01d1?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>UK PM Burnham says Russia interfered in 2016 Brexit vote</title>
@@ -727,19 +754,16 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
-      <title>Trump says U.S. will not resume military strikes on Iran before Nov. 3 midterm elections</title>
-      <link>https://www.thehindu.com/news/international/trump-says-us-will-not-resume-military-strikes-on-iran-before-nov-3-midterm-elections/article71561624.ece</link>
-      <description>US President Donald Trump said the US would not attack Iran ahead of November’s midterm elections, citing what he said were “productive discussions” with the Islamic Republic. “We will not be attacking Iran at any time prior to the Midterm Elections to be held in the United States on November 3rd,” Trump wrote in a social media post on Thursday. The president’s comments amounted to an unusual blending of US national security issues and domestic politics. They follow recent reporting in The... Publicado también por: South China Morning Post, The Washington Post - World. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f694ea1ddd1abe11</guid>
-      <pubDate>Thu, 08 Oct 2026 23:45:20 +0000</pubDate>
+      <title>UK's Healey can't risk a 'steady as you go' budget, think tank warns... Ver más</title>
+      <link>https://www.facebook.com/Reuters/posts/pfbid0EvaywVk1PDFfGWKV3saumEEigvLtkTH9kA26Ai7RYQUeqVVaGde9D2q7iqj8pBngl?__cft__%5B0%5D=AZho7b1UXP_6I9svQ9gOsyIeSoP_A6LFTgU_IWAIS4eYkluWgUHCrhufR-LxLUsfIBMrsautlqUBJHY5wTa-3Og-aeBuP154oLIkIxtK_EwFQMQEhM_-7tcXjDMDO4Clq2BmpczbyobIJhxq9F_KR7gN2NkAX7V-17GBoqm-48Zli_ddp5Y_oa0It9E&amp;__tn__=%2CO%2CP-R</link>
+      <description>The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says. Publicado también por: BBC News - Business. Fuente: Reuters.</description>
+      <guid isPermaLink="false">cron-rss-noticias:df8dafa14023be87</guid>
+      <pubDate>Sun, 11 Oct 2026 23:40:13 +0000</pubDate>
       <category>conflictos</category>
-      <category>politica</category>
-      <category>América del Norte</category>
       <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/ynleyp/article71562336.ece/alternates/LANDSCAPE_1200/2026-02-03T203616Z_1133507265_RC2W7FAU6WQB_RTRMADP_3_GLOBAL-OIL.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/ynleyp/article71562336.ece/alternates/LANDSCAPE_1200/2026-02-03T203616Z_1133507265_RC2W7FAU6WQB_RTRMADP_3_GLOBAL-OIL.JPG" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/Reuters/">Reuters</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/843548950_1476453584553081_1224947983149026244_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=4zJKrG4nQIAQ7kNvwFjiOFV&amp;_nc_oc=Adr94MsaYxvPYTx1tyIfcAhXvBd5TOs9XS_kul8SHaB7_oEL8Kl0Rf-fap-5_gNzUKI&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=SFjwI5PVZEBo-45Dt3TvfQ&amp;_nc_ss=7f289&amp;oh=00_AQNF0i5kBwo6F_bKkQciSQiRF-vNAaMPDv_d4F1LYMQ3wQ&amp;oe=6AD20284" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/843548950_1476453584553081_1224947983149026244_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=4zJKrG4nQIAQ7kNvwFjiOFV&amp;_nc_oc=Adr94MsaYxvPYTx1tyIfcAhXvBd5TOs9XS_kul8SHaB7_oEL8Kl0Rf-fap-5_gNzUKI&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=SFjwI5PVZEBo-45Dt3TvfQ&amp;_nc_ss=7f289&amp;oh=00_AQNF0i5kBwo6F_bKkQciSQiRF-vNAaMPDv_d4F1LYMQ3wQ&amp;oe=6AD20284" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>India’s ‘Cockroach’ Leaders Released as New Delhi Braces for More Protests</title>
@@ -1042,16 +1066,30 @@
       <enclosure url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-breakout-htmq/09nobel-breakout-htmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial</title>
-      <link>https://www.bbc.com/mundo/articles/c6x29v4zxexro</link>
-      <description>"Nos aseguraremos de que la gente pueda verlo", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:74276df700750ed8</guid>
-      <pubDate>Fri, 09 Oct 2026 00:02:52 +0000</pubDate>
-      <category>conflictos</category>
+      <title>Sacha Baron Cohen to star in Quentin Tarantino’s West End play The Popinjay Cavalier</title>
+      <link>https://www.theguardian.com/stage/2026/oct/12/sacha-baron-cohen-quentin-tarantinos-west-end-popinjay-cavalier</link>
+      <description>The production marks the Hollywood director’s first play written for the stage, which he will also direct Sacha Baron Cohen will headline Quentin Tarantino’s play The Popinjay Cavalier when it premieres on the West End in London in March 2027. The production marks the Hollywood director’s first work written for the stage – which he will also direct. Continue reading... Publicado también por: Variety. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0cdfd76151b2cd35</guid>
+      <pubDate>Sun, 11 Oct 2026 23:27:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <dc:creator>Press Association</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/f587cdf1dc1a1acf04b3c2c84b45c5209dc6ba51/255_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7743bab2fbc0b26ec78f768848606c92" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/f587cdf1dc1a1acf04b3c2c84b45c5209dc6ba51/255_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7743bab2fbc0b26ec78f768848606c92" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>DW Noticias 11 de octubre: Trump anuncia una "tregua energética" inmediata entre Rusia y Ucrania... Ver más</title>
+      <link>https://www.facebook.com/reel/4490290277924928/?__cft__%5B0%5D=AZj79vVPh_4Q11vpw3XOeWGl22hsikZV6-TtOfwmVuKz05dt4VyEGCPw4VnaN6Qqwwgqaw6zNvigRdS-5ayTDAaC7vA-6DmxQCPdaM5fFDwqe9oz9D6jlH3LJ-dF-5_MHowJi3wRpSepnPF0O16kFXFW7n08hCXxXllMh7fh3LCWrU9eu1kxkN9FL5uQ_n9rgM5z&amp;__tn__=%2CO%2CP-R</link>
+      <description>DW Noticias 11 de octubre: Trump anuncia una "tregua energética" inmediata entre Rusia y Ucrania... Ver más Les encanta hacer arder el planeta Tenemos problemas para reproducir este vídeo. Más información Ver más comentarios Ricardo Contreras Publicado también por: El País - Internacional. Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:99a6579415438152</guid>
+      <pubDate>Sun, 11 Oct 2026 23:08:48 +0000</pubDate>
+      <category>mundo</category>
       <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/42a5/live/f7fba8c0-c36e-11f1-a36e-931ff002f42a.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/42a5/live/f7fba8c0-c36e-11f1-a36e-931ff002f42a.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://imagenes.elpais.com/resizer/v2/NAIVZ5H6SNG6XERQUCGWWQMC5U.jpg?auth=d216862bea43b42963e3a258854fcc222816120bbbe762add46180c9785b8efc" medium="image" />
+      <enclosure url="https://imagenes.elpais.com/resizer/v2/NAIVZ5H6SNG6XERQUCGWWQMC5U.jpg?auth=d216862bea43b42963e3a258854fcc222816120bbbe762add46180c9785b8efc" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Polonia investiga un supuesto plan para atentar contra Tusk y el ministro de Defensa</title>
@@ -1474,31 +1512,6 @@
       <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Mark Zuckerberg has an image problem - so why is Meta's business booming?</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo</link>
-      <description>A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cc0bb63e0a45d185</guid>
-      <pubDate>Thu, 08 Oct 2026 23:14:02 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>After failed US execution, Christa Pike is walking with help and eating, lawyers say</title>
-      <link>https://www.scmp.com/news/world/united-states-canada/article/3370242/after-failed-us-execution-christa-pike-walking-mentally-foggy-lawyer-says</link>
-      <description>Christa Pike has taken her first steps with help, just one week after a failed attempt to execute the Tennessee woman left her in critical condition, her lawyers said on Thursday. Pike, 50, survived two doses of pentobarbital as the state sought to put her to death eight days ago for the 1995 beating and stabbing death of classmate Colleen Slemmer. The drug did not kill her, and her lawyers said her arms were left burned and blistered. For the first few days of her hospitalisation, Pike was... Publicado también por: BBC News - World. Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:340d984d5b6dad18</guid>
-      <pubDate>Thu, 08 Oct 2026 21:33:06 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <dc:creator>Associated Press</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/e957b8ae-3ebc-447e-a1b1-8d70a1891571_e916e6ba.jpg?itok=Jap24oFW&amp;v=1791495680" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/e957b8ae-3ebc-447e-a1b1-8d70a1891571_e916e6ba.jpg?itok=Jap24oFW&amp;v=1791495680" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>At least 139 people dead after migrant boat capsizes off Djibouti</title>
       <link>http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/</link>
       <description>A boat has capsized off the coast of Djibouti leaving at least 139 migrants dead and 84 missing, a United Nations agency has reported. Publicado también por: Sky News - World. Fuente: Africanews.</description>
@@ -1527,18 +1540,80 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/8d54a31d-71ab-42d4-91b6-20e1335f12cf_54cc4091.jpg?itok=VKNqV0cu&amp;v=1791524797" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Deadly floods sweep Albania and Montenegro as rivers burst banks</title>
-      <link>http://www.africanews.com/2026/10/09/deadly-floods-sweep-albania-and-montenegro-as-rivers-burst-banks/</link>
-      <description>Homes surrounded by water, flooded roads and farmland submerged beneath swollen rivers. Albania and Montenegro were still battling severe flooding on Thursday, 8 January, after days of torrential rain and heavy snow. Publicado también por: Euronews. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d17b1d2848fc5e93</guid>
-      <pubDate>Thu, 08 Oct 2026 22:07:45 +0000</pubDate>
-      <category>ambiente</category>
+      <title>3518 reproducciones · 70 reacciones | Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport. Sunday’s strike followed an attack on Saturday that killed 12 people and injured more than 300. Al Jazeera’s Malik Traina reports. | Al Jazeera English</title>
+      <link>https://www.facebook.com/reel/1130450979538749/?comment_id=2276373599877495&amp;__cft__%5B0%5D=AZhP240crtfSQRkshgAGcXjjZxTZDzm9D1H6tFA4yEHtye5wLDmnAb4okc4yXOweJFUF-t3EpyY7yBm2facEI193wY0eUi3Z5p2oKqIvpfz1_WSxrNZqo-UxVinJ6Ixmdj9tdmF23-SiBBAis9me3tYw5cJfdxdsA1Dt2ZPexUSlrm-VGQ-wEuH5ESXBPI9QF_PT&amp;__tn__=R-R</link>
+      <description>Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport. Sunday’s strike followed an attack on Saturday that... Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport.... Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fbd965329c32facc</guid>
+      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
       <category>África</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/844981747_1624938522501308_6142264646307239866_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CgAuCnowxm0Q7kNvwFtclCu&amp;_nc_oc=AdoN-YjzWn9swJLmWxHfVeoafY2E_vur33wJUXIC93kLvB9NiRcWjtEk2AT1cowfExQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=fxQrAExuhiYE9-OyKvsp8g&amp;_nc_ss=7f289&amp;oh=00_AQNkLuzqGSXY2ATNfYvp1ZA2n4IzBKscghAoBU-4WldhVg&amp;oe=6AD1E491" medium="image" />
+      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/844981747_1624938522501308_6142264646307239866_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CgAuCnowxm0Q7kNvwFtclCu&amp;_nc_oc=AdoN-YjzWn9swJLmWxHfVeoafY2E_vur33wJUXIC93kLvB9NiRcWjtEk2AT1cowfExQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=fxQrAExuhiYE9-OyKvsp8g&amp;_nc_ss=7f289&amp;oh=00_AQNkLuzqGSXY2ATNfYvp1ZA2n4IzBKscghAoBU-4WldhVg&amp;oe=6AD1E491" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>10 mil reproducciones · 166 reacciones | There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League financial regulations. Sky's Rob Harris reports from Anfield where he spoke to fans from both sides. Read more: https://trib.al/WVFi7B3 #ManchesterCity #Football #Sports #UK | Sky News</title>
+      <link>https://www.facebook.com/reel/1724776981921855/?comment_id=2149892325738467&amp;__cft__%5B0%5D=AZhPRWA4XgvDuvvecNWMIgdB0a9mzl2IPAhaXfWEL89H0HwIqF8It9X2r_IKCjo0MybmVTYlp-W2KX2KF338XRk9ixPUjlrOnrMon7UOR2lRUcvgoG-vtjTUhfiPAL22dNXB7aChLsXMVqToZPXBsERX_eUnMfKOvV4p5DnAa9HkZslMChUxpCFsmPcuhpX4LUlK&amp;__tn__=R-R</link>
+      <description>There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League financial regulations. Sky's Rob Harris... There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League... Fuente: Sky News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e7d7af1f44b963ea</guid>
+      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
+      <category>deportes</category>
       <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/94/52/14/640x360_cmsv2_da5a11fc-f8e6-5e28-b2a8-86ab3903121e-9945214.jpg?1791495205" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/94/52/14/640x360_cmsv2_da5a11fc-f8e6-5e28-b2a8-86ab3903121e-9945214.jpg?1791495205" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/skynews/">Sky News</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/844220643_1122038687176980_6799178331112661245_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=pI8Mr0DsPcIQ7kNvwEy9uy7&amp;_nc_oc=AdpIQs_v-ccy51Tqv5z00xO6OpMplBEx5-BdWirvkvS5Le-7xiuwu7VVyG3py5pyRfk&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=v-SC_mB12IefsDr95YDiAg&amp;_nc_ss=7f289&amp;oh=00_AQMw5ZMp0mNJr938SlVju260258TVWswNIIvPCdkK7G9ow&amp;oe=6AD1E286" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/844220643_1122038687176980_6799178331112661245_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=pI8Mr0DsPcIQ7kNvwEy9uy7&amp;_nc_oc=AdpIQs_v-ccy51Tqv5z00xO6OpMplBEx5-BdWirvkvS5Le-7xiuwu7VVyG3py5pyRfk&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=v-SC_mB12IefsDr95YDiAg&amp;_nc_ss=7f289&amp;oh=00_AQMw5ZMp0mNJr938SlVju260258TVWswNIIvPCdkK7G9ow&amp;oe=6AD1E286" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>4774 reproducciones · 75 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1417493469815927/?comment_id=2929982670699308&amp;__cft__%5B0%5D=AZiJDQKpR4jrr6yVQH0YwNMY9a3zec-cSsGUCCPyDobv8S-IvdPsEs4ErGVWkt15p8QXeVMuWzwp-yIjJRs4wqs8tEHoUI_tehfj0W7ts4QzHNNZbApWMom8ejAMynHp0C56IuvnVwRomUsQGfDzr9bHct6cIhJBFLIcsTulX7Ev_JviwQFSazROLDWgAgrtIxk&amp;__tn__=R%5D-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9ca985eeed989c9f</guid>
+      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/846773044_1593593275036350_4108101658552748557_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=2YWuxHIXxhwQ7kNvwEi5elK&amp;_nc_oc=AdqKf8BBAV8l94G0zeiO1QP6gpFujYLcIOBHBE1WBl5hXfiqaXTB1IsNvS-2Q8WNVNg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=gJL0D3Bct3L9qOAhUr3pwQ&amp;_nc_ss=7f289&amp;oh=00_AQPzwoHd-X8xdT5CEAGu_3C0Y7Ojf3PO6JenO_KoMmmfuw&amp;oe=6AD1FE0D" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/846773044_1593593275036350_4108101658552748557_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=2YWuxHIXxhwQ7kNvwEi5elK&amp;_nc_oc=AdqKf8BBAV8l94G0zeiO1QP6gpFujYLcIOBHBE1WBl5hXfiqaXTB1IsNvS-2Q8WNVNg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=gJL0D3Bct3L9qOAhUr3pwQ&amp;_nc_ss=7f289&amp;oh=00_AQPzwoHd-X8xdT5CEAGu_3C0Y7Ojf3PO6JenO_KoMmmfuw&amp;oe=6AD1FE0D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>4774 reproducciones · 75 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1417493469815927/?comment_id=858491100687719&amp;__cft__%5B0%5D=AZiJDQKpR4jrr6yVQH0YwNMY9a3zec-cSsGUCCPyDobv8S-IvdPsEs4ErGVWkt15p8QXeVMuWzwp-yIjJRs4wqs8tEHoUI_tehfj0W7ts4QzHNNZbApWMom8ejAMynHp0C56IuvnVwRomUsQGfDzr9bHct6cIhJBFLIcsTulX7Ev_JviwQFSazROLDWgAgrtIxk&amp;__tn__=R%5D-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7bb1beb053e23a09</guid>
+      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/846773044_1593593275036350_4108101658552748557_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=2YWuxHIXxhwQ7kNvwEi5elK&amp;_nc_oc=AdqKf8BBAV8l94G0zeiO1QP6gpFujYLcIOBHBE1WBl5hXfiqaXTB1IsNvS-2Q8WNVNg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=x359wGthAtSuFq6EZzKgBQ&amp;_nc_ss=7f289&amp;oh=00_AQPINjKtKME7Y5NT1vrGBBI4GlZmK1N82XIfMtVNcuMvLw&amp;oe=6AD1FE0D" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/846773044_1593593275036350_4108101658552748557_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=2YWuxHIXxhwQ7kNvwEi5elK&amp;_nc_oc=AdqKf8BBAV8l94G0zeiO1QP6gpFujYLcIOBHBE1WBl5hXfiqaXTB1IsNvS-2Q8WNVNg&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=x359wGthAtSuFq6EZzKgBQ&amp;_nc_ss=7f289&amp;oh=00_AQPINjKtKME7Y5NT1vrGBBI4GlZmK1N82XIfMtVNcuMvLw&amp;oe=6AD1FE0D" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>After a “Saturday Night Live” sketch, Mike Ditka, the former Chicago Bears coach who died last week, became known far and wide as an indomitable leader of men.</title>
+      <link>https://www.facebook.com/nytimes/posts/pfbid0yPVYx4XPyUB2XHBPwPp1JmK5nnn4XWxYVcnovv8C283XTnf77NvLUGnshcpcwZuzl?__cft__%5B0%5D=AZhZxEuHWqRhREfvIDS-HE41DWPx-ogsrjmqk7LfoyGdXF2fAcHGaHZRs-eA6l0K-pT97GdTsUGj8OIF2LPIgh_T3YKefW0jwfy01tSFM9H89tkpPTng6_6fuLfBYI6cRGs7-oJw2GRf4rCiAvsDWmuLClA4u-j7U5kuxLgP_f8vkfdOZk45nQfll4Y&amp;__tn__=%2CO%2CP-R</link>
+      <description>After a “Saturday Night Live” sketch, Mike Ditka, the former Chicago Bears coach who died last week, became known far and wide as an indomitable leader of men. How many heart attacks is that for you? That makes a baker’s dozen NYTIMES.COM ‘Da Bears’ and the ‘SNL’ Sketch That Immortalized Mike Ditka Harry Fong How many heart attacks is that for you? That makes a baker’s dozen Fuente: The New York Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:75d7433e76d50ffd</guid>
+      <pubDate>Sun, 11 Oct 2026 23:40:24 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
+      <media:content url="https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/17052806350026915324?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F11%2Farts%2F11cul-ditka-da-bears%2F11cul-ditka-da-bears-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-atl3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=3uDAFw4Jf-230ONvRxFbLg&amp;_nc_zt=3&amp;oh=06_Q3_EAa3uSL3p3h0kXNXJ3XhcQYWIRfdfn3XKtX8ToRJxR0UM&amp;oe=6ACDFC42" medium="image" />
+      <enclosure url="https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/17052806350026915324?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F11%2Farts%2F11cul-ditka-da-bears%2F11cul-ditka-da-bears-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-atl3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=3uDAFw4Jf-230ONvRxFbLg&amp;_nc_zt=3&amp;oh=06_Q3_EAa3uSL3p3h0kXNXJ3XhcQYWIRfdfn3XKtX8ToRJxR0UM&amp;oe=6ACDFC42" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>'Big star' - How Doku delivered for Man City in win against Liverpool</title>
+      <link>https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo</link>
+      <description>Speaking on Match of the Day, Wayne Rooney and Toby Alderweireld analyse how Jeremy Doku changed the game in Manchester City's favour, after coming on as a substitute in his side's 3-0 win against Liverpool at Anfield. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c18ff4d92cfd399a</guid>
+      <pubDate>Sun, 11 Oct 2026 23:00:57 +0000</pubDate>
+      <category>deportes</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af25/live/b56c8a40-c5c3-11f1-a64c-550be9e3c66b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af25/live/b56c8a40-c5c3-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>1178 reproducciones · 32 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest | ATB Digital</title>
@@ -1578,81 +1653,6 @@
       <source url="https://www.facebook.com/cnnbrasil/">CNN Brasil</source>
       <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/1339956303981996030?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F10%2FDragao-desenhado-por-drones-em-voo-para-estabelecer-o-recorde-mundial-do-guinness-para-a-maior-criatura-mitica-a-voar.jpg%3Fw%3D867%26h%3D490%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=_ptrBqSTWPsicANVfou3ug&amp;_nc_zt=3&amp;oh=06_Q3_EASyxtGYuj41hfU1XgOBl7BwSf2brzTaxp8mJaoBXshbl&amp;oe=6ACDCCD5" medium="image" />
       <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/1339956303981996030?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F10%2FDragao-desenhado-por-drones-em-voo-para-estabelecer-o-recorde-mundial-do-guinness-para-a-maior-criatura-mitica-a-voar.jpg%3Fw%3D867%26h%3D490%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=_ptrBqSTWPsicANVfou3ug&amp;_nc_zt=3&amp;oh=06_Q3_EASyxtGYuj41hfU1XgOBl7BwSf2brzTaxp8mJaoBXshbl&amp;oe=6ACDCCD5" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Politics live: Greens call for US execution live stream to be blocked; Flydubai pilot’s Australia links ‘disturbing’</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb</link>
-      <description>Follow the day’s news live Get our breaking news email , free app or daily news podcast The NSW government will seek to amend legislation to give One Nation access to the independent Parliamentary Budget Office in a bid to challenge the populist party to cost their promises. In a statement, the Minns government it was clear the March 2027 election would see three parties competing to form government – and the legislation only contemplates a Labor vs Coalition contest. But right now, voters will only get advice from the independent PBO on the costs of the Coalition and Labor’s policies. They… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f63fce8b774d9bb7</guid>
-      <pubDate>Sun, 11 Oct 2026 20:04:39 +0000</pubDate>
-      <category>politica</category>
-      <category>Oceanía</category>
-      <dc:creator>Guardian staff</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/fd17fb0b28652a84f746f1009f4c41a8277572f1/1042_370_2387_1909/master/2387.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61a1c59f1ada41e56088c5eb21c5e8e4" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/fd17fb0b28652a84f746f1009f4c41a8277572f1/1042_370_2387_1909/master/2387.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61a1c59f1ada41e56088c5eb21c5e8e4" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>An experimental vaccine aimed at preventing the return of glioblastoma, one of the deadliest types of brain cancer, shows promise in patients 65 and under, according to... Ver más</title>
-      <link>https://www.facebook.com/NBCNews/posts/pfbid02LYo8ueEezSVoVf1346s5VZv6gkKjEGeMBSaouSnkp28zA7VJAbTytJBH6XY4WBBTl?__cft__%5B0%5D=AZjRnixTEsrsvEtkCKdmiGxQGBL6wWAq9oTcd5bs2Tz_TtfBxFcqGfZ6Mo9YZlaMmCLLgd6KMXw-aqjftmQU-fJQ-qSnXRwS4a220CWrHUMierY0CR6E22lh9qhQQzKOBSSYnpZUcoOTvjccJdC0mNID5AoW8c-OK-HRW7gDidd3LqjSbqbZ_9HmG3g&amp;__tn__=%2CO%2CP-R</link>
-      <description>An experimental vaccine aimed at preventing the return of glioblastoma, one of the deadliest types of brain cancer, shows promise in patients 65 and under, according to... Ver más I lost my dad to this horrible cancer. I pray they find anything to give patients hope. NBCNEWS.COM Experimental vaccine shows promise against deadly brain cancer in some patients Ver más comentarios Ahmad Jawad Moradi Fuente: NBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a3bdfc1acc30cfae</guid>
-      <pubDate>Sun, 11 Oct 2026 20:01:10 +0000</pubDate>
-      <category>salud</category>
-      <category>cultura</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/4430425064527042154?url=https%3A%2F%2Fimage.trueanthem.com%2F50-nfW2VwoY39y0dt50Zvc-9miEoUqhJ9oBurP-PcSY%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjYxMDA1LWJyYWluLXR1bW9yLXZhY2NpbmUtdnNiLTIxMDgtY29weS05ZWFlMGYuanBn.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=jiTvjL7XUMp-6rQ2o6CDPw&amp;_nc_zt=3&amp;oh=06_Q3_EARzcLWimM0X31DZ1XtRKLl3vE8JQPFoPAzdHJ1dHJgeW&amp;oe=6ACDE6BD" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/4430425064527042154?url=https%3A%2F%2Fimage.trueanthem.com%2F50-nfW2VwoY39y0dt50Zvc-9miEoUqhJ9oBurP-PcSY%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjYxMDA1LWJyYWluLXR1bW9yLXZhY2NpbmUtdnNiLTIxMDgtY29weS05ZWFlMGYuanBn.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=jiTvjL7XUMp-6rQ2o6CDPw&amp;_nc_zt=3&amp;oh=06_Q3_EARzcLWimM0X31DZ1XtRKLl3vE8JQPFoPAzdHJ1dHJgeW&amp;oe=6ACDE6BD" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Operaciones de emergencia en coordinación: EE. UU. despliega ayuda humanitaria en Panamá tras terremoto</title>
-      <link>https://www.facebook.com/NTN24/posts/pfbid031MHjoFhVjuTN8Ui86MeRu3ReSEJnwSUMWRfJxwehXyNjgJHBMUjwPGbm1zXRVvodl?__cft__%5B0%5D=AZity4htc8W_8I5nGHZX47XTaHoQILXisFpIUNy5yoC6KmUujqxvHgr_PEYVt9AxuVecOdYBkzgkHVUup4siMbSOhNvPzXn-rYaj4qWPcxErBoIlmfZ3R0ofQHXBY2j9HSfLWCLB4JEuPv6nY0f2WBwD85LFNsCj8X4vt6o4W3aZIpLSpPL2L77uarM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Operaciones de emergencia en coordinación: EE. UU. despliega ayuda humanitaria en Panamá tras terremoto NTN24.COM Operaciones de emergencia en coordinación: EE. UU. despliega ayuda humanitaria en Panamá tras terremoto | NTN24.COM Fuente: NTN24.</description>
-      <guid isPermaLink="false">cron-rss-noticias:00696294679f62c1</guid>
-      <pubDate>Sun, 11 Oct 2026 19:37:28 +0000</pubDate>
-      <category>ambiente</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/NTN24/">NTN24</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/7786303201728344323?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F10%2F11143324%2FEEUU-envia-ayuda-a-Panama-_-Foto_-AFP.png%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Hr6VkLump-EFLnLLyPV2cw&amp;_nc_zt=3&amp;oh=06_Q3_EAW9RxEyyg5YaLDN6JjdQKhz_vRrXMCb0MFPzXYDNAcLW&amp;oe=6ACDE4ED" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/7786303201728344323?url=https%3A%2F%2Fintn24.lalr.co%2Fcms%2F2026%2F10%2F11143324%2FEEUU-envia-ayuda-a-Panama-_-Foto_-AFP.png%3Fw%3D1280&amp;fb_obo=1&amp;utld=lalr.co&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Hr6VkLump-EFLnLLyPV2cw&amp;_nc_zt=3&amp;oh=06_Q3_EAW9RxEyyg5YaLDN6JjdQKhz_vRrXMCb0MFPzXYDNAcLW&amp;oe=6ACDE4ED" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Doku delights as Manchester City cruise past 10-man Liverpool</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo</link>
-      <description>In their first match since being found guilty of breaching Premier League financial rules, Manchester City enjoyed a comfortable 3-0 win against Liverpool at Anfield to extend their perfect start to six matches, as they moved three points clear at the top of the Premier League. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8de488d9a2b4818a</guid>
-      <pubDate>Sun, 11 Oct 2026 18:59:19 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/040fab80-c599-11f1-a64c-550be9e3c66b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/040fab80-c599-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Dilair Alves De Oliveira Oliveira ha comentado: Em 22 podia tudo, agora é interferência kkkk</title>
-      <link>https://www.facebook.com/jornaloglobo/posts/pfbid0gNLsDP7eHDoRDQn9kn5wbGoMekFwEaa3RcnZX8ahYEEt74jbQDeYPGXfw1NJYdJEl?comment_id=1789791785672575&amp;__cft__%5B0%5D=AZjylB-LtyA6B_5C6TEFsD6vz3tiV16RZwdcnb8BzTd8nk20zvKwAsMhkc_KNrmYvZrnzow-aoPGMf1x0OU2BNkZ8ias-cUbGub8x70dcAZfn8kpU6NDo2d5mxnPvm-M8oa93VGlmVWPHIlq5LwmBxDDm9hPtD0Ozc1DapTsxrQe3xI9qLVo4vx0lMA&amp;__tn__=R-R</link>
-      <description>TSE DIVIDIDO ⚖️ | Um integrante do TSE classificou como "gol de mão" a atitude do presidente da Corte, Kássio Nunes Marques, que interrompeu três... Fuente: O Globo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:674dc898c64f2f55</guid>
-      <pubDate>Sun, 11 Oct 2026 15:47:26 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/844545038_1112843047886339_1640360320329188464_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=MvDN_vzXiiAQ7kNvwFOCLYP&amp;_nc_oc=AdrYu5b0v0sTVUZcb5WpVbXlTLsFBLNqxgFTsFGA9eWlLD-x7tADBsng5ZW4dEq_Xro&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=h5Jgrw4rVu-Czz4xARGDEQ&amp;_nc_ss=7f289&amp;oh=00_AQPUngmGIUFhoT44jKo3i-VZYit712qO9bGjAlU9SCs5Yg&amp;oe=6AD165F6" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/844545038_1112843047886339_1640360320329188464_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=p600x600&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=MvDN_vzXiiAQ7kNvwFOCLYP&amp;_nc_oc=AdrYu5b0v0sTVUZcb5WpVbXlTLsFBLNqxgFTsFGA9eWlLD-x7tADBsng5ZW4dEq_Xro&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=h5Jgrw4rVu-Czz4xARGDEQ&amp;_nc_ss=7f289&amp;oh=00_AQPUngmGIUFhoT44jKo3i-VZYit712qO9bGjAlU9SCs5Yg&amp;oe=6AD165F6" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>30 mil reproducciones · 1033 reacciones | 🔴 Trump y Zelenski chocan por acuerdo sobre diésel y ataques rusos dejan 21 muertos El presidente estadounidense Donald Trump y su homólogo ucraniano, Volodimir Zelenski, cruzaron críticas este sábado después de que Washington decidiera aliviar las sanciones al diésel ruso y mientras nuevos ataques de Moscú contra Ucrania causaron al menos 21 muertos, incluidos cuatro niños. | DW Español</title>
-      <link>https://www.facebook.com/reel/1374277547820992/?comment_id=1573812447833990&amp;__cft__%5B0%5D=AZh-IYxWBxhgco3RA4pivJVyYo7AvMuLDwV2TUNb9YXZ8Na8b8uyABDac03gmubG-rYdLd-liGzs8S9zV7B58zN9EzNOt0ImuOzQ2HOS8bPwyORJKGysv372jT6c9u9oZiOKu9zeE_b3sigLDlnXUVNkaIi5UAZBJ6Fnzi9DM_zMYHIzqRbfV4FPc2YRhDft00wJ&amp;__tn__=R-R</link>
-      <description>🔴 Trump y Zelenski chocan por acuerdo sobre diésel y ataques rusos dejan 21 muertos El presidente estadounidense Donald Trump y su homólogo ucraniano, Volodimir Zelenski, cruzaron críticas este... 🔴 Trump y Zelenski chocan por acuerdo sobre diésel y ataques rusos dejan 21 muertos El presidente estadounidense Donald Trump y su homólogo ucraniano,... Fuente: DW Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fc3492360fb612bb</guid>
-      <pubDate>Sun, 11 Oct 2026 15:47:26 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
-      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/841611172_1419431386324302_8664614880903238066_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=sd4Jn0S15mIQ7kNvwH_pPKB&amp;_nc_oc=Adqu3a1hQ2npIHauWgXb9MeWIcgDaOe03Zsg512Wu4c0Zko5ANKKrBeNmio6H1u0YPQ&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=IhZ0cWRMIjdZNuoj9JoTxQ&amp;_nc_ss=7f289&amp;oh=00_AQOIL_K6Wk2LC2y8eub6yPNdH93n1iDbB3rFI5bJ__C4fg&amp;oe=6AD18C81" medium="image" />
-      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/841611172_1419431386324302_8664614880903238066_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=sd4Jn0S15mIQ7kNvwH_pPKB&amp;_nc_oc=Adqu3a1hQ2npIHauWgXb9MeWIcgDaOe03Zsg512Wu4c0Zko5ANKKrBeNmio6H1u0YPQ&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=IhZ0cWRMIjdZNuoj9JoTxQ&amp;_nc_ss=7f289&amp;oh=00_AQOIL_K6Wk2LC2y8eub6yPNdH93n1iDbB3rFI5bJ__C4fg&amp;oe=6AD18C81" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
