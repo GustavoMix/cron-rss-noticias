@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 12 Oct 2026 06:03:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:29:28 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -24,21 +24,6 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/140fac20-c56b-11f1-bd33-db1f7eaf2b30.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24cd/live/140fac20-c56b-11f1-bd33-db1f7eaf2b30.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live Updates: Nobel Peace Prize Winner to Be Announced</title>
-      <link>https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026</link>
-      <description>The winner will be announced in a ceremony that starts at 10am UK time (11am CEST) We will learn the name of the winner today, but the official award-giving ceremony only will be in December – on 10 December, to be precise, the day of Nobel’s death. That’s been the tradition since the first Nobel Prize was awarded in 1901. Continue reading... Publicado también por: The Guardian - World, BBC News - World, UN News, The Washington Post - World, ABC News Australia, NPR - World, Al Jazeera English. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:aa190cdbf909c232</guid>
-      <pubDate>Fri, 09 Oct 2026 08:54:54 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>África</category>
-      <dc:creator>The New York Times</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-header-fwpz/09nobel-header-fwpz-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-header-fwpz/09nobel-header-fwpz-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize</title>
@@ -110,6 +95,21 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://variety.com/wp-content/uploads/2026/10/Katie-Zacharia.jpg" medium="image" />
       <enclosure url="https://variety.com/wp-content/uploads/2026/10/Katie-Zacharia.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Paris’s oldest covered food market gutted by major overnight fire</title>
+      <link>http://www.africanews.com/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire/</link>
+      <description>Paris Fire Brigade images show flames ravaging the Marché Couvert des Enfants Rouges in the Marais district during the night between Sunday and Monday, October 12. Founded in 1615, the Enfants Rouges market is the oldest covered food market in Paris and is listed as a historic monument. Publicado también por: Euronews, ABC News Australia, France 24 - English, Sky News - World. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e4d1b0110105920f</guid>
+      <pubDate>Mon, 12 Oct 2026 14:01:37 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>África</category>
+      <category>Oceanía</category>
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/94/89/38/640x360_cmsv2_eff69146-2876-5066-9132-1f30ea5cc7aa-9948938.jpg?1791808725" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/94/89/38/640x360_cmsv2_eff69146-2876-5066-9132-1f30ea5cc7aa-9948938.jpg?1791808725" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pope Leo to undergo surgery to remove lung nodule</title>
@@ -392,21 +392,6 @@
       <enclosure url="https://static.toiimg.com/photo/msid-134864421,imgsize-4284770.cms" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump says US will not strike Iran before midterm elections</title>
-      <link>https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss</link>
-      <description>The U.S. and Iran signed a short-lived interim agreement in June, intended to establish a 60-day ceasefire and framework for a permanent peace deal Publicado también por: The Hindu - International, CNBC - World, The Washington Post - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4a803ea26aee1076</guid>
-      <pubDate>Fri, 09 Oct 2026 06:22:07 +0000</pubDate>
-      <category>conflictos</category>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/ynleyp/article71562336.ece/alternates/LANDSCAPE_1200/2026-02-03T203616Z_1133507265_RC2W7FAU6WQB_RTRMADP_3_GLOBAL-OIL.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/ynleyp/article71562336.ece/alternates/LANDSCAPE_1200/2026-02-03T203616Z_1133507265_RC2W7FAU6WQB_RTRMADP_3_GLOBAL-OIL.JPG" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Trump dice que Rusia y Ucrania acordaron un “alto el fuego energético”</title>
       <link>https://www.lanacion.com.ar/el-mundo/trump-dice-que-rusia-y-ucrania-acordaron-un-alto-el-fuego-energetico-nid11102026/</link>
       <description>En un nuevo giro de la guerra entre Rusia y Ucrania, el presidente estadounidense, Donald Trump, anunció un acuerdo para detener los ataques contra la infraestructura energética de ambos países, una medida que venía reclamando en los últimos días. En su red social Truth Social, el jefe de la Casa Blanca habló de un «alto el fuego energético» con «efecto inmediato» y advirtió: «No lo rompan». Analizamos el tema con Mark Voyger, analista internacional y presidente de KINGS, Instituto de Seguridad Nacional y Global de Kiev. Publicado también por: El Mundo - Internacional, BBC News Mundo, France 24 - Español. Fuente: La Nación - El Mundo.</description>
@@ -465,19 +450,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/001c/live/84c5d730-c3d3-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Canadian poet and author Anne Carson wins Nobel Prize in Literature</title>
-      <link>https://www.france24.com/en/tv-shows/arts24/20261009-canadian-poet-and-author-anne-carson-wins-nobel-prize-in-literature</link>
-      <description>Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel prize in literature has been awarded to the Canadian poet and essayist Anne Carson, the Swedish Academy has announced. The academy cited the author’s “bold and inventive oeuvre that, in playful dialogue with the classical tradition, has created new forms for contemporary literature”. Continue reading... Publicado también por: BBC News - World, The Guardian - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c9678dd5b59ced51</guid>
-      <pubDate>Fri, 09 Oct 2026 08:30:00 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>Olivia SALAZAR WINSPEAR</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/1c54e0c4-c3bf-11f1-98fc-ef6152f87623/w:1024/p:16x9/capture-13621407416ac8abe41dc534-69243416.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/1c54e0c4-c3bf-11f1-98fc-ef6152f87623/w:1024/p:16x9/capture-13621407416ac8abe41dc534-69243416.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Pope Leo to undergo surgery for growth on lung</title>
       <link>https://www.thehindu.com/news/international/pope-leo-to-undergo-surgery-for-growth-on-lung/article71572904.ece</link>
       <description>Pope Leo said ⁠on Sunday that doctors had detected a small growth on his lung during a recent health check and he would be undergoing surgery this ‌week to remove it, in the first health scare of the 71-year-old pontiff’s tenure. Leo told pilgrims in St. Peter’s Square for his weekly Sunday prayer that the growth was “well-contained” and caught at an early stage. “Recently, during ⁠some medical examinations, doctors found a localised nodule in my ‌lung,” said the pontiff. “It was detected at a... Publicado también por: The New York Times - World, France 24 - English, NPR - World, CNBC - World, South China Morning Post. Fuente: The Hindu - International.</description>
@@ -531,6 +503,21 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/q5abmf/article71569332.ece/alternates/LANDSCAPE_1200/Civilian-death-GD8FL3NPN.4.jpg.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/q5abmf/article71569332.ece/alternates/LANDSCAPE_1200/Civilian-death-GD8FL3NPN.4.jpg.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises</title>
+      <link>https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models</link>
+      <description>US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers to stabilise their countries, avoiding long recessions and runaway inflation. Robert Hall of Stanford University, California, and Michael Woodford of Columbia University, New York, were recognised for developing the “microeconomic foundations of macroeconomic stabilisation” , giving policymakers better tools to smooth… Publicado también por: CNBC - World, Al Jazeera English. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ceef5c27e8757fe2</guid>
+      <pubDate>Mon, 12 Oct 2026 14:20:53 +0000</pubDate>
+      <category>economia</category>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <dc:creator>Graeme Wearden</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/da45028dc64bf797e1a84fdb61067fdf71dd4a3d/922_55_3916_3133/master/3916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aa6dd64fcf8b58346cf8516b8e437f1" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/da45028dc64bf797e1a84fdb61067fdf71dd4a3d/922_55_3916_3133/master/3916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aa6dd64fcf8b58346cf8516b8e437f1" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>North Korea launches multiple ballistic missiles, South Korea says</title>
@@ -618,6 +605,20 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fc7bbfbc77b08608b923754b765d55f" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/2a3d9c552bda55ade07a8cda78b34dc1ebbc1f15/66_0_2203_1763/master/2203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fc7bbfbc77b08608b923754b765d55f" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El Papa será hospitalizado mañana a mediodía para ser operado del nódulo en el pulmón</title>
+      <link>https://www.elmundo.es/internacional/2026/10/12/6accb125e9cf4a18268b456f.html</link>
+      <description>Será hospitalizado en el Policlínico Gemelli de Roma, informaron desde la Santa Sede. El Sumo Pontífice se mostró de buen ánimo este lunes, al realizar sus actividades de rutina sin restricciones. Publicado también por: Clarín - Mundo, BBC News Mundo. Fuente: El Mundo - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6690d7ffd1919c9e</guid>
+      <pubDate>Mon, 12 Oct 2026 12:09:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <dc:creator>El Mundo</dc:creator>
+      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
+      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/12/17917997085838.jpg" medium="image" />
+      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/12/17917997085838.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Christa Pike, condenada por asesinato, sale del hospital y regresa a prisión tras una ejecución fallida</title>
@@ -761,6 +762,20 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Pope Leo XIV to have surgery to remove lung nodule</title>
+      <link>http://www.africanews.com/2026/10/12/pope-leo-xiv-to-have-surgery-to-remove-lung-nodule/</link>
+      <description>Pope Leo XIV announced on Sunday that he would undergo surgery "in the coming days" for a lump on his lung. The Vatican said the pontiff's recovery should take about one week. Publicado también por: The New York Times - World, The Washington Post - World. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1134fac4e4df590f</guid>
+      <pubDate>Mon, 12 Oct 2026 10:56:47 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>América del Norte</category>
+      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/94/82/70/640x360_cmsv2_77629fce-c9b6-5dea-8850-888536aff202-9948270.jpg?1791786811" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/94/82/70/640x360_cmsv2_77629fce-c9b6-5dea-8850-888536aff202-9948270.jpg?1791786811" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Abbas postpones Palestinian elections, sets presidential poll for September 2027</title>
       <link>https://www.france24.com/en/video/20261010-abbas-postpones-palestinian-elections-sets-presidential-poll-for-september-2027</link>
       <description>Palestinian President Mahmoud Abbas on Saturday postponed legislative elections due next month until September 11, 2027, and called a presidential poll for the same date, blaming Israel and ‌the security situation in the Palestinian territories for the delay. Abbas’ decree cited “obstacles posed by Israeli measures” and the need to establish suitable political, security and on-the-ground conditions for “free, fair and inclusive elections”, the official Palestinian news agency WAFA reported. The... Publicado también por: South China Morning Post, Euronews. Fuente: France 24 - English.</description>
@@ -799,6 +814,31 @@
       <category>Medio Oriente</category>
       <category>Europa</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>US Congresswoman Ilhan Omar's home raided in DOJ immigration probe - report</title>
+      <link>https://www.jpost.com/international/article-911447</link>
+      <description>"Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice," a DOJ spokesperson said of the raid. Publicado también por: BBC News - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bfb154824a4c184c</guid>
+      <pubDate>Mon, 12 Oct 2026 15:35:55 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <dc:creator>BY REUTERS AND JERUSALEM POST STAFF</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/255fca30-c63f-11f1-abff-0d918239b2e3.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/255fca30-c63f-11f1-abff-0d918239b2e3.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fridges in French supermarkets hit by cyber attack</title>
+      <link>https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo</link>
+      <description>Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b1507ddfe9c1cd72</guid>
+      <pubDate>Mon, 12 Oct 2026 14:30:09 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfaf/live/a3ced500-c63a-11f1-b99d-0127a94fa1d0.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>UK's Healey can't risk a 'steady as you go' budget, think tank warns... Ver más</title>
@@ -944,16 +984,17 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC</title>
-      <link>https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting</link>
-      <description>Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck. Publicado también por: CNBC - World, The Washington Post - World. Fuente: NPR - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3d2c11ffccfd9237</guid>
-      <pubDate>Fri, 09 Oct 2026 11:37:04 +0000</pubDate>
+      <title>Premio Nobel de Economía 2026 para Robert Hall y Michael Woodford por sus aportes para enfrentar las crisis económicas</title>
+      <link>https://www.facebook.com/perfilcom/posts/pfbid02G8hX6rfMeMkuxF8mJ18jtmbz9NqpyfdtqPexhEfYfUd8Zy5CJAHte9K8NfRCv3hpl?__cft__%5B0%5D=AZiODwoMElmqTEqYR1U-0p-PaSVU2bcrEdjZepoXPQY--KHVG6QujSAZX296S0GepKxf3x42A_BkhF1jFSfTV2G5spyMmvoPjhMsdY9BHplkk_F-GDHheqTOPCu_b6YjdrL6HabHqxYiHX44MGp5cynx8V9Kta2xKFFWkhrmGRf408rrjYQpI-U9LjU&amp;__tn__=%2CO%2CP-R</link>
+      <description>Premio Nobel de Economía 2026 para Robert Hall y Michael Woodford por sus aportes para enfrentar las crisis económicas PERFIL.COM Premio Nobel de Economía 2026 para Robert Hall y Michael Woodford Publicado también por: Expansión - Economía. Fuente: Perfil.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4a8ef8ee78f1a077</guid>
+      <pubDate>Mon, 12 Oct 2026 15:20:40 +0000</pubDate>
       <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Brittney Melton</dc:creator>
-      <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/perfilcom/">Perfil</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/17890354727537911844?url=https%3A%2F%2Ffotos.perfil.com%2F2026%2F10%2F12%2Ftrim%2F1140%2F641%2Fpremio-nobel-de-economia-2026-2346490.jpg&amp;fb_obo=1&amp;utld=perfil.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=FFIqLxSVRmIiM-8D3UZ_FQ&amp;_nc_zt=3&amp;oh=06_Q3_EAd_oN0WDzCEp6ktgz-ez9NvL0TjRMMR1OxN_JA1axchu&amp;oe=6ACEC8B8" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/17890354727537911844?url=https%3A%2F%2Ffotos.perfil.com%2F2026%2F10%2F12%2Ftrim%2F1140%2F641%2Fpremio-nobel-de-economia-2026-2346490.jpg&amp;fb_obo=1&amp;utld=perfil.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=FFIqLxSVRmIiM-8D3UZ_FQ&amp;_nc_zt=3&amp;oh=06_Q3_EAd_oN0WDzCEp6ktgz-ez9NvL0TjRMMR1OxN_JA1axchu&amp;oe=6ACEC8B8" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pregnant woman among eight killed in Pennsylvania shooting</title>
@@ -1023,6 +1064,31 @@
       <source url="https://www.france24.com/es/rss">France 24 - Español</source>
       <media:content url="https://s.france24.com/media/display/7e3b65be-c4c4-11f1-aa86-53993c5f1f18/w:1024/p:16x9/ES-20261010-080524-080720-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/7e3b65be-c4c4-11f1-aa86-53993c5f1f18/w:1024/p:16x9/ES-20261010-080524-080720-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>South Africa's deputy police chief resigns after being charged with sexual offences</title>
+      <link>https://www.bbc.co.uk/news/articles/c8wy9d940pyko</link>
+      <description>Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ef79155b6b824ca4</guid>
+      <pubDate>Mon, 12 Oct 2026 14:40:15 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c8/live/68991b20-c64a-11f1-b47f-e3f9cf703bc3.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Americans Robert E. Hall, Michael Woodford win Economics Nobel 2026</title>
+      <link>https://www.thehindu.com/business/Economy/nobel-prize-in-economics-2026-announced-robert-e-hall-michael-woodford/article71573945.ece</link>
+      <description>American-born economists ⁠Robert ⁠Hall ⁠and Michael Woodford have won the 2026 Nobel economics prize for their work on how monetary and fiscal policy can help stabilise fluctuations in the economy. Hall, 83, is affiliated with Stanford University in California, and Woodford, 70, with Columbia University in New York. The announcement was made in Sweden’s capital Stockholm, with the winners honoured “for microeconomic foundations of macroeconomic stabilisation”. One of their key insights is that... Publicado también por: Phys.org, South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9b7cc15f8ac8e379</guid>
+      <pubDate>Mon, 12 Oct 2026 11:17:08 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/news/national/65zzmh/article71574420.ece/alternates/LANDSCAPE_1200/Economics%20Nobel.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/news/national/65zzmh/article71574420.ece/alternates/LANDSCAPE_1200/Economics%20Nobel.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Sham contracts worth $1.1 billion may spell disaster for Abu Dhabi-owned soccer club, Man City. On this week's Viewsroom podcast, Breakingviews columnists debate whet... Ver más</title>
@@ -1099,20 +1165,70 @@
       <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/842574721_1082143084812855_2000276921787256917_n.png?stp=dst-jpg_tt6&amp;cstp=mx2000x1333&amp;ctp=p180x540&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=hf3n1rkdeR0Q7kNvwEf_lnu&amp;_nc_oc=AdpdWuAH5NWjzckhHBicrjRoenbaWBu9eE1-cdnmxzXJCXnTIha_jgZhDTeAKfncPkM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=zHWp170gCmsT3f4CFiNdRQ&amp;_nc_ss=7f289&amp;oh=00_AQO2AOATLGtdJrgL7o29S7JRCJch8zgCAjJJ5Yhn7K0Www&amp;oe=6ACFC76B" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize</title>
-      <link>https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-winner-pillay.html</link>
-      <description>South African jurist and former UN High Commissioner for Human Rights Navi Pillay was on Friday announced as the winner of the 2026 Nobel Peace Prize. Publicado también por: Africanews, UN News. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c245fa250f7b4698</guid>
-      <pubDate>Fri, 09 Oct 2026 13:57:46 +0000</pubDate>
-      <category>conflictos</category>
-      <category>sociedad</category>
-      <category>Medio Oriente</category>
-      <category>África</category>
+      <title>US federal agents raid home of Democratic congresswoman and Trump critic Ilhan Omar</title>
+      <link>https://www.france24.com/en/americas/20261012-us-federal-agents-raid-home-of-democratic-congresswoman-and-trump-critic-ilhan-omar</link>
+      <description>US federal agents on Monday launched a raid on ‌the Washington home of Democratic representative Ilhan Omar, an outspoken critic of US President Donald ⁠Trump, officials said. The raid followed a criminal fraud ‌investigation into the Somali-born lawmaker's immigration paperwork submitted by her late father when she ⁠was a child, Fox News reported. Publicado también por: Al Jazeera English. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:68dba188224a4a07</guid>
+      <pubDate>Mon, 12 Oct 2026 15:13:20 +0000</pubDate>
+      <category>politica</category>
       <category>América del Norte</category>
-      <dc:creator>Jonathan Wolfe and Nick Cumming-Bruce</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-breakout-htmq/09nobel-breakout-htmq-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/09/multimedia/09nobel-breakout-htmq/09nobel-breakout-htmq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <category>África</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/079d169a-c64b-11f1-b93c-77317c09f325/w:1024/p:16x9/AP26285444534618.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/079d169a-c64b-11f1-b93c-77317c09f325/w:1024/p:16x9/AP26285444534618.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least 20 injured in northern Israel explosion</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid04qsmqeXkjHNp9KRvyBds8nEk8cApT1omM7AhsvMM4hzTf42DjUgDKLE9EAiGpvFml?__cft__%5B0%5D=AZg1ZHogMIiZJw8LGA7XKF0KucS3XWnPOEsVH2aEYuC9pRuARcUfebvC1PYGZ0WRW96B7BWt1H859oGRxBtnR7hK3IjBlgEKGwDmIznnFEpOjkDA5VPPfEGZ6NZ3AQ2C2zLUireQn3-8hPHIat7_lMBWomC8BJp7Vb1B-sXMB9-x0CyfCGqXEOpKavQ&amp;__tn__=%2CO%2CP-R</link>
+      <description>The blast has been caused by unexploded ordnance in northern Israel near the Lebanese border. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:74a3d9119974f689</guid>
+      <pubDate>Mon, 12 Oct 2026 15:03:01 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/846567958_2011015666252426_659804557288708017_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x725&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=-GQI_I2NxHYQ7kNvwEwdiVp&amp;_nc_oc=AdprbuMPqLqZvhkefl7w7hNb4edwJohdGOdJCCgUWC4L0DppO28CyEGQqLgkCo4Eq9k&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Zyb772iPvZyLOyB0GsRC-A&amp;_nc_ss=7f289&amp;oh=00_AQNwJrDj7wiMXDrvfI1OTmzP_UJnf_fI_RdZCHa2bTKwmQ&amp;oe=6AD2E851" medium="image" />
+      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/846567958_2011015666252426_659804557288708017_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x725&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=-GQI_I2NxHYQ7kNvwEwdiVp&amp;_nc_oc=AdprbuMPqLqZvhkefl7w7hNb4edwJohdGOdJCCgUWC4L0DppO28CyEGQqLgkCo4Eq9k&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Zyb772iPvZyLOyB0GsRC-A&amp;_nc_ss=7f289&amp;oh=00_AQNwJrDj7wiMXDrvfI1OTmzP_UJnf_fI_RdZCHa2bTKwmQ&amp;oe=6AD2E851" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pakistan detains hundreds from former PM Khan's party as protests falter</title>
+      <link>https://www.thehindu.com/news/international/pakistan-detains-hundreds-from-former-pm-khans-party-as-protests-falter/article71575711.ece</link>
+      <description>President Zardari suspends provincial government in escalation of tensions as Khan supporters march to Islamabad Politicians from ⁠the party of the former Pakistani ​prime minister Imran Khan have been detained after the suspension of a provincial government now under emergency rule. Pakistan’s president declared a state of emergency and suspended the ⁠government in north-western Khyber Pakhtunkhwa province, led by Khan’s ally Sohail Afridi, on Sunday. Continue reading... Publicado también por: The Guardian - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3da6d2a0632bba3a</guid>
+      <pubDate>Mon, 12 Oct 2026 14:43:17 +0000</pubDate>
+      <category>politica</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/obpndw/article71575911.ece/alternates/LANDSCAPE_1200/2026-10-12T124418Z_1755496547_RC2L1OAJC9H5_RTRMADP_3_PAKISTAN-POLITICS.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/obpndw/article71575911.ece/alternates/LANDSCAPE_1200/2026-10-12T124418Z_1755496547_RC2L1OAJC9H5_RTRMADP_3_PAKISTAN-POLITICS.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rescued turtles return home after NSW government cut flows to wetland</title>
+      <link>https://www.theguardian.com/australia-news/2026/oct/13/rescued-turtles-return-home-after-nsw-government-cut-flows-to-wetland</link>
+      <description>Environmental water to the area was halted after a complaint from a private landholder, leading to the deaths of wildlife and sheep Get our breaking news email , free app or daily news podcast Freshwater turtles rescued from a dried-up water hole in western New South Wales after the state government cut environmental water to the area are being returned home. Late last month, 10 broad-shelled turtles and three Murray River turtles were released back into the Gingham water hole in the state’s Gwydir region. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:99f4a3f0ed5ee2be</guid>
+      <pubDate>Mon, 12 Oct 2026 14:00:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Lisa Cox Environment and climate correspondent</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/56c5384fd76840012e625de757fbad7346b34a0b/111_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8c0d002f39cdab412d3a0ca34f0ce97" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/56c5384fd76840012e625de757fbad7346b34a0b/111_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8c0d002f39cdab412d3a0ca34f0ce97" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fire destroys Marché des Enfants Rouges, ‘coolest market in Paris’</title>
+      <link>https://www.theguardian.com/world/2026/oct/12/fire-destroys-marche-des-enfants-rouges-coolest-market-in-paris</link>
+      <description>‘A lot of sadness’ after 17th century landmark that escaped demolition in the 1980s goes up in flames Fire has ravaged Paris’s oldest surviving covered food market, a popular street food venue dating back to the 17th century in the Marais district of the French capital that drew thousands of locals and tourists daily. Ariel Weil, the central Paris mayor, ​said the Marché des Enfants ‌Rouges had been “totally destroyed” in the blaze, which broke out soon after 3am. “The worst was avoided: the fire did not spread to the surrounding buildings,” he said. “But there is a lot of emotion. A lot of… Publicado también por: The New York Times - World. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:92e36d33bd2686d9</guid>
+      <pubDate>Mon, 12 Oct 2026 13:41:21 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Jon Henley in Paris</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/a9055686a0ddc9439716b05d4a95b00500c5a144/292_0_4431_3545/master/4431.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b9c5e0f08797394dae05b4e19236d3a" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/a9055686a0ddc9439716b05d4a95b00500c5a144/292_0_4431_3545/master/4431.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b9c5e0f08797394dae05b4e19236d3a" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>China sanctions Paraguay, Belize ministers over Taiwan ties</title>
@@ -1417,41 +1533,44 @@
       <enclosure url="http://images.euronews.com/articles/stories/09/94/63/79/640x360_cmsv2_6fd0287e-6643-594a-aa19-3e5741dc1e50-9946379.jpg?1791553991" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Afghanistan’s emerald miners struggle with tools but attract global buyers</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0ePnEM5UkuJRwGS9fbjP6V2Suwt2RZdShaDFuof16uvvqnJpqXViJemw3RBJJLsX4l?__cft__%5B0%5D=AZhXLyrKX-mCT1UDu8sx1DtIYx26K6VBm0lGTTmFgcsedzZB0GvObwJbKddZqPcjK4CkQP9Q_u4WNBNXssYWDnXaXX-ytOA5ZY2pbQc4pFrx05cp-T_wRi-NIaLfiPk26nD3BDUyRXYYFhdpNXCR0zqCPrJiuxnpYpAVaeeeJ_vlFzMcDg2uzr5vlxg&amp;__tn__=%2CO%2CP-R</link>
-      <description>Afghan miners endure harsh conditions, relying on basic tools to extract precious emeralds in Panjshir's steep valleys. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f392b0774c96d99f</guid>
-      <pubDate>Fri, 09 Oct 2026 09:00:58 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/843353615_2882666758785843_3693148727557075723_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=9iKdp-0ncH0Q7kNvwGm7Z1O&amp;_nc_oc=AdpXDi_Etsbak75yIUppsbkhRDqdUw6DRuRCsJPesGzYR_0ndfwn0cliP0HH7jdRWPg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=PUoD8WUPSoeERuQ7jtu1VQ&amp;_nc_ss=7f289&amp;oh=00_AQNdgw5qMlleN0YXnbLaQVJ0-b0iN2bt3_7fqPslBsvyzw&amp;oe=6ACE7992" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/843353615_2882666758785843_3693148727557075723_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=9iKdp-0ncH0Q7kNvwGm7Z1O&amp;_nc_oc=AdpXDi_Etsbak75yIUppsbkhRDqdUw6DRuRCsJPesGzYR_0ndfwn0cliP0HH7jdRWPg&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=PUoD8WUPSoeERuQ7jtu1VQ&amp;_nc_ss=7f289&amp;oh=00_AQNdgw5qMlleN0YXnbLaQVJ0-b0iN2bt3_7fqPslBsvyzw&amp;oe=6ACE7992" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Everton owners consider selling club two years after takeover</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo</link>
-      <description>Everton owners the Friedkin Group are exploring the sale of the club less than two years after taking control. Publicado también por: BBC News - Business. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ccd967dc41ad074c</guid>
-      <pubDate>Fri, 09 Oct 2026 08:23:50 +0000</pubDate>
-      <category>deportes</category>
+      <title>Deloitte falsified documents to evade tax on Abramovich's wealth</title>
+      <link>https://www.bbc.com/news/articles/c64g1l5389kvo</link>
+      <description>Article URL: https://www.bbc.com/news/articles/c64g1l5389kvo Comments URL: https://news.ycombinator.com/item?id=50054207 Points: 488 # Comments: 165 Publicado también por: BBC News - World. Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:70b9adce76399a2a</guid>
+      <pubDate>Mon, 12 Oct 2026 10:21:27 +0000</pubDate>
+      <category>conflictos</category>
+      <category>tecnologia</category>
       <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Betelbuddy</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Four astronauts return to Earth after eight months in space</title>
-      <link>https://phys.org/news/2026-10-astronauts-earth-months-space.html</link>
-      <description>SpaceX brought France's Sophie Adenot and fellow astronauts Jessica Meir, Jack Hathaway and Andrey Fedyaev back to Earth on Thursday after an eight-month mission on board the International Space Station that saw Adenot become the first French woman to walk in space. Publicado también por: France 24 - English. Fuente: Phys.org.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a6b6ede8cac139ce</guid>
-      <pubDate>Fri, 09 Oct 2026 08:13:30 +0000</pubDate>
-      <category>ciencia</category>
+      <title>Trump anuncia un alto el fuego energético inmediato entre Rusia y Ucrania pero los ataques continúan</title>
+      <link>https://www.bbc.com/mundo/articles/c6y43v0m3xv3o</link>
+      <description>Donald Trump anunció este domingo que Rusia y Ucrania dejarán de atacar sus respectivos sectores energéticos, un día después de que el presidente de Estados Unidos exigiera la salida del presidente ucraniano, Volodímir Zelenski, por los bombardeos a refinerías rusas.«Con efecto inmediato, ha comenzado un alto el fuego energético en la guerra entre Rusia y Ucrania», aseguró Trump en su red social. «Ambos lados lo han acordado, ¡no lo rompáis!», añadió. Hace menos de un mes, Trump hizo un anuncio similar sin que hubiera un acuerdo cerrado entre las partes.Horas después, el propio Zelenski… Publicado también por: ABC España - Internacional. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8ce1c620d56132ec</guid>
+      <pubDate>Mon, 12 Oct 2026 10:10:47 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>América del Norte</category>
       <category>Europa</category>
-      <source url="https://phys.org/rss-feed/">Phys.org</source>
-      <media:content url="https://scx1.b-cdn.net/csz/news/tmb/2026/four-astronauts-return.jpg" medium="image" />
-      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/four-astronauts-return.jpg" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebd2/live/40afd620-c61e-11f1-8c89-b96b8469b965.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ebd2/live/40afd620-c61e-11f1-8c89-b96b8469b965.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Women's billion-dollar boom leaves players behind, says Fifpro</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo</link>
+      <description>Women's football is on course to become a billion-dollar industry, but many professional players are still earning low wages, working on insecure contracts and experiencing rising psychological stress, a Fifpro survey indicates. Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:796c6b8257802d98</guid>
+      <pubDate>Mon, 12 Oct 2026 10:04:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779a/live/b7058b10-c616-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>In Holland, female football is in a crisis.</title>
@@ -1542,127 +1661,6 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0054/live/934f8e30-c4e7-11f1-900e-31f5a5ac5102.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0054/live/934f8e30-c4e7-11f1-900e-31f5a5ac5102.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices</title>
-      <link>https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo</link>
-      <description>The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:583be9e8f0332ee0</guid>
-      <pubDate>Fri, 09 Oct 2026 22:30:22 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Three found guilty of killing Australian brothers and American friend on surf trip</title>
-      <link>https://news.sky.com/story/three-found-guilty-of-killing-australian-brothers-and-american-friend-on-mexico-surf-trip-13597092</link>
-      <description>Three men have been found guilty of murdering two Australian brothers and their American friend during a surfing trip in Mexico. Publicado también por: BBC News - World. Fuente: Sky News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5968cbcd997fe06e</guid>
-      <pubDate>Fri, 09 Oct 2026 22:20:00 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Oceanía</category>
-      <category>Europa</category>
-      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
-      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" medium="image" />
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-jake-callum-robinson_7372589.jpg?20261010002747" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>At least 139 people dead after migrant boat capsizes off Djibouti</title>
-      <link>http://www.africanews.com/2026/10/11/at-least-139-people-dead-after-migrant-boat-capsizes-off-djibouti/</link>
-      <description>A boat has capsized off the coast of Djibouti leaving at least 139 migrants dead and 84 missing, a United Nations agency has reported. Publicado también por: Sky News - World. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8c655f016add2325</guid>
-      <pubDate>Sun, 11 Oct 2026 15:19:39 +0000</pubDate>
-      <category>sociedad</category>
-      <category>África</category>
-      <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/94/78/57/640x360_cmsv2_33fa8252-e073-5597-9932-37d277ed4777-9947857.jpg?1791727737" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/94/78/57/640x360_cmsv2_33fa8252-e073-5597-9932-37d277ed4777-9947857.jpg?1791727737" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US military will livestream the firing squad execution of Fort Hood shooter</title>
-      <link>https://www.euronews.com/2026/10/09/us-military-will-livestream-the-firing-squad-execution-of-fort-hood-shooter</link>
-      <description>The US will live-stream the US Army’s coming firing squad execution of a gunman who killed 13 people at the Fort Hood military base in 2009, the Pentagon said, in what would be an unprecedented broadcast of a US execution. Nidal Hasan, a former US Army psychiatrist, is set to become the first person to be executed by firing squad by the US military since 1945. The execution is scheduled for December 3 at the same sprawling Texas base where Hasan opened fire with a laser-sighted handgun in ‌a... Publicado también por: South China Morning Post. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8fa65ef9d1b53861</guid>
-      <pubDate>Fri, 09 Oct 2026 06:14:41 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/8d54a31d-71ab-42d4-91b6-20e1335f12cf_54cc4091.jpg?itok=VKNqV0cu&amp;v=1791524797" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/09/8d54a31d-71ab-42d4-91b6-20e1335f12cf_54cc4091.jpg?itok=VKNqV0cu&amp;v=1791524797" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>6452 reproducciones · 95 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/1417493469815927/?comment_id=1551682440310510&amp;__cft__%5B0%5D=AZhghM4gQiRgGvNJDezzqypYu5heNMcv7ZTlDuAqlTzp5Jdq0CCBV-dVhGl-QLLmJ0mqlLAJId4ckskY5rVT2aPh_H_RnbdRQgAfV0uTK-a_ZFkf0fu1LdUBhrpOYBP1Ue68RFsnlZgIvUXKxU_nTHwGgb9PAXSFpj1wnJTxU4Vy8Mj0GWLUCQBK3Wt-m5G0pUw&amp;__tn__=R-R</link>
-      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 21 🏙️POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚 #TheStrongest Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ce8f2c61e4c64702</guid>
-      <pubDate>Mon, 12 Oct 2026 06:03:15 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/842192105_1593602098368801_8224622708162287543_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-og75SgYqxwQ7kNvwG9BRHO&amp;_nc_oc=AdpaTcRftb20Wt8VdFUaf3qvK_pOjrugiUtjHvYBsw-SBq7xg423CfDndj-n2YCuDNE&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=ayUgNRbXcycXrTQnuizctA&amp;_nc_ss=7f289&amp;oh=00_AQPnli-ATD5PjRp3J9-NSQoWnpNqIs9ps-Hlx5hZquOvzA&amp;oe=6AD24684" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/842192105_1593602098368801_8224622708162287543_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=-og75SgYqxwQ7kNvwG9BRHO&amp;_nc_oc=AdpaTcRftb20Wt8VdFUaf3qvK_pOjrugiUtjHvYBsw-SBq7xg423CfDndj-n2YCuDNE&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=ayUgNRbXcycXrTQnuizctA&amp;_nc_ss=7f289&amp;oh=00_AQPnli-ATD5PjRp3J9-NSQoWnpNqIs9ps-Hlx5hZquOvzA&amp;oe=6AD24684" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live: Oil prices fall after Trump unilaterally announces Russia-Ukraine 'energy ceasefire'</title>
-      <link>https://www.france24.com/en/europe/20261012-live-oil-prices-fall-after-trump-unilaterally-announces-russia-ukraine-energy-ceasefire</link>
-      <description>Most stock markets rose Monday as oil prices tumbled after US President Donald Trump announced an alleged "energy ceasefire" between Russia and Ukraine, sparking astonishment from Kyiv and silence from Moscow. Trump's Ukrainian counterpart President Volodymyr Zelensky said he was seeking further details of the announcement. Follow our liveblog for all the latest developments. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:16f35c917f6acef3</guid>
-      <pubDate>Mon, 12 Oct 2026 05:29:41 +0000</pubDate>
-      <category>economia</category>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/dd06a708-c5f9-11f1-960a-3774aeac812a/w:1024/p:16x9/AP26284505371633.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/dd06a708-c5f9-11f1-960a-3774aeac812a/w:1024/p:16x9/AP26284505371633.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Poland’s foreign minister Radosław Sikorski told the FT that the likelihood of someone being killed was growing as Moscow multiplied its sabotage campaign operations on... Ver más</title>
-      <link>https://www.facebook.com/financialtimes/posts/pfbid0cn5be8UXikUBWibjtztHF36uUJS1zoizP43hoHVYfebEHdqrjKkYz2tZgF1AzXjEl?__cft__%5B0%5D=AZgpxHpFD7GeG913nyXQsQo-WQSM1I_aspkgYnuCYOsccIJ0g9_TjGgCfyZGzfUDILSGiADYb7Ui3ArJyjkgqK2x8vXlpPxniBN9QRMswIEeuX8XVpKSwcPfNkRUpCFfEhmX7HQEvVysankaT9_ZnSP27zl27FZbc5QLrnIXHkxRQ9d04iAoofPbEg8&amp;__tn__=%2CO%2CP-R</link>
-      <description>Poland’s foreign minister Radosław Sikorski told the FT that the likelihood of someone being killed was growing as Moscow multiplied its sabotage campaign operations on... Ver más That would be very convenient for Poland and the Baltics, no? Ver más comentarios Waqodah Ntae Shönnu Fuente: Financial Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:17a91d599f7a6549</guid>
-      <pubDate>Mon, 12 Oct 2026 04:56:16 +0000</pubDate>
-      <category>economia</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/844044229_2299777517531349_1579042466765550342_n.png?stp=dst-jpg_tt6&amp;cstp=mx1620x2025&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=p3isa1qIE_EQ7kNvwGXGHso&amp;_nc_oc=AdoSlt6DISuOnsA9G5BApfYlC2J2o7nxqbWb0iOuzoOIWmw5Kbbjfz_D5FG9-KXFs5U&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=zC4_T4lC4w1KENbsr-nH2A&amp;_nc_ss=7f289&amp;oh=00_AQOEobxtbvK-HTv0HG5qYr6K1V4ekn9EFMS1G6JMX3r36A&amp;oe=6AD246D3" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/844044229_2299777517531349_1579042466765550342_n.png?stp=dst-jpg_tt6&amp;cstp=mx1620x2025&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=p3isa1qIE_EQ7kNvwGXGHso&amp;_nc_oc=AdoSlt6DISuOnsA9G5BApfYlC2J2o7nxqbWb0iOuzoOIWmw5Kbbjfz_D5FG9-KXFs5U&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=zC4_T4lC4w1KENbsr-nH2A&amp;_nc_ss=7f289&amp;oh=00_AQOEobxtbvK-HTv0HG5qYr6K1V4ekn9EFMS1G6JMX3r36A&amp;oe=6AD246D3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>3518 reproducciones · 70 reacciones | Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport. Sunday’s strike followed an attack on Saturday that killed 12 people and injured more than 300. Al Jazeera’s Malik Traina reports. | Al Jazeera English</title>
-      <link>https://www.facebook.com/reel/1130450979538749/?comment_id=2276373599877495&amp;__cft__%5B0%5D=AZhP240crtfSQRkshgAGcXjjZxTZDzm9D1H6tFA4yEHtye5wLDmnAb4okc4yXOweJFUF-t3EpyY7yBm2facEI193wY0eUi3Z5p2oKqIvpfz1_WSxrNZqo-UxVinJ6Ixmdj9tdmF23-SiBBAis9me3tYw5cJfdxdsA1Dt2ZPexUSlrm-VGQ-wEuH5ESXBPI9QF_PT&amp;__tn__=R-R</link>
-      <description>Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport. Sunday’s strike followed an attack on Saturday that... Saudi authorities say a Pakistani national was killed and several people injured in a second strike on Riyadh’s King Khalid International Airport.... Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fbd965329c32facc</guid>
-      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/844981747_1624938522501308_6142264646307239866_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CgAuCnowxm0Q7kNvwFtclCu&amp;_nc_oc=AdoN-YjzWn9swJLmWxHfVeoafY2E_vur33wJUXIC93kLvB9NiRcWjtEk2AT1cowfExQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=fxQrAExuhiYE9-OyKvsp8g&amp;_nc_ss=7f289&amp;oh=00_AQNkLuzqGSXY2ATNfYvp1ZA2n4IzBKscghAoBU-4WldhVg&amp;oe=6AD1E491" medium="image" />
-      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t15.5256-10/844981747_1624938522501308_6142264646307239866_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=CgAuCnowxm0Q7kNvwFtclCu&amp;_nc_oc=AdoN-YjzWn9swJLmWxHfVeoafY2E_vur33wJUXIC93kLvB9NiRcWjtEk2AT1cowfExQ&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=fxQrAExuhiYE9-OyKvsp8g&amp;_nc_ss=7f289&amp;oh=00_AQNkLuzqGSXY2ATNfYvp1ZA2n4IzBKscghAoBU-4WldhVg&amp;oe=6AD1E491" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>10 mil reproducciones · 166 reacciones | There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League financial regulations. Sky's Rob Harris reports from Anfield where he spoke to fans from both sides. Read more: https://trib.al/WVFi7B3 #ManchesterCity #Football #Sports #UK | Sky News</title>
-      <link>https://www.facebook.com/reel/1724776981921855/?comment_id=2149892325738467&amp;__cft__%5B0%5D=AZhPRWA4XgvDuvvecNWMIgdB0a9mzl2IPAhaXfWEL89H0HwIqF8It9X2r_IKCjo0MybmVTYlp-W2KX2KF338XRk9ixPUjlrOnrMon7UOR2lRUcvgoG-vtjTUhfiPAL22dNXB7aChLsXMVqToZPXBsERX_eUnMfKOvV4p5DnAa9HkZslMChUxpCFsmPcuhpX4LUlK&amp;__tn__=R-R</link>
-      <description>There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League financial regulations. Sky's Rob Harris... There were boos and cheats chants for Man City as they beat Liverpool 3-0 in their first game since the club was found guilty of breaching Premier League... Fuente: Sky News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e7d7af1f44b963ea</guid>
-      <pubDate>Sun, 11 Oct 2026 23:49:24 +0000</pubDate>
-      <category>deportes</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/skynews/">Sky News</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/844220643_1122038687176980_6799178331112661245_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=pI8Mr0DsPcIQ7kNvwEy9uy7&amp;_nc_oc=AdpIQs_v-ccy51Tqv5z00xO6OpMplBEx5-BdWirvkvS5Le-7xiuwu7VVyG3py5pyRfk&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=v-SC_mB12IefsDr95YDiAg&amp;_nc_ss=7f289&amp;oh=00_AQMw5ZMp0mNJr938SlVju260258TVWswNIIvPCdkK7G9ow&amp;oe=6AD1E286" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/844220643_1122038687176980_6799178331112661245_n.jpg?_nc_cat=111&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=pI8Mr0DsPcIQ7kNvwEy9uy7&amp;_nc_oc=AdpIQs_v-ccy51Tqv5z00xO6OpMplBEx5-BdWirvkvS5Le-7xiuwu7VVyG3py5pyRfk&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=v-SC_mB12IefsDr95YDiAg&amp;_nc_ss=7f289&amp;oh=00_AQMw5ZMp0mNJr938SlVju260258TVWswNIIvPCdkK7G9ow&amp;oe=6AD1E286" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
