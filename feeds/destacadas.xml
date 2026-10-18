@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 18 Oct 2026 14:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 17:29:42 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -50,6 +50,21 @@
       <category>América del Norte</category>
       <dc:creator>BY REUTERS</dc:creator>
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pope Leo Leaves Hospital, Days After Lung Cancer Surgery</title>
+      <link>https://www.nytimes.com/2026/10/17/world/europe/pope-leo-discharged-hospital.html</link>
+      <description>The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November. Publicado también por: The Jerusalem Post - International, NPR - World, BBC News - World. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:17959e5693524cc8</guid>
+      <pubDate>Sun, 18 Oct 2026 16:11:54 +0000</pubDate>
+      <category>salud</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
@@ -111,19 +126,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/n14758/article71594140.ece/alternates/LANDSCAPE_1200/2026-10-15T002459Z_1757355399_RC2F2OAIW8D3_RTRMADP_3_USA-TRUMP-ZACHARIA.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Three children and teacher killed in US primary school shooting</title>
-      <link>https://www.bbc.co.uk/news/articles/cm89zp48k4kzo</link>
-      <description>The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school. Publicado también por: Sky News - World, Al Jazeera English. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3c4b27c945cbcf6a</guid>
-      <pubDate>Fri, 16 Oct 2026 03:45:09 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff29/live/cc0232d0-c90d-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank</title>
       <link>https://www.nytimes.com/2026/10/16/world/middleeast/israeli-settlers-washington-post-palestinians.html</link>
       <description>Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and injuring Palestinians and a Washington Post photographer. Masked settlers wielding clubs and other weapons attacked people attempting to harvest their olives in West Bank towns on Friday. Palestinian authorities said they recorded attacks in eight villages, and injuries among at least 20 people. Continue reading... Publicado también por: The Guardian - World, BBC News - World, The Independent - World. Fuente: The New York Times - World.</description>
@@ -137,19 +139,6 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/16/multimedia/16int-westbank-attack-01-lbgp/16int-westbank-attack-01-lbgp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Autoridades informan sobre tiroteo que dejó cuatro muertos en escuela de Oregon.</title>
-      <link>https://www.facebook.com/NoticiasTelemundo/videos/1379111201951115/?__cft__%5B0%5D=AZgPXZmA1deaGTCsU1KOx8hhg7AZN43no-Y0k6bPUEDTsmwsFuEgi89chmtvPbjv9gtndpFjOz9ZW1MZlVLRsszd7gHNmKXnZJB-QaodXbPj1nAeQVkQR9Hmum6nxNBu38tBcHABoj4oiH2BMdRucPaS9uWzeDwxh-_MExrpxztoRpHhQX6AdSLy774QLJqJIFI&amp;__tn__=%2CO%2CP-R</link>
-      <description>Un tiroteo en una escuela primaria del estado de Oregón (EE.UU.) ha dejado al menos cuatro muertos, entre ellos tres menores de edad, según varios medios de comunicación locales, que han puntualizado que la cuarta víctima es un adulto . La policía afirmó que el agresor había sido «abatido a tiros».«En estos momentos, hemos confirmado que hay varias víctimas», indicaba un comunicado de la policía local, que añadía que al menos dos personas habían sido trasladadas a un hospital de la zona. «Se desconoce su estado en estos momentos. Entre las víctimas hay niños», dice un comunicado… Publicado también por: El Mundo - Internacional, ABC España - Internacional. Fuente: Noticias Telemundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a32ee0e87c05614e</guid>
-      <pubDate>Fri, 16 Oct 2026 00:31:31 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/noticiastelemundo/">Noticias Telemundo</source>
-      <media:content url="https://media-dfw5-1.cdn.whatsapp.net/v/t61.24694-24/381844178_986210552633972_3832543497440659553_n.jpg?ccb=1-7&amp;_nc_sid=5a2cf7&amp;_nc_ohc=1j7kE4ZSViMQ7kNvwFNZ4m5&amp;_nc_oc=AdpmnLrSpSZiqk9re3TwonXyi1kaBBshVNrgrb9pAH2XkJXSMBJP48SSx6LqlVrm52w&amp;_nc_zt=3&amp;_nc_ht=media-dfw5-1.cdn.whatsapp.net&amp;_nc_gid=LL4rbuTmRH5htvbE03GLmA&amp;_nc_ss=7f289&amp;oh=01_Q5Aa5wF1gx448Tf9mYuGe9D9WOVbRbvqW-JGgnjjSeFon3gRhw&amp;oe=6AF8F467" medium="image" />
-      <enclosure url="https://media-dfw5-1.cdn.whatsapp.net/v/t61.24694-24/381844178_986210552633972_3832543497440659553_n.jpg?ccb=1-7&amp;_nc_sid=5a2cf7&amp;_nc_ohc=1j7kE4ZSViMQ7kNvwFNZ4m5&amp;_nc_oc=AdpmnLrSpSZiqk9re3TwonXyi1kaBBshVNrgrb9pAH2XkJXSMBJP48SSx6LqlVrm52w&amp;_nc_zt=3&amp;_nc_ht=media-dfw5-1.cdn.whatsapp.net&amp;_nc_gid=LL4rbuTmRH5htvbE03GLmA&amp;_nc_ss=7f289&amp;oh=01_Q5Aa5wF1gx448Tf9mYuGe9D9WOVbRbvqW-JGgnjjSeFon3gRhw&amp;oe=6AF8F467" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Deadly fire breaks out at Canada military base</title>
@@ -238,6 +227,18 @@
       <enclosure url="https://i.guim.co.uk/img/media/13301cb98a22a6b1728f97dbe586d68dfc8cba5f/341_0_3578_2863/master/3578.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c49b48870e7d3d8fafd388a9bbc2b49" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>BREAKING: Four service members are dead and dozens are seriously injured after a fire at an Alberta military base, Canadian Prime Minster Mark Carney says.</title>
+      <link>https://www.facebook.com/NBCNews/posts/pfbid02NhrTqC2MaUWNoHYXN5thdCqzfKJ1Rms5L3oCQRtbgJ4WPx8KvcpZergmah6H7ckl?__cft__%5B0%5D=AZjLPqz0EDVdunchPJASGjhHTxfg-KMcED5JC9D-xrRV_XIqNzZ5hjd-j2jKyzMdgnjEkyJ3glZUtME_iNAK3cCDxNQ6osyMnja7-dWyQRXZnRt8Db172uLD9I99Ddj6LKgWTWu4FTP2hh4dy64rWnDWeHZUUvA8iwk5X3LBJyexo6yarBlwt_-H4-w&amp;__tn__=%2CO%2CP-R</link>
+      <description>BREAKING: Four service members are dead and dozens are seriously injured after a fire at an Alberta military base, Canadian Prime Minster Mark Carney says. NBCNEWS.COM Carney says 4 service members killed and dozens injured in fire at Alberta military base Ver más comentarios Linda Jones Publicado también por: CNN. Fuente: NBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3108ef13b0938899</guid>
+      <pubDate>Sun, 18 Oct 2026 17:17:39 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/3036488999064305425?url=https%3A%2F%2Fimage.trueanthem.com%2FHsLPZIr4Baa1n8eW6LaVJiXWf7pLOaGIuEduqMxBnvg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjYxMDE4LXdhaW53cmlnaHQtcnMtNDBhY2ZmLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=nk_UP3rWSkns0Cw5LzAgVg&amp;_nc_zt=3&amp;oh=06_Q3_EASAPWni8gtG3rbewaP83nsw-XOd7vnZMlVvgI_EaJKF9&amp;oe=6AD6E853" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/3036488999064305425?url=https%3A%2F%2Fimage.trueanthem.com%2FHsLPZIr4Baa1n8eW6LaVJiXWf7pLOaGIuEduqMxBnvg%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjYxMDE4LXdhaW53cmlnaHQtcnMtNDBhY2ZmLmpwZw.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=nk_UP3rWSkns0Cw5LzAgVg&amp;_nc_zt=3&amp;oh=06_Q3_EASAPWni8gtG3rbewaP83nsw-XOd7vnZMlVvgI_EaJKF9&amp;oe=6AD6E853" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Tunisia’s economic crisis deepens as the promise of a better life fades</title>
       <link>https://www.facebook.com/aljazeera/posts/pfbid02JqJv68RsoYDr7nozHFixwFGAJkodyWpB3z8Tc2UEN9pcxAzLKUs3Kwfu71SicyYHl?__cft__%5B0%5D=AZgQ9JvH58cYqhvHk2c7siJ_BH8BzUul50j12awgtJ65g87R2kL23DsVbUHxnb4H0Vm5NiVbcefafJdJLUaWDCTkY0TWiWbAu_djTKdzA_nuJHw0FIQVHNZgQZdbN2hp9PgbnB3peIAuDw5bA4m-vNP4IjyKJ0CDDxCknhi7XKvLFNzlRLTRC3H9ee0&amp;__tn__=%2CO%2CP-R</link>
       <description>Joblessness, failing services and rising costs deepen hardship across the country. Fuente: Al Jazeera English.</description>
@@ -291,6 +292,21 @@
       <source url="https://www.france24.com/es/rss">France 24 - Español</source>
       <media:content url="https://s.france24.com/media/display/ad991b3c-c96d-11f1-aed0-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-070707-070848-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/ad991b3c-c96d-11f1-aed0-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-070707-070848-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>France protests: More than 1,800 arrested, Interior Minister says</title>
+      <link>https://www.thehindu.com/news/international/france-paris-protests-police-arrests-damage/article71599628.ece</link>
+      <description>Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people. Publicado también por: ABC News Australia, NPR - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1e3907d5e5a62166</guid>
+      <pubDate>Sun, 18 Oct 2026 12:49:08 +0000</pubDate>
+      <category>conflictos</category>
+      <category>economia</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/kyrqpl/article71599658.ece/alternates/LANDSCAPE_1200/2026-10-18T111037Z_778425426_RC2K5OAOMLW7_RTRMADP_3_FRANCE-PROTEST.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/kyrqpl/article71599658.ece/alternates/LANDSCAPE_1200/2026-10-18T111037Z_778425426_RC2K5OAOMLW7_RTRMADP_3_FRANCE-PROTEST.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta</title>
@@ -454,17 +470,28 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-satellites-observ.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Urgente | El dólar oficial se mantiene en Bs 11,68 para este viernes 16 de octubre, según el Banco Central de Bolivia (BCB).</title>
-      <link>https://www.facebook.com/correodelsur/posts/pfbid02t8gx7qdxLZx6MXXrC6qLADxyVobymAinWJsqJYBgExNUi8cR32KCyBYTPCJg5Mxdl?__cft__%5B0%5D=AZgyMxAUGHE_t4DAk4nU-UydSDxdclQ5YyqWeLliZpuaWr9U0DoivSxxclJgi1gDGGSUi3zM9R1-it63s2iMtcLC-GF64UGxkSpK8a0Orxxu85g5hOfmXKgl-uGyZU2uhlHf5A3IKUpzVIUKHq3W6foG2z7cNs_gUnh3XSBOeLjKSPiBlDJQFx550Kk&amp;__tn__=%2CO%2CP-R</link>
-      <description>El Banco Central de Bolivia fija la cotización oficial del dólar en Bs 11,68 para este viernes 16 de octubre.... Ver más ya pe q suba y nos lansaños PAL éxito Ver más comentarios Rodrigo Flores Choque Publicado también por: UNITEL Bolivia. Fuente: Correo del Sur.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8f9b2d6380a5b098</guid>
-      <pubDate>Fri, 16 Oct 2026 03:55:28 +0000</pubDate>
-      <category>economia</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/correodelsur/">Correo del Sur</source>
-      <media:content url="https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/853048552_1579987666681390_3794498249944303046_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1080&amp;ctp=s600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=ksAOb8zAnCgQ7kNvwHPzeVm&amp;_nc_oc=Adq8j1dWRb4Upk8SgnmPMrRNNAet07tACqZGtu8VEi6UXORSrIoloRyhTorkZWPVzxA&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=uxE1Yh0jhJ1nML8dnISdxQ&amp;_nc_ss=7f289&amp;oh=00_AQOpwCkhuYviOyprHlTDVE5S1nuYivK1HDxBbpp27y7u-Q&amp;oe=6AD772DC" medium="image" />
-      <enclosure url="https://scontent-dfw6-1.xx.fbcdn.net/v/t39.99422-6/853048552_1579987666681390_3794498249944303046_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1080&amp;ctp=s600x600&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=b96d88&amp;_nc_ohc=ksAOb8zAnCgQ7kNvwHPzeVm&amp;_nc_oc=Adq8j1dWRb4Upk8SgnmPMrRNNAet07tACqZGtu8VEi6UXORSrIoloRyhTorkZWPVzxA&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-1.xx&amp;_nc_gid=uxE1Yh0jhJ1nML8dnISdxQ&amp;_nc_ss=7f289&amp;oh=00_AQOpwCkhuYviOyprHlTDVE5S1nuYivK1HDxBbpp27y7u-Q&amp;oe=6AD772DC" type="image/jpeg" length="0" />
+      <title>Four have been killed and dozens injured after a "violent, fast-moving" fire at a Canadian military base, PM Mark Carney said. ... Ver más</title>
+      <link>https://www.facebook.com/bbcnews/posts/pfbid02Roc5EQTYdCfPsx9oJQhf9CYPm6jpFmMsno13Ku8ooSxQ3RmhQkkE9jB4XmHn3CUJl?__cft__%5B0%5D=AZgAkL3rLHAZ7NPdMq7M680ZnibbCe_yd1bcmIJ8MkLsNQj6jvE82RHWqrOrXdhsS3fAbCI3f8X0kDjTp1Bx_cNBlE_xUcsBK5wLx4sGVbve3_AyjDO2I6N3LcLv-XuU3QmtlhaAL03HsVFmlmUAPNoguKfQPPO5r9V0o4aoHOePYM2u5A4FWjhsyOo&amp;__tn__=%2CO%2CP-R</link>
+      <description>Four have been killed and dozens injured after a "violent, fast-moving" fire at a Canadian military base, PM Mark Carney said. ... Ver más Someone should explain to me: (violent fast-moving fire). Ver más comentarios Mudansir Salisu Maiadua Fuente: BBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:db8b49ea130a1b5c</guid>
+      <pubDate>Sun, 18 Oct 2026 16:50:46 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853637295_2064613400838271_1398156039732991102_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=0RB9fD9WPxEQ7kNvwEq-kZX&amp;_nc_oc=Adrqg22sokUpaaMtrczhVgAgeoQkLdw_hq8ogCEnVjcm2mx6EeC0EfhNJQkIoiTnigA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=YaCWC3LFuXBlE7ysHgCgUA&amp;_nc_ss=7f289&amp;oh=00_AQOts2w8UXNlDUkGe22O8Y5gVXmEfVLfJW01Bh3wxk18CA&amp;oe=6ADAB972" medium="image" />
+      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853637295_2064613400838271_1398156039732991102_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=0RB9fD9WPxEQ7kNvwEq-kZX&amp;_nc_oc=Adrqg22sokUpaaMtrczhVgAgeoQkLdw_hq8ogCEnVjcm2mx6EeC0EfhNJQkIoiTnigA&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=YaCWC3LFuXBlE7ysHgCgUA&amp;_nc_ss=7f289&amp;oh=00_AQOts2w8UXNlDUkGe22O8Y5gVXmEfVLfJW01Bh3wxk18CA&amp;oe=6ADAB972" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Oil facilities hit in deadly overnight attack on St Petersburg</title>
+      <link>https://www.bbc.co.uk/news/articles/c3eweygrjzd7o</link>
+      <description>At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e143e6a38df6e470</guid>
+      <pubDate>Sun, 18 Oct 2026 11:57:49 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Video: El momento en que la torre de un histórico ayuntamiento francés se derrumba en llamas en medio de las protestas</title>
@@ -503,16 +530,57 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>At least three children and one adult were killed in the attack at Silver Rail Elementary School in Bend, Oregon, according to US media.... Ver más</title>
-      <link>https://www.facebook.com/bbcnews/posts/pfbid0EF49yYNCMFqKHS21HRxFtKtkzGTsDtYpgWA5xYAhn65tBi7ZUTFud5dufpWX2Mukl?__cft__%5B0%5D=AZhRxAE-KZTEP5QPeaxmAzTZHpciybwqNmI7n9WWYBjvQAttYz0fiYR2DQz5WH8wI4beartdY2WPxwLHsFaGbY9Y2uwhN0gM7vttRYKiZQGpQcNh9jUZ_SnqQeyW19JfRFcqHqShWQUG6HhKNG5qjdFuJlAASjMR9XqcuM3T9LFSPQ9psZnQ4VJhIdg&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: BBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:abe59dc1c900a5fa</guid>
-      <pubDate>Fri, 16 Oct 2026 00:09:39 +0000</pubDate>
+      <title>Los disturbios vuelven al centro de París un día después de la gran revuelta</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid02qn4xY1PCTxuAPsn5hmvThMLAjRLUCGRa5ThyHjdk9HAsBXhza3hYP8nwFdMuqgFDl?__cft__%5B0%5D=AZi_ez0cc9s-e2DgMx03l8SUFJGEjOg_q2eJRtfBJThmuJL35fRNRy5vZa4el4sVW3Qn20qCLH4k8EPH4y-FOfyYX-w6-dZsd-iSWUnrjw9OXYBcjq3fZAxJcyGxEwShy4dsEtO0SY-hc4arqxaAm4MGKNL-DDtF0SGz0MC09tygEccRii2KRJLixaA&amp;__tn__=%2CO%2CP-R</link>
+      <description>Los disturbios vuelven al centro de París un día después de la gran revuelta En España están fluyendo. ELPAIS.COM Ver más comentarios Maria Blanco Publicado también por: El País - Internacional. Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b88c50b8c8e5be2b</guid>
+      <pubDate>Sun, 18 Oct 2026 17:14:47 +0000</pubDate>
       <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/851842921_2157080191512106_902495204000015894_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=2iXfWFG6ac4Q7kNvwErSd4V&amp;_nc_oc=AdrF0DrBTLYFqZya__OgmM9_TfhPXIX38G6hhDBEhh4hpjzeTQfCEeBF3ThjOOuBoJY&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=W-wR_kkiecxgG4yeze-T1g&amp;_nc_ss=7f289&amp;oh=00_AQPJPT3PnpR8bKTv7t1JyaX7YCgRIe2ay6X1ikMtXZ6QAg&amp;oe=6AD759AC" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/851842921_2157080191512106_902495204000015894_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=2iXfWFG6ac4Q7kNvwErSd4V&amp;_nc_oc=AdrF0DrBTLYFqZya__OgmM9_TfhPXIX38G6hhDBEhh4hpjzeTQfCEeBF3ThjOOuBoJY&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=W-wR_kkiecxgG4yeze-T1g&amp;_nc_ss=7f289&amp;oh=00_AQPJPT3PnpR8bKTv7t1JyaX7YCgRIe2ay6X1ikMtXZ6QAg&amp;oe=6AD759AC" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17712918920834288935?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FIPVHVQVVHZMPJJ4BNUOSVES6LM.jpg%3Fauth%3Dd5c2dc7ad57fa88c81160cc2ca60c42c264bf4786065c023239eaaeddef081ed%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=IuEjGjT2l-JgsrMLjSt7dA&amp;_nc_zt=3&amp;oh=06_Q3_EAdiY_0i44HdO_qh5yjMv7kT-1MK_DTYtwr7PfKg_8kFc&amp;oe=6AD6E828" medium="image" />
+      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/17712918920834288935?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FIPVHVQVVHZMPJJ4BNUOSVES6LM.jpg%3Fauth%3Dd5c2dc7ad57fa88c81160cc2ca60c42c264bf4786065c023239eaaeddef081ed%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=IuEjGjT2l-JgsrMLjSt7dA&amp;_nc_zt=3&amp;oh=06_Q3_EAdiY_0i44HdO_qh5yjMv7kT-1MK_DTYtwr7PfKg_8kFc&amp;oe=6AD6E828" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘Hybrid warfare’: Taiwan drives away 16 Chinese ships</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid02LD9EMWnEHHcy1GvPj57C5i9PeZiWi6ps7FbimcEHzk7kuhTLGU4bKXUW8N8Lph7wl?__cft__%5B0%5D=AZg3DYe5wuFTPoMbdZRpkVZe3gtEjZ5a_oUUAs6oMtC9op-lCU10ZoaxtICfQduCHW3aXZWSYvkeKYM3SHj9bHzdDJneDIKMc-gxOUgl5-UBdiEW03QOgE1_Trihev_03tbfvQ0SNl_wSPiKyLAPY4MeXg-R7Upq0wpsoVq8V74m54Z_9okSS5cjIJM&amp;__tn__=%2CO%2CP-R</link>
+      <description>China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to 'alter the status quo'. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:826fc9205d8d0bf8</guid>
+      <pubDate>Sun, 18 Oct 2026 17:01:02 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853575711_1800024354519800_3744952394611065620_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=HJTnZY75iWEQ7kNvwGv2ruj&amp;_nc_oc=AdoY6uY3d5FGpKG0PAkKBFQEBocf1Q7lEApx1yWLK9CP6fCwmnm_WsBns4gI4C3Lmuo&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=EYtHF8sZTPgH4LXPy2pmAg&amp;_nc_ss=7f289&amp;oh=00_AQOk_TyQeoeTIObHaP8G1pQj70QbOxuegSzUiQ0Vwk3urw&amp;oe=6ADAC0F3" medium="image" />
+      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/853575711_1800024354519800_3744952394611065620_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=HJTnZY75iWEQ7kNvwGv2ruj&amp;_nc_oc=AdoY6uY3d5FGpKG0PAkKBFQEBocf1Q7lEApx1yWLK9CP6fCwmnm_WsBns4gI4C3Lmuo&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=EYtHF8sZTPgH4LXPy2pmAg&amp;_nc_ss=7f289&amp;oh=00_AQOk_TyQeoeTIObHaP8G1pQj70QbOxuegSzUiQ0Vwk3urw&amp;oe=6ADAC0F3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israeli settlers attack European diplomats, beat French mayor</title>
+      <link>https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor</link>
+      <description>French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux, mayor of Aulnoye-Aymeries, was wearing his red, white and blue sash of office and attempting to enter a vehicle with diplomatic plates when he was assaulted and knocked to the ground on Saturday… Publicado también por: The Guardian - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f666e270ccc3bfcf</guid>
+      <pubDate>Sun, 18 Oct 2026 16:51:32 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/f8408122-caf6-11f1-a301-2d1c143cdef3/w:1024/p:16x9/EN-20261018-151317-151504-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/f8408122-caf6-11f1-a301-2d1c143cdef3/w:1024/p:16x9/EN-20261018-151317-151504-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump endorses Netanyahu in Israeli legislative elections</title>
+      <link>https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss</link>
+      <description>“This is the ⁠kind of Partner that the United States of America is demanding of Israel, ​a Country ‌for which it has done so much,” the U.S. President wrote on Truth Social Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ab4194bd37470d17</guid>
+      <pubDate>Sun, 18 Oct 2026 16:36:26 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/nwx92v/article71600633.ece/alternates/LANDSCAPE_1200/Iran_US_6_Months_Changed_Mideast_17733.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/nwx92v/article71600633.ece/alternates/LANDSCAPE_1200/Iran_US_6_Months_Changed_Mideast_17733.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Paris left reeling as student-led protests turn chaotic</title>
@@ -539,6 +607,20 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/69d4sy/article71600194.ece/alternates/LANDSCAPE_1200/2026-10-18T122206Z_1958379897_RC2O5OAPP6YE_RTRMADP_3_FRANCE-PROTEST.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/69d4sy/article71600194.ece/alternates/LANDSCAPE_1200/2026-10-18T122206Z_1958379897_RC2O5OAPP6YE_RTRMADP_3_FRANCE-PROTEST.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Pope Leo Addresses the Faithful a Day After Leaving the Hospital</title>
+      <link>https://www.nytimes.com/2026/10/18/world/europe/pope-leo-mass-lung-cancer.html</link>
+      <description>“This experience has made me feel a special closeness to all those who are battling illness and infirmity,” he said, in his first public appearance since his lung surgery. Publicado también por: Sky News - World. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:78f6c86727c1e95c</guid>
+      <pubDate>Sun, 18 Oct 2026 11:58:06 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>Motoko Rich and Elisabetta Povoledo</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>hace aproximadamente una hora</title>
@@ -915,19 +997,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16df/live/2fc36f20-c8bc-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Al menos 3 niños y un adulto mueren en un tiroteo en una escuela primaria de Oregón, según medios en EE.UU.</title>
-      <link>https://www.bbc.com/mundo/articles/ckj0l9lrenq6o</link>
-      <description>El incidente ocurrió en la escuela Silver Rail de la localidad de Bend alrededor de las 13:00, hora local. El sospechoso fue abatido, indicó la policía. Publicado también por: El Mundo - Internacional. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:61b92de552e005eb</guid>
-      <pubDate>Fri, 16 Oct 2026 00:22:17 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/334a/live/6b9af230-c8f7-11f1-a196-eb27eb4c06b2.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/334a/live/6b9af230-c8f7-11f1-a196-eb27eb4c06b2.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Tear gas, clashes between protesters and police hit French cities in cost-of-living demonstrations</title>
       <link>https://www.jpost.com/international/article-911968</link>
       <description>The protests began last ‌month at high schools in Paris' poor northern suburbs, where demonstrations over education morphed into anger about inequality. Publicado también por: CNBC - World. Fuente: The Jerusalem Post - International.</description>
@@ -949,6 +1018,21 @@
       <category>Europa</category>
       <category>Medio Oriente</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>Explosión e incendio en una base militar de Canadá: hay al menos 7 muertos y decenas de heridos</title>
+      <link>https://www.clarin.com/mundo/explosion-incendio-base-militar-canada-7-muertos-decenas-heridos_0_TjgzkDLHpP.html</link>
+      <description>Las autoridades de Canadá han informado este sábado de que un gran incendio se ha desatado en la base militar de Wainwright, en la provincia occidental de Alberta, la cual ha dejado un número indeterminado de víctimas y heridos, aún por especificar.El ministro de Defensa de Canadá, David McGuinty, ha confirmado que hubo víctimas mortales y heridos, pero no ha proporcionado más detalles por el momento y ha asegurado que el incendio está «siendo monitorizado muy de cerca», sin especificar si está bajo control, en declaraciones a la prensa recogidas por la cadena pública canadiense CBC.«Las… Publicado también por: ABC España - Internacional. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:993ff4637ddb9807</guid>
+      <pubDate>Sun, 18 Oct 2026 15:18:04 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2026/10/18/UikFKlX30_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2026/10/18/UikFKlX30_1200x630__1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Ukraine unveils flying ambulance drone that could save lives in minutes</title>
@@ -977,6 +1061,43 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/95/43/17/640x360_cmsv2_aa9395ee-b3a0-51b8-95a0-f0b484e76c39-9954317.jpg?1792131418" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/95/43/17/640x360_cmsv2_aa9395ee-b3a0-51b8-95a0-f0b484e76c39-9954317.jpg?1792131418" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>27 mil reproducciones · 892 reacciones | Francia: se derrumba una torre municipal en plena ola de protestas Limoges, en el centro de Francia, perdió gran parte de su histórico ayuntamiento, inaugurado en 1883. El incendio destruyó el techo y derribó la torre del reloj durante las movilizaciones del sábado, que reunieron a más de medio millón de personas en todo el país. Tras los episodios de violencia, las autoridades reportaron más de 2.000 detenidos. | DW Español</title>
+      <link>https://www.facebook.com/reel/1085918390817312/?comment_id=1703695988084552&amp;__cft__%5B0%5D=AZjJgR93JdLXMThmkLjNch0PpSzXkjMzhAUHzpxxO4maRMZXqgQTeacdl9wavRTRuNLkTZu8da10acHqhtWaG3ZtMUGTJ-hn4_jcnplOOfJmGEyU7xu9RJzd130eeVhE-01R-oMuwuH8Crm-ML3CyjXAUZwBuk4TQ6k3_1i4sCXkMF3YFHaXH9HbdlIAxGKJ6vyS&amp;__tn__=R-R</link>
+      <description>Francia: se derrumba una torre municipal en plena ola de protestas Limoges, en el centro de Francia, perdió gran parte de su histórico ayuntamiento, inaugurado en 1883. El incendio destruyó el techo... Francia: se derrumba una torre municipal en plena ola de protestas Limoges, en el centro de Francia, perdió gran parte de su histórico ayuntamiento,... Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7b00c71e335cb051</guid>
+      <pubDate>Sun, 18 Oct 2026 17:29:42 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/852101414_1051131487976182_8583427126727822614_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=fPaUSvVPzm4Q7kNvwFW3TLR&amp;_nc_oc=AdrbTy92v4LHoZF3MG1H6Z9SUza9OprtwM48SorXYNXIILd5JlgBbNJpB3JE0UgBk-0&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=tmlo2tsbUXxt1Hp6Cy1iBQ&amp;_nc_ss=7f289&amp;oh=00_AQPkEaotUKMxTKdF-sa_EWZ7H_5tcpeZ_8xectcJtLpjSw&amp;oe=6ADADD30" medium="image" />
+      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t15.5256-10/852101414_1051131487976182_8583427126727822614_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=fPaUSvVPzm4Q7kNvwFW3TLR&amp;_nc_oc=AdrbTy92v4LHoZF3MG1H6Z9SUza9OprtwM48SorXYNXIILd5JlgBbNJpB3JE0UgBk-0&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=tmlo2tsbUXxt1Hp6Cy1iBQ&amp;_nc_ss=7f289&amp;oh=00_AQPkEaotUKMxTKdF-sa_EWZ7H_5tcpeZ_8xectcJtLpjSw&amp;oe=6ADADD30" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Breaking news: Four service members died in a “violent, fast-moving” fire that swept through a Canadian military base in Alberta on Saturday, and dozens more were serio... Ver más</title>
+      <link>https://www.facebook.com/washingtonpost/posts/pfbid022Ah4KYukeJoVMtZBo6iAybZixpvUsBY5u9zZKJhU81zSngD4hK1qq8yi4W4yZHoQl?__cft__%5B0%5D=AZhNags9cF06LiJX-32bcIbsfbFwpRCDHrerZbFZ9lT8sfW6rYX4-VXx-sruRfhbok-Qm9ajvsbAAioJzY_-tYBmfHZxpGvcw5WXNdHELV03PUneovkCETg--GC168LikTJiRMJRSiaV4deuL70Lk11k_X8UzaIIz_i56rgsEvPYo5lILBAQYMMCFvw&amp;__tn__=%2CO%2CP-R</link>
+      <description>Breaking news: Four service members died in a “violent, fast-moving” fire that swept through a Canadian military base in Alberta on Saturday, and dozens more were serio... Ver más OMG...Wonder if this relates to the vote on separating from Canada so Alberta can pretend to be its own separate nation?? WASHINGTONPOST.COM 4 service members killed, dozens injured in fire at Canadian military base Ver… Fuente: The Washington Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3a51610122c0486b</guid>
+      <pubDate>Sun, 18 Oct 2026 17:12:29 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
+      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/8925083289249968294?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-18%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F7728f10e-29b8-4c47-9792-907b1e25e0ef&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Rv0jRMO6pCXLLs69vfMTxg&amp;_nc_zt=3&amp;oh=06_Q3_EAVyLbeoNL1iu13Et-kM20Dne6WRadhusCHyhuaXJ6Osj&amp;oe=6AD6E864" medium="image" />
+      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/8925083289249968294?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-18%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F7728f10e-29b8-4c47-9792-907b1e25e0ef&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Rv0jRMO6pCXLLs69vfMTxg&amp;_nc_zt=3&amp;oh=06_Q3_EAVyLbeoNL1iu13Et-kM20Dne6WRadhusCHyhuaXJ6Osj&amp;oe=6AD6E864" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Fire at Canadian Army Base Killed 4 and Injured Dozens</title>
+      <link>https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html</link>
+      <description>Prime Minister Mark Carney said the “violent, fast-moving” fire in the province of Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:674dd49930d86f62</guid>
+      <pubDate>Sun, 18 Oct 2026 16:58:13 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <dc:creator>Vjosa Isai and Ian Austen</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>As the American Girl doll company celebrates its 40th anniversary, Samantha has turned 25 — and is the subject of a new historical fiction novel by author Fiona Davis.</title>
@@ -1114,6 +1235,19 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-vzpm/18int-canada-alberta-fire-vzpm-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-vzpm/18int-canada-alberta-fire-vzpm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say</title>
+      <link>https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright</link>
+      <description>Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there have been both fatalities and injuries as a result of an incident on the base,” said David McGuinty. The defence minister described the situation at CFB Wainwright as “active and delicate” with the fire being monitored very closely, telling reporters that high winds had… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:46ed7dca35f63919</guid>
+      <pubDate>Sun, 18 Oct 2026 02:50:29 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <dc:creator>Guardian staff and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e72ca1ec2787b50d7c04cd5ed8abb5" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e72ca1ec2787b50d7c04cd5ed8abb5" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Eugenio Costa ha comentado: Desespero de última hora kkkk</title>
@@ -1453,136 +1587,6 @@
       <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
       <media:content url="https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/854245993_2285942148859298_5520696718149685757_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=odafD4lDmqIQ7kNvwEibgih&amp;_nc_oc=AdpdQcQOVtyOZKO9w1LU0fI9SvUne4_mr32fu3zdl6W_7yolTtJO8Y67dy1F9DZPaMg&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-2.xx&amp;_nc_gid=xn_Oh-StjKa8uxZrVEyKjA&amp;_nc_ss=7f289&amp;oh=00_AQMW9PZlMY13dreACcxoshj5A9nj3CQgIldUqjhyLucZew&amp;oe=6AD83A17" medium="image" />
       <enclosure url="https://scontent-dfw6-2.xx.fbcdn.net/v/t39.99422-6/854245993_2285942148859298_5520696718149685757_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=odafD4lDmqIQ7kNvwEibgih&amp;_nc_oc=AdpdQcQOVtyOZKO9w1LU0fI9SvUne4_mr32fu3zdl6W_7yolTtJO8Y67dy1F9DZPaMg&amp;_nc_zt=14&amp;_nc_ht=scontent-dfw6-2.xx&amp;_nc_gid=xn_Oh-StjKa8uxZrVEyKjA&amp;_nc_ss=7f289&amp;oh=00_AQMW9PZlMY13dreACcxoshj5A9nj3CQgIldUqjhyLucZew&amp;oe=6AD83A17" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>O trabalho infantil registrou em 2025 os menores níveis de uma série histórica iniciada em 2016 no Brasil, apontam dados divulgados nesta sexta-feira (16) pelo IBGE. A ... Ver más</title>
-      <link>https://www.facebook.com/folhadesp/posts/pfbid0TFhQbDDyDr649ft2XsdrNSMCtNd9ecfsQDfGK1AJ71w1YucLrvDVvsAd4DX2CWa3l?__cft__%5B0%5D=AZg8qZFtY9AFUJGhkJGzZH3u_x0u7FR2VSbb-IyrxyA6Y1sflpUzMUXM60TAlPn54d8YlGtv_GeLqj1LV53kr4vJwO2BQE8xJ8XCFBdMPyBYyuUpKLqz3a6AYrh18UWnOrWCMtaC5x4b0UO7p39gMPpyK_frzM0a5ifwvh12E0Y8YWWwvTAPsa5xQag&amp;__tn__=%2CO%2CP-R</link>
-      <description>O trabalho infantil registrou em 2025 os menores níveis de uma série histórica iniciada em 2016 no Brasil, apontam dados divulgados nesta sexta-feira (16) pelo IBGE. A ... Ver más Isso é muito importante!!! Ver más comentarios Maria Cristina Sette Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e177f61e11322864</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:34 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/854339222_1615223480067496_5547152577950322923_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s590x590&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1Wsq0vK2TC0Q7kNvwGrbk_w&amp;_nc_oc=AdrL3TMl7_O0WRfD-QXytCWnHttVtSihOYQDjTCFOcU0lbKwxVx0gOZEjXC3HCdPTRQ&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=Ok3a5shVYMG5PW3M-2CVZw&amp;_nc_ss=7f289&amp;oh=00_AQOUE00FOno1CF10jP6C4NM6rPQsZGEygs1vrIGyfsgDTg&amp;oe=6AD821D7" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/854339222_1615223480067496_5547152577950322923_n.png?stp=dst-jpg_tt6&amp;cstp=mx1638x2048&amp;ctp=s590x590&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1Wsq0vK2TC0Q7kNvwGrbk_w&amp;_nc_oc=AdrL3TMl7_O0WRfD-QXytCWnHttVtSihOYQDjTCFOcU0lbKwxVx0gOZEjXC3HCdPTRQ&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=Ok3a5shVYMG5PW3M-2CVZw&amp;_nc_ss=7f289&amp;oh=00_AQOUE00FOno1CF10jP6C4NM6rPQsZGEygs1vrIGyfsgDTg&amp;oe=6AD821D7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveable</title>
-      <link>https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory</link>
-      <description>Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen Europe live – latest updates As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian. Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:40cb10cd5ba3ebd3</guid>
-      <pubDate>Fri, 16 Oct 2026 15:28:10 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Andrew Roth in Kyiv</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/31cf026c415926e42b92bfec42453b9b849d4c23/0_451_2147_1717/master/2147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2971865cd5bb3b1e0438b3afd12a20ad" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/31cf026c415926e42b92bfec42453b9b849d4c23/0_451_2147_1717/master/2147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2971865cd5bb3b1e0438b3afd12a20ad" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Indonesia's forest fires spark public health crisis across Southeast Asia</title>
-      <link>https://www.france24.com/en/tv-shows/access-asia/20261016-indonesia-s-forest-fires-spark-public-health-crisis-across-southeast-asia</link>
-      <description>Massive wildfires in Indonesia show no sign of letting up. The environmental disaster is turning into a pollution crisis across Southeast Asia, as toxic haze from the blazes spread to neighbouring countries. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c5beacb0944dbe85</guid>
-      <pubDate>Fri, 16 Oct 2026 15:26:25 +0000</pubDate>
-      <category>ambiente</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>Yuka ROYER</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/ff39c682-c961-11f1-a160-4dd8ac2cf3bf/w:1024/p:16x9/000-D3DA3TF.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/ff39c682-c961-11f1-a160-4dd8ac2cf3bf/w:1024/p:16x9/000-D3DA3TF.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Deadly School Roof Collapse in Pakistan Raises Questions Over Regulation</title>
-      <link>https://www.nytimes.com/2026/10/16/world/asia/pakistan-peshawar-school-roof-collapse.html</link>
-      <description>A roof collapse that killed 32 children and a teacher in northwest Pakistan has prompted safety inspections of schools across the region. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4025d849753adc15</guid>
-      <pubDate>Fri, 16 Oct 2026 15:22:54 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <dc:creator>Salman Masood</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/16/multimedia/16pakistan-school-01-fjmc/16pakistan-school-01-fjmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Bajo la lluvia, los piedrazos y los gases lacrimógenos, el histórico cronista de TN cubrió los incidentes frente al Congreso. Una historia de vocación y compromiso con el…</title>
-      <link>https://www.facebook.com/todonoticias/posts/pfbid0FsJZLShhXnhPSNb5SoWMMgCmWsgQCSGfBoc1jHBuEaaWfrPeMG5be2WWp45fLt3yl?__cft__%5B0%5D=AZh45UI9-SYaiwMqlCpDvfyNBzLPfgd3Fuw7Qdt8pNqNZa8JsySh-HBmP0r-0uqyXuqEtphmkqx5GKFSu6MsmcWj74I4l2lhQzAAv2AazHfTpKvtccuOEeh4ZuTtxzHAJuPuTm1bcxW6gt7AS2tDtsbXwvDPKcvF_Dq2BMG4t7HEiz7oKkdjxO253Pc&amp;__tn__=%2CO%2CP-R</link>
-      <description>Bajo la lluvia, los piedrazos y los gases lacrimógenos, el histórico cronista de TN cubrió los incidentes frente al Congreso. Una historia de vocación y compromiso con el periodismo. VIVA MILEI TN.COM.AR Marcha universitaria: en medio de los enfrentamientos, Julio Bazán volvió a demostrar a los 80 años que deja todo por la noticia Christian Rodríguez Fuente: TN - Todo Noticias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:667d15267369ddf4</guid>
-      <pubDate>Fri, 16 Oct 2026 11:22:55 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/todonoticias/">TN - Todo Noticias</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/10286497350834994314?url=https%3A%2F%2Ftn.com.ar%2Fresizer%2Fv2%2Fmarcha-universitaria-en-medio-de-los-enfrentamientos-julio-bazan-volvio-a-demostrar-a-los-80-anos-que-deja-todo-por-la-noticia-foto-archivo-tn-EDZ6GCWTB5GNJFLO255PXU4BBY.png%3Fauth%3D2d91208cc1bf3fac52a6775e6fde8237be55cd7507a00d545de57dfcd2c65ede%26width%3D1023&amp;fb_obo=1&amp;utld=tn.com.ar&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=o6K_4RFEU6nycdM6GsabKw&amp;_nc_zt=3&amp;oh=06_Q3_EATcVTjskh7WG6mu-Lp6qnfbQP8dl4o-sGmy0ckIRASaq&amp;oe=6AD3FFF6" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/10286497350834994314?url=https%3A%2F%2Ftn.com.ar%2Fresizer%2Fv2%2Fmarcha-universitaria-en-medio-de-los-enfrentamientos-julio-bazan-volvio-a-demostrar-a-los-80-anos-que-deja-todo-por-la-noticia-foto-archivo-tn-EDZ6GCWTB5GNJFLO255PXU4BBY.png%3Fauth%3D2d91208cc1bf3fac52a6775e6fde8237be55cd7507a00d545de57dfcd2c65ede%26width%3D1023&amp;fb_obo=1&amp;utld=tn.com.ar&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=o6K_4RFEU6nycdM6GsabKw&amp;_nc_zt=3&amp;oh=06_Q3_EATcVTjskh7WG6mu-Lp6qnfbQP8dl4o-sGmy0ckIRASaq&amp;oe=6AD3FFF6" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters.</title>
-      <link>https://www.facebook.com/NPR/posts/pfbid02rJeTR3nntmNwkhhJwAiV4c5JaY4KSow9azZnwdhmUnjfv2mPjf5XE3fzU44gjBwPl?__cft__%5B0%5D=AZhmyi8j5A87xTjD8OTJaIssYW-_KgbBSKRzsTlRKT3ykGjPUfz6bWVOk3L9OhHGSv8H1bZmrsZVQ8-73YbnODNsQM71ry75ROz-gG9eKB4kkUq86u333LvcwaQR04-q_QQ9FXxORuJ_aobEKcY5vGqdF_gf9NG2pX4fHAuRFlTklzjErzvQgc0T26o&amp;__tn__=%2CO%2CP-R</link>
-      <description>A teen opened fire at an Oregon elementary school, leaving three kids and one teacher dead. And, the Justice Department is suing California over alleged noncitizen voters. The DOJ wouldn’t be suing if they didn’t have proof. NPR.ORG Teen kills 4 at Oregon school. And, DOJ sues California over alleged noncitizens Sandra Links Fuente: NPR.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0647f6b0a4f1a2ca</guid>
-      <pubDate>Fri, 16 Oct 2026 11:17:52 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NPR/">NPR</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/6908315453345242044?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F8256x4644%2B0%2B430%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F72%252F30%252F2ee46d124d148ea4cd726cface47%252Fgettyimages-2299891035.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=lkyA8VWj4fDt7cKFbg3yOQ&amp;_nc_zt=3&amp;oh=06_Q3_EAZt5tMrUFGSGQ12bTUqCgyQ7x6LYZbN2tG-x9liDVDsh&amp;oe=6AD3FC33" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/6908315453345242044?url=https%3A%2F%2Fnpr.brightspotcdn.com%2Fdims3%2Fdefault%2Fstrip%2Ffalse%2Fcrop%2F8256x4644%2B0%2B430%2Fresize%2F1400%2Fquality%2F85%2Fformat%2Fjpeg%2F%3Furl%3Dhttp%253A%252F%252Fnpr-brightspot.s3.amazonaws.com%252F72%252F30%252F2ee46d124d148ea4cd726cface47%252Fgettyimages-2299891035.jpg&amp;fb_obo=1&amp;utld=brightspotcdn.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=lkyA8VWj4fDt7cKFbg3yOQ&amp;_nc_zt=3&amp;oh=06_Q3_EAZt5tMrUFGSGQ12bTUqCgyQ7x6LYZbN2tG-x9liDVDsh&amp;oe=6AD3FC33" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Zelenskyy holds press conference after talks with EU leaders over breakdown in US relationship – Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates</link>
-      <description>Vatican says Pope Leo – still in hospital after his lung surgery earlier this week – spoke with Russian president Vladimir Putin this afternoon Analysis: Power plant attacks reflect Russian blueprint to make Ukrainian cities unliveable Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way. Speaking to Newsmax last night, Donald Trump repeated his views of the two leaders involved in the conflict. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d2aedd9e420cb392</guid>
-      <pubDate>Fri, 16 Oct 2026 11:09:36 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Jakub Krupa</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/cd594094e95e362cb56583998f477f5825785f5e/747_0_4116_3293/master/4116.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77dc3a032dd5dde6bba36da782694331" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/cd594094e95e362cb56583998f477f5825785f5e/747_0_4116_3293/master/4116.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77dc3a032dd5dde6bba36da782694331" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Burnham to deliver speech in Scotland on devolution – UK politics live</title>
-      <link>https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates</link>
-      <description>This blog is now closed Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992. He said: When it closed, it wasn’t just a works that shut, it was a whole community which saw the pillars underneath it just taken away, collapsed beneath it. That was a decision taken hundreds of miles away without any real consequences for what that would mean for people here, taken by people who would never have to live with those consequences, or see those consequences. I was the MP there for 16 years from the early 2000s… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1dcdf385f41e32c6</guid>
-      <pubDate>Fri, 16 Oct 2026 11:08:57 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>Taz Ali</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/d61b00d46bb08d50ada57bd8fb39135d3b188510/385_0_3839_3073/master/3839.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35b26b01376906282be005f5e6ac0eb4" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/d61b00d46bb08d50ada57bd8fb39135d3b188510/385_0_3839_3073/master/3839.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35b26b01376906282be005f5e6ac0eb4" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The president said the execution by firing squad of Nidal Malik Hasan, a former US Army major who killed 13 and injured 32 people in a mass shooting at Fort Hood in Tex... Ver más</title>
-      <link>https://www.facebook.com/financialtimes/posts/pfbid0ykaCSb2WBsQvojtCMuNS8LYCfRkTDWhRYkfUVPEgJYb7A3mEGQC2mwtACKzewfd7l?__cft__%5B0%5D=AZiLc1-3oEFLVpBmFV1_lUfhp2tGXJsod3BeHlDAu-jVfJo1v8VofPX8aFivSVD9UW11t8H81JhjuY71ft2ToLYlphWBxA2nrO-ftCDI0dWhRGlaC5Dl0ppKpRIEgYpNDJfebNJjmuJ4W08rYtRn8f0VLeyoX8WTHBs_0Q7W2mdiWSLkVwHlF3ttCE0&amp;__tn__=%2CO%2CP-R</link>
-      <description>The president said the execution by firing squad of Nidal Malik Hasan, a former US Army major who killed 13 and injured 32 people in a mass shooting at Fort Hood in Tex... Ver más It will only be available on PPV on Truth Social. Ver más comentarios Greg Saint James Fuente: Financial Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:04db1830ddce1804</guid>
-      <pubDate>Fri, 16 Oct 2026 11:01:41 +0000</pubDate>
-      <category>economia</category>
-      <category>África</category>
-      <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/852949600_1154060710278393_1164574458943173177_n.png?stp=dst-jpg_tt6&amp;cstp=mx1620x2025&amp;ctp=s640x640&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Z2W8XFA-5xYQ7kNvwF7jWkm&amp;_nc_oc=AdokG0BqXGVTsVlXBe1XJOiN1vz7BdJ-ZgG-1_fg0c0yRY4P-67ZlameIRXuA-_xfZM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=6LSl1UuAdM5FPq3iZYHRhw&amp;_nc_ss=7f289&amp;oh=00_AQMuLhiY3p4IYIb48ooAVhq_GpfU75oITRunLm3Td8vXkQ&amp;oe=6AD7D683" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/852949600_1154060710278393_1164574458943173177_n.png?stp=dst-jpg_tt6&amp;cstp=mx1620x2025&amp;ctp=s640x640&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Z2W8XFA-5xYQ7kNvwF7jWkm&amp;_nc_oc=AdokG0BqXGVTsVlXBe1XJOiN1vz7BdJ-ZgG-1_fg0c0yRY4P-67ZlameIRXuA-_xfZM&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=6LSl1UuAdM5FPq3iZYHRhw&amp;_nc_ss=7f289&amp;oh=00_AQMuLhiY3p4IYIb48ooAVhq_GpfU75oITRunLm3Td8vXkQ&amp;oe=6AD7D683" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>It’s been a record-breaking year for storm activity across the Pacific because of an unparalleled El Niño.... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid02ykgVnoXDXH275KpT2hUEtpU7X6V2BB8hDqrZoyesDbRMsEYhpnNNWYXuPyfabK93l?__cft__%5B0%5D=AZg5WXL2GFp7cziRJZSKFekpuBJmy-MDYSqCnf82_y6aWDpha9aT-Ni1xFIu6HR-sFwqzGlxCXvw6U9JgVqcPwAeaHY2BB8bR46tqo7nw_MPdPTqnX2uCXNexvwf7NMsV2kfvTky-_ILX62k4VcFFvXajsWecQlguk77AxxMGde0DF_yC1h3iQZEvus&amp;__tn__=%2CO%2CP-R</link>
-      <description>It’s been a record-breaking year for storm activity across the Pacific because of an unparalleled El Niño.... Ver más Looks like we're in for a wild ride with Tropical Depression Champi!. WASHINGTONPOST.COM A brewing Pacific storm could become one of the planet’s strongest this year Ver más comentarios Jason Lin Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ec32b327a82dd46e</guid>
-      <pubDate>Fri, 16 Oct 2026 11:00:52 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9338185930281811393?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-15%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F7252c28c-88be-49c6-ab74-b045a14b47c7&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=U8FZyp0kEikZOFN2nLiz8w&amp;_nc_zt=3&amp;oh=06_Q3_EAZ_ekG8Tez0SecELeK7WhbX3lnmZnFdGf719d7Ou3VZS&amp;oe=6AD3E9D9" medium="image" />
-      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/9338185930281811393?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-15%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F7252c28c-88be-49c6-ab74-b045a14b47c7&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=U8FZyp0kEikZOFN2nLiz8w&amp;_nc_zt=3&amp;oh=06_Q3_EAZ_ekG8Tez0SecELeK7WhbX3lnmZnFdGf719d7Ou3VZS&amp;oe=6AD3E9D9" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
