@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 19 Oct 2026 01:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:22:18 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -52,6 +52,18 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Anthropic says it will commit 5% of its shares to 'public benefit fund'</title>
+      <link>https://www.bbc.co.uk/news/articles/cm2kez327gdko</link>
+      <description>Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'. Publicado también por: BBC News - Business, Al Jazeera English, TechCrunch. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:40c99fbad4b3b2ce</guid>
+      <pubDate>Mon, 19 Oct 2026 04:30:59 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87fa/live/537946d0-cb5d-11f1-a1ba-9502012907ad.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pope Leo Leaves Hospital, Days After Lung Cancer Surgery</title>
@@ -185,19 +197,19 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>US journalist injured during Israeli settler attack on West Bank olive harvest</title>
-      <link>https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest</link>
-      <description>About 80 Israeli settlers set fire to olive trees and threw stones at Palestinians in a West Bank village Friday, injuring at least two people, including a US photojournalist with The Washington Post. The coordinated attack came as violence by settlers is on the rise during the olive harvest in the occupied Palestinian territory. Publicado también por: BBC News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cd6066c14d1a7e27</guid>
-      <pubDate>Fri, 16 Oct 2026 15:01:40 +0000</pubDate>
-      <category>mundo</category>
+      <title>US President Donald Trump endorses Netanyahu for Israeli election</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss</link>
+      <description>US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters, since many Israelis have expressed disappointment with Trump over the outcome of the Iran war and the US president's ceasefire proposal. Publicado también por: The Hindu - International, France 24 - English. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b0ce15bf0c5ed43b</guid>
+      <pubDate>Mon, 19 Oct 2026 05:10:37 +0000</pubDate>
+      <category>politica</category>
+      <category>conflictos</category>
       <category>América del Norte</category>
       <category>Medio Oriente</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/03083cb6-c96d-11f1-8513-4dd8ac2cf3bf/w:1024/p:16x9/000-D3GA69H.jpg" type="image/jpeg" length="0" />
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/nwx92v/article71600633.ece/alternates/LANDSCAPE_1200/Iran_US_6_Months_Changed_Mideast_17733.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/nwx92v/article71600633.ece/alternates/LANDSCAPE_1200/Iran_US_6_Months_Changed_Mideast_17733.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Egypt pledges support for Saudi Arabia as Houthi attacks escalate</title>
@@ -350,18 +362,16 @@
       <enclosure url="https://i.guim.co.uk/img/media/1ab732d5e231b07fef02c8b733fbf39933a3f591/420_0_4200_3360/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbafa9b10ba28b2d75e5b663dd38e53c" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Tiroteo en una escuela de Oregon deja a tres niños y un docente muertos</title>
-      <link>https://www.france24.com/es/video/20261016-tiroteo-en-una-escuela-de-oregon-deja-a-tres-ni%C3%B1os-y-un-docente-muertos</link>
-      <description>Un joven de 16 años abrió fuego el 15 de octubre en una escuela primaria en Bend, Oregon, en Estados Unidos. En el tiroteo, el adolescente mató a cuatro personas, tres niños y un docente, antes de ser abatido por un civil que lo persiguió dentro del colegio. Las víctimas mortales fueron tres niños de 5, 8 y 11 años y no se ha revelado la edad ni la identidad del docente. Otro menor de 7 años y una maestra de 54 años fueron trasladados al hospital con heridas graves, informó el jefe de policía de Bend, Mike Krantz, en una rueda de prensa. Publicado también por: El País - Internacional. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1e0993720c8c99c7</guid>
-      <pubDate>Fri, 16 Oct 2026 14:55:33 +0000</pubDate>
+      <title>Bomb threat forces Israel to Austria flight into emergency landing</title>
+      <link>https://www.bbc.co.uk/news/articles/c680zdmn100lo</link>
+      <description>Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say. Publicado también por: Al Jazeera English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7028242ad0482eea</guid>
+      <pubDate>Mon, 19 Oct 2026 02:41:50 +0000</pubDate>
       <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/ad991b3c-c96d-11f1-aed0-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-070707-070848-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/ad991b3c-c96d-11f1-aed0-638c1c1f5fd6/w:1024/p:16x9/ES-20261016-070707-070848-CS.jpg" type="image/jpeg" length="0" />
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f91d/live/31ebfb00-cb5a-11f1-97b1-010e9e08360f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>France protests: More than 1,800 arrested, Interior Minister says</title>
@@ -377,6 +387,20 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/kyrqpl/article71599658.ece/alternates/LANDSCAPE_1200/2026-10-18T111037Z_778425426_RC2K5OAOMLW7_RTRMADP_3_FRANCE-PROTEST.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/kyrqpl/article71599658.ece/alternates/LANDSCAPE_1200/2026-10-18T111037Z_778425426_RC2K5OAOMLW7_RTRMADP_3_FRANCE-PROTEST.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>France protests: Macron vows to hold accountable those who ‘sought to bring down the Republic’</title>
+      <link>https://www.thehindu.com/news/international/france-protests-macron-vows-to-hold-accountable-those-who-sought-to-bring-down-the-republic/article71601972.ece</link>
+      <description>Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people. Publicado también por: CNBC - World, NPR - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bf15590df865ea6a</guid>
+      <pubDate>Mon, 19 Oct 2026 03:39:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/vtrv6k/article71601974.ece/alternates/LANDSCAPE_1200/2026-10-16T172604Z_72290329_RC2H4OA71SS8_RTRMADP_3_EU-SUMMIT.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/vtrv6k/article71601974.ece/alternates/LANDSCAPE_1200/2026-10-16T172604Z_72290329_RC2H4OA71SS8_RTRMADP_3_EU-SUMMIT.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta</title>
@@ -512,20 +536,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Founder of Indian opposition 'Cockroach Janta Party' group, Dipke, detained ahead of protest</title>
-      <link>https://www.jpost.com/international/article-911926</link>
-      <description>Dipke called Friday's protest in support of two CJP leaders detained and sent to jail this week for five days for demonstrating at a protest site in violation of a ban. Publicado también por: BBC News - World. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:300b862ebc21e5b4</guid>
-      <pubDate>Fri, 16 Oct 2026 14:54:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc0b/live/9877b0a0-c955-11f1-8879-9d9deeb686e1.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Saudi coalition says two pilots killed in chopper crash near Yemen</title>
       <link>https://www.thehindu.com/news/international/saudi-coalition-says-two-pilots-killed-in-chopper-crash-near-yemen/article71599858.ece</link>
       <description>Riyadh’s Kingdom Centre skyscraper ordered remote working for office tenants on Sunday following repeated Houthi attacks on Saudi Arabia, as the Saudi-led coalition said two pilots were killed in a crash near the Yemen border. The imposing, 99-storey landmark announced “mandatory” remote working until further notice. No reason was given for the order, but it comes a week after 13 people were killed in a major Houthi attack on Riyadh’s international airport. The Saudi coalition’s decade-plus war... Publicado también por: South China Morning Post. Fuente: The Hindu - International.</description>
@@ -638,13 +648,55 @@
       <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/853048752_1863171398371074_2131328943314742998_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s590x590&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=QQ3qorc_kTIQ7kNvwGNb2e_&amp;_nc_oc=AdoDFBkWKSWcBOpbrb_d5m5iW5yMk8lSSWJtWeYka3rrn4972B0aiH3F3hl4bHbOWHM&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=kjHOI6pInoRL2G-spF9brw&amp;_nc_ss=7f289&amp;oh=00_AQOiny6t5a0HJV7LmTX7FYyywKvW-KXeyfPXrpEfQEA6tA&amp;oe=6AD83006" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals</title>
+      <link>https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard</link>
+      <description>Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the world Residents of a remote town in Norway that is in one of the fastest-warming places in the world have been told they must no longer drink tap water due to heavy metal contamination that scientists have linked to the thawing permafrost. Longyearbyen, in the archipelago of Svalbard , gets its main drinking water supply from a 1.5 mile-long (2.5km) dammed lake called Isdammen, or “ice pond”. Higher temperatures as a result of the climate crisis have… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6a9de98c25b94f53</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:20 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <dc:creator>Karen McVeigh</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/5063f973bf5f78d337e68238325b3fc349649b42/833_0_4260_3408/master/4260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26bac72d14c2d874a444ea021076ff33" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/5063f973bf5f78d337e68238325b3fc349649b42/833_0_4260_3408/master/4260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26bac72d14c2d874a444ea021076ff33" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Burnham urged to launch inquiry into unequal health impacts of air pollution</title>
+      <link>https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution</link>
+      <description>Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communities The government must hold an inquiry into the unequal impacts of air pollution, 150 scientists, MPs and activists have urged. Research by the Institute for Fiscal Studies shows that across England, lower-income areas have persistently higher levels of air pollution than wealthier areas. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6fa0cdf111933880</guid>
+      <pubDate>Mon, 19 Oct 2026 05:00:20 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Pippa Neill Environment reporter</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/50a7142d90cc1bff724004d7fbd4cdcbcf068cbf/638_301_4279_3424/master/4279.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=279703b3331b2a11c39461879c6b09f9" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/50a7142d90cc1bff724004d7fbd4cdcbcf068cbf/638_301_4279_3424/master/4279.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=279703b3331b2a11c39461879c6b09f9" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate</title>
+      <link>https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss</link>
+      <description>Brazil’s Senator Flavio Bolsonaro and President Luiz Inacio Lula da Silva traded barbs in ⁠their first face-to-face presidential debate on Sunday in a contentious back-and-forth just one week before the election’s run-off. Polls before the debate suggested Bolsonaro, the son of former far-right president Jair Bolsonaro, would enter the October 25 vote as the favourite after finishing nearly two points ahead of Lula in the election’s first round earlier this month. But surveys have also shown a... Publicado también por: South China Morning Post. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:61113594bd85915a</guid>
+      <pubDate>Mon, 19 Oct 2026 04:27:00 +0000</pubDate>
+      <category>politica</category>
+      <category>conflictos</category>
+      <category>América Latina</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/19/587742ce-fde1-4cd5-8000-42b78a79fce7_4c186ff9.jpg?itok=jVD6igjL&amp;v=1792382973" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/19/587742ce-fde1-4cd5-8000-42b78a79fce7_4c186ff9.jpg?itok=jVD6igjL&amp;v=1792382973" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse</title>
       <link>https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb</link>
-      <description>Independent MP Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with vaginal prolapse, as Labor and crossbenchers expressed their support for the Tasmanian senator. The latest cartoon, part of Pauline Hanson’s Please Explain series, took aim at the Albanese government’s Digital Duty of Care legislation, which targets online safety. Continue reading... Publicado también por: ABC News Australia. Fuente: The Guardian - World.</description>
+      <description>One Nation leader said Tasmanian senator should ‘get over it’ and claimed the cartoon was ‘satirical’ Get our breaking news email , free app or daily news podcast Anthony Albanese has praised the courage of Jacqui Lambie in speaking out about her struggles with vaginal prolapse, as politicians from across the spectrum condemn a One Nation cartoon. The latest cartoon, part of Pauline Hanson’s Please Explain series, depicts the army veteran as saying “I can’t laugh because of my prolapsed vagina,” before adding a crude sound effect ridiculing the health condition. Continue reading... Publicado también por: ABC News Australia. Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:4f87c2675339764d</guid>
       <pubDate>Mon, 19 Oct 2026 01:06:14 +0000</pubDate>
       <category>conflictos</category>
       <category>Oceanía</category>
+      <category>Global</category>
       <dc:creator>Tess Ikonomou</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/db7395d21cfc2aa2ecaa9eec0401566507e7dad2/1484_581_5720_4576/master/5720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d944a4ea9c1a0cb98ae6ead88cef2cc9" medium="image" />
@@ -1138,6 +1190,32 @@
       <enclosure url="https://www.clarin.com/img/2026/10/18/UikFKlX30_1200x630__1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>4722 reproducciones · 57 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 22 🏙️ POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #NacionalPotosí 🆚 #ClubBolívar | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1704622701086779/?comment_id=1671549417660579&amp;__cft__%5B0%5D=AZjNoeY1UjWAEMQ0qqd27tXhvgA-cW6YRl-21zlKAFkqad4kiGwBsgjHMTbhxEEWhPRgRyKtONQz3xK83qUjTaB0veBPd64MGwhGQ3yTRJCAb-8wtU78YuCbxY8XeewE2fGvHOnUFf4dAEMhI8AW7BIq3Z5p5DCrO01jMfBnWI83umjkXnpG8Y4YaPLwSJ5_QOE&amp;__tn__=R-R</link>
+      <description>#LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 22 🏙️ POTOSÍ 🏟️ VICTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #NacionalPotosí 🆚 #ClubBolívar Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cb3f43c506f18c1e</guid>
+      <pubDate>Mon, 19 Oct 2026 06:22:18 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/854569897_1640687621063791_4738153968456392968_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=B4c5mCtN-HMQ7kNvwE8OqHE&amp;_nc_oc=AdpqLSv9x7HduXenCQRPLKx_LbEbzy3I2-ewoLReM_hZALF4pbYqShW1AsJyh0s0W5Q&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Mx4mxXjjIu7fFmHC0b08Eg&amp;_nc_ss=7f289&amp;oh=00_AQO46aKksfQMu2TrMcECaAQXz2IRbt_hRbHarLwwPivpFg&amp;oe=6ADB981E" medium="image" />
+      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t15.5256-10/854569897_1640687621063791_4738153968456392968_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=B4c5mCtN-HMQ7kNvwE8OqHE&amp;_nc_oc=AdpqLSv9x7HduXenCQRPLKx_LbEbzy3I2-ewoLReM_hZALF4pbYqShW1AsJyh0s0W5Q&amp;_nc_zt=23&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Mx4mxXjjIu7fFmHC0b08Eg&amp;_nc_ss=7f289&amp;oh=00_AQO46aKksfQMu2TrMcECaAQXz2IRbt_hRbHarLwwPivpFg&amp;oe=6ADB981E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Live: Macron rejects French interior minister's resignation after weekend of unrest</title>
+      <link>https://www.france24.com/en/europe/20261019-live-france-macron-slams-unbridled-violence-protests-weekend-unrest</link>
+      <description>French President Emmanuel Macron slammed on Monday security "failures" that he said led to violent protests that rocked the country, but refused the resignation of Interior Minister Laurent Nunez over the crisis. At least 2,400 people were arrested following the unrest that saw town halls burned down and hundreds of businesses looted or damaged. Follow our liveblog for the latest updates. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1f633093662cb61d</guid>
+      <pubDate>Mon, 19 Oct 2026 05:15:32 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/8dd9e5d2-cb7b-11f1-a0f2-638c1c1f5fd6/w:1024/p:16x9/2026-10-18T162830Z-1582667973-RC2R5OAERROY-RTRMADP-3-FRANCE-PROTEST.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/8dd9e5d2-cb7b-11f1-a0f2-638c1c1f5fd6/w:1024/p:16x9/2026-10-18T162830Z-1582667973-RC2R5OAERROY-RTRMADP-3-FRANCE-PROTEST.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Krystle Jo Kimes ha comentado: Just bought the book! Can't wait to relive my childhood memories with Samantha again.</title>
       <link>https://www.facebook.com/NPR/posts/pfbid0p1CDQKKfNnbSyubm3XqLU9Uihe1Hz7Y5fHmJxXdpjw7f5wVntmqry744xDGpc4q4l?comment_id=3333298373528463&amp;__cft__%5B0%5D=AZjpXt1GzvjZU8UTZTxRbHRib6rZU9_6LiLLSBMMJnP1QVVsxzAbEJBKZh5GGRDYLLh72KCC7sQI6PR7BHaxg1t95eVhs3mDOgVKLy_Yw5xtr3TPETWYdNEWl4Sk-9CvnEODkVadJp5lxgQs5qRg3X2hLqMZyk0NGFUUeDrYuQa43L5kN4LUNVxXb-A&amp;__tn__=R-R</link>
       <description>As the American Girl doll company celebrates its 40th anniversary, Samantha has turned 25 — and is the subject of a new historical fiction novel by... Fuente: NPR.</description>
@@ -1507,80 +1585,6 @@
       <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>17 Dead, Dozens Injured After Stampede at Indian Religious Event</title>
-      <link>https://www.nytimes.com/2026/10/17/world/asia/india-deadly-stampede-kolkata.html</link>
-      <description>Such deadly crowd events are relatively common in India, and it was unclear what caused this one. The authorities detained the event’s organizer and others involved. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1a74e40e9759a02e</guid>
-      <pubDate>Sat, 17 Oct 2026 21:15:25 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-india-stampede-qcjh/17int-india-stampede-qcjh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Wirtz delivers but remains Liverpool's conundrum</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo</link>
-      <description>Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum? Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d86515fa6be46085</guid>
-      <pubDate>Sat, 17 Oct 2026 20:07:40 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>O título do cearense como homem mais velho foi reconhecido pelo Guinness World Records em 2024, quando João Marinho tinha 112 anos: http://glo.bo/4saCiTu #g1</title>
-      <link>https://www.facebook.com/g1/posts/pfbid026NmwTH6wi75SnDf6eoKFSqo6Pa46QRJFM1WGrkJZ4nR27BBoWjBJNTjVXy9AFK7bl?__cft__%5B0%5D=AZhoDkofNLx7BcUY6xBdBUHQAfJ9vYjD6vTW9Z86GIfIXmjaizWbtnTyWoQilKn76fkS8EKzVjstBqO6NZJ3B-B6bkddblwvPGmx_060QSHFMBU17uijZSX8ZW3ytScCV0Frud3iE5Xe34vEjtnSjVKCwpuiMjpoiY2uk8Z3U-IbHnMtKtCO0hGzMY0&amp;__tn__=%2CO%2CP-R</link>
-      <description>O título do cearense como homem mais velho foi reconhecido pelo Guinness World Records em 2024, quando João Marinho tinha 112 anos: http://glo.bo/4saCiTu #g1 Sei não em G1.GLOBO.COM Família celebra 114 anos de homem mais velho do mundo no Ceará | G1 Leandro Hobold Fuente: g1.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4badd5fdfc824883</guid>
-      <pubDate>Sat, 17 Oct 2026 18:30:41 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/g1/">g1</source>
-      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1578769477800908691?url=https%3A%2F%2Fs2-g1.glbimg.com%2FXTTkfLihiuS6UjzQsPLhembg6lM%3D%2F1920x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_59edd422c0c84a879bd37670ae4f538a%2Finternal_photos%2Fbs%2F2026%2F7%2Fe%2Fo2WYMFT1AxsMqmYNbY9g%2Fjoao-marinho-neto-com-familia.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=ttgxkfIZtjvC5leIxRv8FQ&amp;_nc_zt=3&amp;oh=06_Q3_EAaO6DPRhDRDGt9jQO4pY_Xpky3Pwz5r4f1-mVZP3TPKA&amp;oe=6AD581CD" medium="image" />
-      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1578769477800908691?url=https%3A%2F%2Fs2-g1.glbimg.com%2FXTTkfLihiuS6UjzQsPLhembg6lM%3D%2F1920x0%2Ffilters%3Aformat%28jpeg%29%2Fhttps%3A%2F%2Fi.s3.glbimg.com%2Fv1%2FAUTH_59edd422c0c84a879bd37670ae4f538a%2Finternal_photos%2Fbs%2F2026%2F7%2Fe%2Fo2WYMFT1AxsMqmYNbY9g%2Fjoao-marinho-neto-com-familia.jpg&amp;fb_obo=1&amp;utld=glbimg.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=ttgxkfIZtjvC5leIxRv8FQ&amp;_nc_zt=3&amp;oh=06_Q3_EAaO6DPRhDRDGt9jQO4pY_Xpky3Pwz5r4f1-mVZP3TPKA&amp;oe=6AD581CD" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Paolla Oliveira mostra bastidores da coroação na Imperatriz: 'Um pouquinho nervosa'... Ver más</title>
-      <link>https://www.facebook.com/folhadesp/posts/pfbid02XHqtiykotppcodgARa6p8cwjUD6YQGA8Uyst8o5hELd9bbkFecDSkWetfJzy4Z92l?__cft__%5B0%5D=AZgYQ2iTbU4UOqz1T3LXdmc31D_gLy_yQk5UH_WrlWTP_vhoesI93q3AiIxe9Il2CWQ95UPdf6c_i4KYOgKwRRmzN1GBC7nN1IH0MQTVEHzuGgZagAa40XdOGMIljWcWG9V83uB-FfUIUeM023UvOH7vOHV337OnoMCCmEGsqj_-2jacUl1Y5MSgGwM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Paolla Oliveira mostra bastidores da coroação na Imperatriz: 'Um pouquinho nervosa'... Ver más Os RICOS querem Bolsonarinho. Os BANQUEIROS querem Bolsonarinho. A IMPRENSA quer Bolsonarinho. Acha mesmo que ele vai governar pro POVO? É 13 Flavio Soares avisa os colegas da redação que vão ter que distribuir currículos de novo seus lixos!!!kkkkkkk #Flávio22 F5.FOLHA.UOL.COM.BR Paolla Oliveira mostra… Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:17af5d8fbffdf00f</guid>
-      <pubDate>Sat, 17 Oct 2026 18:21:15 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/3483120104998431816?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F10%2F17%2F17922106686ad2f6ec984b5_1792210668_3x2_xl.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=6fKVJQr0-7xR-MnmzuNKig&amp;_nc_zt=3&amp;oh=06_Q3_EAfr3aTfqZkb5GKHDzH5bA1ow_cVkSFjzkMnbZHs_rZJX&amp;oe=6AD5AE90" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/3483120104998431816?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F10%2F17%2F17922106686ad2f6ec984b5_1792210668_3x2_xl.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=6fKVJQr0-7xR-MnmzuNKig&amp;_nc_zt=3&amp;oh=06_Q3_EAfr3aTfqZkb5GKHDzH5bA1ow_cVkSFjzkMnbZHs_rZJX&amp;oe=6AD5AE90" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>URGENTE - En directo: organizadores reportan unos 800.000 manifestantes en Francia; también hay protestas en Bélgica</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid0KC4UHrjDdDp2YiEBPCrrpDe4ay7JE42W8YS1N9hxoCu1YqaHDzyyRmvuP1hpK25Wl?__cft__%5B0%5D=AZh3FE0kSfIMXLg8Lc9m4xMLVCqMuQ445y8rycLf6oo3pyTLnuR-kxwnASh-eMdYGmX3ScPJvY9EJaIaIoCBfTe7svumnS4y5jtkR-upVyv_VTbtKwZNEPof-SMyUAKBUZHkqDdKVapyvReszYTdsrKXZbgkoFC_W97Jw9v_rdG27p4KukMeW3gZ9CI&amp;__tn__=%2CO%2CP-R</link>
-      <description>URGENTE - En directo: organizadores reportan unos 800.000 manifestantes en Francia; también hay protestas en Bélgica Ok ¿y de ahí que sigue? FRANCE24.COM En directo: organizadores reportan unos 800.000 manifestantes en Francia; también hay protestas en Bélgica Ver más comentarios Manuel Argüelles Raelian Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:68b2c660e607fead</guid>
-      <pubDate>Sat, 17 Oct 2026 17:51:19 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/2415593361929277949?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F822fec10-ca48-11f1-8fa1-d1d2c32ebb87%2Fw%3A1280%2Fp%3A16x9%2F000-D3L84RN.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=A4d0Bx53Wa2ePERCP9S7WA&amp;_nc_zt=3&amp;oh=06_Q3_EAbdicR0V3Eq0m9bWbzsHZi3Bay9eNKHEVP1VNebnwmnU&amp;oe=6AD5AEB7" medium="image" />
-      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/2415593361929277949?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F822fec10-ca48-11f1-8fa1-d1d2c32ebb87%2Fw%3A1280%2Fp%3A16x9%2F000-D3L84RN.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=A4d0Bx53Wa2ePERCP9S7WA&amp;_nc_zt=3&amp;oh=06_Q3_EAbdicR0V3Eq0m9bWbzsHZi3Bay9eNKHEVP1VNebnwmnU&amp;oe=6AD5AEB7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/ckgelqlz37w3o</link>
-      <description>Andoni Iraola Liverpool's demanding schedule is putting his players in a "delicate situation" after Dominik Szoboszlai was forced off with a first-half injury during their 2-1 victory at Brentford. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a902f9997ad09062</guid>
-      <pubDate>Sat, 17 Oct 2026 16:56:12 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95d/live/063a3f60-ca49-11f1-9a39-31b474234113.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e95d/live/063a3f60-ca49-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
