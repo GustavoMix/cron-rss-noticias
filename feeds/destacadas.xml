@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 20 Oct 2026 15:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:22:48 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -54,19 +54,31 @@
       <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-discharged-cfgk/17int-pope-discharged-cfgk-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Israeli Settlers Attack Palestinians and European Officials in West Bank</title>
-      <link>https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html</link>
-      <description>French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux, mayor of Aulnoye-Aymeries, was wearing his red, white and blue sash of office and attempting to enter a vehicle with diplomatic plates when he was assaulted and knocked to the ground on Saturday… Publicado también por: Al Jazeera English, BBC News - World, The Guardian - World, South China Morning Post. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0f6ed032270da1a1</guid>
-      <pubDate>Sun, 18 Oct 2026 02:32:51 +0000</pubDate>
+      <title>Woman killed in shark attack in South Africa</title>
+      <link>https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492</link>
+      <description>A 65-year-old woman has died after being attacked by a shark while swimming at a popular beach in South Africa's Eastern Cape province. Publicado también por: BBC News - World, Africanews. Fuente: Sky News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b957a3e0deb3eded</guid>
+      <pubDate>Tue, 20 Oct 2026 18:30:00 +0000</pubDate>
       <category>mundo</category>
+      <category>África</category>
       <category>Europa</category>
+      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
+      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UK to deploy fighter jets to defend Saudi Arabia</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss</link>
+      <description>RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and critical infrastructure as western allies increase their intervention in the escalating conflict. The operation – the most significant military mission signed off by Andy Burnham as prime minister – will involve RAF pilots attempting to shoot down Houthi missiles and drones, which attacked Saudi airports and oil… Publicado también por: The Guardian - World, CNBC - World, The New York Times - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:df46cecc5db2e74b</guid>
+      <pubDate>Tue, 20 Oct 2026 18:55:52 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
       <category>Medio Oriente</category>
       <category>América del Norte</category>
-      <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://i.guim.co.uk/img/media/ed5b7f246bea513d923672e490f53e7d5ac9bc2e/0_203_3995_3195/master/3995.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2e685adece343090ed0ad645b221e3e" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/ed5b7f246bea513d923672e490f53e7d5ac9bc2e/0_203_3995_3195/master/3995.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2e685adece343090ed0ad645b221e3e" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Japan launches mission to bring back samples from Mars’s moon Phobos</title>
@@ -173,19 +185,6 @@
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924244853541.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Deadly fire breaks out at Canada military base</title>
-      <link>https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo</link>
-      <description>Canada’s Defence Minister says that people have been killed and injured in an incident at a military base in Alberta that caused a major fire Publicado también por: The Hindu - International. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:87c9f8b9892c9185</guid>
-      <pubDate>Sun, 18 Oct 2026 04:00:50 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Alberta voters reject move to separate from Canada</title>
       <link>https://www.abc.net.au/news/2026-10-20/alberta-votes-to-remain-part-of-canada/107289816</link>
       <description>With more than 1 million votes counted, about 76% supported remaining in Canada, compared with 23% who backed beginning a process that could lead to separation Publicado también por: The Hindu - International, The New York Times - World. Fuente: ABC News Australia.</description>
@@ -216,7 +215,7 @@
     <item>
       <title>Oil-Rich Alberta Votes on Its Future in Canada</title>
       <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
-      <description>Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity. With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading... Publicado también por: The Guardian - World, The Hindu - International. Fuente: The New York Times - World.</description>
+      <description>Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading... Publicado también por: The Guardian - World, The Hindu - International. Fuente: The New York Times - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:4a4d6c74b0ae70aa</guid>
       <pubDate>Tue, 20 Oct 2026 03:08:02 +0000</pubDate>
       <category>politica</category>
@@ -313,6 +312,18 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/yxrn16/article71597816.ece/alternates/LANDSCAPE_1200/2026-10-17T184024Z_573581946_RC265OASUIWK_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-ATTACK-DIPLOMATS.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Live: Brendan Nugent to face court over alleged attack on MP Helen Haines</title>
+      <link>https://www.abc.net.au/news/2026-10-21/helen-haines-attack-live-updates/107290276</link>
+      <description>Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political email , free app or daily news podcast Helen Haines’ alleged attacker, Brendan Nugent, has been charged with dangerous driving causing serious injury, intentionally cause serious injury and the commonwealth offence of causing harm to a commonwealth public official. He will be held overnight to appear at Wangaratta magistrates… Publicado también por: The Guardian - World. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:471f3928b8145ef0</guid>
+      <pubDate>Tue, 20 Oct 2026 18:04:09 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/0f067f13c3e29683b1a42084296e09fe?impolicy=wcms_crop_resize&amp;cropH=2403&amp;cropW=4272&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/0f067f13c3e29683b1a42084296e09fe?impolicy=wcms_crop_resize&amp;cropH=2403&amp;cropW=4272&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>14 Dead After Gold Mine Collapses in Colombia</title>
       <link>https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html</link>
       <description>The sector's governor pushed to accelerate the formalization process for illegal and small-scale miners to improve working conditions, as fatal accidents are frequent in the country's mining sector. Publicado también por: The Jerusalem Post - International. Fuente: The New York Times - World.</description>
@@ -377,32 +388,6 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-base-fire-hbwv/18int-canada-base-fire-hbwv-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Tunisia’s economic crisis deepens as the promise of a better life fades</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid02JqJv68RsoYDr7nozHFixwFGAJkodyWpB3z8Tc2UEN9pcxAzLKUs3Kwfu71SicyYHl?__cft__%5B0%5D=AZgQ9JvH58cYqhvHk2c7siJ_BH8BzUul50j12awgtJ65g87R2kL23DsVbUHxnb4H0Vm5NiVbcefafJdJLUaWDCTkY0TWiWbAu_djTKdzA_nuJHw0FIQVHNZgQZdbN2hp9PgbnB3peIAuDw5bA4m-vNP4IjyKJ0CDDxCknhi7XKvLFNzlRLTRC3H9ee0&amp;__tn__=%2CO%2CP-R</link>
-      <description>Joblessness, failing services and rising costs deepen hardship across the country. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4fc402e1117eb7f9</guid>
-      <pubDate>Sun, 18 Oct 2026 04:30:09 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/853230589_1536786111820979_238265041225056094_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=7qhf5MU1QqYQ7kNvwHYgOj8&amp;_nc_oc=Adp5i1XCLRahliRPI-RtOm48LX4aky2yP5zKRDz6jZm9q58Ayu6wIdUpzSlvoIRDtdw&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=L5O6M7D2sxkXEdyInarQaw&amp;_nc_ss=7f289&amp;oh=00_AQNfC_zFFjlmj8UEZsfCLFUnDgkSB_J7e9ncIhEPeJtFrg&amp;oe=6ADA3858" medium="image" />
-      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/853230589_1536786111820979_238265041225056094_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=7qhf5MU1QqYQ7kNvwHYgOj8&amp;_nc_oc=Adp5i1XCLRahliRPI-RtOm48LX4aky2yP5zKRDz6jZm9q58Ayu6wIdUpzSlvoIRDtdw&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=L5O6M7D2sxkXEdyInarQaw&amp;_nc_ss=7f289&amp;oh=00_AQNfC_zFFjlmj8UEZsfCLFUnDgkSB_J7e9ncIhEPeJtFrg&amp;oe=6ADA3858" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>‘Serious incident’ at Alberta military base causes deaths and injuries, Canada officials say</title>
-      <link>https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright</link>
-      <description>Hospitals receive injured patients as doctor describes scale of emergency in Wainwright as a ‘disaster’ Multiple people have been killed and others injured after a deadly blaze tore through one of Canada’s busiest military training bases in Alberta, Canada’s defence minister said on Saturday. “I’m saddened to share that there have been both fatalities and injuries as a result of an incident on the base,” said David McGuinty. The defence minister described the situation at CFB Wainwright as “active and delicate” with the fire being monitored very closely, telling reporters that high winds had… Publicado también por: The Jerusalem Post - International. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:46ed7dca35f63919</guid>
-      <pubDate>Sun, 18 Oct 2026 02:50:29 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Guardian staff and agencies</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e72ca1ec2787b50d7c04cd5ed8abb5" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/b00577f4dd9c40e89cdaed4dc9d1a17ac22996e0/336_0_3664_2931/master/3664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e72ca1ec2787b50d7c04cd5ed8abb5" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Bomb threat forces Israel to Austria flight into emergency landing</title>
@@ -618,20 +603,6 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/dc346815-de85-43ab-adc4-936e2eabcfd9_61494808.jpg?itok=fHilGvIg&amp;v=1792322547" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Major fire breaks out in Alberta after deadly incident at military base</title>
-      <link>https://www.npr.org/2026/10/18/nx-s1-6007276/fire-alberta-deadly-canada-military-base</link>
-      <description>Canada's defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta that caused a major fire. Publicado también por: The Hindu - International. Fuente: NPR - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:190585ee739da15f</guid>
-      <pubDate>Sun, 18 Oct 2026 07:56:08 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>The Associated Press</dc:creator>
-      <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
-      <media:content url="https://th-i.thgim.com/public/news/international/rm3cnm/article71599023.ece/alternates/LANDSCAPE_1200/CanadaDefenceMinister.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/news/international/rm3cnm/article71599023.ece/alternates/LANDSCAPE_1200/CanadaDefenceMinister.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Four Canadian soldiers killed after grass fire spread 'a kilometre in 36 seconds'</title>
       <link>https://news.sky.com/story/four-canadian-soldiers-killed-after-grass-fire-spread-a-kilometre-in-36-seconds-13600915</link>
       <description>The four Canadian soldiers who died during a training exercise at the weekend did so when a grass fire spread "a kilometre in 36 seconds", officials said. Publicado también por: Al Jazeera English. Fuente: Sky News - World.</description>
@@ -729,16 +700,43 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4966/live/70482900-cad8-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Video: El momento en que la torre de un histórico ayuntamiento francés se derrumba en llamas en medio de las protestas</title>
-      <link>https://www.bbc.com/mundo/articles/c6m2dvek0gv9o</link>
-      <description>Un histórico ayuntamiento de la ciudad de Limoges, en el sur de Francia, fue incendiado durante las protestas nacionales. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6f1805c0b0e57f54</guid>
-      <pubDate>Sun, 18 Oct 2026 02:57:02 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f0/live/2c3d5d40-ca8b-11f1-9a39-31b474234113.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/92f0/live/2c3d5d40-ca8b-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
+      <title>Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners</title>
+      <link>https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners</link>
+      <description>Move signals Andy Burnham’s commitment to the North Sea industry but threatens to undermine Labour’s green credentials The Jackdaw gasfield will be given the go-ahead on Wednesday, signalling Andy Burnham’s commitment to the North Sea fossil fuel industry and threatening to trigger a row with climate campaigners and Labour MPs. Miatta Fahnbulleh and John Healey, the energy secretary and chancellor respectively, will make the announcement from Aberdeen on Wednesday morning after more than a year of deliberations over whether doing so would violate the UK’s climate commitments. Continue… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d1c96d22ae8164f6</guid>
+      <pubDate>Tue, 20 Oct 2026 18:24:46 +0000</pubDate>
+      <category>ciencia</category>
+      <category>América Latina</category>
+      <dc:creator>Kiran Stacey Policy editor</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/74d1224ae50d0d273b4aa5930870d957c890f8c6/474_0_2938_2352/master/2938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dda8b007490c828726d78af0f8a65937" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/74d1224ae50d0d273b4aa5930870d957c890f8c6/474_0_2938_2352/master/2938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dda8b007490c828726d78af0f8a65937" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Robert Kabera, Rwandan Government Critic, Beheaded in Uganda</title>
+      <link>https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html</link>
+      <description>A former Rwandan soldier who became a prominent critic of President Paul Kagame has been found beheaded in Uganda, raising fresh concerns about the safety of Rwandan opposition figures living in exile. Publicado también por: Africanews. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dbc6232960be0f1e</guid>
+      <pubDate>Tue, 20 Oct 2026 18:15:01 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>África</category>
+      <dc:creator>Brian O. Otieno</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/95/88/66/640x360_cmsv2_52f70f92-c319-55a0-b758-959145a888f9-9958866.jpg?1792421543" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/95/88/66/640x360_cmsv2_52f70f92-c319-55a0-b758-959145a888f9-9958866.jpg?1792421543" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>NASA experimental Mars helicopter blade designs target longer flights</title>
+      <link>https://phys.org/news/2026-10-nasa-experimental-mars-helicopter-blade.html</link>
+      <description>NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers. Publicado también por: NASA. Fuente: Phys.org.</description>
+      <guid isPermaLink="false">cron-rss-noticias:41477eec7812df0f</guid>
+      <pubDate>Tue, 20 Oct 2026 17:50:01 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Global</category>
+      <source url="https://phys.org/rss-feed/">Phys.org</source>
+      <media:content url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-experimental-mars.jpg" medium="image" />
+      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-experimental-mars.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Paddy Power cuts 1,400 jobs and blames betting tax rises</title>
@@ -748,6 +746,7 @@
       <pubDate>Tue, 20 Oct 2026 14:53:02 +0000</pubDate>
       <category>economia</category>
       <category>Europa</category>
+      <category>Global</category>
       <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
@@ -1129,31 +1128,6 @@
       <enclosure url="https://static01.nyt.com/images/2026/10/18/multimedia/18int-pope-mqkc/18int-pope-mqkc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>hace aproximadamente una hora</title>
-      <link>https://www.facebook.com/clarincom/posts/pfbid031eSNwifpNfK4FARYNkdzg5wSpMuzem1CDgJ2f5XSe9knXCdHWBjeTSaUyBi4r3Cwl?__cft__%5B0%5D=AZin6je2yan-rXQ9kAWWFm28m-5p7vzdkD6IIN2X7MJ-3LWNzpOgQSGQYcJmvo0qlRU06eC6OiqJi1EJf_OWbeQjfbwzTbb1gxUOo4WHc6cORbvwrBzXfO1rahGlfm6SyRf7lOUt_xXQ36JCSfm-UOE5Bt8OrQLB7yzCHcK99-kWo3pmvrGwMAbLsdo&amp;__tn__=%2CO%2CP-R</link>
-      <description>Los Tiempos Digital. 139 024 seguidores · 44 711 personas están hablando de esto · 4 personas han estado aquí. Información actualizada de Bolivia y el Mundo. 📲 Contacto comercial: 65362514 /... Publicado también por: Los Tiempos Digital. Fuente: Clarín.</description>
-      <guid isPermaLink="false">cron-rss-noticias:646a5d136487c5a9</guid>
-      <pubDate>Sun, 18 Oct 2026 03:37:11 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/clarincom/">Clarín</source>
-      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/855077818_1628887625921581_1313678929769809203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1600x2000&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=oadznJDOJEMQ7kNvwEp7JNh&amp;_nc_oc=Adqj6oOKVmPOPqhIXFmOkQIjWGAtLTP3X4vDls9dsNoNi-OoEI5fmP6vWZZe0_abFVY&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=K1_0lpa44Q9Sb9Tk__fG9w&amp;_nc_ss=7f289&amp;oh=00_AQODNKIZCUz_vCH1YRDBX1Rgxn2T8GtUeS_v_jD0vEr3Lg&amp;oe=6ADA0BDA" medium="image" />
-      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t39.99422-6/855077818_1628887625921581_1313678929769809203_n.png?stp=dst-jpg_tt6&amp;cstp=mx1600x2000&amp;ctp=p600x600&amp;_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=oadznJDOJEMQ7kNvwEp7JNh&amp;_nc_oc=Adqj6oOKVmPOPqhIXFmOkQIjWGAtLTP3X4vDls9dsNoNi-OoEI5fmP6vWZZe0_abFVY&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=K1_0lpa44Q9Sb9Tk__fG9w&amp;_nc_ss=7f289&amp;oh=00_AQODNKIZCUz_vCH1YRDBX1Rgxn2T8GtUeS_v_jD0vEr3Lg&amp;oe=6ADA0BDA" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Al menos 13.000 litros de gasolina acopiados ilegalmente en un domicilio de la zona Cessa, en Sucre, fueron decomisados.... Ver más</title>
-      <link>https://www.facebook.com/elpotosi.noticias/posts/pfbid0APPpJBb4ZttDY5aTUUZokjrz55K2oWs3qeq6KS6h8KDYuedHs1wV9gksgfLpxkGFl?__cft__%5B0%5D=AZis1yQDDbJyroFQ7KY8RVtiO9myUfYGFw0wcsts3vbQGxSUUqHMJY3brhJ_7PBI18CPkAUc97oyIj1roDSSXOtlcsNWw30zZi5uAWnQJTT6ORC27qjpVmYp7pGQEBvgkOx1hHQmbzb9828oFW5eyXgm4S3TNXigeTKxybB2dvmnFPMc0Tb2jSE237g&amp;__tn__=%2CO%2CP-R</link>
-      <description>Publicado también por: Correo del Sur. Fuente: El Potosí.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c833404fde857f3c</guid>
-      <pubDate>Sun, 18 Oct 2026 00:09:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/elpotosi.noticias/">El Potosí</source>
-      <media:content url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/854934563_1153802263643044_3408779751430112992_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1077&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=GwuOMTrJCgMQ7kNvwEMaL1k&amp;_nc_oc=AdpLXkasmHqt3L1cyKY7GGTggkgHMU_Y9XXm39AEFiqd7ezQ3irYdslrYXFvThBjpHs&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Z8GSb5sKQesOOVj-lHqSSg&amp;_nc_ss=7f289&amp;oh=00_AQM3obCBlP14AHefVUoXiW8t9ecJiM4OG2LWRwNyEhVrng&amp;oe=6AD9D2F8" medium="image" />
-      <enclosure url="https://scontent-atl3-1.xx.fbcdn.net/v/t39.99422-6/854934563_1153802263643044_3408779751430112992_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1077&amp;ctp=p600x600&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=GwuOMTrJCgMQ7kNvwEMaL1k&amp;_nc_oc=AdpLXkasmHqt3L1cyKY7GGTggkgHMU_Y9XXm39AEFiqd7ezQ3irYdslrYXFvThBjpHs&amp;_nc_zt=14&amp;_nc_ht=scontent-atl3-1.xx&amp;_nc_gid=Z8GSb5sKQesOOVj-lHqSSg&amp;_nc_ss=7f289&amp;oh=00_AQM3obCBlP14AHefVUoXiW8t9ecJiM4OG2LWRwNyEhVrng&amp;oe=6AD9D2F8" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Man charged with attack on Australian MP as suspect's father says she is family friend</title>
       <link>https://www.bbc.co.uk/news/articles/c678pnn9mpgno</link>
       <description>Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years. Publicado también por: Sky News - World. Fuente: BBC News - World.</description>
@@ -1229,20 +1203,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>El juicio a una heredera millonaria que desató al mayor escándalo de espionaje de los últimos tiempos en Alemania</title>
-      <link>https://www.lanacion.com.ar/el-mundo/el-juicio-a-una-heredera-millonaria-que-desato-al-mayor-escandalo-de-espionaje-de-los-ultimos-nid17102026/</link>
-      <description>Durante 15 meses, un tribunal de alta seguridad en Hamburgo ha estado conociendo el caso de Christina Block, acusada de ordenar el secuestro de sus hijos. Publicado también por: BBC News Mundo. Fuente: La Nación - El Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:45f1ce7291eb33d4</guid>
-      <pubDate>Sun, 18 Oct 2026 01:50:49 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América Latina</category>
-      <dc:creator>BBC MUNDO</dc:creator>
-      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
-      <media:content url="https://resizer.glanacion.com/resizer/v2/TJYWTM4STBGY3C6PBJXFG4SFJM.webp?auth=b66b5fcdfc6d7336f82accaa620d785d9773b731ade727d121cfd4cb136c7783&amp;smart=true&amp;width=800&amp;height=449" medium="image" />
-      <enclosure url="https://resizer.glanacion.com/resizer/v2/TJYWTM4STBGY3C6PBJXFG4SFJM.webp?auth=b66b5fcdfc6d7336f82accaa620d785d9773b731ade727d121cfd4cb136c7783&amp;smart=true&amp;width=800&amp;height=449" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>BUONGIORNO GRAZIE MILLE P.S: EXISTE UM FATOR QUE NENHUMA PESQUISA. CONSEGUE. DETECTAR, QUE É A MASSA. CRÍTICA, ELA SE APRESENTA DEPOIS DE UM PERÍODO EM QUE A POPULAÇÃO DE UMA…</title>
       <link>https://www.facebook.com/estadao/videos/1820449545815573/?comment_id=1127165219965102&amp;__cft__%5B0%5D=AZidtkeX-Kk5JehQSwnaWw7DjIG4jgOxmAIaVdiKIWTi7d1QOCVocKX_9V-fyGSl3GDOxnNh14i_-oeYTas5QXDDwvDxtW4HfJeO-qiishYI_0hMGq8s0LFdHGjSbmTcJN5VUYTHr22EBdB6cwyli2d0jG-JKpb9Sz12CrcPvB_TKpb3efg37QtV4s7nySr4awE&amp;__tn__=R%5D-R</link>
       <description>BUONGIORNO GRAZIE MILLE P.S: EXISTE UM FATOR QUE NENHUMA PESQUISA. CONSEGUE. DETECTAR, QUE É A MASSA. CRÍTICA, ELA SE APRESENTA DEPOIS DE UM PERÍODO EM QUE A POPULAÇÃO DE UMA CIDADE ,ESTADO OU PAÍS SE TORNA MAIS INTENSA NOS CORAÇÕES E MENTES DAS PES... Ver más João Celeste João Celeste Publicado también por: Folha de S.Paulo. Fuente: Estadão.</description>
@@ -1291,6 +1251,56 @@
       <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
       <media:content url="https://www.clarin.com/img/2026/10/18/UikFKlX30_1200x630__1.jpg" medium="image" />
       <enclosure url="https://www.clarin.com/img/2026/10/18/UikFKlX30_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Protestos contra o custo de vida chegam a Portugal ➡️ Manifestantes ergueram um acampamento com dezenas de barracas no centro histórico de Lisboa. Eles acusam o governo de não ter enfrentado a crise imobiliária - e de tentar aprovar reformas que facilitariam o despejo de inquilinos #uol #uolhoje #notícias #dw #portugal | UOL Notícias</title>
+      <link>https://www.facebook.com/reel/1847853612905511/?comment_id=1414339046960553&amp;__cft__%5B0%5D=AZiWc3UntpGoXh5DBtKgCfPYts471SS5RJmWcFlBIJ48FA_8THCLN6zTcU0mu314EHsdrVwD1GcTFw7O0kDz3ps7r4qPH9DjyGG1YGyP1uADYlUZ5LjeeooK5qkc5v0jWEMhyslYNYNtJcU8rr7vnULiZ6HZUh4PGW6Ix7bvbWqtGP0X07O0g30l4hbfNY1Bvd-u&amp;__tn__=R-R</link>
+      <description>Protestos contra o custo de vida chegam a Portugal ➡️ Manifestantes ergueram um acampamento com dezenas de barracas no centro histórico de Lisboa. Eles acusam o governo de não ter enfrentado a... Protestos contra o custo de vida chegam a Portugal ➡️ Manifestantes ergueram um acampamento com dezenas de barracas no centro histórico de Lisboa. Eles... Fuente: UOL Notícias.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cef7cc609f6b7797</guid>
+      <pubDate>Tue, 20 Oct 2026 19:22:48 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/858568797_1293022652950399_4127759029689461547_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=8JCnQurxE3oQ7kNvwEGKWLh&amp;_nc_oc=Adpo3NKck2ItkmSohAUnBKEIu4yOYQGRZUiYuur2IK4wJsnoGXV-9sBeHU3zogo_ZEQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=qA1Csyvzm2DE4V8lWXqS0A&amp;_nc_ss=7f289&amp;oh=00_AQNg4ZMb9_JXg0885dLMDzgEHI6mVqqeEgR8KRWl1soJzw&amp;oe=6ADD786E" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/858568797_1293022652950399_4127759029689461547_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=8JCnQurxE3oQ7kNvwEGKWLh&amp;_nc_oc=Adpo3NKck2ItkmSohAUnBKEIu4yOYQGRZUiYuur2IK4wJsnoGXV-9sBeHU3zogo_ZEQ&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=qA1Csyvzm2DE4V8lWXqS0A&amp;_nc_ss=7f289&amp;oh=00_AQNg4ZMb9_JXg0885dLMDzgEHI6mVqqeEgR8KRWl1soJzw&amp;oe=6ADD786E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>CNN Brasil prepara cobertura especial para 2º turno após audiência recorde</title>
+      <link>https://www.facebook.com/cnnbrasil/posts/pfbid02B3WVAdeeVf4GxS6VchpTQWodoCGktfYnKvqsm3G1V21adnqQx7EPayJAWAhEGmHxl?__cft__%5B0%5D=AZihsZ0-sp123tLPFjoNo_OFFGXBveU79uj-lUkzHQvTSziTu6ouVXaB8pk6AwVAActfkkhtJrHzIBiu6ZWTb0BiuqnqDjvpBmkYWJQ9VW0sHf0Ze6l0fsu5QEI19b_9bU90evl5THviADtY-Xr0Orlrq_ZcCNy4o0DwPrXC0KN4uXze47MCICisMN4&amp;__tn__=%2CO%2CP-R</link>
+      <description>CNN Brasil prepara cobertura especial para 2º turno após audiência recorde CNNBRASIL.COM.BR CNN Brasil prepara cobertura especial para 2º turno após audiência recorde | CNN Brasil Fuente: CNN Brasil.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6d0ac5b8d9721453</guid>
+      <pubDate>Tue, 20 Oct 2026 19:22:48 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/cnnbrasil/">CNN Brasil</source>
+      <media:content url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/2677082144641819922?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F10%2Fecbca4f9-039a-4ba0-a832-989f906aa391.png%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=gqF-OCLQHa5tmp7j-08O7Q&amp;_nc_zt=3&amp;oh=06_Q3_EAZ3DIVCipd7LHtn6u-z6Ygvs9s2MmRSZHBscCVtzHFRI&amp;oe=6AD98A77" medium="image" />
+      <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/2677082144641819922?url=https%3A%2F%2Fadmin.cnnbrasil.com.br%2Fwp-content%2Fuploads%2Fsites%2F12%2F2026%2F10%2Fecbca4f9-039a-4ba0-a832-989f906aa391.png%3Fw%3D1200%26h%3D630%26crop%3D1&amp;fb_obo=1&amp;utld=cnnbrasil.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=gqF-OCLQHa5tmp7j-08O7Q&amp;_nc_zt=3&amp;oh=06_Q3_EAZ3DIVCipd7LHtn6u-z6Ygvs9s2MmRSZHBscCVtzHFRI&amp;oe=6AD98A77" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>URGENTE - Italia endurece las penas y amplía los poderes policiales sobre los menores</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02HZvSasojJ6xY9EFBoQNh1yzUCJKpvWoRC37qHK6NdpruJdB4u7NvZUaCjyy5zSh2l?__cft__%5B0%5D=AZgnVSVDfADofARQOuEtHiNRf0ZnH30QdlFvcSCVBn6esFp06NyngxrhvmvXXApp2GaZ_5f3tZbQ88g8qGBPnll1TJbphdZeJz6Evf5QR0jRGfwr3nc4gl_tcaXgCUpXdGh5jtAWg2WQxIvSsMIMfBGuUNSjmBeyQ0-ZRl9F068G-ptXD120CzN9MTU&amp;__tn__=%2CO%2CP-R</link>
+      <description>URGENTE - Italia endurece las penas y amplía los poderes policiales sobre los menores Excelente Ministra tiene que haber orden FRANCE24.COM Italia endurece las penas y amplía los poderes policiales sobre los menores Ver más comentarios Domingo Toconas Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d5fc97c9ce675fa9</guid>
+      <pubDate>Tue, 20 Oct 2026 19:06:07 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8688576988766590589?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F083f6072-a68d-11f1-9ce2-005056bfb2b6%2Fw%3A1280%2Fp%3A16x9%2Fb905cfd3ca4e1757b618d843aefa925ad1584324.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=2sIBYlajWSNv34nkSTtkQw&amp;_nc_zt=3&amp;oh=06_Q3_EAY55Y8YkGJmZoxwjPJaJ92rDdyWhtLvsAf19cVddgEoe&amp;oe=6AD9B7B3" medium="image" />
+      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8688576988766590589?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F083f6072-a68d-11f1-9ce2-005056bfb2b6%2Fw%3A1280%2Fp%3A16x9%2Fb905cfd3ca4e1757b618d843aefa925ad1584324.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=2sIBYlajWSNv34nkSTtkQw&amp;_nc_zt=3&amp;oh=06_Q3_EAY55Y8YkGJmZoxwjPJaJ92rDdyWhtLvsAf19cVddgEoe&amp;oe=6AD9B7B3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nato increases Black Sea deployment amid escalating deadly Russian attacks</title>
+      <link>https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships</link>
+      <description>Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargo Nato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more vessels were attacked on Tuesday. Russia’s military said it ⁠struck ​three cargo vessels in Ukraine’s ⁠port of Reni and two ⁠other cargo vessels en ​route ‌to ‌Odesa. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4b5a31e5b423bfb1</guid>
+      <pubDate>Tue, 20 Oct 2026 17:43:40 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <dc:creator>Peter Beaumont Senior international correspondent</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/488433946c3dea9948a6de2888304d95d641f528/233_0_1367_1093/master/1367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ed0a3c7ab0647361a3d31395e9bcfa7" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/488433946c3dea9948a6de2888304d95d641f528/233_0_1367_1093/master/1367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ed0a3c7ab0647361a3d31395e9bcfa7" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>23 reacciones · 12 comentarios | Alfa: Flávio tem 51,5% dos votos válidos no 2º turno; Lula, 48,5%; assistir #LiveCNNBrasil | CNNBrasil</title>
@@ -1592,18 +1602,6 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/854569897_1640687621063791_4738153968456392968_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=B4c5mCtN-HMQ7kNvwH4ByBT&amp;_nc_oc=AdoecqQa_1tOg6W7n9a-4f9dn8V63XGGPrk0LqXi5anXOEZ74-3slD3A8p7rYqV9vTU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=YIeDhyL0brzdNW_PJzNF1w&amp;_nc_ss=7f289&amp;oh=00_AQO_2WakfAYocqxOXlAILNuu15alsvc4uhjIU_WcPiryDg&amp;oe=6ADB279E" medium="image" />
       <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/854569897_1640687621063791_4738153968456392968_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=B4c5mCtN-HMQ7kNvwH4ByBT&amp;_nc_oc=AdoecqQa_1tOg6W7n9a-4f9dn8V63XGGPrk0LqXi5anXOEZ74-3slD3A8p7rYqV9vTU&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=YIeDhyL0brzdNW_PJzNF1w&amp;_nc_ss=7f289&amp;oh=00_AQO_2WakfAYocqxOXlAILNuu15alsvc4uhjIU_WcPiryDg&amp;oe=6ADB279E" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Many fans and celebrities condemned Shane Gillis’s opening monologue after he hosted “Saturday Night Live” last week. The show’s British counterpart, “Saturday Night Li... Ver más</title>
-      <link>https://www.facebook.com/nytimes/posts/pfbid02xxVEc1pxBKScQUPdDRV9PAzhpC4Wy9BUBHQpC85bc846sHvs5USCUW3M7ZhUehmTl?__cft__%5B0%5D=AZioAI71hg5x3VVu1GG2HemUIGbF8NhkeCQixbLUSqMLeT4yRxNwa8SFhu2nCgT-TVF4I2EcIWOxlnyiMOZ1d8DztzImAuv3J5YmwoljboA4Gx2dhV3DvAMZo-VsjG9dzMjHmiMx-tuewtPudO6btl4b-UzMEVxYnJE0qinEvUgs5WwPfJAqdevE-fk&amp;__tn__=%2CO%2CP-R</link>
-      <description>Many fans and celebrities condemned Shane Gillis’s opening monologue after he hosted “Saturday Night Live” last week. The show’s British counterpart, “Saturday Night Li... Ver más Now that WAS FUNNY NYTIMES.COM ‘Saturday Night Live U.K.’ Lays Into Shane Gillis Ver más comentarios Tatiana Amaro Fuente: The New York Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:942f8f606f528a95</guid>
-      <pubDate>Mon, 19 Oct 2026 00:56:04 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
-      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/7014363758686563629?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F18%2Farts%2F18cul-snl-uk-gillis%2F18cul-snl-uk-gillis-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=rlCqmDKDDmFRsEmBfBeOdA&amp;_nc_zt=3&amp;oh=06_Q3_EAdxSuLxZHtXPl1Mv_GbATIx9x7n923QWMlMGPPBbcq19&amp;oe=6AD75780" medium="image" />
-      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/7014363758686563629?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F10%2F18%2Farts%2F18cul-snl-uk-gillis%2F18cul-snl-uk-gillis-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=rlCqmDKDDmFRsEmBfBeOdA&amp;_nc_zt=3&amp;oh=06_Q3_EAdxSuLxZHtXPl1Mv_GbATIx9x7n923QWMlMGPPBbcq19&amp;oe=6AD75780" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
