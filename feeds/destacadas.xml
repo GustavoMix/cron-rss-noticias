@@ -7,24 +7,9 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 22 Oct 2026 07:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:02:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alberta votes to remain part of Canada in historic independence referendum</title>
-      <link>https://www.jpost.com/international/article-912245</link>
-      <description>Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government. Publicado también por: CNBC - World, Sky News - World, Deutsche Welle - World. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f0f97fc85e0edff3</guid>
-      <pubDate>Tue, 20 Oct 2026 08:51:04 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-canada-referendum-alberta_7381330.jpg?20261020080224" medium="image" />
-      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-canada-referendum-alberta_7381330.jpg?20261020080224" type="image/jpeg" length="0" />
-    </item>
     <item>
       <title>Woman killed in shark attack in South Africa</title>
       <link>https://news.sky.com/story/woman-65-killed-in-shark-attack-in-south-africa-13601492</link>
@@ -37,6 +22,21 @@
       <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
       <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" medium="image" />
       <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-south-africa-shark_7382062.jpg?20261020185414" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>France reports first human case of Shamonda virus, but says there's no public health risk</title>
+      <link>https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk</link>
+      <description>France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been "an exceptional case" involving a person with a severely compromised immune system. Publicado también por: The Hindu - International, Al Jazeera English, Sky News - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:78f6ac145e3ffb91</guid>
+      <pubDate>Thu, 22 Oct 2026 12:22:56 +0000</pubDate>
+      <category>salud</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <category>Medio Oriente</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pope Needs No Further Treatment for Lung Cancer, Doctors Say</title>
@@ -80,20 +80,6 @@
       <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg" medium="image" />
       <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Japan launches unprecedented mission to bring back samples from Mars’ moon phobos</title>
-      <link>https://www.euronews.com/2026/10/20/japan-launches-unprecedented-mission-to-bring-back-samples-from-mars-moon-phobos</link>
-      <description>Japan launched a spacecraft on Tuesday on a five-year mission to explore Mars' mysterious moons, Phobos and Deimos, and bring back samples for the first time. The $578 million project aims to deliver dust, soil and rocks to Earth in 2031, potentially shedding light on how the moons formed and the origins of life. Publicado también por: Al Jazeera English, France 24 - English, Sky News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8b10d87641b0b9c8</guid>
-      <pubDate>Tue, 20 Oct 2026 04:19:34 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/af16faf0-cb94-11f1-9e48-2d1c143cdef3/w:1024/p:16x9/1329e57e1d2112e42b31f522a1d6229f84f9f886.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Pope Leo needs no further treatment after cancer surgery, doctors say</title>
@@ -197,48 +183,6 @@
       <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-ebola-congo_7323686.jpg?20260816231920" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Alberta voters reject move to separate from Canada</title>
-      <link>https://www.abc.net.au/news/2026-10-20/alberta-votes-to-remain-part-of-canada/107289816</link>
-      <description>With more than 1 million votes counted, about 76% supported remaining in Canada, compared with 23% who backed beginning a process that could lead to separation Publicado también por: The Hindu - International, The New York Times - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b339d4e3f258b544</guid>
-      <pubDate>Tue, 20 Oct 2026 09:15:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Oceanía</category>
-      <category>Asia</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/6391f4beed4041f66864582507fdb3cc?impolicy=wcms_crop_resize&amp;cropH=1973&amp;cropW=3507&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/6391f4beed4041f66864582507fdb3cc?impolicy=wcms_crop_resize&amp;cropH=1973&amp;cropW=3507&amp;xPos=0&amp;yPos=205&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australian prime minister says lawmaker critically injured by car is ‘no accident’</title>
-      <link>https://www.euronews.com/2026/10/20/australian-prime-minister-says-lawmaker-critically-injured-by-car-is-no-accident</link>
-      <description>Helen Haines, a 65-year-old independent, was struck by a an SUV outside her electoral office in the city of Wangaratta, in Victoria State, in the middle of Monday afternoon, police said. Publicado también por: The New York Times - World, NPR - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5084781b26ce7a78</guid>
-      <pubDate>Tue, 20 Oct 2026 04:38:03 +0000</pubDate>
-      <category>politica</category>
-      <category>Oceanía</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-oz-lawmaker-gktw/19int-oz-lawmaker-gktw-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/19/multimedia/19int-oz-lawmaker-gktw/19int-oz-lawmaker-gktw-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Oil-Rich Alberta Votes on Its Future in Canada</title>
-      <link>https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html</link>
-      <description>Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement. With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta. Continue reading... Publicado también por: The Guardian - World, The Hindu - International. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4a4d6c74b0ae70aa</guid>
-      <pubDate>Tue, 20 Oct 2026 03:08:02 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Ian Austen</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-01-tbfc/20int-canada-alberta-vote-01-tbfc-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-01-tbfc/20int-canada-alberta-vote-01-tbfc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Ukraine-Russia war latest: Missiles hit Kyiv as Putin agrees ‘in principle’ to resume peace talks</title>
       <link>https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-updates-putin-witkoff-trump-b3070846.html</link>
       <description>Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war. Publicado también por: BBC News - World, The Hindu - International. Fuente: The Independent - World.</description>
@@ -278,6 +222,19 @@
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/74318ee8-cc82-11f1-a8e7-2d1c143cdef3/w:1024/p:16x9/capture-5355095f.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/74318ee8-cc82-11f1-a8e7-2d1c143cdef3/w:1024/p:16x9/capture-5355095f.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>URGENTE - Detienen en Ecuador a la excandidata presidencial del correísmo Luisa González</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02qFbque1aebvJAiHoi5EajsGrMjEju9ZaZrpYDy7Wmv4gjRtGRsUBy5frCRUGhN8xl?__cft__%5B0%5D=AZjJuwE0-BljWLBJ1ROvpifwOSy58yZ4WX8CZb1dtr44XSCE9RFWsZsxPd43I9x46dMyRP7lBZ-Uzgs_s4orHdNUFG8FtLjM0tf2d7umgsForaj4uqgBuMwO2CD8Uea5-nPLGlbWIz4hQh7MQRtp748a3K1s0PC37c4dnWn4hKEbnxKUyFcxTkWkJDg&amp;__tn__=%2CO%2CP-R</link>
+      <description>La excandidata presidencial ecuatoriana Luisa González, referente del correísmo, fue detenida este jueves en la provincia de Manabí, a poco más de un mes de las elecciones locales del 29 de noviembre. La Fiscalía investiga presuntas irregularidades en la financiación de campañas electorales y posibles delitos de lavado de dinero, aunque el Ministerio Público no confirmó expresamente si González figura entre las personas arrestadas. Publicado también por: France 24 - Español. Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:576438755d035752</guid>
+      <pubDate>Thu, 22 Oct 2026 13:57:05 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/18032332050412134560?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2Fac7973f4-192a-11f0-8294-005056bf30b7%2Fw%3A1280%2Fp%3A16x9%2F3cc38c876ef3d6c2730d325fe4b599f04cc34fd2.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=ZPrvM2rTlUttgrygbp23Qg&amp;_nc_zt=3&amp;oh=06_Q3_EAVDc6M9grVyLLJQrY8aiLdo_Li1Zau9dT1YTqQ9h6ZxU&amp;oe=6ADBDE40" medium="image" />
+      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/18032332050412134560?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2Fac7973f4-192a-11f0-8294-005056bf30b7%2Fw%3A1280%2Fp%3A16x9%2F3cc38c876ef3d6c2730d325fe4b599f04cc34fd2.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=ZPrvM2rTlUttgrygbp23Qg&amp;_nc_zt=3&amp;oh=06_Q3_EAVDc6M9grVyLLJQrY8aiLdo_Li1Zau9dT1YTqQ9h6ZxU&amp;oe=6ADBDE40" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’</title>
@@ -329,21 +286,6 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/0f067f13c3e29683b1a42084296e09fe?impolicy=wcms_crop_resize&amp;cropH=2403&amp;cropW=4272&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/0f067f13c3e29683b1a42084296e09fe?impolicy=wcms_crop_resize&amp;cropH=2403&amp;cropW=4272&amp;xPos=0&amp;yPos=248&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>14 Dead After Gold Mine Collapses in Colombia</title>
-      <link>https://www.nytimes.com/2026/10/20/world/americas/colombia-gold-mine-collapse.html</link>
-      <description>The sector's governor pushed to accelerate the formalization process for illegal and small-scale miners to improve working conditions, as fatal accidents are frequent in the country's mining sector. Publicado también por: The Jerusalem Post - International. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0735a2a6766696ac</guid>
-      <pubDate>Tue, 20 Oct 2026 06:58:33 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>África</category>
-      <category>América del Norte</category>
-      <dc:creator>Francesca Regalado</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/21/multimedia/21xp-colombia-promo-jhlt/21xp-colombia-promo-jhlt-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/21/multimedia/21xp-colombia-promo-jhlt/21xp-colombia-promo-jhlt-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Putin agrees to resume peace talks with Ukraine and US</title>
@@ -550,18 +492,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Ukraine carries out first drone airlift of wounded soldier from front line</title>
-      <link>https://www.euronews.com/2026/10/20/ukraine-carries-out-first-drone-airlift-of-wounded-soldier-from-front-line</link>
-      <description>Ukraine’s 92nd Assault Brigade says it has carried out its first aerial drone evacuation of a wounded soldier, pulling him from a position where mines and Russian drone activity made a conventional rescue impossible. Publicado también por: BBC News - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d0b53565fca330eb</guid>
-      <pubDate>Tue, 20 Oct 2026 08:10:45 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>5079 reproducciones · 78 reacciones | Taiwan issued a land warning as powerful Typhoon Champi approached, prompting more than 200 flight cancellations in the region and forcing changes to a major US-Japan military exercise. #taiwan #typhoon #champi #typhoonchampi #asia #weather #storm #keelung #live #Reuters #News Keep up with the latest news from around the world: https://www.reuters.com/ | Reuters</title>
       <link>https://www.facebook.com/Reuters/videos/1926210995294445/?comment_id=1367308446470449&amp;__cft__%5B0%5D=AZgEIpP60rbWLrrKVklM2Jp0RVQQS4FgCTxMmrEMGpj2vrdGUcSL5PP9M1qVhHibus6RHOWWXZlz-LigIDrsW95a2hOtuE6ZnVxXLSHbzrTwzyfN6JhbOzvKG-9bqgz8gdAZRJQbcMGftgQZwMWMvo5AHm1xfPSROzUZ2sl-iEiwfMTdh_wky8uxnwjn-XWkHNg&amp;__tn__=R%5D-R</link>
       <description>Taiwan issued a land warning as powerful Typhoon Champi approached, prompting more than 200 flight cancellations in the region and forcing changes to a major US-Japan military exercise. #taiwan... Taiwan issued a land warning as powerful Typhoon Champi approached, prompting more than 200 flight cancellations in the region and forcing changes to a... Fuente: Reuters.</description>
@@ -658,16 +588,46 @@
       <enclosure url="https://external-iad3-1.xx.fbcdn.net/emg1/v/t13/3956282662276342999?url=https%3A%2F%2Fimage.trueanthem.com%2FICIYjrcvElfstXaOG8tszzSpMRwGSyD8utX7BSvov1M%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9kaW1zLmFwbmV3cy5jb20vZGltczQvZGVmYXVsdC9hYzVjZGE2LzIxNDc0ODM2NDcvc3RyaXAvdHJ1ZS9jcm9wLzQ4ODR4MzI1NiswKzAvcmVzaXplLzEyMDB4ODAwIS9xdWFsaXR5LzkwLz91cmw9aHR0cHMlM0ElMkYlMkZhc3NldHMuYXBuZXdzLmNvbSUyRjE0JTJGMTUlMkY3YzJkZDYyN2ZiMmI4YjYxZjhiMjkyMGRmZTY4JTJGNjA1MWU2NmYxY2YzNDVhZmI5OTA3MDZlMWE1OTY4NTg.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=IvRdjOVbzNRV1rhTy8isGw&amp;_nc_zt=3&amp;oh=06_Q3_EAXP4OfAWcItMIGTZ8sSp7Z9x90wf3JMIzTwvNRfMG_qg&amp;oe=6AD95899" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Suspect arrested after historic town hall set alight during disorder - French media</title>
-      <link>https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo</link>
-      <description>The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3addfc81d64ef5b2</guid>
-      <pubDate>Tue, 20 Oct 2026 08:58:26 +0000</pubDate>
+      <title>International Criminal Court Wins E.U.’s Top Human Rights Prize</title>
+      <link>https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html</link>
+      <description>The International Criminal Court, which US President Donald Trump's administration has threatened to dismantle "brick by brick", has been awarded the European Union's Sakharov human rights prize. Publicado también por: France 24 - English. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d6f91f376ec5753e</guid>
+      <pubDate>Thu, 22 Oct 2026 13:36:46 +0000</pubDate>
+      <category>conflictos</category>
+      <category>sociedad</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>Koba Ryckewaert</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-sakharov-icc-fvhp/22int-sakharov-icc-fvhp-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-sakharov-icc-fvhp/22int-sakharov-icc-fvhp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Judi Dench says sight loss means she can no longer perform but she is still ‘besotted by’ Shakespeare’s sonnets</title>
+      <link>https://www.theguardian.com/culture/2026/oct/22/judi-dench-sight-loss-macular-degeneration-shakespeares-sonnets</link>
+      <description>Age-related macular degeneration has also left actor, 91, unable to read or recognise faces any more Judi Dench has said she can no longer perform on stage or in films because of her deteriorating eyesight, more than a decade after revealing she had been diagnosed with age-related macular degeneration. “I can’t be on stage. I can’t do a play any more. I can’t do a film any more. I can’t read any more,” the 91-year-old actor told BBC Radio 4’s Today programme on Thursday. Continue reading... Publicado también por: The Guardian - Culture. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:62bf32322329cf81</guid>
+      <pubDate>Thu, 22 Oct 2026 13:19:14 +0000</pubDate>
       <category>mundo</category>
       <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/fff77fe0-cc56-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Nadia Khomami Arts and culture correspondent</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/74c76b9805d46c54b4c65a6c94c2b6e3b7a14069/0_2418_6732_5384/master/6732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6798c4a95ca7d1112497132c674d4076" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/74c76b9805d46c54b4c65a6c94c2b6e3b7a14069/0_2418_6732_5384/master/6732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6798c4a95ca7d1112497132c674d4076" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off</title>
+      <link>https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html</link>
+      <description>A powerful typhoon headed toward Taiwan on Thursday, triggering the cancellation of dozens of flights and prompting warnings for locals to prepare for heavy rain, strong winds and giant waves. Publicado también por: Phys.org. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5273690dcdb7bbd5</guid>
+      <pubDate>Thu, 22 Oct 2026 13:07:10 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Asia</category>
+      <category>América del Norte</category>
+      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Tigray resumes daily life amid fears of wider war</title>
@@ -1019,43 +979,17 @@
       <enclosure url="https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/376_0_5541_4435/master/5541.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40aee7eac1e789d553bed812031ca089" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Chancellor rejects calls to raise Capital Gains Tax in Budget</title>
-      <link>https://www.bbc.co.uk/news/articles/c50me4w4x1vyo</link>
-      <description>Cabinet colleagues have previously called for an increase but chancellor feels it might ultimately cost the Treasury UK politics live – latest updates John Healey will not raise capital gains tax in next week’s budget, despite previous calls to do so from cabinet colleagues including Louise Haigh and Wes Streeting. The chancellor has decided that any increase might ultimately cost the Treasury if wealthy individuals defer the sale of assets or move them out of the country, according to Treasury sources. Continue reading... Publicado también por: The Guardian - World. Fuente: BBC News - Business.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f1e40500c392c750</guid>
-      <pubDate>Tue, 20 Oct 2026 08:44:56 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e7/live/6cd357a0-cc17-11f1-b7d0-7f346cefa9a9.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Zelenski acusa a EE.UU. de atrasar intencionadamente la entrega de misiles interceptores a Ucrania</title>
-      <link>https://www.abc.es/internacional/zelenski-acusa-eeuu-atrasar-intencionadamente-entrega-misiles-20261020102721-nt.html</link>
-      <description>El presidente ucraniano, Volodímir Zelenski, acusó a Estados Unidos de retrasar intencionalmente la entrega de misiles interceptores que su país necesita para resguardarse de los ataques rusos , antes de un esperado encuentro este martes en Oslo con un representante de Donald Trump.Las relaciones entre Kiev y Washington se han tensado sobre la ayuda militar y la entrega de información de inteligencia , luego de que Zelenski afirmara el lunes que Ucrania no recibió alertas tempranas de los últimos ataques rusos con misiles contra plantas energéticas en la capital.El líder ucraniano aseguró a… Publicado también por: France 24 - Español. Fuente: ABC España - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:23a78022a03dc4fc</guid>
-      <pubDate>Tue, 20 Oct 2026 08:27:21 +0000</pubDate>
+      <title>Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine</title>
+      <link>https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine</link>
+      <description>Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said he had agreed to resume trilateral negotiations after talks with the US envoy Steve Witkoff. Overnight, Moscow pounded the Ukrainian capital, killing at least two people and wounding 22, including four children. Targets included the southern bridge over the Dnipro River, civilian houses… Publicado también por: BBC News - World. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ce116d39c86120f9</guid>
+      <pubDate>Thu, 22 Oct 2026 10:14:23 +0000</pubDate>
       <category>conflictos</category>
-      <category>politica</category>
-      <category>América del Norte</category>
       <category>Europa</category>
-      <dc:creator>EP</dc:creator>
-      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
-      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/20/1504551279-knx-U302326848266bLC-1200x840@diario_abc.jpg" medium="image" />
-      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/20/1504551279-knx-U302326848266bLC-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0XT26evyLpy6aFoCXtJs1JDgFeBoempLU5EiiLVaaKDLLN7PtfoqoBNZdy713MVmkl?__cft__%5B0%5D=AZgVxOv4CE7Ja_oV2Rwaqr3qhxE_ho7klCU2q79OBcoD7gedF1TrOs_Pc7juJRMQGifo9xiFQN5fv2GRRMQYB98GNdh9p_aakysdEDOpowQh6dQ_P0jw8AQ7WyOFWl0XnCJRLf1GAxf0RTv2dawv7Agyei049T61A22yNyX58Ee9MdKsfeS12xPKb-E&amp;__tn__=%2CO%2CP-R</link>
-      <description>Riyadh postpones flagship investment conference until 2027, orders government staff to work from home. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d2ebbba38b1185c8</guid>
-      <pubDate>Tue, 20 Oct 2026 04:30:11 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/857261668_1791740925488866_176378801583266575_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=SaPltlCQSHgQ7kNvwFPQtjf&amp;_nc_oc=Ado7t5Rx_XIZmon5jwESJ1j8-AYsF-vxgYWdAmB6ksoEzP3aCYHK-FXEF6akVGNNzX4&amp;_nc_zt=14&amp;_nc_ht=scontent-lga3-2.xx&amp;_nc_gid=3lVkzGQRDh5VXg_Oqw_WOw&amp;_nc_ss=7f289&amp;oh=00_AQP_zPwAcyLmVSOimAXTWSqMsMIcVZ1OUNhVQs2CZxzTzg&amp;oe=6ADCD59C" medium="image" />
-      <enclosure url="https://scontent-lga3-2.xx.fbcdn.net/v/t39.99422-6/857261668_1791740925488866_176378801583266575_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=SaPltlCQSHgQ7kNvwFPQtjf&amp;_nc_oc=Ado7t5Rx_XIZmon5jwESJ1j8-AYsF-vxgYWdAmB6ksoEzP3aCYHK-FXEF6akVGNNzX4&amp;_nc_zt=14&amp;_nc_ht=scontent-lga3-2.xx&amp;_nc_gid=3lVkzGQRDh5VXg_Oqw_WOw&amp;_nc_ss=7f289&amp;oh=00_AQP_zPwAcyLmVSOimAXTWSqMsMIcVZ1OUNhVQs2CZxzTzg&amp;oe=6ADCD59C" type="image/jpeg" length="0" />
+      <dc:creator>Luke Harding and agencies</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/369ecb74e3157beaae2c4399ccb4727967eafd28/206_83_6682_5346/master/6682.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fafe0975e079a14a178bee9e4adbafb" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/369ecb74e3157beaae2c4399ccb4727967eafd28/206_83_6682_5346/master/6682.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4fafe0975e079a14a178bee9e4adbafb" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>No order, no seat: Starbucks China rolls out new store policy</title>
@@ -1093,31 +1027,9 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>How is the US economy really doing under President Trump?</title>
-      <link>https://www.bbc.co.uk/news/articles/cv98ze40jz18o</link>
-      <description>Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fe9c4879058b7b06</guid>
-      <pubDate>Tue, 20 Oct 2026 05:00:45 +0000</pubDate>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The term 'les casseurs' explains a lot. Media focuses on the masked minority breaking things, but the majority are out there because of cost of living, education and social…</title>
-      <link>https://www.facebook.com/reel/2374683013295578/?comment_id=1441496191419645&amp;__cft__%5B0%5D=AZgdbqP_94eUnxkCA16eDdslaU6A99N5qxa08YOlXTL-6EBzolXwuyg9_SHhCMGnWqlQi6gTZQ-xB-kAhoH7FHe5cLLjmjvKMFeLmXbvt4M0DcXVw2tW32HvKKP_RmKfT9Y9gQV8d-_A9BVMHktzL7Yge4D8EC-kBox65JyZlWHmKBEEyexnnGnuj2kBXzNQxm45&amp;__tn__=R-R</link>
-      <description>The term 'les casseurs' explains a lot. Media focuses on the masked minority breaking things, but the majority are out there because of cost of living, education and social mobility. Don't let the violence overshadow the real reasons people are protesting. MdTousif Raja Fuente: BBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2a121110e0ec2327</guid>
-      <pubDate>Tue, 20 Oct 2026 04:55:50 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
-    </item>
-    <item>
       <title>North Korea says it will resume propaganda broadcasts across border into South Korea</title>
       <link>https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts</link>
-      <description>North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign. Publicado también por: Al Jazeera English. Fuente: NPR - World.</description>
+      <description>North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign. Publicado también por: Al Jazeera English, Sky News - World. Fuente: NPR - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:f9a432605d044535</guid>
       <pubDate>Thu, 22 Oct 2026 06:36:07 +0000</pubDate>
       <category>conflictos</category>
@@ -1126,6 +1038,8 @@
       <category>Medio Oriente</category>
       <dc:creator>The Associated Press</dc:creator>
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
+      <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-korea-kim-yo-jong_7383358.jpg?20261022100744" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-korea-kim-yo-jong_7383358.jpg?20261022100744" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Australian MP Helen Haines who was hit by a car has had both of her legs amputated, her husband has said,... Ver más</title>
@@ -1148,6 +1062,83 @@
       <category>mundo</category>
       <category>América Latina</category>
       <source url="https://www.facebook.com/estadao/">Estadão</source>
+    </item>
+    <item>
+      <title>Ukraine: At least 9 people were killed in Russian attacks over the past 24 hours</title>
+      <link>http://www.africanews.com/2026/10/22/ukraine-at-least-9-people-were-killed-in-russian-attacks-over-the-past-24-hours/</link>
+      <description>At least nine people were killed in Russian attacks across Ukraine over the past 24 hours, according to Ukrainian authorities, as overnight missile and drone strikes sparked fires in Kyiv and the Kharkiv region. Publicado también por: Euronews. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d600a35c33ce0a1d</guid>
+      <pubDate>Thu, 22 Oct 2026 11:11:42 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/96/31/23/640x360_cmsv2_30ea4876-54e3-5b69-bcf5-9b42858046e4-9963123.jpg?1792666118" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/96/31/23/640x360_cmsv2_30ea4876-54e3-5b69-bcf5-9b42858046e4-9963123.jpg?1792666118" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1236 reproducciones · 17 reacciones | 🔴EN VIVO🔴 ➡Real Potosí Derrota a Bolívar en la Ida de la Copa Pacaña ➡Oriente Petrolero Gana por la Mínima ante Nacional Potosí en Santa Cruz ➡Always Ready Recibe a The Strongest en Villa Ingenio | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1136923608705068/?comment_id=984696594675996&amp;reply_comment_id=1137206495508489&amp;__cft__%5B0%5D=AZhBsLU4tZyZ6Fk5bQHJdajzb8OnIRkbhEKeFHxs0DDV6T0N9EBOVkO9k3RnUKcKJSiQiEHPNBJ5u1PUWpOoV5zoqmbanvR0Xgne9M_v50xnMssL-M-r_Kddew9eXpNMwOQF4YWedHCbiQm9Svafy5JIuXl-WjguOVmwND-9mu4Bo2pUnVFnQwnJqx-wVpFVQ08&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Real Potosí Derrota a Bolívar en la Ida de la Copa Pacaña ➡Oriente Petrolero Gana por la Mínima ante Nacional Potosí en Santa Cruz ➡Always Ready Recibe a The Strongest en Villa Ingenio 🔴EN VIVO🔴 ➡Real Potosí Derrota a Bolívar en la Ida de la Copa Pacaña ➡Oriente Petrolero Gana por la Mínima ante Nacional Potosí en Santa Cruz ➡Always... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1fac8bf14f2c4218</guid>
+      <pubDate>Thu, 22 Oct 2026 14:02:50 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/858982694_1303616738517064_2300612102763548894_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2FSIyr1XcfYQ7kNvwFMW17I&amp;_nc_oc=AdoylFv59lGdBX-KeoJaXN6wQeMWg7wRzCygqLEFopFucLu450PfADV2Tmk8dpyVSzk&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=E8jwWlCDpgZdI6o8oSpVog&amp;_nc_ss=7f289&amp;oh=00_AQPvK8yY3JElOwZXuZuz2V0wvxbDlMl-dQLyfzZY3oJ5ag&amp;oe=6ADFF1BA" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/858982694_1303616738517064_2300612102763548894_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2FSIyr1XcfYQ7kNvwFMW17I&amp;_nc_oc=AdoylFv59lGdBX-KeoJaXN6wQeMWg7wRzCygqLEFopFucLu450PfADV2Tmk8dpyVSzk&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=E8jwWlCDpgZdI6o8oSpVog&amp;_nc_ss=7f289&amp;oh=00_AQPvK8yY3JElOwZXuZuz2V0wvxbDlMl-dQLyfzZY3oJ5ag&amp;oe=6ADFF1BA" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Minister says 32 government services offline due to PHP code flaw – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates</link>
+      <description>Organisations around the world scrambling to fix a critical security flaw in the programming language PHP used by the majority of websites The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has continued to decline in the UK. It was 6.8% in April 2026, down from 7.2% in April 2025. This compares with 9.4% a decade ago and 16.4% 25 years ago. Secondly, I asked Healey whether he sees the banks as making excessive profits, which would be the coherent justification for him to increase the surcharge on bank… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:08b916570d9c7b18</guid>
+      <pubDate>Thu, 22 Oct 2026 13:35:24 +0000</pubDate>
+      <category>politica</category>
+      <category>Global</category>
+      <dc:creator>Andrew Sparrow</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/d79e1d8957fa2e66904dbfc6b46ed265c0038142/385_0_4229_3384/master/4229.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44b779aa7de95d06939dee937903d314" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/d79e1d8957fa2e66904dbfc6b46ed265c0038142/385_0_4229_3384/master/4229.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44b779aa7de95d06939dee937903d314" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live</title>
+      <link>https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates</link>
+      <description>French government will show ‘absolute’ determination to stop the riots, Macron says As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite police forces and gendarmerie. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6019a60d67537dfd</guid>
+      <pubDate>Thu, 22 Oct 2026 13:35:11 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>Martin Belam (now) and Jakub Krupa (earlier)</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/587295c10eab04fd618bc6ccbf8e20d749ac6d94/620_178_4612_3690/master/4612.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4255d37c66897b30ac77d0dfe7149d14" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/587295c10eab04fd618bc6ccbf8e20d749ac6d94/620_178_4612_3690/master/4612.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4255d37c66897b30ac77d0dfe7149d14" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Breaking down Man Utd's tactics after Fernandes' criticism</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o</link>
+      <description>Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in their 4-1 thrashing by Italian side Como? Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6a0226ad5314ec79</guid>
+      <pubDate>Thu, 22 Oct 2026 12:44:08 +0000</pubDate>
+      <category>deportes</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The numbers behind Brook's record-breaking 202 for England</title>
+      <link>https://www.bbc.co.uk/sport/cricket/articles/cq99z35zpgzmo</link>
+      <description>Captain Harry Brook becomes the first England batter to make a double century in a one-day international with a sensational 202 against Sri Lanka in Rawalpindi. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:361cce173a666dd7</guid>
+      <pubDate>Thu, 22 Oct 2026 12:15:29 +0000</pubDate>
+      <category>deportes</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b617/live/83a9d1b0-ce0c-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>4203 reproducciones · 52 reacciones | #LaRedDeportivaDeBolivia #CopaPaceña🇧🇴 🗓CUARTOS DE FINAL IDA 🏙POTOSÍ 🏟VÍCTOR AGUSTÍN UGARTE 🔥¡EN VIVO!🔥 #RealPotosí 🆚️ #ClubBolívar | ATB Digital</title>
@@ -1573,6 +1564,18 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/d515727ed1b6da08161bb2710878794ac7233209/1052_244_6304_5043/master/6304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44928d8a5112ed55c75e740f60594136" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/d515727ed1b6da08161bb2710878794ac7233209/1052_244_6304_5043/master/6304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44928d8a5112ed55c75e740f60594136" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least four dead after storm brings flooding to southern France</title>
+      <link>https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo</link>
+      <description>The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dd671f2e4ec04841</guid>
+      <pubDate>Thu, 22 Oct 2026 11:23:16 +0000</pubDate>
+      <category>ambiente</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba84/live/388ad750-cdf9-11f1-9a39-31b474234113.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
