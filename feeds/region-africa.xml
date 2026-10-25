@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 24 Oct 2026 23:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:17:10 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-africa.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -73,6 +73,22 @@
       <source url="https://variety.com/feed/">Variety</source>
       <media:content url="https://variety.com/wp-content/uploads/2026/10/nigerian-wicked.jpg" medium="image" />
       <enclosure url="https://variety.com/wp-content/uploads/2026/10/nigerian-wicked.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Conflicto en Ucrania: Musk reconoció haber restringido la velocidad de Starlink en el frente</title>
+      <link>https://www.clarin.com/mundo/conflicto-ucrania-musk-reconocio-restringido-velocidad-starlink-frente_0_Pq85CyjAF8.html</link>
+      <description>El dueño de SpaceX y ex funcionario de Estados Unidos reconoció haber limitado la conectividad a Ucrania tras argumentar que las tropas locales violaron los términos de uso al emplear la red para acciones ofensivas. El presidente Volodymyr Zelenskyy confirmó la restitución total de la velocidad habitual, lo que permitió normalizar la logística y el manejo de aeronaves no tripuladas. El empresario reconoció "un vacío legal" sobre las prestaciones de data satelital y el uso que se le da. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:87cfc5521bdb2989</guid>
+      <pubDate>Sat, 24 Oct 2026 21:35:25 +0000</pubDate>
+      <category>conflictos</category>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2026/02/06/YQDt9_Tsg_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2026/02/06/YQDt9_Tsg_1200x630__1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Sudan’s soaring fuel prices make getting by harder for workers</title>
@@ -1566,21 +1582,6 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/96/38/10/640x360_cmsv2_4f184246-ef10-5f7c-84b7-36aff58270f9-9963810.jpg?1792698251" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/96/38/10/640x360_cmsv2_4f184246-ef10-5f7c-84b7-36aff58270f9-9963810.jpg?1792698251" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump llamó a Musk para pedirle que levantara las restricciones de Starlink en Ucrania</title>
-      <link>https://www.elmundo.es/internacional/2026/10/22/6ada623ce85ece2c2f8b4574.html</link>
-      <description>El sistema de uso militar parecía funcionar con mayor normalidad el jueves, poco después de la llamada Leer Fuente: El Mundo - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:2c41672e4cd98354</guid>
-      <pubDate>Thu, 22 Oct 2026 19:42:26 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>África</category>
-      <dc:creator>Alexander Ward y Lara Seligman</dc:creator>
-      <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
-      <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926978319459.jpg" medium="image" />
-      <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926978319459.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

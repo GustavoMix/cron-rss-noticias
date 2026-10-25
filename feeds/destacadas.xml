@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 24 Oct 2026 23:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:17:10 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -39,21 +39,6 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/0fedb3cac8601fb0331067627b09ef97?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/0fedb3cac8601fb0331067627b09ef97?impolicy=wcms_crop_resize&amp;cropH=270&amp;cropW=480&amp;xPos=0&amp;yPos=45&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>France reports first human case of Shamonda virus, but says there's no public health risk</title>
-      <link>https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk</link>
-      <description>France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been "an exceptional case" involving a person with a severely compromised immune system. Publicado también por: The Hindu - International, Al Jazeera English, Sky News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:78f6ac145e3ffb91</guid>
-      <pubDate>Thu, 22 Oct 2026 12:22:56 +0000</pubDate>
-      <category>salud</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/c90e21c2-ce00-11f1-9ac6-23d55109f116/w:1024/p:16x9/AP25281484289422.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Taiwan shuts down and grounds flights ahead of Typhoon Champi</title>
@@ -232,6 +217,18 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/d6558960-ced2-11f1-8507-45cb00a1c41c.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35ff/live/d6558960-ced2-11f1-8507-45cb00a1c41c.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Volkanovski underscores UFC greatness with record ninth title win</title>
+      <link>https://www.abc.net.au/news/2026-10-25/volkanovski-underscores-ufc-greatness-win-over-movsar-evloev/107306090</link>
+      <description>Alexander Volkanovski strengthens his claim as the greatest featherweight of all time as he defeated Movsar Evloev inside two rounds at UFC 333 in Abu Dhabi. Publicado también por: BBC Sport. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:172b1e10ed25d7b0</guid>
+      <pubDate>Sun, 25 Oct 2026 00:23:49 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/daa59edfb2aec02c8b86a86027c2aa9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/daa59edfb2aec02c8b86a86027c2aa9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least nine people were killed and 34 were injured after gunmen opened fire on a church in Karak, Jordan, on Friday.</title>
@@ -539,6 +536,31 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d493de60-cee1-11f1-bdca-23c64447299f.png" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/824e/live/d493de60-cee1-11f1-bdca-23c64447299f.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid0YZ8QyJqepUrS64m1u3573ajUzyxV8qwqEUwGJ936KRMiLgUXrwJjQ5ahm7HG2wPHl?__cft__%5B0%5D=AZimBbmAQYxJWrPCo-9EkgjZc3FF0KpLufxdqq5iCheZjo4Rbrny7AvdFe61bC1sE2B84xq50rOVUbK2wyOyju_Fe5vRixFIHpmHflz6ow_f-2NYXAcN_dZc9AWcmVyF4_Rx3pjAgO1h9zAXRIGoGdN5W4MYrYMsFvo78Q6mT-aiTT8wOlfCN1MImBA&amp;__tn__=%2CO%2CP-R</link>
+      <description>Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c079a8b6a1330476</guid>
+      <pubDate>Sun, 25 Oct 2026 01:00:18 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/861834129_1142537111668922_5073094356647163667_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=n49DXydXzfcQ7kNvwEkXdmc&amp;_nc_oc=Adpd8cMemAcdRKVGai6D1G5ZAwfQosTjowRLbDx9p9OdonOW9vIbEeXnHVOTgoKWWA4&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=vMORyAdHMEaolIkZ8O7RWg&amp;_nc_ss=7f289&amp;oh=00_AQOybhVzfOp6ug-fSzopY0uuUYHoxO2Dq3TXrSixM1rDRQ&amp;oe=6AE32AFE" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/861834129_1142537111668922_5073094356647163667_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=n49DXydXzfcQ7kNvwEkXdmc&amp;_nc_oc=Adpd8cMemAcdRKVGai6D1G5ZAwfQosTjowRLbDx9p9OdonOW9vIbEeXnHVOTgoKWWA4&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=vMORyAdHMEaolIkZ8O7RWg&amp;_nc_ss=7f289&amp;oh=00_AQOybhVzfOp6ug-fSzopY0uuUYHoxO2Dq3TXrSixM1rDRQ&amp;oe=6AE32AFE" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>'La rebelión en la calle y un ejército digital impulsan a Lula'. Por Xico Sá</title>
+      <link>https://www.facebook.com/elpais/posts/pfbid0Z8f1VXYTpvDBDPdWe8Sgcw3utQtisGrHCn3hst2Sh6cfZ6fhco8ZVQ362whG7ke2l?__cft__%5B0%5D=AZj-AbA7mZh58tMjlu3xvKhNr_3aj5Qqc8-6um5uzoJkOe1YW-zYckau6OBGrBG3Cn2bKjw9ExOFMO-cmxxLxQy_Yr9SBkh1AQlj0sRIVYJjyzp8f8c0qdDPfzqUahxsI_lNdigSCxIos_mN14Zbtg06Rgfob-Ci5CNLVTz5kcaLVXbOQSflYHzxRUU&amp;__tn__=%2CO%2CP-R</link>
+      <description>'La rebelión en la calle y un ejército digital impulsan a Lula'. Por Xico Sá Ni Lula lo cree ELPAIS.COM La rebelión en la calle y un ejército digital impulsan a Lula Ver más comentarios David Reyes Publicado también por: El País - Internacional. Fuente: El País.</description>
+      <guid isPermaLink="false">cron-rss-noticias:564cf4ef98f96354</guid>
+      <pubDate>Sun, 25 Oct 2026 00:15:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/elpais/">El País</source>
+      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1871110581210587048?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F34QPDMNMIFJ5JKSN653RDPNGJY.jpg%3Fauth%3D9f2fe10f01d90e69e47f0e3ad9c053fddf8b8ffa1cd9c0bd922ea18e6465de99%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=33Osm46bylijtocWH-t2Xw&amp;_nc_zt=3&amp;oh=06_Q3_EAfd4K0_WviMTjN2Ri9jb3gJY1qgWfCZIUQ2Mv5Ru4iVg&amp;oe=6ADF1C3B" medium="image" />
+      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1871110581210587048?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F34QPDMNMIFJ5JKSN653RDPNGJY.jpg%3Fauth%3D9f2fe10f01d90e69e47f0e3ad9c053fddf8b8ffa1cd9c0bd922ea18e6465de99%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=33Osm46bylijtocWH-t2Xw&amp;_nc_zt=3&amp;oh=06_Q3_EAfd4K0_WviMTjN2Ri9jb3gJY1qgWfCZIUQ2Mv5Ru4iVg&amp;oe=6ADF1C3B" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain</title>
@@ -918,20 +940,6 @@
       <enclosure url="https://i.guim.co.uk/img/media/74c76b9805d46c54b4c65a6c94c2b6e3b7a14069/0_2418_6732_5384/master/6732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6798c4a95ca7d1112497132c674d4076" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off</title>
-      <link>https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html</link>
-      <description>A powerful typhoon headed toward Taiwan on Thursday, triggering the cancellation of dozens of flights and prompting warnings for locals to prepare for heavy rain, strong winds and giant waves. Publicado también por: Phys.org. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5273690dcdb7bbd5</guid>
-      <pubDate>Thu, 22 Oct 2026 13:07:10 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>América del Norte</category>
-      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/22/multimedia/22int-taiwan-typhoon-fgbh/22int-taiwan-typhoon-fgbh-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat</title>
       <link>https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o</link>
       <description>A fire broke out at the Eagle's Nest, Adolf Hitler's former mountain retreat in southern Germany. Police say a suspect has been detained, and around 200 firefighters were deployed to tackle the blaze. Publicado también por: Euronews. Fuente: BBC News - World.</description>
@@ -1137,6 +1145,19 @@
       <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
       <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17927018245148.jpg" medium="image" />
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/22/17927018245148.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>14 reacciones | 🔴EN VIVO🔴 ➡Always Ready Empata con The Strongest en Villa Ingenio en la Ida de Cuartos de Final de la Copa Paceña ➡Comienza la fecha 23 del Todos Contra Todos ➡Bolívar Recibe a FC Universitario por la fecha 23 de la Liga Boliviana ➡Oriente Petrolero Recibe a The Strtongest este Domingo | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1660848565757522/?comment_id=1461514205859141&amp;__cft__%5B0%5D=AZhPkZkDB_imH2RmK8eZR7jlunnQjhMeIvDyfzYEVZfx91ST6oo-SHiRW6tzEcCy4IX3oQoEoIfQmxDROD07XNplPDLKM2AeoThPmeTW5T81c7I4GmVBJufbIkSs-iGumQ_1hDR5RbJ-ebAlbHgsIMKn3UURD0MDO2NHaa_8XbByB9VQy_Rb27qh8aWaqRMXSO4&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Always Ready Empata con The Strongest en Villa Ingenio en la Ida de Cuartos de Final de la Copa Paceña ➡Comienza la fecha 23 del Todos Contra Todos ➡Bolívar Recibe a FC Universitario por... 🔴EN VIVO🔴 ➡Always Ready Empata con The Strongest en Villa Ingenio en la Ida de Cuartos de Final de la Copa Paceña ➡Comienza la fecha 23 del Todos Contra... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8a904037bab5376f</guid>
+      <pubDate>Sun, 25 Oct 2026 01:17:10 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/862576807_1144164324719650_5655155801120297941_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=KxkZnPJP3dkQ7kNvwEtTHAB&amp;_nc_oc=AdoQa-gHe7DCVs2qZeMDH7Xmid9QzBxM7AJwfauRXQaHa40wwAO7UIDoOV-kT5WfK9g&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=yDyYWUGo851I1KX25LeSwQ&amp;_nc_ss=7f289&amp;oh=00_AQPVVOvPOYRxlL3StRhTMVVX4WkRt952iYlPcP-xuw3XXw&amp;oe=6AE320BD" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/862576807_1144164324719650_5655155801120297941_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=KxkZnPJP3dkQ7kNvwEtTHAB&amp;_nc_oc=AdoQa-gHe7DCVs2qZeMDH7Xmid9QzBxM7AJwfauRXQaHa40wwAO7UIDoOV-kT5WfK9g&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=yDyYWUGo851I1KX25LeSwQ&amp;_nc_ss=7f289&amp;oh=00_AQPVVOvPOYRxlL3StRhTMVVX4WkRt952iYlPcP-xuw3XXw&amp;oe=6AE320BD" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Michael Oliver ha comentado: Let me guess. He's gonna name names and bring the whole business of sports down with him.</title>
@@ -1555,34 +1576,6 @@
       <source url="https://www.facebook.com/ABCNews/">ABC News</source>
       <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/862272444_1120732430949267_4790707635176575467_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=66WomJCAANEQ7kNvwGkT3En&amp;_nc_oc=Adr1cNv3dA3d1t-U7-o-fZRmvi1cnQW6lJff3Jy1mM7ZxERKxF6shJqFZZYCp5E58YQ&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=zeg4sS2y2mi5Nqhm8Az0PQ&amp;_nc_ss=7f289&amp;oh=00_AQMmucdKNKfKyny4aEVQj8XSdMQsubacSp4TmwkocZPTIA&amp;oe=6AE19215" medium="image" />
       <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/862272444_1120732430949267_4790707635176575467_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=66WomJCAANEQ7kNvwGkT3En&amp;_nc_oc=Adr1cNv3dA3d1t-U7-o-fZRmvi1cnQW6lJff3Jy1mM7ZxERKxF6shJqFZZYCp5E58YQ&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=zeg4sS2y2mi5Nqhm8Az0PQ&amp;_nc_ss=7f289&amp;oh=00_AQMmucdKNKfKyny4aEVQj8XSdMQsubacSp4TmwkocZPTIA&amp;oe=6AE19215" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Brasil llega a la transición presidencial: crisis de endeudamiento y una economía que pierde impulso</title>
-      <link>https://www.france24.com/es/programas/econom%C3%ADa/20261023-brasil-llega-a-la-transici%C3%B3n-presidencial-crisis-de-endeudamiento-y-una-econom%C3%ADa-que-pierde-impulso</link>
-      <description>El próximo Gobierno brasileño heredará una economía marcada por un déficit fiscal cercano al 9,5% y una deuda pública que ronda el 83% del PIB y una inflación anual del 4,58%. Con las tasas de interés alrededor del 14% y el crecimiento económico desacelerándose, el saneamiento de las cuentas públicas será uno de los principales desafíos. A esto se suman la reforma tributaria prevista para 2027, los cambios laborales y la necesidad de reorientar las relaciones comerciales con Estados Unidos y las potencias del Sur Global. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9fd1901198be94ba</guid>
-      <pubDate>Fri, 23 Oct 2026 17:25:41 +0000</pubDate>
-      <category>economia</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>Juan Pablo Lucumí</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/8a4b063c-cf02-11f1-98c8-5b4a75578ebb/w:1024/p:16x9/2026-10-21T185509Z-1027856127-RC2P7OAR4YCQ-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/8a4b063c-cf02-11f1-98c8-5b4a75578ebb/w:1024/p:16x9/2026-10-21T185509Z-1027856127-RC2P7OAR4YCQ-RTRMADP-3-BRAZIL-ELECTION-BOLSONARO.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel launches collective punishment campaign in Hebron after two soldiers killed</title>
-      <link>https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed</link>
-      <description>Benjamin Netanyahu and ministers promise demolitions and forced displacement after deadly gunfight Israel has launched a campaign of collective punishment against Palestinians in Hebron after gunmen killed two Israeli soldiers and injured three near a checkpoint outside the city. Benjamin Netanyahu announced a siege on Hebron and neighbouring Halhul and said residents of the gunmen’s home neighbourhoods would all be forced out. He promised mass demolitions of homes. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cd770d77f205cd20</guid>
-      <pubDate>Fri, 23 Oct 2026 17:22:11 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Emma Graham-Harrison in Jerusalem and Lorenzo Tondo</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/15b08426d4d1d04bcd2303817e34d7f49ab08850/539_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b792a1b3608b64f3b7a1426fc251544d" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/15b08426d4d1d04bcd2303817e34d7f49ab08850/539_0_4583_3667/master/4583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b792a1b3608b64f3b7a1426fc251544d" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
