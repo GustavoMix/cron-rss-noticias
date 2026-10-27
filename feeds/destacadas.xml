@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 27 Oct 2026 10:49:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:59:23 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -151,6 +151,8 @@
       <pubDate>Tue, 27 Oct 2026 10:19:13 +0000</pubDate>
       <category>mundo</category>
       <category>Global</category>
+      <category>Europa</category>
+      <category>Asia</category>
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" type="image/jpeg" length="0" />
@@ -236,28 +238,44 @@
       <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
     </item>
     <item>
-      <title>Volkanovski underscores UFC greatness with record ninth title win</title>
-      <link>https://www.abc.net.au/news/2026-10-25/volkanovski-underscores-ufc-greatness-win-over-movsar-evloev/107306090</link>
-      <description>Alexander Volkanovski strengthens his claim as the greatest featherweight of all time as he defeated Movsar Evloev inside two rounds at UFC 333 in Abu Dhabi. Publicado también por: BBC Sport. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:172b1e10ed25d7b0</guid>
-      <pubDate>Sun, 25 Oct 2026 00:23:49 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/daa59edfb2aec02c8b86a86027c2aa9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/daa59edfb2aec02c8b86a86027c2aa9c?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=15&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+      <title>URGENTE - Brasil cancela los pasaportes de Flávio Bolsonaro tras incumplir un plazo judicial para entregarlos</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02fxeop7sW2Dc7zSUamF89sizaaqE2Pfr4CMHuzNW3DdgFpv6BnPJPHsiCbeB23Qxxl?__cft__%5B0%5D=AZgToskvB1b0KBSknlAmmBkInYZ8ZZSZv37wYwQ37D2QEiy_RKgHXTzkOcZC6dvRMItQ_ftE7fta4Hyc5__GxDeLxqftmfV-oLSR7PCQCYryl7UtDA7oYz6zrldWC-93K-fc66KNFoXIWRQJy3dHZKjkXjTr0XJVYsbtaHWu0xauRZMLD4NUqT-cp3w&amp;__tn__=%2CO%2CP-R</link>
+      <description>El senador brasileño Flávio Bolsonaro, derrotado en las elecciones presidenciales del domingo frente a Luiz Inácio Lula da Silva, no entregó sus pasaportes a la Policía Federal dentro del plazo fijado por el Supremo Tribunal Federal. Los documentos fueron cancelados y el paradero del legislador, investigado en una causa por presunto lavado de dinero, era desconocido este martes. El excandidato niega haber cometido irregularidades. Publicado también por: France 24 - Español. Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b45ac325bde09de6</guid>
+      <pubDate>Tue, 27 Oct 2026 15:55:27 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" medium="image" />
+      <enclosure url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>At least nine people were killed and 34 were injured after gunmen opened fire on a church in Karak, Jordan, on Friday.</title>
-      <link>https://www.facebook.com/ABCNews/posts/pfbid02trXC5p6eJMN7i2ki8axDiEwxky8fsPr2ZPWQGJ8enmMmStwQ93YLietQALQBy4vul?__cft__%5B0%5D=AZjEc99YDfNnW1FlO_R05TzjxUT9S_l1Bx75d47ydVDZqEEDBm3owU_TqAZ1IobdH_tbXoRM1l6vzZMk-KibwfjUSJZQshXivKNR0eqNMHVPi1uFVFxy-UTWIBwHqsBdRyPoPK5tIqtx-jIw4M4JohiDnbFwOvdhS89e20Iyc-nVERn_ie9AhtcqjqA&amp;__tn__=%2CO%2CP-R</link>
-      <description>Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Nine people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the attack on Friday as a terrorist act by extremists. Continue reading... Publicado también por: The Guardian - World. Fuente: ABC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c0b3583df16b6437</guid>
-      <pubDate>Sat, 24 Oct 2026 20:32:24 +0000</pubDate>
+      <title>Two men charged in UK with helping Iran over RAF Fairford incident</title>
+      <link>https://www.jpost.com/international/article-913042</link>
+      <description>⁠Two men were charged ⁠on Tuesday under Britain’s National Security Act ⁠following last month’s security incident at the RAF Fairford military base, with prosecutors accusing one of them of trying to assist Iranian intelligence operations in Britain. RAF Fairford had been used by US bombers to carry out strikes on Iran, but they were withdrawn ‌on security grounds shortly after five British men were arrested outside the base in southwest England in the early hours of September 27. The... Publicado también por: South China Morning Post, ABC News Australia. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:79e5e5e0e94c6c61</guid>
+      <pubDate>Tue, 27 Oct 2026 16:29:04 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Oceanía</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/8482e5c6-3cef-44fe-9d7e-d83d99d12553_3ba22459.jpg?itok=EICCkHA5&amp;v=1793109763" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/8482e5c6-3cef-44fe-9d7e-d83d99d12553_3ba22459.jpg?itok=EICCkHA5&amp;v=1793109763" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Rapper Jay-Z will perform at the Super Bowl half-time show for the first time in February, the NFL has announced.... Ver más</title>
+      <link>https://www.facebook.com/bbcnews/posts/pfbid02PU5ePiWSbPjinm4UzJMKN2MFsvu4rjciS92AwmwmpDVUicyrFtJ5qNmz14FsRRb5l?__cft__%5B0%5D=AZiOlWxGN1781BFCPd-59mPt2UwV-oabJ1-GPdnim4npdfooxbPoXGYKc9zV69rYD2eUdVTkUJpf_EOlfq99zpm7mE0GpRcq6GBUE6CE6g9jxKCb5U-kNtZaQBmeb4JDz0_peBPeaHyyTSPd68TYQxriCQNVRnk1YuZOOcQFh0XhPRE_wYpkjMnFwUA&amp;__tn__=%2CO%2CP-R</link>
+      <description>Rapper Jay-Z will perform at the Super Bowl half-time show for the first time in February, the NFL has announced.... Ver más Never in my existence have I ever heard someone say "Yo, put some Jay Z on!" Ver más comentarios Michael Aaron Johnson Ver 1 respuesta Publicado también por: BBC News - World. Fuente: BBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9f2a5df5bdf75c07</guid>
+      <pubDate>Tue, 27 Oct 2026 16:01:53 +0000</pubDate>
       <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/ABCNews/">ABC News</source>
-      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/18362174522075369069?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2Fa1ef59a6-dcef-4b68-af96-ebb688608357%2Fjordan-church-shooting-02-ap-jt-261024_1792854991201_hpMain_16x9.jpg%3Fw%3D1600&amp;fb_obo=1&amp;utld=abcnewsfe.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=77Ss46OOmLzj9PHrgJTN8w&amp;_nc_zt=3&amp;oh=06_Q3_EASi8s6Bxvdzzc9ATjciZbt1MOA0TvCe875ocPVddgwJu&amp;oe=6ADEDF45" medium="image" />
-      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/18362174522075369069?url=https%3A%2F%2Fi.abcnewsfe.com%2Fa%2Fa1ef59a6-dcef-4b68-af96-ebb688608357%2Fjordan-church-shooting-02-ap-jt-261024_1792854991201_hpMain_16x9.jpg%3Fw%3D1600&amp;fb_obo=1&amp;utld=abcnewsfe.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=77Ss46OOmLzj9PHrgJTN8w&amp;_nc_zt=3&amp;oh=06_Q3_EASi8s6Bxvdzzc9ATjciZbt1MOA0TvCe875ocPVddgwJu&amp;oe=6ADEDF45" type="image/jpeg" length="0" />
+      <category>Global</category>
+      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866413050_1806828070533607_8270720622135180113_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=9whOAPbPZuAQ7kNvwEVKXG7&amp;_nc_oc=Adrzx3yJ_IdZFv4ba907KYX5IKWYB6FaJki4eZNeg4WtTddEDgtA4fvEY6BxMD_bDS0&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=c1DOaNxiVca3hvEjmoV1WA&amp;_nc_ss=7f289&amp;oh=00_AQPem-4x2--RNOwo3Q7Le2-QTmjLxExtASC_KoRho1w8pA&amp;oe=6AE698E4" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866413050_1806828070533607_8270720622135180113_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=9whOAPbPZuAQ7kNvwEVKXG7&amp;_nc_oc=Adrzx3yJ_IdZFv4ba907KYX5IKWYB6FaJki4eZNeg4WtTddEDgtA4fvEY6BxMD_bDS0&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=c1DOaNxiVca3hvEjmoV1WA&amp;_nc_ss=7f289&amp;oh=00_AQPem-4x2--RNOwo3Q7Le2-QTmjLxExtASC_KoRho1w8pA&amp;oe=6AE698E4" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Meghan to co-host Junior MasterChef Australia</title>
@@ -393,6 +411,42 @@
       <enclosure url="https://s.france24.com/media/display/ceee314c-d119-11f1-9027-5b4a75578ebb/w:1024/p:16x9/EN-20261026-090215-090410-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>La participación alcanza niveles récord en una crucial elección para el futuro de Israel y el actual primer ministro Benjamin Netanyahu</title>
+      <link>https://www.bbc.co.uk/mundo/live/cmx28dldw68pt</link>
+      <description>El primer ministro israelí enfrenta una cerrada elección frente a Gadi Eisenkot, un exmilitar que encabeza la oposición. Se espera que el legado de los atentados liderados por Hamás el 7 de octubre de 2023 desempeñe un papel fundamental en las urnas. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9cb37be9236ca658</guid>
+      <pubDate>Tue, 27 Oct 2026 16:59:23 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d53/live/fd8316b0-d1f7-11f1-b441-2b33b063138f.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d53/live/fd8316b0-d1f7-11f1-b441-2b33b063138f.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Flavio Bolsonaro misses deadline to turn in passports to Brazil police... Ver más</title>
+      <link>https://www.facebook.com/Reuters/posts/pfbid0tNTTutb8Vs4suPp6qa2fJoEFGVwVJDiTkQXUvWJizPa6CN88uFicDiEVn4K48N5wl?__cft__%5B0%5D=AZimoVd76bbdPI6_7gQfLH0etAq8IHYHQCW5LxK6oh5WpVCIp2lsNXsFCqD_SqkHhSMRLBGNExghXZMP1zwlvcvSaGNzmsQcNor7RXchweCIYkTMLrFqRMczivAoaDEXvkLILT5pk8pamCX6DNN_peQ8bk7waXQ4-IbGTMZCbzDVetL_VbhZIcBQWYI&amp;__tn__=%2CO%2CP-R</link>
+      <description>Fuente: Reuters.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7d3033664b6e7856</guid>
+      <pubDate>Tue, 27 Oct 2026 16:31:44 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/Reuters/">Reuters</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/869370742_2018360752175210_5517018039543125098_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=u57zxwzJuB4Q7kNvwFTX1sR&amp;_nc_oc=AdrUh-pg8_SOoGurt_9V1LHU0tto9z2L_eb6lBoVEqD6K8iv8ACbSB3zfSk_AL6rcuQ&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=CiiAPH9P4nVq99x9ayZgTg&amp;_nc_ss=7f289&amp;oh=00_AQNw1JYTAT2G-uH51Lwo4dheLUHLbHY9Ojxvxw6-hwszQA&amp;oe=6AE6AA05" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/869370742_2018360752175210_5517018039543125098_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=u57zxwzJuB4Q7kNvwFTX1sR&amp;_nc_oc=AdrUh-pg8_SOoGurt_9V1LHU0tto9z2L_eb6lBoVEqD6K8iv8ACbSB3zfSk_AL6rcuQ&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=CiiAPH9P4nVq99x9ayZgTg&amp;_nc_ss=7f289&amp;oh=00_AQNw1JYTAT2G-uH51Lwo4dheLUHLbHY9Ojxvxw6-hwszQA&amp;oe=6AE6AA05" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>"Fue un error, el Estado falló": la crisis en el gobierno de Kast por rebajar las penas a 56 personas condenadas por delitos sexuales contra menores</title>
+      <link>https://www.bbc.com/mundo/articles/cvwy7k3lpge3o</link>
+      <description>Las encuestas revelan que la medida, que es rechazada por el 92% de los chilenos, ha afectado la imagen del mandatario. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2cac00cba51b375e</guid>
+      <pubDate>Tue, 27 Oct 2026 15:49:40 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8696/live/07e45dc0-d21c-11f1-8f84-ebd3099fed63.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8696/live/07e45dc0-d21c-11f1-8f84-ebd3099fed63.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Jordan carries out deadly strike in Syria in retaliation for church attack</title>
       <link>https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo</link>
       <description>Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement. It said the operation “resulted in the killing and wounding of many members of these terrorist groups and the destruction of a number of their vehicles”. It did not specify who the groups were or the precise location of the strikes… Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
@@ -492,6 +546,18 @@
       <enclosure url="https://static.toiimg.com/photo/msid-135183923,imgsize-248166.cms" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Perseverance offers clues to protect crews from ultrafine Mars dust</title>
+      <link>https://phys.org/news/2026-10-perseverance-clues-crews-ultrafine-mars.html</link>
+      <description>Over 1,645 Martian days, NASA's Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including particles small enough to penetrate the lungs and enter the bloodstream. The findings are published in the Proceedings of the National Academy of Sciences and could inform spacesuit and habitat design, dust-removal procedures and crew health standards for future NASA missions to Mars. Publicado también por: NASA. Fuente: Phys.org.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e2346fc52858a4a1</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:01 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Global</category>
+      <source url="https://phys.org/rss-feed/">Phys.org</source>
+      <media:content url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-perseverance-off-1.jpg" medium="image" />
+      <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-perseverance-off-1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Men charged with national security offences over incident at US base in England</title>
       <link>https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522</link>
       <description>One charged assisting a foreign intelligence service and the other with entering a prohibited place, CPS says Two British nationals have been charged over a plot to assist Iran’s intelligence service as part of the investigation into the suspected terror incident near RAF Fairford. Counter Terrorism Policing (CTP) said Mohmed Abdulkarim, 24, of London, will appear at Westminster magistrates’ court on Tuesday charged with assisting a foreign intelligence service under the National Security Act 2023. Continue reading... Publicado también por: The Guardian - World. Fuente: ABC News Australia.</description>
@@ -570,6 +636,8 @@
       <category>tecnologia</category>
       <category>conflictos</category>
       <category>Global</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
       <dc:creator>Nick Indge</dc:creator>
       <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
       <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image" />
@@ -761,131 +829,16 @@
       <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/861763782_1735448884205670_8641428511187633295_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=Ehs7L7WnaV8Q7kNvwGM-PIL&amp;_nc_oc=Adp-4o_3DrYCU8t3QI17Usk-2H82RAqVPvsOVVzx3g_Bgzw8txmTPyKTfJP2KoWTWms&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=ImJctAHRcshLl-KxHl-IQg&amp;_nc_ss=7f289&amp;oh=00_AQNOyko3ynV563HjnwSA0AlEKnfiLf4J_qLr3CQyX3wuew&amp;oe=6AE35DBA" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0YZ8QyJqepUrS64m1u3573ajUzyxV8qwqEUwGJ936KRMiLgUXrwJjQ5ahm7HG2wPHl?__cft__%5B0%5D=AZimBbmAQYxJWrPCo-9EkgjZc3FF0KpLufxdqq5iCheZjo4Rbrny7AvdFe61bC1sE2B84xq50rOVUbK2wyOyju_Fe5vRixFIHpmHflz6ow_f-2NYXAcN_dZc9AWcmVyF4_Rx3pjAgO1h9zAXRIGoGdN5W4MYrYMsFvo78Q6mT-aiTT8wOlfCN1MImBA&amp;__tn__=%2CO%2CP-R</link>
-      <description>Former US president says Trump 'chose to make a series of bad decisions', highlighting the US-Israel war on Iran. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c079a8b6a1330476</guid>
-      <pubDate>Sun, 25 Oct 2026 01:00:18 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/861834129_1142537111668922_5073094356647163667_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=n49DXydXzfcQ7kNvwEkXdmc&amp;_nc_oc=Adpd8cMemAcdRKVGai6D1G5ZAwfQosTjowRLbDx9p9OdonOW9vIbEeXnHVOTgoKWWA4&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=vMORyAdHMEaolIkZ8O7RWg&amp;_nc_ss=7f289&amp;oh=00_AQOybhVzfOp6ug-fSzopY0uuUYHoxO2Dq3TXrSixM1rDRQ&amp;oe=6AE32AFE" medium="image" />
-      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/861834129_1142537111668922_5073094356647163667_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p600x600&amp;_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=n49DXydXzfcQ7kNvwEkXdmc&amp;_nc_oc=Adpd8cMemAcdRKVGai6D1G5ZAwfQosTjowRLbDx9p9OdonOW9vIbEeXnHVOTgoKWWA4&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=vMORyAdHMEaolIkZ8O7RWg&amp;_nc_ss=7f289&amp;oh=00_AQOybhVzfOp6ug-fSzopY0uuUYHoxO2Dq3TXrSixM1rDRQ&amp;oe=6AE32AFE" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>'La rebelión en la calle y un ejército digital impulsan a Lula'. Por Xico Sá</title>
-      <link>https://www.facebook.com/elpais/posts/pfbid0Z8f1VXYTpvDBDPdWe8Sgcw3utQtisGrHCn3hst2Sh6cfZ6fhco8ZVQ362whG7ke2l?__cft__%5B0%5D=AZj-AbA7mZh58tMjlu3xvKhNr_3aj5Qqc8-6um5uzoJkOe1YW-zYckau6OBGrBG3Cn2bKjw9ExOFMO-cmxxLxQy_Yr9SBkh1AQlj0sRIVYJjyzp8f8c0qdDPfzqUahxsI_lNdigSCxIos_mN14Zbtg06Rgfob-Ci5CNLVTz5kcaLVXbOQSflYHzxRUU&amp;__tn__=%2CO%2CP-R</link>
-      <description>'La rebelión en la calle y un ejército digital impulsan a Lula'. Por Xico Sá Ni Lula lo cree ELPAIS.COM La rebelión en la calle y un ejército digital impulsan a Lula Ver más comentarios David Reyes Publicado también por: El País - Internacional. Fuente: El País.</description>
-      <guid isPermaLink="false">cron-rss-noticias:564cf4ef98f96354</guid>
-      <pubDate>Sun, 25 Oct 2026 00:15:58 +0000</pubDate>
+      <title>How Kane defied doubters to become world's best</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cqvg01jyy84xo</link>
+      <description>Harry Kane is the humble 'anti-superstar' who defied doubters to achieve Ballon d'Or greatness, says chief football writer Phil McNulty. Publicado también por: BBC Sport. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:26c39f9321528df3</guid>
+      <pubDate>Tue, 27 Oct 2026 12:46:39 +0000</pubDate>
       <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/elpais/">El País</source>
-      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1871110581210587048?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F34QPDMNMIFJ5JKSN653RDPNGJY.jpg%3Fauth%3D9f2fe10f01d90e69e47f0e3ad9c053fddf8b8ffa1cd9c0bd922ea18e6465de99%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=33Osm46bylijtocWH-t2Xw&amp;_nc_zt=3&amp;oh=06_Q3_EAfd4K0_WviMTjN2Ri9jb3gJY1qgWfCZIUQ2Mv5Ru4iVg&amp;oe=6ADF1C3B" medium="image" />
-      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/1871110581210587048?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2F34QPDMNMIFJ5JKSN653RDPNGJY.jpg%3Fauth%3D9f2fe10f01d90e69e47f0e3ad9c053fddf8b8ffa1cd9c0bd922ea18e6465de99%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=33Osm46bylijtocWH-t2Xw&amp;_nc_zt=3&amp;oh=06_Q3_EAfd4K0_WviMTjN2Ri9jb3gJY1qgWfCZIUQ2Mv5Ru4iVg&amp;oe=6ADF1C3B" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Storm Boelo: Travel disrupted and events cancelled as UK hit by wind and rain</title>
-      <link>https://www.theguardian.com/uk-news/2026/oct/24/storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-and-rain</link>
-      <description>Fresh deluge of wet weather comes after Storm Austen brought strong winds to many regions on Friday Amber weather warnings have come into force as the worst of Storm Boelo could be set to hit parts of the UK. Storm Boelo’s winds will peak from Saturday evening, leaving areas in the warning zone, including Scotland, parts of Northern Ireland and the far north of England, braced for gusts of 60-70mph and even 80mph in exposed coastal spots, the Met Office said. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4bcb0232f6c2d633</guid>
-      <pubDate>Sat, 24 Oct 2026 22:40:08 +0000</pubDate>
-      <category>conflictos</category>
       <category>Global</category>
-      <dc:creator>Pol Allingham and Helen William, Press Association</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fe27c5250f25a304b98ab163a56fc6b" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/e74a18fb3f5eb4f9cbf2c1d5fd48da3858c91d1b/376_0_4877_3903/master/4877.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fe27c5250f25a304b98ab163a56fc6b" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Un incendio devastó el 'Nido del Águila' de Hitler en Alemania; un sospechoso detenido</title>
-      <link>https://www.france24.com/es/europa/20261024-un-incendio-devast%C3%B3-el-nido-del-%C3%A1guila-de-hitler-en-alemania-un-sospechoso-detenido</link>
-      <description>La policía alemana informó este sábado que detuvo a un sospechoso luego de que estallara un incendio en el «Nido del Águila», la antigua residencia de montaña de Adolf Hitler en el estado de Baviera.Se desplegaron alrededor de 200 bomberos para combatir el fuego en la remota «Kehlsteinhaus» del dictador nazi, ubicada en la cima del Obersalzberg, en el sur de Alemania.Los bomberos vieron llamas que se elevaban muy alto en el aire al acercarse al lugar de difícil acceso, solo para encontrar el edificio «completamente en llamas», informó la policía.«Se detuvo temporalmente a una persona… Publicado también por: ABC España - Internacional. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3842d93019d0c0df</guid>
-      <pubDate>Sat, 24 Oct 2026 21:49:42 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>William Gazeau</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/0b2b90fa-cfe9-11f1-818b-bdb9616e85cf/w:1024/p:16x9/000-D4BA3KE.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/0b2b90fa-cfe9-11f1-818b-bdb9616e85cf/w:1024/p:16x9/000-D4BA3KE.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El hartazgo de los jóvenes en Albania frente a la clase dirigente vuelve a estallar en las calles. Policías y manifestantes chocan de nuevo en Tirana después de tres días sin…</title>
-      <link>https://www.facebook.com/elpais/posts/pfbid02GnAZoNQmLxkbkKjjUzk3F3q4dxXJ6Gc7ab8XKvC58fBDQkDe91dMbwf6oveV1U9Cl?__cft__%5B0%5D=AZhk8wDb8isdPimo185NfAnTPbaLd84HVZZPerA-uj7jCV5Y6YVFNConjRFp2k-WZZYDUPfM3cRZI28yGHRqGpb3UgJgUJ6JTT0dnInfrpbVxAt6LY-OzKAnbyp49iXinmjh34i5bMe6p2KHo_sDq4HGpOhlxv38TyMDWCPdRhWBZeZzPuJhWJ6i_go&amp;__tn__=%2CO%2CP-R</link>
-      <description>El hartazgo de los jóvenes en Albania frente a la clase dirigente vuelve a estallar en las calles. Policías y manifestantes chocan de nuevo en Tirana después de tres días sin violencia Los jóvenes no son quienes se organizan, los organizan, los indisponen, los utilizan. ELPAIS.COM El hartazgo de los jóvenes en Albania frente a la clase dirigente vuelve a estallar en las calles Ver más comentarios… Publicado también por: El País - Internacional. Fuente: El País.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cd798e5154bdd808</guid>
-      <pubDate>Sat, 24 Oct 2026 20:35:37 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/elpais/">El País</source>
-      <media:content url="https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/11572445974960413153?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FR7GXTOROMBN7NLI7UTQ54YS4JQ.jpg%3Fauth%3Da08213b64039afab5ad122c4b18e0a42c30ad6d72d12c48486e3b0b94bf8038e%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-atl3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=eMxa2VhWY2A5dViqDmkPNQ&amp;_nc_zt=3&amp;oh=06_Q3_EATfIvzO4AzHypewuQc4guLvBivHrpMGhA0Wyr2r4-rbz&amp;oe=6ADF0E0B" medium="image" />
-      <enclosure url="https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/11572445974960413153?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FR7GXTOROMBN7NLI7UTQ54YS4JQ.jpg%3Fauth%3Da08213b64039afab5ad122c4b18e0a42c30ad6d72d12c48486e3b0b94bf8038e%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-atl3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=eMxa2VhWY2A5dViqDmkPNQ&amp;_nc_zt=3&amp;oh=06_Q3_EATfIvzO4AzHypewuQc4guLvBivHrpMGhA0Wyr2r4-rbz&amp;oe=6ADF0E0B" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Almost 1,000 arrests in protests across France</title>
-      <link>https://www.abc.net.au/news/2026-10-25/1000-arrested-in-france-protests/107305868</link>
-      <description>A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are expected to be deployed as authorities fear looting and vandalism similar to last Saturday's unrest. Publicado también por: France 24 - English. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1dd1ea0fec7fe82c</guid>
-      <pubDate>Sat, 24 Oct 2026 20:35:29 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/62c01bf51306817c2b3940ea01316f86?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=143&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/62c01bf51306817c2b3940ea01316f86?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=143&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Kim Jong Un crosses new bridge into China as trade ties warm</title>
-      <link>https://www.abc.net.au/news/2026-10-25/kim-jong-un-crosses-new-bridge-into-china/107305932</link>
-      <description>North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North Korea, and China’s official Xinhua news agency. Continue reading... Publicado también por: The Guardian - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4ece08a71b769666</guid>
-      <pubDate>Sat, 24 Oct 2026 20:12:34 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Asia</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/f0291edb98202c4833ae80eb01ee26f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/f0291edb98202c4833ae80eb01ee26f3?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Sudan’s soaring fuel prices make getting by harder for workers</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid0KKi7SPxT1DZ89HmiErHcFoXsJ387S3mTRahSmx8bPKKaXTyhwNszHitkiKuG1sCLl?__cft__%5B0%5D=AZjc7FIW4pwe2cwOCfS3CbPTn8EcsSQd_JtfoTgBoVS5RhD6XzLySqdzUMAnEn6_SmSnMRuEneqHm8DUSYQjeRifAIEr_UlcqWKMZXU52jbO62ETGFKsp67cOYAoFLJHB5wEsTFny7a6RCS2uemyVaiyhEuAH9tsOIoJrmFa4YhUTGkaO-wCj1uVArM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Sudan is suffering from a cost-of-living crisis affecting millions across the country. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b280b3159b040c17</guid>
-      <pubDate>Sat, 24 Oct 2026 20:00:10 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/859943134_907312052347552_8785266344163767765_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x900&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=0sHGak_epswQ7kNvwEk5iFY&amp;_nc_oc=Adq8nAYpltMZXeFIyodYUO1aHgw6RvcUl4azFKdYNe8CXetYf86BzxX5xoknMayehxM&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=9WvlLW36hbMUZefIaAV4pg&amp;_nc_ss=7f289&amp;oh=00_AQPOq83iocjdnRUttrXnZBu-ps7EYIFjJsXFcBuqgNkAWA&amp;oe=6AE3061D" medium="image" />
-      <enclosure url="https://scontent-sjc3-1.xx.fbcdn.net/v/t39.99422-6/859943134_907312052347552_8785266344163767765_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x900&amp;ctp=p600x600&amp;_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=0sHGak_epswQ7kNvwEk5iFY&amp;_nc_oc=Adq8nAYpltMZXeFIyodYUO1aHgw6RvcUl4azFKdYNe8CXetYf86BzxX5xoknMayehxM&amp;_nc_zt=14&amp;_nc_ht=scontent-sjc3-1.xx&amp;_nc_gid=9WvlLW36hbMUZefIaAV4pg&amp;_nc_ss=7f289&amp;oh=00_AQPOq83iocjdnRUttrXnZBu-ps7EYIFjJsXFcBuqgNkAWA&amp;oe=6AE3061D" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>¿Puede Lula remontar a Flávio Bolsonaro? Esto es lo que dicen las encuestas</title>
-      <link>https://www.facebook.com/elpais/posts/pfbid024758hyeeek54A4aiyhJLFFXVGS87q9Kr99nPSb5imUWeUz8Kg5HD15m2ETu35FM8l?__cft__%5B0%5D=AZiMBQIoOxpysbBY851DmsIC3r58oWRKmAgYzIoRc0eDqL5jrXkySJ0L-3BeLaeWT9PdQM1t6SmNY99lVGv0epsS6dC8jI6CNitpbT3hMajkvqAk_SLC8dtGN7eNV76cpE5wZmoWm8ddsifPINJwoCBKqtk90q_V92KC3DG567FA5BCLfBmvPzHk_Ls&amp;__tn__=%2CO%2CP-R</link>
-      <description>El ultra es el favorito de sondeos y mercados, pero no tiene la victoria asegurada. El modelo de EL PAÍS lo ve ganador siete de cada diez veces, con el izquierdista imponiéndose en las otras tres Publicado también por: El País - Internacional. Fuente: El País.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5e89c67193c3ffca</guid>
-      <pubDate>Sat, 24 Oct 2026 18:08:33 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/elpais/">El País</source>
-      <media:content url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/15147645996754814464?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FAQQSPD2BQNDYDMF6FMZEHTKDLM.jpg%3Fauth%3De4a70324b852314bcef9fb030681971bdfe9f2c5de7bedd9a0ec704516523cab%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=tEG9tkN7cMlossnDgBYYXA&amp;_nc_zt=3&amp;oh=06_Q3_EASMY802rGmwcLdlFffGFPmUxEGow04kqMAqZITrd1H0L&amp;oe=6ADEBFBE" medium="image" />
-      <enclosure url="https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/15147645996754814464?url=https%3A%2F%2Fimagenes.elpais.com%2Fresizer%2Fv2%2FAQQSPD2BQNDYDMF6FMZEHTKDLM.jpg%3Fauth%3De4a70324b852314bcef9fb030681971bdfe9f2c5de7bedd9a0ec704516523cab%26width%3D1200&amp;fb_obo=1&amp;utld=elpais.com&amp;_nc_sid=e17101&amp;_nc_ht=external-ord5-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=tEG9tkN7cMlossnDgBYYXA&amp;_nc_zt=3&amp;oh=06_Q3_EASMY802rGmwcLdlFffGFPmUxEGow04kqMAqZITrd1H0L&amp;oe=6ADEBFBE" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids</title>
-      <link>https://www.facebook.com/aljazeera/posts/pfbid027eH4znoB4H1joZosdE3wpdPKyceizGTu9YsjXAyEZaqVCPhfMeJSt5E2Ph7FVDqGl?__cft__%5B0%5D=AZjhfkNvQQFrhSJB7z9nwiPM281z1vLED7nqhYyLFEzCP27AaI3TsFUrEE9-kEXZzMFe120dA0K8GPR8tQ4MInqMb1q6A8oiBZpPRapDl5_qCANyYbnUJ07Sd6VFUW0ZYYSGiYNeEqIOd1C1f6jC-Fz6kpvI6iwnr3nOTeAch-wr82gy5aisLJQGObE&amp;__tn__=%2CO%2CP-R</link>
-      <description>Palestinians in Hebron are 'living in fear' with the city closed, while Israeli forces arrest dozens across the West Bank. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:19dc32da575d45a6</guid>
-      <pubDate>Sat, 24 Oct 2026 18:00:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/861886345_1465924425454685_3973117563293121612_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=z54QjVKp8OsQ7kNvwE7JqQ9&amp;_nc_oc=AdqoXtA2tgNdapH5Zd2pwEb4QGkPXZmU1ctfjRLjQd6LX2jMyJt6l4Idbw-EBr3ANjo&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=1eAdvFFEpXTQVvwqRRLbuQ&amp;_nc_ss=7f289&amp;oh=00_AQMW2aTxk4NmElx0H90YmYm9hMKqfNhrHUEqo5IU_pB6ag&amp;oe=6AE2AE20" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/861886345_1465924425454685_3973117563293121612_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x800&amp;ctp=p180x540&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=z54QjVKp8OsQ7kNvwE7JqQ9&amp;_nc_oc=AdqoXtA2tgNdapH5Zd2pwEb4QGkPXZmU1ctfjRLjQd6LX2jMyJt6l4Idbw-EBr3ANjo&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=1eAdvFFEpXTQVvwqRRLbuQ&amp;_nc_ss=7f289&amp;oh=00_AQMW2aTxk4NmElx0H90YmYm9hMKqfNhrHUEqo5IU_pB6ag&amp;oe=6AE2AE20" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Jay-Z to perform at Super Bowl half-time show</title>
@@ -957,7 +910,7 @@
     <item>
       <title>Convicted Australian Murderer Loses Bid to Eat Vegemite in Prison</title>
       <link>https://www.nytimes.com/2026/10/26/world/australia/australia-prison-vegemite-ban-lawsuit.html</link>
-      <description>A judge agreed that denying the staple restricted the prisoner’s cultural rights but ruled that keeping drug dogs focused and cells free of illicit home brew was more important. Publicado también por: BBC News - World. Fuente: The New York Times - World.</description>
+      <description>A judge said that denying him the staple in prison restricted his cultural rights but ruled that keeping drug dogs focused and cells free of illicit home brew was more important. Publicado también por: BBC News - World. Fuente: The New York Times - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:bf05878ecf7d4a16</guid>
       <pubDate>Mon, 26 Oct 2026 16:45:16 +0000</pubDate>
       <category>mundo</category>
@@ -1044,6 +997,21 @@
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
     </item>
     <item>
+      <title>At least 62 killed as 'bandit' gunmen attack civilians in Nigeria</title>
+      <link>https://timesofindia.indiatimes.com/world/rest-of-world/at-least-62-killed-as-bandit-gunmen-attack-civilians-in-nigeria/articleshow/135235617.cms</link>
+      <description>At least 62 people have been killed after an attack in northeastern Nigeria, the country's emergency agency said. Publicado también por: Sky News - World. Fuente: The Times of India - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:497fd1a7b8e7e637</guid>
+      <pubDate>Tue, 27 Oct 2026 13:21:15 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>Karan Manral</dc:creator>
+      <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
+      <media:content url="https://static.toiimg.com/photo/msid-135235912,imgsize-189414.cms" medium="image" />
+      <enclosure url="https://static.toiimg.com/photo/msid-135235912,imgsize-189414.cms" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Jordan strikes targets in Syria after deadly church attack</title>
       <link>https://www.scmp.com/news/world/middle-east/article/3372253/jordan-strikes-targets-syria-after-deadly-church-attack</link>
       <description>Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that the suspects behind last week’s deadly church attack in ‌the kingdom were linked to “terrorist groups” operating there. The armed forces said the operation was conducted in coordination with Damascus. Syria’s government gave a contradictory account, saying it had launched an investigation into the Jordanian attacks, and stressed in a statement the importance of field and... Publicado también por: The Hindu - International. Fuente: South China Morning Post.</description>
@@ -1097,17 +1065,54 @@
       <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/7061831058717148844?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2023%2F08%2FGettyImages-1308803174.jpg%3Fresize%3D1200%2C800&amp;fb_obo=1&amp;utld=techcrunch.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=7j91byawApfiT481k9Svvg&amp;_nc_zt=3&amp;oh=06_Q3_EAWj8abzBP7dY9BG4OSjoj86z1CootFEGR331L8RROLHr&amp;oe=6AE01870" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Se incendió el Nido del Águila, el histórico refugio de Hitler en los Alpes bávaros: hay un detenido</title>
-      <link>https://www.clarin.com/mundo/incendio-nido-aguila-historico-refugio-hitler-alpes-bavaros-detenido_0_cQz5Dd7b8J.html</link>
-      <description>Una combinación de vientos, lluvias y nevadas obligó al personal de rescate a interrumpir el combate contra el fuego en varios tramos durante la noche. Pese a la severidad de los destrozos, el ministro del Interior de Baviera ratificó que la estructura no quedará reducida a ruinas. El chalet albergaba valiosos elementos decorativos, entre ellos mobiliario diseñado por Paul László, un arquitecto de origen judío que había huido del nazismo años antes. Publicado también por: La Nación - El Mundo. Fuente: Clarín - Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f52a0fa829a76f7d</guid>
-      <pubDate>Sat, 24 Oct 2026 18:46:51 +0000</pubDate>
-      <category>politica</category>
+      <title>2400 reproducciones · 54 reacciones | INVESTIGAÇÃO - A polícia procura pelo menos sete suspeitos de envolvimento na morte do engenheiro ambiental Marcelo de Oliveira Rocha, em Santos, no litoral de São Paulo. Ele foi roubado e agredido durante um assalto transmitido ao vivo pelo TikTok, no sábado (24). As imagens estão sendo usadas pelos investigadores para identificar os envolvidos. A morte cerebral de Marcelo foi confirmada no domingo (25). O caso é investigado como latrocínio, roubo seguido de morte, pelo 4º Distrito Policial de Santos. ➡️ #ConexãoGloboNews - de segunda a sexta, às 11h, na #GloboNews. Assista na TV e no @globoplay #sp #santos | GloboNews</title>
+      <link>https://www.facebook.com/reel/1155842123447796/?comment_id=2147429972801177&amp;__cft__%5B0%5D=AZjzjwl03KZmuBti4QyfoWL-GayuZL8oPobFX5Th135EtbjFE-aVB2IJKFAdiWZuXp21TAuHv70ZbRmSHOhw28lHAtM7MkSwJ43NDjhvBtETpX6Ry3LwbPUm042KgysJl39Ir4mzarZe5r8d1b8c6tKqXDTZgZSQjesih7_duWgDAKy1ArDOwzXKAt4C4pWKE2nX&amp;__tn__=R-R</link>
+      <description>INVESTIGAÇÃO - A polícia procura pelo menos sete suspeitos de envolvimento na morte do engenheiro ambiental Marcelo de Oliveira Rocha, em Santos, no litoral de São Paulo. Ele foi roubado e agredido... INVESTIGAÇÃO - A polícia procura pelo menos sete suspeitos de envolvimento na morte do engenheiro ambiental Marcelo de Oliveira Rocha, em Santos, no... Fuente: GloboNews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d1befcb6dabe7c35</guid>
+      <pubDate>Tue, 27 Oct 2026 16:59:23 +0000</pubDate>
+      <category>ciencia</category>
       <category>América Latina</category>
-      <dc:creator>Clarin.com - Home</dc:creator>
-      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
-      <media:content url="https://www.clarin.com/img/2026/10/24/yofsg7xjR_1200x630__1.jpg" medium="image" />
-      <enclosure url="https://www.clarin.com/img/2026/10/24/yofsg7xjR_1200x630__1.jpg" type="image/jpeg" length="0" />
+      <source url="https://www.facebook.com/GloboNews/">GloboNews</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867595285_4771643203112112_6804145161549495025_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=MX-Qkx9d0tEQ7kNvwERhY9q&amp;_nc_oc=AdoM6SXXkc4Ssxi3NCcP5K9tNp0pwn-lWCq-ltZiwZoxSqgwTBh3ZdDifeOB7020vJk&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=gzzSJhTAKB7pDXLEKiZJZQ&amp;_nc_ss=7f289&amp;oh=00_AQOyqlxsRYt8ET5BgDCnSTHst58QrXY28ZFLq7WPoErihw&amp;oe=6AE6AD5C" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/867595285_4771643203112112_6804145161549495025_n.jpg?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=MX-Qkx9d0tEQ7kNvwERhY9q&amp;_nc_oc=AdoM6SXXkc4Ssxi3NCcP5K9tNp0pwn-lWCq-ltZiwZoxSqgwTBh3ZdDifeOB7020vJk&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=gzzSJhTAKB7pDXLEKiZJZQ&amp;_nc_ss=7f289&amp;oh=00_AQOyqlxsRYt8ET5BgDCnSTHst58QrXY28ZFLq7WPoErihw&amp;oe=6AE6AD5C" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>🔴EN VIVO🔴 ➡Congreso de la Federación Boliviana de Fútbol Numero 61 ➡Bolívar Derrota por 2 a 1 a FC Universitario en el Hernando Siles ➡Culmina la fecha 23 del Todos Contra Todos | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1796500525045426/?comment_id=1583689989724981&amp;__cft__%5B0%5D=AZjDIqLff3aeaSYopEffhDGeYeF0KjyNDuyltDtYyepT412Xq5XoAVzGUw-5JcKZ4WDM5CLvjWtV1lAm4_UiH80GoXjwM-_RJKFbhavigdFqEIqotfBSgz6yMKZ2KoJ8G6R-LO7EdRjhkwHXA9HcvNDDoGIj6QgS7pvNHQLgX902DQ0ROTFuUF2Vt3GBABOg-TI&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO🔴 ➡Congreso de la Federación Boliviana de Fútbol Numero 61 ➡Bolívar Derrota por 2 a 1 a FC Universitario en el Hernando Siles ➡Culmina la fecha 23 del Todos Contra Todos 🔴EN VIVO🔴 ➡Congreso de la Federación Boliviana de Fútbol Numero 61 ➡Bolívar Derrota por 2 a 1 a FC Universitario en el Hernando Siles ➡Culmina la... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9cfcaaf4928b9f70</guid>
+      <pubDate>Tue, 27 Oct 2026 16:59:23 +0000</pubDate>
+      <category>deportes</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/850303417_1582843067221285_529810616319952311_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=VNVIrB3UR38Q7kNvwEt1s9j&amp;_nc_oc=AdpUBrcs5d0MfVJWup28jb0rRErK3FSIS17BflqumjgeNCL8s2DpZDW5cUq65Y1S6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=8k0zH5W7TTuxibrT6V2dyw&amp;_nc_ss=7f289&amp;oh=00_AQNCNe2Q5u4PIXVoSZIcz8GSZ5uKgFVJKORkZSzM3YulUw&amp;oe=6AE6A19F" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t15.5256-10/850303417_1582843067221285_529810616319952311_n.jpg?_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=VNVIrB3UR38Q7kNvwEt1s9j&amp;_nc_oc=AdpUBrcs5d0MfVJWup28jb0rRErK3FSIS17BflqumjgeNCL8s2DpZDW5cUq65Y1S6tE&amp;_nc_zt=23&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=8k0zH5W7TTuxibrT6V2dyw&amp;_nc_ss=7f289&amp;oh=00_AQNCNe2Q5u4PIXVoSZIcz8GSZ5uKgFVJKORkZSzM3YulUw&amp;oe=6AE6A19F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Breaking News: Jennifer Shuford, a former state health commissioner whom President Trump appointed to a top post at the CDC to help steady the agency, is leaving after ... Ver más</title>
+      <link>https://www.facebook.com/nytimes/posts/pfbid02D9cL4LCay4Kw3FFYLH9edcDtBnnuXzhb4Yi8WXJuEJQqz7QftSA76LWHSKSvzxiJl?__cft__%5B0%5D=AZicO79DmB6WTn8yj9O5c_UM1YzoCsLtKZTUYEoObsHmHKqQWxjlIyqI4ixEXpOleCqNvMPimzM8JLCWYp522HUz0BYrvq0c0KsaedDPYZLlhGRcooWcyDo8DE9ZaDA-kY9tWOJ77KOG29Z0nuNF32Ri6twGU9in8-96MLhF3sql_QxPeCQu_yI98b4&amp;__tn__=%2CO%2CP-R</link>
+      <description>Breaking News: Jennifer Shuford, a former state health commissioner whom President Trump appointed to a top post at the CDC to help steady the agency, is leaving after ... Ver más She's not going down with that ship NYTIMES.COM Trump-Appointed CDC Deputy Director Jennifer Shuford Resigns After 4 Months Ver más comentarios Maya Sanchèz Fuente: The New York Times.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c4754049a0e01147</guid>
+      <pubDate>Tue, 27 Oct 2026 16:25:34 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
+      <media:content url="https://external-lga3-1.xx.fbcdn.net/emg1/v/t13/12178897659405436578?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F26%2Fmultimedia%2F26dc-cdc-fwlb%2F26dc-cdc-fwlb-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=3uVHt5xdfUCgFg3GEHKFwg&amp;_nc_zt=3&amp;oh=06_Q3_EAUtKJrnkwC3g-eoOmoKEnDgDVaekRsp4hqQopnW25EiD&amp;oe=6AE2AF0F" medium="image" />
+      <enclosure url="https://external-lga3-1.xx.fbcdn.net/emg1/v/t13/12178897659405436578?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F11%2F26%2Fmultimedia%2F26dc-cdc-fwlb%2F26dc-cdc-fwlb-facebookJumbo.jpg&amp;fb_obo=1&amp;utld=nyt.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=3uVHt5xdfUCgFg3GEHKFwg&amp;_nc_zt=3&amp;oh=06_Q3_EAUtKJrnkwC3g-eoOmoKEnDgDVaekRsp4hqQopnW25EiD&amp;oe=6AE2AF0F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Bottled water and tinned food sales surge after UK government issues emergency stockpile advice</title>
+      <link>https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice</link>
+      <description>Retailers also report jump in purchases of wind-up radios and torches to deal with extreme weather and cyber-attacks Sales of tinned foods, bottled water, wind-up radios and torches have surged after the UK government advised households to prepare for emergencies . Retailers have reported a jump in sales of items linked to preparation for emergencies such as extreme weather or cyber-attacks. The Be Ready campaign was launched last week with the aim of persuading households to lay in supplies to last 72 hours. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:93a614e8e1d79f42</guid>
+      <pubDate>Tue, 27 Oct 2026 15:49:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Sarah Butler</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/61b3c671b54afca7508242f773573c375d443be4/744_280_3137_2511/master/3137.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22babed3b25320fa33daa8cffe241a7e" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/61b3c671b54afca7508242f773573c375d443be4/744_280_3137_2511/master/3137.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22babed3b25320fa33daa8cffe241a7e" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>3159 reproducciones · 70 reacciones | #LaRedDeportivadeBolivia #FútbolBoliviano🇧🇴 🗓️FECHA 23 🏙️LA PAZ 🏟️ HERNANDO SILES 🔴EN VIVO🔴 #ClubBolívar 🆚 #FCUniversitario | ATB Digital</title>
@@ -1151,7 +1156,7 @@
     <item>
       <title>Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live</title>
       <link>https://www.theguardian.com/world/live/2026/oct/27/russia-ukraine-oleshky-serbia-france-europe-latest-news-updates</link>
-      <description>Alexander Stubb and Jonas Gahr Støre say they have briefed Volodymyr Zelenskyy after discussion with Russia’s president about next month’s Abu Dhabi peace talks But not everyone seems to be particularly convinced by the joint Finnish-Norwegian initiative. Denmark’s Mette Frederiksen told the country’s broadcaster DR that she was “very sceptical” about this “independent initiative by Norway and Finland,” stressing “it has not been coordinated with the rest of us.” “ I see no signs that Russia desires peace with Europe – neither in the hybrid warfare taking place every single day, nor in… Fuente: The Guardian - World.</description>
+      <description>Alexander Stubb and Jonas Gahr Støre held ‘substantive’ talk with Russian president on peace negotiations, but faced sceptical reactions from some European leaders Meanwhile, Wes Streeting, the defence secretary, has warned that Russia’s Vladimir Putin is “testing us and testing Nato’s resolve” as he condemned hybrid threats and “state-sponsored terrorism” from Russia. Streeting repeated his recent warnings that “we have to be ready for a scenario in which the United Kingdom and the Nato alliance finds itself at war with Russia”. He went on: Not because we want war – we have no quarrel with… Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:bf78b74686e7ac37</guid>
       <pubDate>Tue, 27 Oct 2026 10:26:57 +0000</pubDate>
       <category>conflictos</category>
@@ -1189,11 +1194,12 @@
     <item>
       <title>Tories dismiss PM’s budget ‘everyday fixes’ as little more than ‘cheaper gherkins’, and ‘an insult to families’ – UK politics live</title>
       <link>https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates</link>
-      <description>Removing tariffs on more than 100 products, including gherkins and baked beans, was one of five measures announced this morning before tomorrow’s budget It is not just gherkins where the Treasury is cutting import tariffs. (See 9.07am .) Here is the lists from the Treasury of mostly food imports where tariffs are being cut. Garlic (8% + £100 per 100 kg) Gherkins (12%) Yes, I do. We certainly stand taller in the world. The terrible projections of doom as to what would happen to our financial sector etc haven’t happened. Our growth rates are higher than our European competitors. Our exports… Fuente: The Guardian - World.</description>
+      <description>Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workers Jonathan Reynolds , the business secretary, has not contested reports saying that, in the budget tomorrow, John Healey, the chancellor, will pause the process of equalising the lower national minimum wage paid to people under the age of 21 with the more generous national living wage that applies to older workers. In an interview on the BBC this morning, Reynolds was asked to respond to a story suggesting the equalisation process has… Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:fe692b6a3547a4aa</guid>
       <pubDate>Tue, 27 Oct 2026 10:19:13 +0000</pubDate>
       <category>economia</category>
       <category>Europa</category>
+      <category>Global</category>
       <dc:creator>Andrew Sparrow</dc:creator>
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/55356c79c6e60427f1d98fd463392bad4876ac22/286_0_4889_3912/master/4889.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2684dbbe02f3f6a58e973107c31587a0" medium="image" />
