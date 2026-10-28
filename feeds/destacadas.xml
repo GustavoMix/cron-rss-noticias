@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Tue, 27 Oct 2026 21:26:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:27:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -39,20 +39,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel orders West Bank crossings to close on election day following Hebron shooting</title>
-      <link>https://www.euronews.com/2026/10/25/israel-orders-west-bank-crossings-to-close-on-election-day-following-hebron-shooting</link>
-      <description>Israel announced it would be closing all land crossings with the West Bank on the day of next week's parliamentary elections. The measure comes as Israel conducts a large-scale operation in the occupied Palestinian territory and 2,000 residents of Hebron have been displaced from their homes after Palestinian gunmen killed two soldiers in the area. Publicado también por: The Hindu - International, BBC News - World, France 24 - English. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:984b1c21bbdac959</guid>
-      <pubDate>Sun, 25 Oct 2026 11:21:13 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/2mj4zi/article71622533.ece/alternates/LANDSCAPE_1200/2026-10-24T113907Z_87772642_RC2H9OAL4RWV_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/2mj4zi/article71622533.ece/alternates/LANDSCAPE_1200/2026-10-24T113907Z_87772642_RC2H9OAL4RWV_RTRMADP_3_ISRAEL-PALESTINIANS-ATTACK-WEST-BANK.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>María Corina Machado Returns to Venezuela</title>
@@ -98,6 +84,21 @@
       <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
       <media:content url="https://static.toiimg.com/photo/msid-135197389,imgsize-105982.cms" medium="image" />
       <enclosure url="https://static.toiimg.com/photo/msid-135197389,imgsize-105982.cms" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat</title>
+      <link>https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html</link>
+      <description>Brazilian Senator Flavio Bolsonaro has left the country ⁠for the United States after losing Sunday’s ⁠presidential election, three sources said on Tuesday, with the ⁠US State Department due to grant him and his family entry visas. Bolsonaro, who has yet to concede to leftist incumbent Luiz Inacio Lula da Silva, left Brazil after refusing to comply with a Supreme Court order to surrender his passports. The ruling relates to a money-laundering probe in which he denies wrongdoing. The location of... Publicado también por: The Hindu - International, Euronews, South China Morning Post. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8ef02382e86658a2</guid>
+      <pubDate>Tue, 27 Oct 2026 20:07:23 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <dc:creator>Ana Ionova and Edward Wong</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela</title>
@@ -186,19 +187,17 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/494e/live/9a74fdb0-d09c-11f1-aeb2-977af36708cb.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat</title>
-      <link>https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html</link>
-      <description>U.S. President Donald Trump’s administration has previously alleged that Flavio Bolsonaro’s father, former President ‌Jair Bolsonaro, was a victim of judicial persecution in Brazil Publicado también por: The Hindu - International, Euronews. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8ef02382e86658a2</guid>
-      <pubDate>Tue, 27 Oct 2026 20:07:23 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Ana Ionova and Edward Wong</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike</title>
+      <link>https://www.facebook.com/aljazeera/posts/pfbid0341Po5A4cJT1pH6vhw5inmmwYF7p1ERz9WvbP7GKmmbbeBq29mfLDNjGiunn9R6ntl?__cft__%5B0%5D=AZjoXGTzV-nEpy62AjVkFNJjxUMafKOne-s9xl2Kpd5cXRRk3ouoR4ex9--7xg6pwp_onNuUc5eDx4TXoR_4P9edJ4hv-Sqzj4C3IKfZ7Z5qHqPYJDyj6tt4TFMORJH3HJ4RErDRebsy7pdSuplbHkHl5wb4xmwUGCMz9RNKNcE6JpmEuazhDU9SYmM&amp;__tn__=%2CO%2CP-R</link>
+      <description>Tanzania's jailed opposition leader Tundu Lissu has begun a hunger strike in protest at his inability to access his lawyers. The Chadema party leader began refusing food on Monday after his legal team was barred entry to Ukonga prison, where he's being held. Publicado también por: Africanews. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:32ab730f71b132c4</guid>
+      <pubDate>Wed, 28 Oct 2026 01:00:46 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Medio Oriente</category>
+      <category>África</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/862427361_1436815265239799_384320504320484044_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=sd356LvaPSoQ7kNvwGcW1Rp&amp;_nc_oc=Adqtiof-hqUl85hdFJAf4OpXUFF3c0QeSivIYyV3g7aFJp3zIkbYRQWTivnke7YBOCY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=XB2EW0ixJo4UBxcjzWJJAw&amp;_nc_ss=7f289&amp;oh=00_AQSzUge91j5gOVrxqgrq8vvHohMZodVJ6VHiV6oLY8xxZA&amp;oe=6AE7381E" medium="image" />
+      <enclosure url="https://scontent-ord5-2.xx.fbcdn.net/v/t39.99422-6/862427361_1436815265239799_384320504320484044_n.png?stp=dst-jpg_tt6&amp;cstp=mx1200x799&amp;ctp=p600x600&amp;_nc_cat=110&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=sd356LvaPSoQ7kNvwGcW1Rp&amp;_nc_oc=Adqtiof-hqUl85hdFJAf4OpXUFF3c0QeSivIYyV3g7aFJp3zIkbYRQWTivnke7YBOCY&amp;_nc_zt=14&amp;_nc_ht=scontent-ord5-2.xx&amp;_nc_gid=XB2EW0ixJo4UBxcjzWJJAw&amp;_nc_ss=7f289&amp;oh=00_AQSzUge91j5gOVrxqgrq8vvHohMZodVJ6VHiV6oLY8xxZA&amp;oe=6AE7381E" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>María Corina regresa para liderar la Transición de Venezuela</title>
@@ -213,21 +212,6 @@
       <source url="https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml">El Mundo - Internacional</source>
       <media:content url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929668293131.jpg" medium="image" />
       <enclosure url="https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929668293131.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>“Estoy aquí”: María Corina Machado regresa a Venezuela tras casi un año fuera del país</title>
-      <link>https://www.france24.com/es/am%C3%A9rica-latina/20261025-estoy-aqu%C3%AD-mar%C3%ADa-corina-machado-regresa-a-venezuela-tras-casi-un-a%C3%B1o-fuera-del-pa%C3%ADs</link>
-      <description>#ÚLTIMAHORA l María Corina Machado regresa a Venezuela 10 meses después: “Estoy aquí. Con ustedes” Venezuela ya tiene un presidente electo de forma legítima, el pueblo eligió. TELEMUNDO.COM María Corina Machado regresa a Venezuela 10 meses después: “Estoy aquí. Con ustedes” Ver más comentarios Adriana Garcia Ramos Ver las 2 respuestas Publicado también por: El Mundo - Internacional, Noticias Telemundo. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1a9afed2427fb562</guid>
-      <pubDate>Sun, 25 Oct 2026 16:08:16 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <dc:creator>France 24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/55b0041e-3ce9-11f1-9629-005056bf30b7/w:1024/p:16x9/2026-04-18T174601Z-278512810-RC2TRKA2FGXF-RTRMADP-3-SPAIN-VENEZUELA-MACHADO.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/55b0041e-3ce9-11f1-9629-005056bf30b7/w:1024/p:16x9/2026-04-18T174601Z-278512810-RC2TRKA2FGXF-RTRMADP-3-SPAIN-VENEZUELA-MACHADO.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Meghan 'can't wait' to join Junior MasterChef Australia as host</title>
@@ -253,6 +237,21 @@
       <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
     </item>
     <item>
+      <title>Live Updates: Israeli Exit Polls Show Strength of Opposition to Netanyahu but No Clear Winner</title>
+      <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections</link>
+      <description>A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies. Vote counting continues after a day of strong voter turnout. Publicado también por: Euronews. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:da5e6aeb85871513</guid>
+      <pubDate>Tue, 27 Oct 2026 21:11:07 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>The New York Times</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-415-jtzq/27israel-promo-415-jtzq-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-415-jtzq/27israel-promo-415-jtzq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>URGENTE - Brasil cancela los pasaportes de Flávio Bolsonaro tras incumplir un plazo judicial para entregarlos</title>
       <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02fxeop7sW2Dc7zSUamF89sizaaqE2Pfr4CMHuzNW3DdgFpv6BnPJPHsiCbeB23Qxxl?__cft__%5B0%5D=AZgToskvB1b0KBSknlAmmBkInYZ8ZZSZv37wYwQ37D2QEiy_RKgHXTzkOcZC6dvRMItQ_ftE7fta4Hyc5__GxDeLxqftmfV-oLSR7PCQCYryl7UtDA7oYz6zrldWC-93K-fc66KNFoXIWRQJy3dHZKjkXjTr0XJVYsbtaHWu0xauRZMLD4NUqT-cp3w&amp;__tn__=%2CO%2CP-R</link>
       <description>El senador brasileño Flávio Bolsonaro, derrotado en las elecciones presidenciales del domingo frente a Luiz Inácio Lula da Silva, no entregó sus pasaportes a la Policía Federal dentro del plazo fijado por el Supremo Tribunal Federal. Los documentos fueron cancelados y el paradero del legislador, investigado en una causa por presunto lavado de dinero, era desconocido este martes. El excandidato niega haber cometido irregularidades. Publicado también por: France 24 - Español. Fuente: France 24 Español.</description>
@@ -264,6 +263,19 @@
       <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
       <media:content url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" medium="image" />
       <enclosure url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israel election live: polls open in most consequential vote in country’s history</title>
+      <link>https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates</link>
+      <description>Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with… Publicado también por: Al Jazeera English. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dee96d388a65b029</guid>
+      <pubDate>Tue, 27 Oct 2026 10:26:35 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <dc:creator>Yohannes Lowe (now) and Jonathan Yerushalmy (earlier)</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Two men charged in UK with helping Iran over RAF Fairford incident</title>
@@ -343,19 +355,6 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/494e/live/9a74fdb0-d09c-11f1-aeb2-977af36708cb.png" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/494e/live/9a74fdb0-d09c-11f1-aeb2-977af36708cb.png" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Gabon restores social media access after an eight-month ban</title>
-      <link>http://www.africanews.com/2026/10/25/gabon-restores-social-media-access-after-an-eight-month-ban/</link>
-      <description>The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power. Publicado también por: BBC News - World. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:985941a199bc2811</guid>
-      <pubDate>Sun, 25 Oct 2026 15:37:00 +0000</pubDate>
-      <category>mundo</category>
-      <category>África</category>
-      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/96/63/02/640x360_cmsv2_54be0c1f-5786-5c6a-826b-ff7d00dc75e8-9966302.jpg?1792921393" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/96/63/02/640x360_cmsv2_54be0c1f-5786-5c6a-826b-ff7d00dc75e8-9966302.jpg?1792921393" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Cómo van las elecciones Brasil 2026, EN VIVO: resultados y quién va ganando el balotaje entre Lula y Flavio Bolsonaro</title>
@@ -524,28 +523,31 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f2/live/5af33290-cd88-11f1-9a39-31b474234113.png" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Early reports suggest record high turnout in Serbia elections</title>
-      <link>https://www.bbc.co.uk/news/articles/c6jdmj1ej715o</link>
-      <description>Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:90f736be744bfbcc</guid>
-      <pubDate>Sun, 25 Oct 2026 16:05:15 +0000</pubDate>
+      <title>Flávio Bolsonaro huye de Brasil... Ver más</title>
+      <link>https://www.facebook.com/reel/1427248805578147/?__cft__%5B0%5D=AZiTduqLI5DdFb_a2A0vr-_UabgqEOeowyoajvXo1qxLECAdy_vl_tCZPVwgqQkOrz2UBkF551KAuG5LUJ06FARA-ajA2Au0SGzNFCtYVmXmHdSVkvaucaV0XXhzA4UM1qUvReofY3uL9KHqEfoDHzi52FRefjDqA2MedlA7L-hMkk4r2CGP0eOmlg3Wi4UbkOtQ&amp;__tn__=%2CO%2CP-R</link>
+      <description>El senador y candidato Flávio Bolsonaro ya se encuentra en Estados Unidos. Después de perder el pasado domingo las elecciones presidenciales en Brasil, el hijo del expresidente Bolsonaro ha abandonado su país y ha viajado hasta Estados Unidos, según ha podido confirmar este periódico. Cuál será su destino aún no está confirmado, pero las autoridades estadounidenses están al tanto de su llegada al país con su familia. Además, su hermano Eduardo, que se encuentra instalado en Estados Unidos desde el año pasado y condenado a prisión por el Tribunal Supremo brasileño, ha mantenido contactos con… Publicado también por: ABC España - Internacional. Fuente: DW Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b277b4277ab496ae</guid>
+      <pubDate>Wed, 28 Oct 2026 00:40:17 +0000</pubDate>
       <category>politica</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fffb/live/26f0ac80-d089-11f1-92f6-357f3b0f345f.jpg" type="image/jpeg" length="0" />
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://www.facebook.com/dw.espanol/">DW Español</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1519357676-khHH-U4027850476v0D-1200x840@diario_abc.jpg" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/27/1519357676-khHH-U4027850476v0D-1200x840@diario_abc.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Suspect in deadly Paris suburb shooting sent for psychiatric observation</title>
-      <link>https://www.bbc.co.uk/news/articles/c6e3xek2457wo</link>
-      <description>He will be observed to evaluate whether his "psychiatric health is compatible with pursuing his interrogation", authorities said. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d65950db20ee3332</guid>
-      <pubDate>Sun, 25 Oct 2026 15:32:51 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2825/live/a8b0e250-d07d-11f1-a4ba-351760cfea6a.jpg" type="image/jpeg" length="0" />
+      <title>‘I use disposable cups’: Chris Minns backflips on takeaway coffee cups after media and business backlash</title>
+      <link>https://www.theguardian.com/australia-news/2026/oct/28/chris-minns-backflips-disposable-coffee-cups-nsw-politics</link>
+      <description>Legislation requiring mugs to be offered when people drink at cafes, to be scrapped with environment minister stating ‘we need to clear this up’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The New South Wales government has backflipped on its plan to force cafes to offer customers who dine in the option of mugs and glasses instead of takeaway cups. Chris Minns’ government will also ditch a law that would have required businesses to participate in a reusable cup scheme or risk a fine up to $110,000. Continue… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e240b7b2effedee7</guid>
+      <pubDate>Wed, 28 Oct 2026 00:38:27 +0000</pubDate>
+      <category>politica</category>
+      <category>Oceanía</category>
+      <dc:creator>Penry Buckley NSW state reporter</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/f938ae8eb932485ce576b113d666f2e4c8c219b4/1150_0_5529_4425/master/5529.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791340afad2f708a900e4bd21b6f7408" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/f938ae8eb932485ce576b113d666f2e4c8c219b4/1150_0_5529_4425/master/5529.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=791340afad2f708a900e4bd21b6f7408" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Tanzania’s jailed opposition leader Tundu Lissu ends brief hunger strike</title>
@@ -790,33 +792,17 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/534343c2-1e9b-4f48-ae2a-13a3ab799844_6ddb61d5.jpg?itok=RNP0HRMR&amp;v=1792963076" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>María Corina Machado anunció que regresó a Venezuela: “Estoy aquí, con ustedes”</title>
-      <link>https://www.lanacion.com.ar/el-mundo/maria-corina-machado-anuncio-que-regreso-a-venezuela-estoy-aqui-con-ustedes-nid25102026/</link>
-      <description>La líder de la oposición venezolana, María Corina Machado, anunció este domingo 25 de octubre que regresó a su país tras casi un año de haber salido en una operación con ayuda de Estados Unidos. Publicado también por: France 24 - Español. Fuente: La Nación - El Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:583c32337cc5ce9a</guid>
-      <pubDate>Sun, 25 Oct 2026 16:08:12 +0000</pubDate>
+      <title>Dutch zookeeper dies after being mauled in leopard enclosure</title>
+      <link>https://www.bbc.co.uk/news/articles/crwyq90gwg8jo</link>
+      <description>The woman began her career at the park when she was 17 and had worked there on-and-off for four decades. Publicado también por: The Independent - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9d2502b5e17ea6e9</guid>
+      <pubDate>Tue, 27 Oct 2026 19:30:37 +0000</pubDate>
       <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
+      <category>Global</category>
       <category>Europa</category>
-      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
-      <media:content url="https://resizer.glanacion.com/resizer/v2/ZD2LLII45ZA7RPT3HCBXD442IY.JPG?auth=fc28f52e70e16ad9607a57956c0dd5c52672ba3056ea523be3227097bc366990&amp;smart=true&amp;width=6922&amp;height=4615" medium="image" />
-      <enclosure url="https://resizer.glanacion.com/resizer/v2/ZD2LLII45ZA7RPT3HCBXD442IY.JPG?auth=fc28f52e70e16ad9607a57956c0dd5c52672ba3056ea523be3227097bc366990&amp;smart=true&amp;width=6922&amp;height=4615" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>María Corina Machado regresa a Venezuela tras una operación diplomática en la que han participado varios países y que no ha contado con la oposición de la Casa Blanca</title>
-      <link>https://www.abc.es/internacional/maria-corina-machado-regresa-venezuela-tras-operacion-20261025164628-nt.html</link>
-      <description>A la salida de la iglesia de Santa Rosa, en Barquisimeto, una mujer le gritó a María Corina Machado: «Tráeme a mis hijos» . La dirigente opositora estaba por fin en Venezuela, por sopresa, de improviso, después de más de diez meses fuera del país, y comenzaba un recorrido hacia Caracas con el que pretendía recuperar el contacto directo con sus seguidores. La petición de aquella mujer resumía una de las expectativas que acompañan su vuelta: que el cambio político permita también el regreso de quienes se marcharon exiliados.Su primera aparición pública tuvo lugar en el santuario de la Divina… Publicado también por: El País - Internacional. Fuente: ABC España - Internacional.</description>
-      <guid isPermaLink="false">cron-rss-noticias:89f9f4104a2c2204</guid>
-      <pubDate>Sun, 25 Oct 2026 15:54:29 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <dc:creator>David Alandete</dc:creator>
-      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
-      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/25/corina-tania--758x531.jpg" medium="image" />
-      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/25/corina-tania--758x531.jpg" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Norway and Finland leaders hold rare call with Putin</title>
@@ -978,7 +964,7 @@
     <item>
       <title>No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance</title>
       <link>https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html</link>
-      <description>Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared. Publicado también por: Euronews. Fuente: CNBC - World.</description>
+      <description>Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared. Publicado también por: Euronews, Al Jazeera English. Fuente: CNBC - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:c28ebe1e3213a8c3</guid>
       <pubDate>Tue, 27 Oct 2026 20:22:39 +0000</pubDate>
       <category>economia</category>
@@ -1010,6 +996,20 @@
       <category>Asia</category>
       <category>Global</category>
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>Portugal: Lisbon housing crisis sparks protest outside parliament</title>
+      <link>http://www.africanews.com/2026/10/28/portugal-lisbon-housing-crisis-sparks-protest-outside-parliament/</link>
+      <description>Demonstrators gathered outside Portugal's parliament to protest against the housing crisis and police violence during recent camp clearances. The president has called for dialogue while defending police actions. Publicado también por: Euronews. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:aac5f1bf22ddf7a7</guid>
+      <pubDate>Tue, 27 Oct 2026 23:12:53 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/09/96/97/47/640x360_cmsv2_62f55af9-db6e-598b-8abd-b044f9d75d4e-9969747.jpg?1793140612" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/09/96/97/47/640x360_cmsv2_62f55af9-db6e-598b-8abd-b044f9d75d4e-9969747.jpg?1793140612" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least 62 killed as 'bandit' gunmen attack civilians in Nigeria</title>
@@ -1080,6 +1080,18 @@
       <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/7061831058717148844?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2023%2F08%2FGettyImages-1308803174.jpg%3Fresize%3D1200%2C800&amp;fb_obo=1&amp;utld=techcrunch.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=7j91byawApfiT481k9Svvg&amp;_nc_zt=3&amp;oh=06_Q3_EAWj8abzBP7dY9BG4OSjoj86z1CootFEGR331L8RROLHr&amp;oe=6AE01870" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Conductor cayó a un arroyo cerca de la ruta 90 en Cartagena por cuenta de las fuertes lluvias. En la ciudad se han registrado otras emergencias, incluyendo inundaciones... Ver más</title>
+      <link>https://www.facebook.com/NoticiasRCN/posts/pfbid0M8SfrTfcq82p8Hc6u1Ay3xeZRL3Fhfdoxt8h8nJuhKTUnjRt7h9K3iAJ9PAVZMwHl?__cft__%5B0%5D=AZjqNXPhyQ2f9m76O9TvNY0CV4evq_KxeJuo18P6nz2X9WfrrxOZNWSPvUbMXs-adG8pkS8IOvA8vm__t1d8CLlhw0LQCbBDqXMuoL3CHJRVSBEfSyWepEi508x98gdYrrpr6c0uotoqPn4_gd7oJS5REJL0nBGputeMVgl4Z1gdrETCdbnrI5C6OzM&amp;__tn__=%2CO%2CP-R</link>
+      <description>Conductor cayó a un arroyo cerca de la ruta 90 en Cartagena por cuenta de las fuertes lluvias. En la ciudad se han registrado otras emergencias, incluyendo inundaciones... Ver más NOTICIASRCN.COM Video | Terminó con su vehículo en medio de un arroyo en Cartagena por cuenta de las fuertes lluvias | Noticias RCN Fuente: Noticias RCN.</description>
+      <guid isPermaLink="false">cron-rss-noticias:addd7939ebeb489e</guid>
+      <pubDate>Wed, 28 Oct 2026 01:21:39 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasRCN/">Noticias RCN</source>
+      <media:content url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.2147-6/868919621_2479663786198128_4420864313789827055_n.jpg?stp=c0.5x0.5f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=39b8c1&amp;_nc_ohc=pEHTpxWfe94Q7kNvwGLLBIw&amp;_nc_oc=AdojvjwmK0jrT4fuMjTTuJOFFLDPTVoHWG9poaS7W0k3WkGpTJW5vAWyKdNCujH4ouI&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=l4wNSEsh8am-7Fd2IjL_6A&amp;_nc_ss=7f289&amp;oh=00_AQS3-loaJe64k9oJjnPsQaerqEB2_u7WCbW0MuCl64c27Q&amp;oe=6AE735B8" medium="image" />
+      <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.2147-6/868919621_2479663786198128_4420864313789827055_n.jpg?stp=c0.5x0.5f_dst-jpg_flffffff_p500x261_q75_tt6&amp;_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=39b8c1&amp;_nc_ohc=pEHTpxWfe94Q7kNvwGLLBIw&amp;_nc_oc=AdojvjwmK0jrT4fuMjTTuJOFFLDPTVoHWG9poaS7W0k3WkGpTJW5vAWyKdNCujH4ouI&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=l4wNSEsh8am-7Fd2IjL_6A&amp;_nc_ss=7f289&amp;oh=00_AQS3-loaJe64k9oJjnPsQaerqEB2_u7WCbW0MuCl64c27Q&amp;oe=6AE735B8" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Cheryl Schipull ha comentado: I am hoping our midterm turnout is in record numbers also. Wouldn’t that be wonderful if more than 2/3 of us voted??? We should be like Australia and Scandinavian countries and get 80 to 90% to vote!!!</title>
       <link>https://www.facebook.com/NPR/posts/pfbid0SnWZoGtbeptHnhmSm4kw6f1XHuNU4kM2c5WT4J6CC3jWwrXQh4Nvonfb9ZCqPzLql?comment_id=2282111679012985&amp;reply_comment_id=1457460439656706&amp;__cft__%5B0%5D=AZiEFbtJJu6NgmTiPO1jsy7tvQZszgHTCTYDljy_94mVWO0HO1uM37By70TJluqiF2_3e2bTNIFnq0_ZedLor1X0dy1FcTy1YwDvLH0bM0DJVyI017FnOWZ3NnpU_Ddaq-jIb9d9gdDc4OPDQNGCy9xHtStSodAVthAniih5rnouh08n9WLBpAmFEXE&amp;__tn__=R-R</link>
       <description>Israelis voted in their highest numbers in decades in a tense national election on Tuesday to decide whether to stick with Prime Minister Benjamin... Fuente: NPR.</description>
@@ -1104,20 +1116,6 @@
       <source url="https://www.facebook.com/GloboNews/">GloboNews</source>
       <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/869448092_2286215836107819_4029912367692932909_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=GkYrGtHeZ5QQ7kNvwFd_Ey4&amp;_nc_oc=AdplkzKwXDVpUJy0BNgytL7xyGbYwFjelxTZ7t92xuiyrE2fa78Md4dOZWbYpn7E6bI&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=IT2n_YKyXaxT-xaCTbH2lw&amp;_nc_ss=7f289&amp;oh=00_AQNn2s2HaaJAWIisoaYYNcosi02vIVtcIJOEqJy8-Nv1Nw&amp;oe=6AE7035A" medium="image" />
       <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/869448092_2286215836107819_4029912367692932909_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=GkYrGtHeZ5QQ7kNvwFd_Ey4&amp;_nc_oc=AdplkzKwXDVpUJy0BNgytL7xyGbYwFjelxTZ7t92xuiyrE2fa78Md4dOZWbYpn7E6bI&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=IT2n_YKyXaxT-xaCTbH2lw&amp;_nc_ss=7f289&amp;oh=00_AQNn2s2HaaJAWIisoaYYNcosi02vIVtcIJOEqJy8-Nv1Nw&amp;oe=6AE7035A" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Live Updates: Israeli Exit Polls Show Strength of Opposition to Netanyahu but No Clear Winner</title>
-      <link>https://www.nytimes.com/live/2026/10/27/world/israel-elections</link>
-      <description>A bloc of opposition parties, including two predominantly Arab parties, appeared to be leading over Prime Minister Benjamin Netanyahu’s Likud party and his allies. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:da5e6aeb85871513</guid>
-      <pubDate>Tue, 27 Oct 2026 21:11:07 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <category>América del Norte</category>
-      <dc:creator>The New York Times</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-415-jtzq/27israel-promo-415-jtzq-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27israel-promo-415-jtzq/27israel-promo-415-jtzq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip</title>
@@ -1289,19 +1287,6 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22a729b7734ff0f22c727a1e71a15f01" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/025d6c56a3dfcbd9cd8eea7f6fbd0567ff7d6150/735_406_6166_4934/master/6166.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22a729b7734ff0f22c727a1e71a15f01" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel election live: polls open in most consequential vote in country’s history</title>
-      <link>https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates</link>
-      <description>Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:dee96d388a65b029</guid>
-      <pubDate>Tue, 27 Oct 2026 10:26:35 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Yohannes Lowe (now) and Jonathan Yerushalmy (earlier)</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>‘100 Dias’ leva às telas travessia histórica de Amyr Klink, que alfineta ‘Titanic’; leia entrevistas | Dirigido por Carlos Saldanha e estrelado por Filipe Bragança, fil... Ver más</title>
@@ -1596,6 +1581,19 @@
       <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
       <media:content url="https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/867794874_1119343844395631_5166062780894758394_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=yrzL8CVsedwQ7kNvwEimTY7&amp;_nc_oc=Adp0FrGcMGR0wYm1ypdZaO1Ovuje1qvJOLCVVPuMgOs0lfQNIkb59XOnQnKkVf0RWbY&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=apLbTm0Ckn0mPDKgN1uW-A&amp;_nc_ss=7f289&amp;oh=00_AQM_84OF7oazad-cFwnWi_0jhi8WPYRwQgp4JnPTQxDsTw&amp;oe=6AE53BF3" medium="image" />
       <enclosure url="https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/867794874_1119343844395631_5166062780894758394_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=yrzL8CVsedwQ7kNvwEimTY7&amp;_nc_oc=Adp0FrGcMGR0wYm1ypdZaO1Ovuje1qvJOLCVVPuMgOs0lfQNIkb59XOnQnKkVf0RWbY&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=apLbTm0Ckn0mPDKgN1uW-A&amp;_nc_ss=7f289&amp;oh=00_AQM_84OF7oazad-cFwnWi_0jhi8WPYRwQgp4JnPTQxDsTw&amp;oe=6AE53BF3" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1068 reproducciones · 16 reacciones | 🔴EN VIVO🔴 ➡Always Ready Golea a Real Oruro en Villa Ingenio ➡Oriente Petrolero Derrota a The Strongest por la Mínima en Santa Cruz ➡Bolívar Recibe a FC Universitario en el Hernando Siles ➡Continua la fecha 23 del Todos Contra Todos | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/4288978518060234/?comment_id=1106033388702278&amp;__cft__%5B0%5D=AZhgrtrQoyVxd_xCOiXky6vgbscCX0wgRz_2zNl1DPv3lLyQth_EI10x_FN7M4iMsUxe6-_-K5eU4kX849sUKG_Xy4RQl9VusbKHQp-8XMbpkqdt5FuKCAJsACqHtQrOj3RT7oXfhjZNHwkIKFn30RwZa8xTL9plMrYq5scMKok82ia7o8fMvRWbSRau1QirKSE&amp;__tn__=R%5D-R</link>
+      <description>🔴EN VIVO🔴 ➡Always Ready Golea a Real Oruro en Villa Ingenio ➡Oriente Petrolero Derrota a The Strongest por la Mínima en Santa Cruz ➡Bolívar Recibe a FC Universitario en el Hernando Siles ➡Continua... 🔴EN VIVO🔴 ➡Always Ready Golea a Real Oruro en Villa Ingenio ➡Oriente Petrolero Derrota a The Strongest por la Mínima en Santa Cruz ➡Bolívar Recibe a FC... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:23ed2bffd515ff78</guid>
+      <pubDate>Mon, 26 Oct 2026 13:14:33 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/867794874_1119343844395631_5166062780894758394_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=yrzL8CVsedwQ7kNvwEimTY7&amp;_nc_oc=Adp0FrGcMGR0wYm1ypdZaO1Ovuje1qvJOLCVVPuMgOs0lfQNIkb59XOnQnKkVf0RWbY&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=PLT7BCOIUCm5x2D4dToXBg&amp;_nc_ss=7f289&amp;oh=00_AQMJJ3Lvv8vdPgY3octUFOVQlmy4nd0YYS0-X2wffEaMQw&amp;oe=6AE53BF3" medium="image" />
+      <enclosure url="https://scontent-lga3-1.xx.fbcdn.net/v/t15.5256-10/867794874_1119343844395631_5166062780894758394_n.jpg?_nc_cat=103&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=yrzL8CVsedwQ7kNvwEimTY7&amp;_nc_oc=Adp0FrGcMGR0wYm1ypdZaO1Ovuje1qvJOLCVVPuMgOs0lfQNIkb59XOnQnKkVf0RWbY&amp;_nc_zt=23&amp;_nc_ht=scontent-lga3-1.xx&amp;_nc_gid=PLT7BCOIUCm5x2D4dToXBg&amp;_nc_ss=7f289&amp;oh=00_AQMJJ3Lvv8vdPgY3octUFOVQlmy4nd0YYS0-X2wffEaMQw&amp;oe=6AE53BF3" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
