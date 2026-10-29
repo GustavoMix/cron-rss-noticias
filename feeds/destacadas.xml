@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 29 Oct 2026 14:24:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 19:48:19 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -97,6 +97,20 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c0f/live/1f7e90f0-d2e8-11f1-8d86-83eebc838351.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Al menos 13 muertos tras un ataque ruso en una estación de tren de Ucrania</title>
+      <link>https://www.abc.es/internacional/rusia-derriba-1200-drones-ucrania-cifra-alta-20261029092454-nt.html</link>
+      <description>El tren regional 866 esperaba a sus pasajeros a bordo cuando el dron ruso atacó la estación de Dnipro. En el andén, decenas de civiles esperaban para tomar este ferrocarril en dirección a la ciudad sureña de Zaporiyia. «Se había emitido una alerta antiaérea, pero lamentablemente, había un número considerable de personas en el andén», declaró Oleksander Pertsovski, director de la compañía de trenes ucraniana, Ukrzaliznytsia. Mientras los servicios de emergencias acudían al lugar, las autoridades locales informaban de que, al menos, 13 personas habían muerto.«Dnipro sufrió una tragedia. Un dron… Publicado también por: El País - Internacional, La Nación - El Mundo, El Mundo - Internacional. Fuente: ABC España - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7ca117af2303052c</guid>
+      <pubDate>Thu, 29 Oct 2026 15:27:14 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América Latina</category>
+      <dc:creator>Miriam González</dc:creator>
+      <source url="https://www.abc.es/rss/2.0/internacional/">ABC España - Internacional</source>
+      <media:content url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519480333-REkKFDCtVXLZ5QZKDEVwVCP-1200x840@diario_abc.JPG" medium="image" />
+      <enclosure url="https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/29/1519480333-REkKFDCtVXLZ5QZKDEVwVCP-1200x840@diario_abc.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Flávio Bolsonaro Leaves Brazil for the U.S. After Election Defeat</title>
       <link>https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html</link>
       <description>Brazilian Senator Flavio Bolsonaro has left the country ⁠for the United States after losing Sunday’s ⁠presidential election, three sources said on Tuesday, with the ⁠US State Department due to grant him and his family entry visas. Bolsonaro, who has yet to concede to leftist incumbent Luiz Inacio Lula da Silva, left Brazil after refusing to comply with a Supreme Court order to surrender his passports. The ruling relates to a money-laundering probe in which he denies wrongdoing. The location of... Publicado también por: The Hindu - International, Euronews, South China Morning Post, Sky News - World, France 24 - English, The Jerusalem Post - International. Fuente: The New York Times - World.</description>
@@ -137,20 +151,6 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-zookeeper-qkmp/28xp-zookeeper-qkmp-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-zookeeper-qkmp/28xp-zookeeper-qkmp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mbappé dropped by major Chinese brands drop as backlash grows over Mao joke</title>
-      <link>https://www.bbc.co.uk/news/articles/cv62yg0erp8zo</link>
-      <description>He allegedly said the funniest "meme" about him is the one where they put his face on "a Chinese dictator". Publicado también por: BBC News - Business, BBC Sport. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ae53b038dc65f922</guid>
-      <pubDate>Tue, 27 Oct 2026 10:19:13 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>What We Know About the Deadly Train Crash in Spain</title>
@@ -276,27 +276,18 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Meghan 'can't wait' to join Junior MasterChef Australia as host</title>
-      <link>https://news.sky.com/story/meghan-cant-wait-to-join-junior-masterchef-australia-as-host-13604254</link>
-      <description>After Meghan appeared on MasterChef Australia this year, co-host Poh Ling Yeow says being reunited with the Duchess on the children’s version ‘will be a real treat’ The Duchess of Sussex is set to co-host Junior MasterChef Australia, the children’s version of the popular televised cooking competition, in 2027. Meghan made her debut appearance on the adult version of MasterChef Australia in July this year, which was filmed during a four-day visit to Australia with Prince Harry in April. Network 10 said the Duchess’s appearance on the show drew its “largest Sunday audience since 2023”. Continue… Publicado también por: BBC News - World, The Guardian - Culture. Fuente: Sky News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:58c85ed295c6ad27</guid>
-      <pubDate>Tue, 27 Oct 2026 07:38:00 +0000</pubDate>
+      <title>At least 14 people killed in attack on Ukraine train station</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss</link>
+      <description>Ukrainian President Volodymyr Zelenskyy labelled the strike "horrific" and said the Russians had attacked a platform "where a regular commuter train and a regular passenger train were standing" Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ac5a7feb8d90b0bc</guid>
+      <pubDate>Thu, 29 Oct 2026 18:03:21 +0000</pubDate>
       <category>mundo</category>
-      <category>Oceanía</category>
       <category>Europa</category>
-      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
-      <media:content url="https://e3.365dm.com/26/08/1920x1080/skynews-meghan-royal-royal-family_7327146.jpg?20260821114001" medium="image" />
-      <enclosure url="https://e3.365dm.com/26/08/1920x1080/skynews-meghan-royal-royal-family_7327146.jpg?20260821114001" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AGRADECIMENTO à Daniella Marques, economista do Flávio. Sem ela e suas falas a respeito dos CORTES, a virada seria mais difícil. É 13</title>
-      <link>https://www.facebook.com/reel/4660668100879018/?comment_id=1912403723446907&amp;__cft__%5B0%5D=AZjp4tNQQ6dynpzXFz4FK-n1fckl4wOKkM3fFgFaKgT5liH_-sUzC-B-qToDWwAHCYnwmEfMVnTkPc0p8XXUk3uvewUPDp_WnW_K1RF_AQu5Nks00eTUf5EQmMX0EkUJQOA1MXMmaD_Cpj0d1jfaM2oNgoYXAmRCcBUbvRzceoqFshMoZGXsQO5AOfArzvS0bNs8&amp;__tn__=R-R</link>
-      <description>Publicado también por: GloboNews, g1. Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0cb93e45a5192e1d</guid>
-      <pubDate>Tue, 27 Oct 2026 10:49:57 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/jmhpqc/article71642002.ece/alternates/LANDSCAPE_1200/2026-10-29T134809Z_713897882_RC21DOAV01XP_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO-TRAIN.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/jmhpqc/article71642002.ece/alternates/LANDSCAPE_1200/2026-10-29T134809Z_713897882_RC21DOAV01XP_RTRMADP_3_UKRAINE-CRISIS-ATTACK-DNIPRO-TRAIN.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>'Desolation, despair': Spain begins three days of mourning after deadly train crash</title>
@@ -364,19 +355,6 @@
       <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
       <media:content url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" medium="image" />
       <enclosure url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/17756768848919327871?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F80932de6-d1e0-11f1-81e0-bba4eee3dc72%2Fw%3A1280%2Fp%3A16x9%2F000-D4HD39E.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=zzcy8qQ9y7vFgGRlARuNsQ&amp;_nc_zt=3&amp;oh=06_Q3_EAS9Sncd5snOHowmlCgza0gZZXhEPVLgH-_bOcRJ0ecAH&amp;oe=6AE2A605" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel election live: polls open in most consequential vote in country’s history</title>
-      <link>https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates</link>
-      <description>Israel’s major TV stations project majority of Israelis have voted against Netanyahu’s coalition, but his Likud party has emerged as largest party Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats Across Israel , voting is now under way. Here are some of the latest images being sent to us over the newswires: Tens of thousands of Israelis living abroad have flown in for the elections, according to Aid Coalition , a US-based nonprofit focused on strengthening Israel’s democracy. Israeli law generally requires citizens to vote in person in the country, with… Publicado también por: Al Jazeera English. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:dee96d388a65b029</guid>
-      <pubDate>Tue, 27 Oct 2026 10:26:35 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Yohannes Lowe (now) and Jonathan Yerushalmy (earlier)</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5653f65616f37010b48e2a2a7a47f22f1486d1a4/650_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=879cffe6a86113e38e91f28163877e60" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Hegseth fires Pentagon's top military planner even as Trump considers new Iran strikes</title>
@@ -486,18 +464,6 @@
       <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/866413050_1806828070533607_8270720622135180113_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=9whOAPbPZuAQ7kNvwEVKXG7&amp;_nc_oc=Adrzx3yJ_IdZFv4ba907KYX5IKWYB6FaJki4eZNeg4WtTddEDgtA4fvEY6BxMD_bDS0&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=c1DOaNxiVca3hvEjmoV1WA&amp;_nc_ss=7f289&amp;oh=00_AQPem-4x2--RNOwo3Q7Le2-QTmjLxExtASC_KoRho1w8pA&amp;oe=6AE698E4" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Meghan to co-host Junior MasterChef Australia</title>
-      <link>https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o</link>
-      <description>The Duchess of Sussex said she was thrilled to return to the cooking show's team, after joining as a guest judge on MasterChef Australia in April. Publicado también por: ABC News Australia. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:867f8902f3452108</guid>
-      <pubDate>Tue, 27 Oct 2026 04:43:56 +0000</pubDate>
-      <category>mundo</category>
-      <category>Oceanía</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Spain reckons with 2nd deadly train crash of the year ahead of national election</title>
       <link>https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates</link>
       <description>Spain's second high-speed rail disaster this year, a crash in which one train struck another from behind, killing 68 people, has raised fresh concerns about the safety of the country's rail network. Publicado también por: The Independent - World. Fuente: NPR - World.</description>
@@ -510,6 +476,20 @@
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
       <media:content url="https://static.independent.co.uk/2026/10/29/04/Spain_Train_Crash_62528.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" medium="image" />
       <enclosure url="https://static.independent.co.uk/2026/10/29/04/Spain_Train_Crash_62528.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Spain reckons with second deadly train crash of the year ahead of national election</title>
+      <link>https://www.france24.com/en/video/20261029-spain-reckons-with-second-deadly-train-crash-of-the-year-ahead-of-national-election</link>
+      <description>Wednesday's deadly train crash has dealt a serious blow to Spanish Prime Minister Pedro Sanchez’s campaign. The accident in Toledo province killed 69 people and came just nine months after another deadly crash on the same line, leading to accusations from experts and the public of underinvestment in railway infrastructure under Sanchez's government after years of rapid network ​expansion. Publicado también por: NPR - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:579ea7f21a0d9c39</guid>
+      <pubDate>Thu, 29 Oct 2026 14:50:53 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/e1d1f28e-d3a4-11f1-8926-27b8c5a16f5e/w:1024/p:16x9/EN-20261029-143126-143322-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/e1d1f28e-d3a4-11f1-8926-27b8c5a16f5e/w:1024/p:16x9/EN-20261029-143126-143322-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures</title>
@@ -538,6 +518,42 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/yj26hv/article71633032.ece/alternates/LANDSCAPE_1200/2026-10-27T154608Z_1843233146_RC2NBOAG3Z5N_RTRMADP_3_ISRAEL-ELECTION.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/yj26hv/article71633032.ece/alternates/LANDSCAPE_1200/2026-10-27T154608Z_1843233146_RC2NBOAG3Z5N_RTRMADP_3_ISRAEL-ELECTION.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>At least two people have been killed after a rock formation collapsed at the popular Göreme Open Air Museum in Cappadocia, Turkey.... Ver más</title>
+      <link>https://www.facebook.com/bbcnews/posts/pfbid0rMPHrLS2ohrPPYgARCPuwDWpYXLCgG2VcY8J7ipQ5uqrRMHKupQp4doRBuGiPPEUl?__cft__%5B0%5D=AZida6jUdIzYwpLSBhLwrhqlvrNugO6EhFe66Qv9GKBCboFZOZpblhk-rqhP0njp5jwKnP4lZQKND7ebPnUFOP3NJt4dzO4vJnEdJJmgHhfjYiMVcg778ZxkpjRnYd86JRG2wlpl30equQUbjnG1uxCvKilryIbBi1IAYkwohNbtULpPsZM8ysfJprI&amp;__tn__=%2CO%2CP-R</link>
+      <description>At least two people have been killed after a rock formation collapsed at the popular Göreme Open Air Museum in Cappadocia, Turkey.... Ver más Nature’s awe-inspiring wonders sometimes hold silent perils. Deepest condolences to the grieving families; may grace wrap them in comfort through this darkness. Ver más comentarios Mohamed Alsaeed Alfayoumi Fuente: BBC News.</description>
+      <guid isPermaLink="false">cron-rss-noticias:153a8886cbc5219a</guid>
+      <pubDate>Thu, 29 Oct 2026 19:02:46 +0000</pubDate>
+      <category>cultura</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/bbcnews/">BBC News</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/861104747_1474276951461256_5868718998694960731_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=n5rKmAMHiMUQ7kNvwGtxcb3&amp;_nc_oc=Adr4D5TAFXv_xtizS--DrIqtvkABOgau0Us-csqy10Jr_1OtTwgzzqLU9DNcSWEOEnA&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=RptC4vfyhR27tlkL0J7mLQ&amp;_nc_ss=7f289&amp;oh=00_AQS0bwfvtOe0_RpJ6NeYgY8C4JC_R7id9vlndRa7trZynQ&amp;oe=6AE975A9" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t39.99422-6/861104747_1474276951461256_5868718998694960731_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=n5rKmAMHiMUQ7kNvwGtxcb3&amp;_nc_oc=Adr4D5TAFXv_xtizS--DrIqtvkABOgau0Us-csqy10Jr_1OtTwgzzqLU9DNcSWEOEnA&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=RptC4vfyhR27tlkL0J7mLQ&amp;_nc_ss=7f289&amp;oh=00_AQS0bwfvtOe0_RpJ6NeYgY8C4JC_R7id9vlndRa7trZynQ&amp;oe=6AE975A9" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Cómo ocurrió el choque de dos trenes de alta velocidad que dejó decenas de muertos en España</title>
+      <link>https://www.bbc.com/mundo/watch/cmx23e0y93w9o</link>
+      <description>Es una de las peores tragedias ferroviarias en la historia de España. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fd7187b1575b914d</guid>
+      <pubDate>Thu, 29 Oct 2026 18:08:34 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55c0/live/1b33fed0-d3c0-11f1-b441-2b33b063138f.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55c0/live/1b33fed0-d3c0-11f1-b441-2b33b063138f.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Guía visual para entender cómo fue el accidente de trenes en España que deja al menos 69 muertos</title>
+      <link>https://www.bbc.com/mundo/articles/cq98zk00pnn1o</link>
+      <description>Un fallo informático y un tren a casi 200 km/h en una vía ocupada. Así ocurrió el peor accidente ferroviario de España en más de una década. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:95f7c76237700f1b</guid>
+      <pubDate>Thu, 29 Oct 2026 17:55:21 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/574f/live/21da5c60-d3c6-11f1-9a9b-f59c4656ef09.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/574f/live/21da5c60-d3c6-11f1-9a9b-f59c4656ef09.png" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Record number of purges as Xi emphasises 'party discipline' at China political gathering</title>
@@ -574,6 +590,18 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a31/live/8148c250-d311-11f1-a701-fddedf244c16.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Cuál fue la posible causa del choque de trenes de alta velocidad que deja al menos 68 muertos en España</title>
+      <link>https://www.bbc.com/mundo/articles/cqdjv79dkrdzo</link>
+      <description>El gobierno apunta a un "error humano" como causa del segundo siniestro con decenas de muertos en los trenes españoles en menos de un año. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4e16cbac0f017ccc</guid>
+      <pubDate>Wed, 28 Oct 2026 17:24:57 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfe9/live/2e15ee20-d2ec-11f1-8d86-83eebc838351.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfe9/live/2e15ee20-d2ec-11f1-8d86-83eebc838351.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>2772 reproducciones · 52 reacciones | The view of a school in Urda, Spain, where relatives of the victims of a deadly train crash have gathered. Rescuers are scouring the wreckage for more bodies after two high-speed trains collided, marking Spain's second deadly rail accident this year and Europe's deadliest since 2013. #Spain #TrainCrash #Victims #Families #Urda #Live #Reuters #News Keep up with the latest news from around the world: https://www.reuters.com/ | Reuters</title>
@@ -906,59 +934,31 @@
       <enclosure url="https://scx1.b-cdn.net/csz/news/tmb/2026/nasas-perseverance-off-1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Men charged with national security offences over incident at US base in England</title>
-      <link>https://www.abc.net.au/news/2026-10-27/two-men-charged-over-fairford-raf-incident/107316522</link>
-      <description>One charged assisting a foreign intelligence service and the other with entering a prohibited place, CPS says Two British nationals have been charged over a plot to assist Iran’s intelligence service as part of the investigation into the suspected terror incident near RAF Fairford. Counter Terrorism Policing (CTP) said Mohmed Abdulkarim, 24, of London, will appear at Westminster magistrates’ court on Tuesday charged with assisting a foreign intelligence service under the National Security Act 2023. Continue reading... Publicado también por: The Guardian - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b41921742ba7f2f8</guid>
-      <pubDate>Tue, 27 Oct 2026 10:23:15 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/05137c162cb1d4d60d79fb9eed406ccd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/05137c162cb1d4d60d79fb9eed406ccd?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=260&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Netanyahu's political survival on the line as Israel heads to the polls</title>
-      <link>https://www.france24.com/en/netanyahu-s-political-survival-on-the-line-as-israel-heads-to-the-polls</link>
-      <description>Prime Minister Benjamin Netanyahu faces a fight for political survival in Israel's election on Tuesday (October 27), with voters weighing his leadership after the 2023 Hamas-led attacks, wars in Gaza and with Iran, and Israel's deepening international isolation. FRANCE24's Douglas Herbert gives us his analysis. Publicado también por: The Hindu - International. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ea05743df4a5ae8c</guid>
-      <pubDate>Tue, 27 Oct 2026 10:14:33 +0000</pubDate>
+      <title>Flávio Bolsonaro calls himself 'leader of Brazil' after election loss</title>
+      <link>https://www.bbc.co.uk/news/articles/c3x2w4109pj8o</link>
+      <description>Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a private jet with his family in Miami, Florida , on Wednesday morning, the far-right senator published the claim in a letter – even though his own party has recognised the legitimate victory of Luiz Inácio Lula da Silva , as have all of Brazil’s institutions, and international observers who monitored and endorsed the… Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ec9b45e7b1e7390b</guid>
+      <pubDate>Thu, 29 Oct 2026 14:58:28 +0000</pubDate>
       <category>politica</category>
       <category>conflictos</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/d41f41f4-d1ed-11f1-8a06-bdb9616e85cf/w:1024/p:16x9/EN-20261027-100630-101156-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/d41f41f4-d1ed-11f1-8a06-bdb9616e85cf/w:1024/p:16x9/EN-20261027-100630-101156-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Jay-Z to headline 2027 Super Bowl halftime show</title>
-      <link>https://www.facebook.com/CBSNews/posts/pfbid02kAjgwr4h65Xwd614BF5tLJ6nT9SCiiFG9c3V8mHxxsVNz9CvyEx89742SfYXoL5nl?__cft__%5B0%5D=AZj-iItznohtBvunMom_s3_SC2M0Q5u_NxTEjF-IceQN-sl3bpWvVxyWmIXqzslV3tSMvAxzMyP1gBpruGq5AEx0NiFztXLIql91bAWu4r_TShvwZQkKqC1wfBNDmDy6w76WZL-dFstNeMDp9XIObkFa9jXkl2BTSQKzDD_1btLmO48zY6M3OkemaRw&amp;__tn__=%2CO%2CP-R</link>
-      <description>Jay-Z is slated to perform at the Apple Music Super Bowl LXI Halftime Show, taking place on Feb. 14, 2027, at SoFi Stadium in Inglewood, California. “From Reasonable Doubt to standing on the Super Bowl Halftime stage, this has been a journey,” said Jay-Z in a statement. “Thirty years of music, work, and culture on […] Publicado también por: Variety. Fuente: CBS News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d01c6155b170a955</guid>
-      <pubDate>Tue, 27 Oct 2026 04:16:00 +0000</pubDate>
-      <category>mundo</category>
+      <category>América Latina</category>
       <category>América del Norte</category>
-      <source url="https://www.facebook.com/CBSNews/">CBS News</source>
-      <media:content url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/483101797472051106?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F10%2F27%2F1109a110-37a5-4fce-be5c-07abc35e9bcb%2Fthumbnail%2F1200x630%2Fd4cc60f27961079d0f1f450ce65ce925%2Fgettyimages-2223723142.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=mnxLhxo0dIS9JXVQpihGMg&amp;_nc_zt=3&amp;oh=06_Q3_EAe9BGn6pcopuHPj7q7KcBtS6A7HSp8QduC-zh-E4xWfV&amp;oe=6AE2167C" medium="image" />
-      <enclosure url="https://external-sjc3-1.xx.fbcdn.net/emg1/v/t13/483101797472051106?url=https%3A%2F%2Fassets2.cbsnewsstatic.com%2Fhub%2Fi%2Fr%2F2026%2F10%2F27%2F1109a110-37a5-4fce-be5c-07abc35e9bcb%2Fthumbnail%2F1200x630%2Fd4cc60f27961079d0f1f450ce65ce925%2Fgettyimages-2223723142.jpg&amp;fb_obo=1&amp;utld=cbsnewsstatic.com&amp;dfr=1&amp;_nc_sid=867500&amp;_nc_ht=external-sjc3-1.xx.fbcdn.net&amp;stp=dst-jpg_p600x600_tt6&amp;ccb=18-1&amp;_nc_gid=mnxLhxo0dIS9JXVQpihGMg&amp;_nc_zt=3&amp;oh=06_Q3_EAe9BGn6pcopuHPj7q7KcBtS6A7HSp8QduC-zh-E4xWfV&amp;oe=6AE2167C" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ed/live/bd177c10-d3aa-11f1-b441-2b33b063138f.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ed/live/bd177c10-d3aa-11f1-b441-2b33b063138f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Jordan strikes militant groups in Syria after church attack</title>
-      <link>https://www.thehindu.com/news/international/jordan-strikes-militant-groups-in-syria-after-church-attack/article71629645.ece</link>
-      <description>Jordanian military air force jets had “destroyed several terrorist positions” and killed and wounded “numerous members” of groups linked to the perpetrators of the church attack Publicado también por: Al Jazeera English. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:974da6f8d054c28c</guid>
-      <pubDate>Tue, 27 Oct 2026 03:18:10 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Medio Oriente</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/news/national/evpb64/article71629646.ece/alternates/LANDSCAPE_1200/AFP__20261026__D4H98P8__v1__HighRes__PalestinianJordanIsraelConflictUnrestShootingRe.jpg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/news/national/evpb64/article71629646.ece/alternates/LANDSCAPE_1200/AFP__20261026__D4H98P8__v1__HighRes__PalestinianJordanIsraelConflictUnrestShootingRe.jpg" type="image/jpeg" length="0" />
+      <title>Russian drone attack on Ukrainian train station kills at least 13, officials say</title>
+      <link>https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko</link>
+      <description>A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire. Publicado también por: The New York Times - World. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e1e099fdc0898f1a</guid>
+      <pubDate>Thu, 29 Oct 2026 12:38:40 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3f6/live/c8559bf0-d389-11f1-b5f4-fd541fd21001.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Bolsonaro denies fleeing Brazil in first public statement after landing in US</title>
@@ -1078,19 +1078,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b11d/live/15b94dc0-d1fe-11f1-b30f-21253679b290.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Jay-Z to perform at Super Bowl half-time show</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8ezg4364epo</link>
-      <description>Rapper who has helped produce the Super Bowl show for years is stepping up to perform himself, at SoFi Stadium in California After years of producing the Super Bowl half-time show, Jay-Z has announced that the 2027 headline act will be none other than himself. After days of speculation, the NFL, Apple Music and Jay-Z’s company Roc Nation announced on Monday night that the rapper will be the featured performer for the half-time festivities at the Super Bowl LXI on 14 February at SoFi Stadium in Inglewood, California. Continue reading... Publicado también por: The Guardian - Culture. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:28cfc03f1c19bf90</guid>
-      <pubDate>Tue, 27 Oct 2026 03:10:55 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <category>América del Norte</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>FEC campaign finance system offline days before midterms after hackers reportedly target site</title>
       <link>https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html</link>
       <description>An FEC email said a 'bad actor' tried to breach its systems as the US prepares for its most expensive elections ever. Publicado también por: Al Jazeera English. Fuente: CNBC - World.</description>
@@ -1112,18 +1099,6 @@
       <category>economia</category>
       <category>politica</category>
       <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine</title>
-      <link>https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html</link>
-      <description>A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S. first lady Melania Trump, as missile attacks resumed in Kyiv. Publicado también por: NPR - World. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6fea5efe0281d69b</guid>
-      <pubDate>Tue, 27 Oct 2026 10:17:03 +0000</pubDate>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>América del Norte</category>
       <category>Europa</category>
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
     </item>
@@ -1184,18 +1159,77 @@
       <enclosure url="https://static.toiimg.com/photo/msid-135235912,imgsize-189414.cms" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Jordan strikes targets in Syria after deadly church attack</title>
-      <link>https://www.scmp.com/news/world/middle-east/article/3372253/jordan-strikes-targets-syria-after-deadly-church-attack</link>
-      <description>Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that the suspects behind last week’s deadly church attack in ‌the kingdom were linked to “terrorist groups” operating there. The armed forces said the operation was conducted in coordination with Damascus. Syria’s government gave a contradictory account, saying it had launched an investigation into the Jordanian attacks, and stressed in a statement the importance of field and... Publicado también por: The Hindu - International. Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8e166d9991e30629</guid>
-      <pubDate>Tue, 27 Oct 2026 05:22:48 +0000</pubDate>
-      <category>mundo</category>
+      <title>9560 reproducciones · 297 reacciones | Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now counted, the main opposition bloc could join forces with Palestinian-Israeli parties to unseat Netanyahu. Al Jazeera’s Nour Odeh reports. | Al Jazeera English</title>
+      <link>https://www.facebook.com/reel/1646942116947910/?comment_id=2463879520687922&amp;__cft__%5B0%5D=AZjdf35eWnKofOV-Iu9I_tBxB8o-chiRs2j9FB_h-nrtaUzMEw_jvMnO1KoKbSsk-EyJ3MXw-9EnutkmKNf5N1qJDiIcRNTWFCVucovz9FRyhdOA014rE0lhtv0iHPdyvxshH9Ifnp7xfFatfRA1JflRRX2dDYJaMBdp7fVt1f544EdX72ddVSd-G20YZrUQEfsc&amp;__tn__=R-R</link>
+      <description>Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now counted, the main opposition bloc could join forces... Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now... Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c5c12a7d9f17f09c</guid>
+      <pubDate>Thu, 29 Oct 2026 19:48:19 +0000</pubDate>
+      <category>politica</category>
       <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/879965003_2661874934274053_3405497276839375933_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=Tt_XzfPVeS4Q7kNvwEFPJSj&amp;_nc_oc=AdrPF5J0i6BO_FXdAKc7BvX3usuejqWzddsqvAxAZ7uVl8Fg5TY-zWTKhNNsq77mFtE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=XxFchqgTiOxH4ksuPYqjew&amp;_nc_ss=7f289&amp;oh=00_AQQvgexy145EZtI3_XuNBDbvJenclUnnOgzAjHuMLjockA&amp;oe=6AE9713F" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/879965003_2661874934274053_3405497276839375933_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=Tt_XzfPVeS4Q7kNvwEFPJSj&amp;_nc_oc=AdrPF5J0i6BO_FXdAKc7BvX3usuejqWzddsqvAxAZ7uVl8Fg5TY-zWTKhNNsq77mFtE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=XxFchqgTiOxH4ksuPYqjew&amp;_nc_ss=7f289&amp;oh=00_AQQvgexy145EZtI3_XuNBDbvJenclUnnOgzAjHuMLjockA&amp;oe=6AE9713F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>9560 reproducciones · 297 reacciones | Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now counted, the main opposition bloc could join forces with Palestinian-Israeli parties to unseat Netanyahu. Al Jazeera’s Nour Odeh reports. | Al Jazeera English</title>
+      <link>https://www.facebook.com/reel/1646942116947910/?comment_id=2463879520687922&amp;reply_comment_id=29072633312369420&amp;__cft__%5B0%5D=AZjdf35eWnKofOV-Iu9I_tBxB8o-chiRs2j9FB_h-nrtaUzMEw_jvMnO1KoKbSsk-EyJ3MXw-9EnutkmKNf5N1qJDiIcRNTWFCVucovz9FRyhdOA014rE0lhtv0iHPdyvxshH9Ifnp7xfFatfRA1JflRRX2dDYJaMBdp7fVt1f544EdX72ddVSd-G20YZrUQEfsc&amp;__tn__=R-R</link>
+      <description>Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now counted, the main opposition bloc could join forces... Israeli PM Benjamin Netanyahu accused Palestinian-Israeli parties of ‘stealing’ the election after they won a record 19 seats. With all votes now... Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ceac47ad92f6e1c6</guid>
+      <pubDate>Thu, 29 Oct 2026 19:48:19 +0000</pubDate>
+      <category>politica</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/aljazeera/">Al Jazeera English</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/879965003_2661874934274053_3405497276839375933_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=Tt_XzfPVeS4Q7kNvwEFPJSj&amp;_nc_oc=AdrPF5J0i6BO_FXdAKc7BvX3usuejqWzddsqvAxAZ7uVl8Fg5TY-zWTKhNNsq77mFtE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=P0GLhs3aAIrRNEDNfXpqlg&amp;_nc_ss=7f289&amp;oh=00_AQQ6ZZxZ3NIUqy8CoS_GoMYmHMAHGWhlUhz6iZIbuz1p7g&amp;oe=6AE9713F" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/879965003_2661874934274053_3405497276839375933_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=Tt_XzfPVeS4Q7kNvwEFPJSj&amp;_nc_oc=AdrPF5J0i6BO_FXdAKc7BvX3usuejqWzddsqvAxAZ7uVl8Fg5TY-zWTKhNNsq77mFtE&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=P0GLhs3aAIrRNEDNfXpqlg&amp;_nc_ss=7f289&amp;oh=00_AQQ6ZZxZ3NIUqy8CoS_GoMYmHMAHGWhlUhz6iZIbuz1p7g&amp;oe=6AE9713F" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>12 reacciones | #Colombia | La joven Alejandra Castaño completa más de 72 horas secuestrada. Sus familiares claman por su liberación. Siga la señal de Noticias Caracol en vivo 👉🏼 https://tinyurl.com/446m72aw | Noticias Caracol</title>
+      <link>https://www.facebook.com/reel/1527140332800148/?comment_id=1644840877179514&amp;__cft__%5B0%5D=AZgyummoDHuFnXBRiCzN77NNhyqZGV7ndqHaZ9IN5RDUHBTxcEsC_fRyV1yF17eXvwrerTH5gcuytsQNOOLIhFy2HtZGvX9jIklRdEKrx5ywgnmuh0mprsgqqwhnhsXj4VDP__IpIa-IviExqW9hAT-Aod2lP8XhWPlKxV4UNlDnH70OIHaKKITG-LU0Fjnd51tS&amp;__tn__=R-R</link>
+      <description>#Colombia | La joven Alejandra Castaño completa más de 72 horas secuestrada. Sus familiares claman por su liberación. Siga la señal de Noticias Caracol en vivo 👉🏼 https://tinyurl.com/446m72aw #Colombia | La joven Alejandra Castaño completa más de 72 horas secuestrada. Sus familiares claman por su liberación. Siga la señal de Noticias Caracol... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5308514c688085e0</guid>
+      <pubDate>Thu, 29 Oct 2026 19:48:19 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/876793537_1099992556357308_2026661611581640571_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vI7g16XYGwAQ7kNvwHBnlea&amp;_nc_oc=AdoSSocauwviCF8H936kXgfEVHmugAi8lZGruGfnZYTbBBCjCZVXT3LyUOlpdBIbHys&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=orXAYhxh7TNABzCQcVYR_w&amp;_nc_ss=7f289&amp;oh=00_AQQ-YYrFamzXC1C-CZH4-TTujS3zRKs41XbmywjS-9tMuw&amp;oe=6AE978B5" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/876793537_1099992556357308_2026661611581640571_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vI7g16XYGwAQ7kNvwHBnlea&amp;_nc_oc=AdoSSocauwviCF8H936kXgfEVHmugAi8lZGruGfnZYTbBBCjCZVXT3LyUOlpdBIbHys&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=orXAYhxh7TNABzCQcVYR_w&amp;_nc_ss=7f289&amp;oh=00_AQQ-YYrFamzXC1C-CZH4-TTujS3zRKs41XbmywjS-9tMuw&amp;oe=6AE978B5" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>18 reacciones | 🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el presidente Terrazas. ➡Haremos auditorías, fue lo que dijo el presidente de la institución aurinegra | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1805280913916456/?comment_id=29084654217829532&amp;__cft__%5B0%5D=AZiLObUoZE1SFSZedum8sVz7pE-KDv8GpTbh6ObzrRYXyJ-iJjjHG9IY3cY5Kgl-8AHpIiObmGH7ztpdr3MRxON3BffEEa3Ak1ibYb8kzDajz_pQ5hjr6RpTk9iCYIPoi747m4VLOD0nKU_YDU57o5tGoASeJY6Hy02XjrccOiBfOx13S9qS7bP5EPlfhLiUcnA&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el presidente Terrazas. ➡Haremos auditorías, fue... 🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:580310b76b7f1e31</guid>
+      <pubDate>Thu, 29 Oct 2026 19:48:19 +0000</pubDate>
+      <category>politica</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/876307377_1854383365999487_3378601058997349223_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=gvmS8dV5GZcQ7kNvwEMU7QF&amp;_nc_oc=AdqncF4fQOZNwahoZWQsfDhqDvaX8tPcOVwFttPNP9HAiNOgTciHSXVgscm8Vi8r4_c&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=qhe2VY6hm4d1vPFLtwTHoQ&amp;_nc_ss=7f289&amp;oh=00_AQRW4Dg_nbaFWGPx_UmQF6z-uAXT39JZ3EnbN4s_AFGJjA&amp;oe=6AE95DD2" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/876307377_1854383365999487_3378601058997349223_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=gvmS8dV5GZcQ7kNvwEMU7QF&amp;_nc_oc=AdqncF4fQOZNwahoZWQsfDhqDvaX8tPcOVwFttPNP9HAiNOgTciHSXVgscm8Vi8r4_c&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=qhe2VY6hm4d1vPFLtwTHoQ&amp;_nc_ss=7f289&amp;oh=00_AQRW4Dg_nbaFWGPx_UmQF6z-uAXT39JZ3EnbN4s_AFGJjA&amp;oe=6AE95DD2" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>18 mil reproducciones · 115 reacciones | Every minute counts in a stroke. Know the signs, act fast and call emergency services right away Share and save this video. It could save a life. | World Health Organization (WHO)</title>
+      <link>https://www.facebook.com/reel/2159188101621991/?comment_id=1695387365443109&amp;__cft__%5B0%5D=AZjqfWrWJjQwxU3HYDm_7at2mME0YOnPsxthE9BKOMG238boI0GFkfRO8ycHDdv1dFPKcfBpXtt5L04pRhx30difFLsUFmjhMdLFmZ6Ei2mF08jeVa8VhFMmab-znVnydYFPPVasneWsdM1Sd42eYa7JduxXNJcEvljD_m98VpsRueRg3NtSNRfuIf00LIoKwShm&amp;__tn__=R-R</link>
+      <description>Every minute counts in a stroke. Know the signs, act fast and call emergency services right away Share and save this video. It could save a life. Fuente: World Health Organization.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ce49d7d065588f1b</guid>
+      <pubDate>Thu, 29 Oct 2026 19:48:19 +0000</pubDate>
+      <category>salud</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/WHO/">World Health Organization</source>
+      <media:content url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/879636131_2159189451621856_1713228786050705427_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=y8EWTbTyfOoQ7kNvwF-C9Jj&amp;_nc_oc=AdrWv62rbpIF1fSuMLvXhAtQ-vR59-YRCSkxoAlAY33D4ecHlLMFWZ0yxFqNo-9bO9w&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=YwM_eF7Twd55PJCtRWC6eg&amp;_nc_ss=7f289&amp;oh=00_AQQcCS0oPc0c-tc74iIRLNomdM2XiIVZR5UOpHLSB7cY9g&amp;oe=6AE96E8E" medium="image" />
+      <enclosure url="https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/879636131_2159189451621856_1713228786050705427_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=y8EWTbTyfOoQ7kNvwF-C9Jj&amp;_nc_oc=AdrWv62rbpIF1fSuMLvXhAtQ-vR59-YRCSkxoAlAY33D4ecHlLMFWZ0yxFqNo-9bO9w&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=YwM_eF7Twd55PJCtRWC6eg&amp;_nc_ss=7f289&amp;oh=00_AQQcCS0oPc0c-tc74iIRLNomdM2XiIVZR5UOpHLSB7cY9g&amp;oe=6AE96E8E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Hong Kong’s leader apologises for residential fire that killed 168 people</title>
+      <link>https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people</link>
+      <description>Blaze was world’s deadliest residential fire since 1980, but some survivors and bereaved families say justice has yet to be served Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sign of public contrition that nevertheless failed to impress some victims’ families. The chief executive, John Lee, and seven other officials bowed in apology at the release of a report that pointed to “decades of failure” by government bodies. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7ee36d3d35262936</guid>
+      <pubDate>Thu, 29 Oct 2026 18:14:21 +0000</pubDate>
+      <category>mundo</category>
       <category>Asia</category>
-      <dc:creator>Reuters</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/db15bfa8-d01e-4421-bdbb-42ec5f2572db_c24cf12a.jpg?itok=PR2SPIpu&amp;v=1793078567" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/db15bfa8-d01e-4421-bdbb-42ec5f2572db_c24cf12a.jpg?itok=PR2SPIpu&amp;v=1793078567" type="image/jpeg" length="0" />
+      <dc:creator>Guardian reporter</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/2c5d0274ccc74eedd4d8ea37a4defaa01bc5225c/1462_16_3005_2404/master/3005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3901a605c6eddd6e2a23665338863c4" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/2c5d0274ccc74eedd4d8ea37a4defaa01bc5225c/1462_16_3005_2404/master/3005.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c3901a605c6eddd6e2a23665338863c4" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>24 mil reproducciones · 1460 reacciones | O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas sobre a fuga do senador Flávio Bolsonaro (PL-RJ) para os Estados Unidos. Uma autoridade do governo de Donald Trump confirmou ao UOL que os Estados Unidos vão emitir vistos para Flávio e sua família. A saída do senador do Brasil surpreendeu aliados, que, segundo Marinho, não receberam informações sobre a viagem. #canaluol #uolnaseleições #eleições2026 #flaviobolsonaro #bolsonaro | UOL Notícias</title>
@@ -1556,43 +1590,6 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-1100-hwvc/28spain-1100-hwvc-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/10/28/multimedia/28spain-1100-hwvc/28spain-1100-hwvc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>BREAKING: Dolores Huerta, labor rights leader and co-founder of the United Farm Workers, dies at 96.</title>
-      <link>https://www.facebook.com/NBCNews/posts/pfbid0x3RBFZbrW1LAPBFYpHZqW1m8rL4M5U8i7qDnUpEGVxwJdQxRJAsAN5ygfiJCRcZhl?__cft__%5B0%5D=AZi7aOm2J3dxNDqn2nfTeP6xBCZXdxwwNZUkyWOjsXjHCaC2i29i7Y2uz3noZbmFptLXQnCM-51aFP7HNCFxVIDe6m-Vq6Vy5AMBxPSDoMyDRgcqtH0SQAst-y8WPYJ8voWyyt22yf5QQ4QjcqmJWYQKMkOamn1uV26FYn6wKy99VXHBRDH1hm91Qys&amp;__tn__=%2CO%2CP-R</link>
-      <description>BREAKING: Dolores Huerta, labor rights leader and co-founder of the United Farm Workers, dies at 96. NBCNEWS.COM Dolores Huerta, farmworker and civil rights activist, dies at 96 Georgie Medina Marcano Fuente: NBC News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a2f092e45cc65cd3</guid>
-      <pubDate>Wed, 28 Oct 2026 15:52:38 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/NBCNews/">NBC News</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/807752381840720801?url=https%3A%2F%2Fimage.trueanthem.com%2Fevrgv9dk-TddTd1sEX_9nO507ZnQJzd2BJGmgfDEQDM%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjAwNzI4LWRvcmxvcmVzLWh1ZXJ0YS1zZS01MDhwLTAwMzAzZC5qcGc.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=iMbr84Gr6Ycb6Wbcbm5Gkg&amp;_nc_zt=3&amp;oh=06_Q3_EAXEW0pgNQebftMw2KzggVMEPYteV4BAbiyvJMEpaTgo9&amp;oe=6AE400BF" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/807752381840720801?url=https%3A%2F%2Fimage.trueanthem.com%2Fevrgv9dk-TddTd1sEX_9nO507ZnQJzd2BJGmgfDEQDM%2Fwidth%3A1200%2Fheight%3A0%2Fmb%3A8000000%2Fext%3Ajpg%2FaHR0cHM6Ly9tZWRpYS1jbGRucnkucy1uYmNuZXdzLmNvbS9pbWFnZS91cGxvYWQvdF9uYmNuZXdzLWZwLTEyMDAtNjMwLGZfYXV0byxxX2F1dG86YmVzdC9yb2NrY21zLzIwMjYtMTAvMjAwNzI4LWRvcmxvcmVzLWh1ZXJ0YS1zZS01MDhwLTAwMzAzZC5qcGc.jpg&amp;fb_obo=1&amp;utld=trueanthem.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=iMbr84Gr6Ycb6Wbcbm5Gkg&amp;_nc_zt=3&amp;oh=06_Q3_EAXEW0pgNQebftMw2KzggVMEPYteV4BAbiyvJMEpaTgo9&amp;oe=6AE400BF" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Budget 2026 live: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards</title>
-      <link>https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics</link>
-      <description>OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decade Budget 2026: key points at a glance Martin Lewis said that, when he met John Healey this morning, the chancellor said that, having removed standing charges from gas bills, he would also like to get rid of them from electricity bills. Lewis said: The chancellor said he will be talking to Ofgem about how they get rid of the charge on electricity as well, but that is ‘trickier’ apparently and will take longer. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cf7eaf2955f2e04d</guid>
-      <pubDate>Wed, 28 Oct 2026 15:46:40 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>Andrew Sparrow and Graeme Wearden</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/5e7783b8b11caa8c81d9b44a1e98e61549ec79e1/615_0_2109_1688/master/2109.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcf4cf8d39158530315ff801ccdaa465" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5e7783b8b11caa8c81d9b44a1e98e61549ec79e1/615_0_2109_1688/master/2109.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcf4cf8d39158530315ff801ccdaa465" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Halloween is on Saturday. Costume stores are likely picked over, and shipping deadlines are fast approaching. If you’re in a pinch, our journalists have a few ideas for... Ver más</title>
-      <link>https://www.facebook.com/nytimes/posts/pfbid0cTrJrDsHKA9f9TWyBFooHTqvFdG3kdK7mPWV5HrYnSHT6j2zgwJjpXgXyhzNpaXvl?__cft__%5B0%5D=AZj51DF8uE1pd_dIzQagNpxJoV-X0DhemI197ReeGFjjNIk7A1fhy_nlE0-q9eMtHd7OBjIY56VoNdNXYpxBPjrnEKm0Wjddd3XYcXSWkKKpRDpjeAIdoM2X3k2NIVZV4ZXiZVfP2wTkkyDnaD26HNgknkiOQYQIP8mDVuFhPeua59tsXV78V4esQaI&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: The New York Times.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1c6d0f0b02ef013f</guid>
-      <pubDate>Wed, 28 Oct 2026 15:41:41 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/nytimes/">The New York Times</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/876260997_1430726412508928_7257722544250752057_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3gstJzPAB_8Q7kNvwGoFQJY&amp;_nc_oc=AdqLKqNb7SPvmblM8utoMj-nnaMpjMZL350_anA9EA-e2a27uAE3NXxoPfzZFzpC_0s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=4K4mPPCY3zk0WRb06IqAQQ&amp;_nc_ss=7f289&amp;oh=00_AQSjXKGjBXU3ovyZBtlevareG5LB5gxvyd8zkaxhhXrSIA&amp;oe=6AE7E79C" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/876260997_1430726412508928_7257722544250752057_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3gstJzPAB_8Q7kNvwGoFQJY&amp;_nc_oc=AdqLKqNb7SPvmblM8utoMj-nnaMpjMZL350_anA9EA-e2a27uAE3NXxoPfzZFzpC_0s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=4K4mPPCY3zk0WRb06IqAQQ&amp;_nc_ss=7f289&amp;oh=00_AQSjXKGjBXU3ovyZBtlevareG5LB5gxvyd8zkaxhhXrSIA&amp;oe=6AE7E79C" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
