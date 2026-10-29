@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 29 Oct 2026 07:11:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:24:46 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -112,18 +112,17 @@
       <enclosure url="https://static01.nyt.com/images/2026/10/27/multimedia/27int-brazil-bolsonaro-flight-jtzq/27int-brazil-bolsonaro-flight-jtzq-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump</title>
-      <link>https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o</link>
-      <description>Nobel Peace Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned after nearly a year away. Sitting President Rodriguez accused her of making a "show." Publicado también por: Deutsche Welle - World, The Jerusalem Post - International, NPR - World. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e1144453576c7d47</guid>
-      <pubDate>Tue, 27 Oct 2026 00:31:11 +0000</pubDate>
+      <title>Al menos 13 muertos en un ataque ruso contra una estación de tren de la ciudad ucrania de Dnipró</title>
+      <link>https://elpais.com/internacional/2026-10-29/varios-muertos-en-un-ataque-ruso-contra-una-estacion-de-tren-de-la-ciudad-ucrania-de-dnipro.html</link>
+      <description>El tren regional 866 esperaba a sus pasajeros a bordo cuando el dron ruso atacó la estación de Dnipro. En el andén, decenas de civiles esperaban para tomar este ferrocarril en dirección a la ciudad sureña de Zaporiyia. «Se había emitido una alerta antiaérea, pero lamentablemente, había un número considerable de personas en el andén», declaró Oleksander Pertsovski, director de la compañía de trenes ucraniana, Ukrzaliznytsia. Mientras los servicios de emergencias acudían al lugar, las autoridades locales informaban de que, al menos, 13 personas habían muerto.«Dnipro sufrió una tragedia. Un dron… Publicado también por: ABC España - Internacional, El Mundo - Internacional. Fuente: El País - Internacional.</description>
+      <guid isPermaLink="false">cron-rss-noticias:56f77527ff320152</guid>
+      <pubDate>Thu, 29 Oct 2026 13:31:21 +0000</pubDate>
       <category>mundo</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
       <category>Europa</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/08f0ea00-d193-11f1-8c41-0bbbeafdc6d4.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c58/live/08f0ea00-d193-11f1-8c41-0bbbeafdc6d4.jpg" type="image/jpeg" length="0" />
+      <dc:creator>Catalina Gómez Ángel</dc:creator>
+      <source url="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada">El País - Internacional</source>
+      <media:content url="https://imagenes.elpais.com/resizer/v2/TXOJEWRNUNDHXDLY7HHVYGUUNY.jpg?auth=830aa1bcdfad236bd6ae1a6d2d32d55aa4e0626c79d8c2ccb3c724bbf94c80c7" medium="image" />
+      <enclosure url="https://imagenes.elpais.com/resizer/v2/TXOJEWRNUNDHXDLY7HHVYGUUNY.jpg?auth=830aa1bcdfad236bd6ae1a6d2d32d55aa4e0626c79d8c2ccb3c724bbf94c80c7" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Dutch Zookeeper Dies After Rare Mauling by a Leopard</title>
@@ -152,6 +151,20 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>What We Know About the Deadly Train Crash in Spain</title>
+      <link>https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html</link>
+      <description>A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history. Publicado también por: BBC News - World. Fuente: The New York Times - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:35b9a8a87322eee1</guid>
+      <pubDate>Wed, 28 Oct 2026 16:41:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>América del Norte</category>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
+      <media:content url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" medium="image" />
+      <enclosure url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Qué se sabe del choque de dos trenes de alta velocidad en España que dejó decenas de muertos</title>
@@ -380,18 +393,17 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/b889od/article71639100.ece/alternates/LANDSCAPE_1200/Pentagon_Firing_35824.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>What We Know About the Deadly Train Crash in Spain</title>
-      <link>https://www.nytimes.com/2026/10/28/world/europe/train-crash-spain.html</link>
-      <description>A train accident near Toledo, Spain, which killed at least 68 people, was one of the deadliest in the country’s history. Publicado también por: BBC News - World. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:35b9a8a87322eee1</guid>
-      <pubDate>Wed, 28 Oct 2026 16:41:58 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/10/28/multimedia/28xp-spain-wtk-swap-bkmc/28xp-spain-wtk-swap-bkmc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <title>'I live with a ghost': Japan's haunted homes attract bargain hunters</title>
+      <link>https://www.bbc.co.uk/news/articles/cqwy78elyrlzo</link>
+      <description>Properties where someone has died in tragic circumstances can have big reductions in price. Fuente: BBC News - Business.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8d91d606f0062724</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:15 +0000</pubDate>
+      <category>economia</category>
+      <category>Asia</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>What we know so far about deadly Spain train crash</title>
@@ -420,6 +432,19 @@
       <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/8482e5c6-3cef-44fe-9d7e-d83d99d12553_3ba22459.jpg?itok=EICCkHA5&amp;v=1793109763" medium="image" />
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/8482e5c6-3cef-44fe-9d7e-d83d99d12553_3ba22459.jpg?itok=EICCkHA5&amp;v=1793109763" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Un crucero de lujo ofreció a sus pasajeros dar la vuelta al mundo. Se han quedado varados en Camboya por el precio del combustible</title>
+      <link>https://www.xataka.com/magnet/crucero-lujo-ofrecio-a-sus-pajeros-dar-vuelta-al-mundo-se-han-quedado-varados-camboya-precio-combustible</link>
+      <description>“Imagina despertar cada día ante un nuevo horizonte”. Así, con una frase sugerente , potente, sexy, anunciaba en 2024 la compañía Villa Vie Residences uno de sus servicios más ambiciosos: un crucero ‘infinito’ que permitiría a sus pasajeros circunnavegar el mundo durante años, recorriendo puertos a bordo de un buque de lujo. Sonaba tan bien que hubo quien vendió su casa para pagar uno de los camarotes del barco, disponibles tanto en alquiler (desde 3.500 dólares al mes) como en venta, a precios que partían de 120.000. Ese sueño aventurero-turístico arrancó hace dos años en Belfast y durante… Publicado también por: BBC News Mundo. Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d682d098609b57b6</guid>
+      <pubDate>Thu, 29 Oct 2026 12:37:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Carlos Prego</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5db1/live/450ec990-d2fa-11f1-8091-57f2713cabe8.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5db1/live/450ec990-d2fa-11f1-8091-57f2713cabe8.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>"Salimos despedidos": sobrevivientes relatan cómo fue el mortal choque de trenes en España</title>
@@ -487,6 +512,20 @@
       <enclosure url="https://static.independent.co.uk/2026/10/29/04/Spain_Train_Crash_62528.jpg?width=1200&amp;auto=webp&amp;crop=3%3A2" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Hong Kong leader apologises and housing minister resigns after fire investigation exposes failures</title>
+      <link>https://www.france24.com/en/asia-pacific/20261029-hong-kong-leader-apologises-and-housing-minister-resigns-after-fire-investigation-exposes-failures</link>
+      <description>Hong Kong Chief Executive John Lee apologised on Thursday for a fire that ravaged a residential tower blocks in Tai Po in November 2025, killing 168, injuring 79 and displacing thousands of others. Housing Secretary Winnie Ho resigned Wednesday for her department's failure to supervise the maintenance work. A three-month investigation into conduct will follow, alongside proposals to criminalise bid rigging in relation to the complex's US $38 million renovation contract. Publicado también por: The Hindu - International. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fcdf8cfecff5d80d</guid>
+      <pubDate>Thu, 29 Oct 2026 10:29:23 +0000</pubDate>
+      <category>mundo</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/2b2175bc-d383-11f1-88d2-811458fcf026/w:1024/p:16x9/000-D4RL864.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/2b2175bc-d383-11f1-88d2-811458fcf026/w:1024/p:16x9/000-D4RL864.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Record turnout as Israeli voters deliver verdict on Netanyahu</title>
       <link>https://www.thehindu.com/news/international/record-turnout-as-israeli-voters-deliver-verdict-on-netanyahu/article71632993.ece</link>
       <description>Israelis flocked to the polls Tuesday (October 27) in turnout unseen in decades, with a deeply divided electorate delivering a verdict on Prime Minister Benjamin Netanyahu in the first election since the October 7, 2023 attack. Former FRANCE 24 correspondent, Irris Makler, tells us more. Publicado también por: France 24 - English. Fuente: The Hindu - International.</description>
@@ -501,17 +540,16 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/yj26hv/article71633032.ece/alternates/LANDSCAPE_1200/2026-10-27T154608Z_1843233146_RC2NBOAG3Z5N_RTRMADP_3_ISRAEL-ELECTION.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Jordan arrests three suspects over deadly church attack</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss</link>
-      <description>Jordanian security forces arrested two brothers ‌and their brother-in-law after a shoot-out on Monday over a church attack that killed nine people, and the suspects appear to have no ties to other cells, senior government security officials said. “God willing, they only represent themselves,” Jordan’s Director of Public Security, Major-General Obeidallah al-Maaytah, said. Such violence is highly unusual in Jordan, a relatively stable US ally in the Middle East, and Friday’s attack on the... Publicado también por: South China Morning Post. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e08d2ff2546ca0c4</guid>
-      <pubDate>Mon, 26 Oct 2026 19:25:53 +0000</pubDate>
+      <title>Record number of purges as Xi emphasises 'party discipline' at China political gathering</title>
+      <link>https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo</link>
+      <description>Xi's anti-corruption campaign has become "an effort to consolidate and maintain authority", observers say. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a181a52c2e5c382c</guid>
+      <pubDate>Thu, 29 Oct 2026 12:49:17 +0000</pubDate>
       <category>mundo</category>
-      <category>Medio Oriente</category>
       <category>Asia</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/7dc116e5-497f-40e0-aec1-cd1f516aea80_bb9ce046.jpg?itok=Bx9SQFzp&amp;v=1793019765" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/7dc116e5-497f-40e0-aec1-cd1f516aea80_bb9ce046.jpg?itok=Bx9SQFzp&amp;v=1793019765" type="image/jpeg" length="0" />
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Greg Alexander ha comentado: It's 2026 how can there not be some sort of automatic breaking system for trains on the same track?</title>
@@ -610,16 +648,46 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8696/live/07e45dc0-d21c-11f1-8f84-ebd3099fed63.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Jordan carries out deadly strike in Syria in retaliation for church attack</title>
-      <link>https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo</link>
-      <description>Jordanian air force says it carried out strikes against ‘terrorist groups’ tied to killing of nine during funeral Jordan has carried out airstrikes against armed groups in Syria in retaliation for Friday’s attack on a Greek Orthodox church in the southern Jordanian governorate of Karak that killed nine people, the Jordanian air force has said in a statement. It said the operation “resulted in the killing and wounding of many members of these terrorist groups and the destruction of a number of their vehicles”. It did not specify who the groups were or the precise location of the strikes… Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3dd09c0206e3d8e2</guid>
-      <pubDate>Tue, 27 Oct 2026 02:40:17 +0000</pubDate>
+      <title>Russian drone strike on Ukrainian train platform kills 14</title>
+      <link>https://www.abc.net.au/news/2026-10-30/russian-drone-strike-kills-at-least-14-at-rail-platform/107325816</link>
+      <description>A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire. Publicado también por: The New York Times - World. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:27b5a36992dd0b5c</guid>
+      <pubDate>Thu, 29 Oct 2026 13:47:47 +0000</pubDate>
       <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <category>Oceanía</category>
+      <category>América del Norte</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/dc780b6e21407566c3e0b7fc12f636a3?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/dc780b6e21407566c3e0b7fc12f636a3?impolicy=wcms_crop_resize&amp;cropH=720&amp;cropW=1280&amp;xPos=0&amp;yPos=67&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Putin seeks to expand ties with African countries at Russia-Africa summit</title>
+      <link>https://www.france24.com/en/video/20261029-putin-seeks-to-expand-ties-with-african-countries-at-russia-africa-summit</link>
+      <description>Russian President Vladimir Putin on Wednesday hosted dozens of African leaders at a Russia-Africa summit, part of Moscow’s efforts to expand its influence across the continent. The Russia-Africa summit marks a renewed Kremlin effort to bolster ties with a continent of nearly 1.6 billion people that is increasingly assertive on the global stage. Publicado también por: Africanews. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:013743ec86388e46</guid>
+      <pubDate>Thu, 29 Oct 2026 13:32:56 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/0c0aa0bc-d37f-11f1-bedb-811458fcf026/w:1024/p:16x9/2026-10-29T091823Z-1533690092-RC2WCOA2IVT4-RTRMADP-3-RUSSIA-AFRICA-SUMMIT.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/0c0aa0bc-d37f-11f1-bedb-811458fcf026/w:1024/p:16x9/2026-10-29T091823Z-1533690092-RC2WCOA2IVT4-RTRMADP-3-RUSSIA-AFRICA-SUMMIT.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Spain begins three days of mourning after train crash kills 69</title>
+      <link>https://www.france24.com/en/video/20261029-spain-begins-three-days-of-mourning-after-train-crash-kills-69</link>
+      <description>Spain began three days of mourning on Thursday after its second high-speed rail collision this year killed 69 people and injured scores, with relatives desperately seeking news about their loved ones. One of Europe’s deadliest train disasters this century has raised fresh questions about safety on Spain’s rail network after the transport minister reported an “error” and “inexplicable circumstances” that led to the crash. The collision happened in the central region of Castilla-La Mancha on... Publicado también por: South China Morning Post. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:418b95fd22419cd1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:01:58 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/ed34d77e-d38e-11f1-a53c-75c7729144f1/w:1024/p:16x9/capture-64b94184.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ed34d77e-d38e-11f1-a53c-75c7729144f1/w:1024/p:16x9/capture-64b94184.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Europe’s wealth gap: Older households eight times richer than young ones</title>
@@ -893,37 +961,6 @@
       <enclosure url="https://th-i.thgim.com/public/news/national/evpb64/article71629646.ece/alternates/LANDSCAPE_1200/AFP__20261026__D4H98P8__v1__HighRes__PalestinianJordanIsraelConflictUnrestShootingRe.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown</title>
-      <link>https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas</link>
-      <description>Harry Kane became the first Englishman in 25 years to win the Ballon d’Or on Monday after scoring 73 goals for club and country last season. Spain’s Alexia Putellas claimed her third women’s award after helping Barcelona win the Champions League, ending teammate Aitana Bonmati’s three-year reign. Publicado también por: Sky News - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:959cc7bb3affa26d</guid>
-      <pubDate>Mon, 26 Oct 2026 23:45:07 +0000</pubDate>
-      <category>deportes</category>
-      <category>ambiente</category>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE 24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/23d66ae0-d196-11f1-a0cd-4b25c96ec90e/w:1024/p:16x9/a87952700e7615cda57f1779147c524a2f3b16a8.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/23d66ae0-d196-11f1-a0cd-4b25c96ec90e/w:1024/p:16x9/a87952700e7615cda57f1779147c524a2f3b16a8.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft offers to buy out a quarter of its workforce</title>
-      <link>https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/</link>
-      <description>Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 685 # Comments: 589 Publicado también por: Hacker News - Portada. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ca5c2a3357cd9f6a</guid>
-      <pubDate>Mon, 26 Oct 2026 22:36:06 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Nick Indge</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Bolsonaro denies fleeing Brazil in first public statement after landing in US</title>
       <link>https://www.independent.co.uk/news/world/americas/flavio-bolsonaro-brazil-election-miami-trump-b3075317.html</link>
       <description>The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”. Publicado también por: BBC News - World. Fuente: The Independent - World.</description>
@@ -1054,46 +1091,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b519/live/be6327c0-d1ae-11f1-84dd-e9bba185a575.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>US court rules daughter of Trump critic James Comey was illegally fired</title>
-      <link>https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss</link>
-      <description>Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f688d8fdfb799677</guid>
-      <pubDate>Mon, 26 Oct 2026 20:55:37 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad39/live/ee5424f0-d165-11f1-87df-afb7a168a1f2.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Elecciones en Brasil: los gráficos que explican la remontada de Lula</title>
-      <link>https://www.france24.com/es/programas/en-contexto/20261026-elecciones-en-brasil-los-gr%C3%A1ficos-que-explican-la-remontada-de-lula</link>
-      <description>En este 'En Contexto' analizamos los principales gráficos y mapas que explican la remontada de Luiz Inácio Lula da Silva en el balotaje en Brasil luego de haber perdido la primera vuelta frente a Flávio Bolsonaro. Repasamos los estados y municipios en los que se impuso, los niveles de participación así como los cambios en el voto blanco y nulo. También el escenario en el Congreso y en las gobernaciones del país, donde el mandatario del Partido de los Trabajadores tendrá resistencias. Publicado también por: BBC News Mundo. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fe6fc78173ce0c80</guid>
-      <pubDate>Mon, 26 Oct 2026 20:38:21 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>Europa</category>
-      <dc:creator>Dacil Lanza</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/fe270598-d17c-11f1-a6ff-4d317af013fd/w:1024/p:16x9/2026-10-26T043326Z-968424161-RC2OAOA9OSCG-RTRMADP-3-BRAZIL-ELECTION.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/fe270598-d17c-11f1-a6ff-4d317af013fd/w:1024/p:16x9/2026-10-26T043326Z-968424161-RC2OAOA9OSCG-RTRMADP-3-BRAZIL-ELECTION.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>How a WhatsApp channel helped Lula win Brazil’s election</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/10/26/brazil-lula-victory-whatsapp-campaign-janones?traffic_source=rss</link>
-      <description>Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation. Publicado también por: BBC News - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3e42f6485dee95ea</guid>
-      <pubDate>Mon, 26 Oct 2026 20:20:09 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bd/live/33178300-d14a-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>FEC campaign finance system offline days before midterms after hackers reportedly target site</title>
       <link>https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html</link>
       <description>An FEC email said a 'bad actor' tried to breach its systems as the US prepares for its most expensive elections ever. Publicado también por: Al Jazeera English. Fuente: CNBC - World.</description>
@@ -1201,6 +1198,131 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/27/db15bfa8-d01e-4421-bdbb-42ec5f2572db_c24cf12a.jpg?itok=PR2SPIpu&amp;v=1793078567" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>24 mil reproducciones · 1460 reacciones | O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas sobre a fuga do senador Flávio Bolsonaro (PL-RJ) para os Estados Unidos. Uma autoridade do governo de Donald Trump confirmou ao UOL que os Estados Unidos vão emitir vistos para Flávio e sua família. A saída do senador do Brasil surpreendeu aliados, que, segundo Marinho, não receberam informações sobre a viagem. #canaluol #uolnaseleições #eleições2026 #flaviobolsonaro #bolsonaro | UOL Notícias</title>
+      <link>https://www.facebook.com/reel/1525097219456436/?comment_id=2296175121278460&amp;__cft__%5B0%5D=AZjO4h4NGCRveIkCBGMMIC6gbE_8NB8GVbV-4dp0ZktO939H858w5SygyTJo-8Em7CLfjB_ecunn2WLqxUKlmQd4leK_Nv47bgw7SvcPZ0lgxSV8ON9UnDdyDYoNX7Dq6uhYFKf8SjbuB020QXki2bWCfaAPPBsy8E2E1mZkpL4xxwCa-U1eN1yKuLCd5FxwRm8J&amp;__tn__=R-R</link>
+      <description>O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas... O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que... Fuente: UOL Notícias.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dc8fa76902d2eacc</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t51.71878-15/868630388_1462673662477108_7582707508620781229_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=OSrE1UgIjqIQ7kNvwEHbp8P&amp;_nc_oc=AdoRSuLRtxJ5TjA1ZEHbTI32SjYNDzHfNdsHlCyaw12ZNGI3FikU179gQCSm0PyiEag&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=kJcj4IqbcsYBtqWcVVykfw&amp;_nc_ss=7f289&amp;oh=00_AQTZDGx2qA5fdOareqt6rbwNsIgIOwVkk2xw_geSCFqx0w&amp;oe=6AE927E0" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t51.71878-15/868630388_1462673662477108_7582707508620781229_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=OSrE1UgIjqIQ7kNvwEHbp8P&amp;_nc_oc=AdoRSuLRtxJ5TjA1ZEHbTI32SjYNDzHfNdsHlCyaw12ZNGI3FikU179gQCSm0PyiEag&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=kJcj4IqbcsYBtqWcVVykfw&amp;_nc_ss=7f289&amp;oh=00_AQTZDGx2qA5fdOareqt6rbwNsIgIOwVkk2xw_geSCFqx0w&amp;oe=6AE927E0" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el presidente Terrazas. ➡Haremos auditorías, fue lo que dijo el presidente de la institución aurinegra | ATB Digital</title>
+      <link>https://www.facebook.com/ATBDigital/videos/1583997253480351/?comment_id=1451671390434560&amp;__cft__%5B0%5D=AZinyKjI_UjvO7QH4Kgn91XN6jiNNe2dWerWk2fj-68FBBQbfYZuEOLdrTnVIz8ACloUDbMNiDcxSHaxNE8iafAtlLT7bUXWotbc8gX8UzZwutH7I_km2kEteOM-2eA-OGgmrCHpQyZUjWF-T95J1--2P6k8DjFCyLC9PlT6ub2RW6Qv3hV1q_flNDjNAVJirK0&amp;__tn__=R-R</link>
+      <description>🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el presidente Terrazas. ➡Haremos auditorías, fue... 🔴EN VIVO🔴 ➡Conferencia de Prensa The Strongest ➡"Me parece una falta de respeto que los representantes manifiesten que tienen más ofertas", manifestó el... Fuente: ATB Digital.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a3215ac8379f0448</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>politica</category>
+      <category>Bolivia</category>
+      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
+      <media:content url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/879103831_1557533276060446_7582303923242868979_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vpM5Z0atvEEQ7kNvwEVGbab&amp;_nc_oc=AdpyXHUx2KbLSwS4vWFVLUF6NneaTSj3ED2Ady3yehquL7lRixf0z1UMdb0fOpR8x3g&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=vdpN-Gb8HO97u3bR4RVqeQ&amp;_nc_ss=7f289&amp;oh=00_AQTurpr5GnNQGUGpPgD2nbaB4rDRdqYW9hEccos72NPa6g&amp;oe=6AE9174B" medium="image" />
+      <enclosure url="https://scontent-sjc6-1.xx.fbcdn.net/v/t15.5256-10/879103831_1557533276060446_7582303923242868979_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=vpM5Z0atvEEQ7kNvwEVGbab&amp;_nc_oc=AdpyXHUx2KbLSwS4vWFVLUF6NneaTSj3ED2Ady3yehquL7lRixf0z1UMdb0fOpR8x3g&amp;_nc_zt=23&amp;_nc_ht=scontent-sjc6-1.xx&amp;_nc_gid=vdpN-Gb8HO97u3bR4RVqeQ&amp;_nc_ss=7f289&amp;oh=00_AQTurpr5GnNQGUGpPgD2nbaB4rDRdqYW9hEccos72NPa6g&amp;oe=6AE9174B" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>6687 reproducciones · 52 reacciones | Every minute counts in a stroke. Know the signs, act fast and call emergency services right away Share and save this video. It could save a life. | World Health Organization (WHO)</title>
+      <link>https://www.facebook.com/reel/2159188101621991/?comment_id=1695387365443109&amp;__cft__%5B0%5D=AZgLAyUH162IFuszXD-H5QC-p8ZFLXyN9tpPELk0cjv2McKz7-oWcdXSjfKLAg0mgPEBKca7hYZrvmxPbr6FAQlynEsS4UmOn3ou_2Zx-KkBK0hVuUBMga1WatiLY8c-4GHu40cW5swWdD-u3I1O3fXFO-u6pEIB05dhLX_3at6qYFfjTl6-O1YMXcCWKcoN6Je4&amp;__tn__=R-R</link>
+      <description>Every minute counts in a stroke. Know the signs, act fast and call emergency services right away Share and save this video. It could save a life. Fuente: World Health Organization.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7cf24de507108e96</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>salud</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/WHO/">World Health Organization</source>
+      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/879636131_2159189451621856_1713228786050705427_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=y8EWTbTyfOoQ7kNvwEi7gD8&amp;_nc_oc=AdprRMyZX13eMzaEVU7ot0hwAE8gw33tITY5fcE3rf1pDib5FOWKMt-BYVbtepCXrgw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=VZAeQQEX-yZISnVdCDNn6Q&amp;_nc_ss=7f289&amp;oh=00_AQS88pHGgweohNslqzvlzai77NLoaT3V2DLULdcTaWI23w&amp;oe=6AE9364E" medium="image" />
+      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/879636131_2159189451621856_1713228786050705427_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=y8EWTbTyfOoQ7kNvwEi7gD8&amp;_nc_oc=AdprRMyZX13eMzaEVU7ot0hwAE8gw33tITY5fcE3rf1pDib5FOWKMt-BYVbtepCXrgw&amp;_nc_zt=23&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=VZAeQQEX-yZISnVdCDNn6Q&amp;_nc_ss=7f289&amp;oh=00_AQS88pHGgweohNslqzvlzai77NLoaT3V2DLULdcTaWI23w&amp;oe=6AE9364E" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>23 mil reproducciones · 311 reacciones | NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this point, they have donned spacesuits called Extravehicular Mobility Units (EMUs), which contain all the protections and life support systems needed to venture into the vacuum of space. Menon's suit is marked with red stripes, and Kutryk's is unmarked. Tune into today's spacewalk: https://www.youtube.com/live/hv867HnY4j4 | NASA - National Aeronautics and Space Administration</title>
+      <link>https://www.facebook.com/reel/4075684206061398/?comment_id=1434787351418028&amp;__cft__%5B0%5D=AZgmOonBsc5DxT1caSoymEFo3R1SAY1Op6S223pXir2BUIlahn0QVj_3LDloTvtydpbIJFLHBmMoQ0fOAOlwAsAjOifKm59qqq3Nw_MTVLc3zQ6opBVDe1ujfTvtAee1Nq3mLxmLOBT3sQX2m2f_3S3NLo7JQDlM8-F-IOJUssYp_D8Bk8G93qMf0YIxfASRGoBv&amp;__tn__=R-R</link>
+      <description>NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this point, they have donned spacesuits called... NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this... Fuente: NASA.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6f9a511d21062aa0</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/NASA/">NASA</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/877658791_1832631854542515_4430770165954872904_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=T7zNo0BO5_oQ7kNvwEAbPqm&amp;_nc_oc=AdoZATPvx8F9rf0NymSNBvsFNG1Wvx_k0Ny6tIwMdlr3YPfeR52OVYlxnRXFNDlS9IY&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=ceJMaelnMrp1-nCAzstILQ&amp;_nc_ss=7f289&amp;oh=00_AQSYNGtjOAGzr8o4Jsc8qpQNMrQHJMJYH7pu-SnLUsQrcw&amp;oe=6AE92BBC" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/877658791_1832631854542515_4430770165954872904_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=T7zNo0BO5_oQ7kNvwEAbPqm&amp;_nc_oc=AdoZATPvx8F9rf0NymSNBvsFNG1Wvx_k0Ny6tIwMdlr3YPfeR52OVYlxnRXFNDlS9IY&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=ceJMaelnMrp1-nCAzstILQ&amp;_nc_ss=7f289&amp;oh=00_AQSYNGtjOAGzr8o4Jsc8qpQNMrQHJMJYH7pu-SnLUsQrcw&amp;oe=6AE92BBC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>23 mil reproducciones · 311 reacciones | NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this point, they have donned spacesuits called Extravehicular Mobility Units (EMUs), which contain all the protections and life support systems needed to venture into the vacuum of space. Menon's suit is marked with red stripes, and Kutryk's is unmarked. Tune into today's spacewalk: https://www.youtube.com/live/hv867HnY4j4 | NASA - National Aeronautics and Space Administration</title>
+      <link>https://www.facebook.com/reel/4075684206061398/?comment_id=1434787351418028&amp;reply_comment_id=1884530859394542&amp;__cft__%5B0%5D=AZgmOonBsc5DxT1caSoymEFo3R1SAY1Op6S223pXir2BUIlahn0QVj_3LDloTvtydpbIJFLHBmMoQ0fOAOlwAsAjOifKm59qqq3Nw_MTVLc3zQ6opBVDe1ujfTvtAee1Nq3mLxmLOBT3sQX2m2f_3S3NLo7JQDlM8-F-IOJUssYp_D8Bk8G93qMf0YIxfASRGoBv&amp;__tn__=R-R</link>
+      <description>NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this point, they have donned spacesuits called... NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk are getting ready to head out of the International Space Station! At this... Fuente: NASA.</description>
+      <guid isPermaLink="false">cron-rss-noticias:57cb762ec169c3d8</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>ciencia</category>
+      <category>Global</category>
+      <source url="https://www.facebook.com/NASA/">NASA</source>
+      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/877658791_1832631854542515_4430770165954872904_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=T7zNo0BO5_oQ7kNvwEAbPqm&amp;_nc_oc=AdoZATPvx8F9rf0NymSNBvsFNG1Wvx_k0Ny6tIwMdlr3YPfeR52OVYlxnRXFNDlS9IY&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=GXJD2fHQOCqcivA1evTK3Q&amp;_nc_ss=7f289&amp;oh=00_AQQB5oa4JHn5eUwGZ-9SFrUVJWLHwVmHUDbEJAmy1oBFGw&amp;oe=6AE92BBC" medium="image" />
+      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t15.5256-10/877658791_1832631854542515_4430770165954872904_n.jpg?_nc_cat=101&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=T7zNo0BO5_oQ7kNvwEAbPqm&amp;_nc_oc=AdoZATPvx8F9rf0NymSNBvsFNG1Wvx_k0Ny6tIwMdlr3YPfeR52OVYlxnRXFNDlS9IY&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=GXJD2fHQOCqcivA1evTK3Q&amp;_nc_ss=7f289&amp;oh=00_AQQB5oa4JHn5eUwGZ-9SFrUVJWLHwVmHUDbEJAmy1oBFGw&amp;oe=6AE92BBC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>URGENTE - Netanyahu sigue sin mayoría para gobernar en Israel con el 97 % de los votos escrutados</title>
+      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid02Uz4tKEoQEbXbnDBt71KuxkkibtyWEguwvYcb781WedrTt23uj63zXA8s2c5VNR1Kl?__cft__%5B0%5D=AZjaSyfI3ORB3yU1SrjUVHgmKln8HvQfqYpCMvr7nAIYSUsNvffQIdPFvHikoIIz5yFCFkFE3YdZCX7OgwO4fDr8RNokDKquSuYRRZJqQvignRtRNbS4ve5QwphLDObhevMSDvSpxki-uZAkobUF5zZtP_VdeIXG27NzmA4gZ60fbmgyyU_9QEeKIxU&amp;__tn__=%2CO%2CP-R</link>
+      <description>URGENTE - Netanyahu sigue sin mayoría para gobernar en Israel con el 97 % de los votos escrutados FRANCE24.COM En directo: los israelíes aguardan el recuento final de votos mientras surgen denuncias de injerencia extranjera Fuente: France 24 Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a3e28d9c187c82c6</guid>
+      <pubDate>Thu, 29 Oct 2026 14:24:46 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
+      <media:content url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/3486212047181717043?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F48abf170-d301-11f1-b817-47de50b3c1e4%2Fw%3A1280%2Fp%3A16x9%2FFOTO-PORTADA-ISRAEL-VOTO-ARABE.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=uefeFVhGVemOXIAk0IsPWQ&amp;_nc_zt=3&amp;oh=06_Q3_EAVEehm46EnlH3n1-g8ErnH_2iwefDfGxoemwNNMfGfTI&amp;oe=6AE540EC" medium="image" />
+      <enclosure url="https://external-lga3-3.xx.fbcdn.net/emg1/v/t13/3486212047181717043?url=https%3A%2F%2Fs.france24.com%2Fmedia%2Fdisplay%2F48abf170-d301-11f1-b817-47de50b3c1e4%2Fw%3A1280%2Fp%3A16x9%2FFOTO-PORTADA-ISRAEL-VOTO-ARABE.jpg&amp;fb_obo=1&amp;utld=france24.com&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-3.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=uefeFVhGVemOXIAk0IsPWQ&amp;_nc_zt=3&amp;oh=06_Q3_EAVEehm46EnlH3n1-g8ErnH_2iwefDfGxoemwNNMfGfTI&amp;oe=6AE540EC" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>NOTICIAS CARACOL EN VIVO ... Ver más</title>
+      <link>https://www.facebook.com/NoticiasCaracol/posts/pfbid02heWHgBPmXETH1HS32WdA1jNuTsAs7gy3FM38GBMQMho85szbuSmPMkUmwACDfYG3l?__cft__%5B0%5D=AZjqTTJrJkDGD-NaEsNrL8Jq9sdW8JaJkW82FiNIcRQa6k2cfXwmDsl6Lag0KESj5mEFclwKGDH1iKgdP6U6EpSy0O-IDfsX5cfUxdy_mvUqHefVxjHUx8lN42TZDU8xwspz4EnykPmKFEj_ov8Z9XLS80Tgw2A_YuPiEjOyVD7G_kAD_Bo8nCVh3WQ&amp;__tn__=%2CO%2CP-R</link>
+      <description>NOTICIAS CARACOL EN VIVO🔴 Contrarreforma pensional plantea cambios estructurales a la reforma del Gobierno Petro; alcalde de Bogotá entrega balance de reunión con De la Espriella y el ministro de... NOTICIAS CARACOL EN VIVO🔴 Contrarreforma pensional plantea cambios estructurales a la reforma del Gobierno Petro; alcalde de Bogotá entrega balance de... Fuente: Noticias Caracol.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c6b609426267df45</guid>
+      <pubDate>Thu, 29 Oct 2026 14:18:30 +0000</pubDate>
+      <category>politica</category>
+      <category>América Latina</category>
+      <source url="https://www.facebook.com/NoticiasCaracol/">Noticias Caracol</source>
+      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/869591301_2069615170354046_1860029328208896198_n.png?stp=dst-jpg_tt6&amp;cstp=mx1280x720&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=2XHzsw6G_24Q7kNvwHxKG-1&amp;_nc_oc=AdpLolr-mD6hoBKtPkBHOm6gVdqm7gd81BDzgwnFP92HBfjIKexAxJ84P6NsNCT2W_U&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=09NiJHOwqHu8zd3rUiJQ9Q&amp;_nc_ss=7f289&amp;oh=00_AQScTPqfqtVUfz7aPDUm6KAHnAim1KnfXv8aNmaZhYb_Kg&amp;oe=6AE92895" medium="image" />
+      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/869591301_2069615170354046_1860029328208896198_n.png?stp=dst-jpg_tt6&amp;cstp=mx1280x720&amp;ctp=p600x600&amp;_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=cae128&amp;_nc_ohc=2XHzsw6G_24Q7kNvwHxKG-1&amp;_nc_oc=AdpLolr-mD6hoBKtPkBHOm6gVdqm7gd81BDzgwnFP92HBfjIKexAxJ84P6NsNCT2W_U&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=09NiJHOwqHu8zd3rUiJQ9Q&amp;_nc_ss=7f289&amp;oh=00_AQScTPqfqtVUfz7aPDUm6KAHnAim1KnfXv8aNmaZhYb_Kg&amp;oe=6AE92895" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The streak of record ocean temperatures in the key region where El Niño is measured has now reached 150 days.... Ver más</title>
+      <link>https://www.facebook.com/washingtonpost/posts/pfbid0LKvP5q4vs6kdWfwMsn6TmK2wW2RCrrohfWrant6qfHq4nrwnPaJYoBXWKA5oUjhZl?__cft__%5B0%5D=AZgJTsttMEgm4y6Q48SssOLoXj-LCBBV70hUfZpWqDC3CZXIkXfcNrlzUiZHH3oF-5_j-iNH0nYGJFt9Y4R251ocmHZKVkO3btPcGgQyx7lVcEu4QJISWnh-TBhv3WZ5LIWF9v3BOyZEhaszJVXXTxSBJUu_av5wuWDPtE_ul3t_0QMi5hhF-6yQ15E&amp;__tn__=%2CO%2CP-R</link>
+      <description>The streak of record ocean temperatures in the key region where El Niño is measured has now reached 150 days.... Ver más Guess they are not in drought. WASHINGTONPOST.COM This El Niño has now set records for 150 days straight Ver más comentarios Charles Pilonero Fuente: The Washington Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:72df488240d11e09</guid>
+      <pubDate>Thu, 29 Oct 2026 14:01:54 +0000</pubDate>
+      <category>ambiente</category>
+      <category>América del Norte</category>
+      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
+      <media:content url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/12433816235448702323?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-28%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F57a2f270-f289-4db2-9dee-1b0bf599aeab&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=WXGTOBqAQIZGhFehlHPvdA&amp;_nc_zt=3&amp;oh=06_Q3_EAQzVe-vlw2g-7hiT06OFBa7TnUSSKtwXCWgfo7ZcrHaY&amp;oe=6AE51DF7" medium="image" />
+      <enclosure url="https://external-sjc6-1.xx.fbcdn.net/emg1/v/t13/12433816235448702323?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-28%2F01952a82-56ca-7650-95e9-0d92c9957d01%2F57a2f270-f289-4db2-9dee-1b0bf599aeab&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sjc6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=WXGTOBqAQIZGhFehlHPvdA&amp;_nc_zt=3&amp;oh=06_Q3_EAQzVe-vlw2g-7hiT06OFBa7TnUSSKtwXCWgfo7ZcrHaY&amp;oe=6AE51DF7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Healey accepts ‘hard decisions’ ahead as thinktank says 2020s set to be worst decade for living standards growth – UK politics live</title>
+      <link>https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news</link>
+      <description>Resolution Foundation says 2020s set to be the worst decade, by far, for more than half a century for rising living standards Selling nicotine-free vapes to children under the age of 18 has become illegal from today, the government has said. Children were already banned from buying vapes containing nicotine. But, under the Tobacco and Vapes Act, shops across the UK will now be banned from selling nicotine-free vapes, and nicotine pouches, to children. Vaping can be a way to help established adult smokers who are already addicted to nicotine from tobacco to swap to a less dangerous product… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0b2b82ca4adea597</guid>
+      <pubDate>Thu, 29 Oct 2026 13:53:21 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Andrew Sparrow</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/6577b4ca03f2d84ca5c7eb8dbc6e5f704874404e/949_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=533ec7aad7d4d6ca30eb2d04d5549cad" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/6577b4ca03f2d84ca5c7eb8dbc6e5f704874404e/949_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=533ec7aad7d4d6ca30eb2d04d5549cad" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Al menos 69 muertos por choque de trenes en España; oposición exige responsabilidades políticas</title>
+      <link>https://www.france24.com/es/video/20261029-al-menos-69-muertos-por-choque-de-trenes-en-espa%C3%B1a-oposici%C3%B3n-exige-responsabilidades-pol%C3%ADticas</link>
+      <description>Minutos de silencio en homenaje a las víctimas del accidente ferroviario del pasado 28 de octubre en Toledo, España, mientras continúan las labores de rescate y atención a los heridos. El presidente del Gobierno español, Pedro Sánchez, aseguró que seguirán con la respuesta de emergencia, así como indagando, buscando las causas de la tragedia y la reparación por el daño a las víctimas. Por su parte y de cara a las campañas preelectorales, partidos de oposición exigen responsabilidades políticas. Informe de nuestra corresponsal, Marina Colorado. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a222683934cc6527</guid>
+      <pubDate>Thu, 29 Oct 2026 13:51:11 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/ab047f34-d399-11f1-97f3-27b8c5a16f5e/w:1024/p:16x9/ES-20261029-070220-070648-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ab047f34-d399-11f1-97f3-27b8c5a16f5e/w:1024/p:16x9/ES-20261029-070220-070648-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>1152 reproducciones · 11 reacciones | 🔴EN VIVO🔴 ➡The Strongest no Entrenó y Piden que se les Pague un Salario ➡Congreso de la Federación Boliviana de Fútbol Numero 61 | ATB Digital</title>
       <link>https://www.facebook.com/ATBDigital/videos/28672149812477646/?comment_id=1741132277598940&amp;__cft__%5B0%5D=AZigjHVddwEwwXnUYgVJHMSm25Sq79KmbQPjvr7AeO93ybFmyA8ARGUKSxRZiDOswhSLljjcVKRa_qrhdbe_q6HGmmqCHhhvQ3NV7N0ITzq-EwVNJgvxbo4PF3sYnn0wBCRHs8Xnlhs7Phs1txDTw-KFPXnuDBISpzs17_qCSQ00dK9vOHJxc_d6lbv-IFxJ2I2M&amp;__tn__=R-R</link>
       <description>🔴EN VIVO🔴 ➡The Strongest no Entrenó y Piden que se les Pague un Salario ➡Congreso de la Federación Boliviana de Fútbol Numero 61 Fuente: ATB Digital.</description>
@@ -1300,18 +1422,6 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/79e19b6c1820033c6a5de13ba1d225a11e3db68b/267_0_2465_1972/master/2465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91a8637719d9da196361e7c6fcbcdbcd" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/79e19b6c1820033c6a5de13ba1d225a11e3db68b/267_0_2465_1972/master/2465.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91a8637719d9da196361e7c6fcbcdbcd" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>'I live with a ghost': Japan's haunted homes attract bargain hunters</title>
-      <link>https://www.bbc.co.uk/news/articles/cqwy78elyrlzo</link>
-      <description>Properties where someone has died in tragic circumstances can have big reductions in price. Fuente: BBC News - Business.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8d91d606f0062724</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:15 +0000</pubDate>
-      <category>economia</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>23 mil reproducciones · 1358 reacciones | O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas sobre a fuga do senador Flávio Bolsonaro (PL-RJ) para os Estados Unidos. Uma autoridade do governo de Donald Trump confirmou ao UOL que os Estados Unidos vão emitir vistos para Flávio e sua família. A saída do senador do Brasil surpreendeu aliados, que, segundo Marinho, não receberam informações sobre a viagem. #canaluol #uolnaseleições #eleições2026 #flaviobolsonaro #bolsonaro | UOL Notícias</title>
@@ -1483,121 +1593,6 @@
       <source url="https://www.facebook.com/nytimes/">The New York Times</source>
       <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/876260997_1430726412508928_7257722544250752057_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3gstJzPAB_8Q7kNvwGoFQJY&amp;_nc_oc=AdqLKqNb7SPvmblM8utoMj-nnaMpjMZL350_anA9EA-e2a27uAE3NXxoPfzZFzpC_0s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=4K4mPPCY3zk0WRb06IqAQQ&amp;_nc_ss=7f289&amp;oh=00_AQSjXKGjBXU3ovyZBtlevareG5LB5gxvyd8zkaxhhXrSIA&amp;oe=6AE7E79C" medium="image" />
       <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t39.99422-6/876260997_1430726412508928_7257722544250752057_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=3gstJzPAB_8Q7kNvwGoFQJY&amp;_nc_oc=AdqLKqNb7SPvmblM8utoMj-nnaMpjMZL350_anA9EA-e2a27uAE3NXxoPfzZFzpC_0s&amp;_nc_zt=14&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=4K4mPPCY3zk0WRb06IqAQQ&amp;_nc_ss=7f289&amp;oh=00_AQSjXKGjBXU3ovyZBtlevareG5LB5gxvyd8zkaxhhXrSIA&amp;oe=6AE7E79C" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Más de 60 muertos tras colisión de dos trenes de pasajeros al sur de Madrid</title>
-      <link>https://www.france24.com/es/video/20261028-al-menos-64-muertos-tras-colisi%C3%B3n-de-dos-trenes-de-pasajeros-al-sur-de-madrid</link>
-      <description>Dos trenes de pasajeros, con unas 544 personas a bordo, que circulaban por la misma vía en dirección Madrid-Sevilla, colisionaron este 28 de octubre a la altura de la estación de Urda (Toledo), al sur de Madrid. El accidente ha dejado al menos 64 personas muertas. Horas antes del siniestro, se habían registrado fallos en el sistema de señalización, lo que obligó a detener ocho trenes en la zona. Nuestra corresponsal, Marina Colorado, amplía la información. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:93be96fccd104b70</guid>
-      <pubDate>Wed, 28 Oct 2026 14:51:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/e7caf036-d2d8-11f1-b566-a7bbbeea0b20/w:1024/p:16x9/ES-20261028-080230-080514-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/e7caf036-d2d8-11f1-b566-a7bbbeea0b20/w:1024/p:16x9/ES-20261028-080230-080514-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Europa: el calor del verano de 2026 dejó más de 50.000 muertos</title>
-      <link>https://www.france24.com/es/programas/medio-ambiente/20261028-europa-el-calor-del-verano-de-2026-dej%C3%B3-m%C3%A1s-de-50-000-muertos</link>
-      <description>Más de 50.000 personas murieron por causas relacionadas con el calor en las ciudades europeas durante el verano de 2026, según una nueva investigación científica. El estudio estima que alrededor de dos tercios de esos fallecimientos son atribuibles al calentamiento provocado por la actividad humana. Italia, Francia y España registraron las cifras más elevadas de mortalidad. Los investigadores advierten de que el balance podría ser aún mayor: el análisis abarca 854 áreas urbanas de 30 países, que representan aproximadamente el 40% de su población. ¿Qué revela este verano sobre el impacto del… Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5aef79b71c53d7fd</guid>
-      <pubDate>Wed, 28 Oct 2026 14:46:02 +0000</pubDate>
-      <category>ciencia</category>
-      <category>Europa</category>
-      <dc:creator>María Clara Calle Aguirre</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/45aa26c0-d272-11f1-8131-a7bbbeea0b20/w:1024/p:16x9/IMG-0219.jpeg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/45aa26c0-d272-11f1-8131-a7bbbeea0b20/w:1024/p:16x9/IMG-0219.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>2068 reproducciones · 39 reacciones | Benjamin Netanyahu's fight for political survival is very much alive, with his bloc and its rival both claiming to have done enough to win a pivotal Israeli general election. Sky’s Adam Parson reports | Sky News</title>
-      <link>https://www.facebook.com/reel/1097852276462511/?comment_id=2305795343531155&amp;__cft__%5B0%5D=AZg8ZhXHo8Ij8LZvILSNsNeJ1kIhIFZOo-Nav6VTMTLYxRSc_s_gyDIl2WCd0U3pz7yUljP7n2BqtfTHbwV18WOF40JV6X4wF5Va58UpdBTVngRUnZQVTgJTHB6AcDdUQQNg2QEm6cjm4xfvnvscwm_q_RvqhgduoDSGmMY3NWyA6-3Kx7F4xx7qMxMufX3QSotd&amp;__tn__=R-R</link>
-      <description>Benjamin Netanyahu's fight for political survival is very much alive, with his bloc and its rival both claiming to have done enough to win a pivotal Israeli general election. Sky’s Adam Parson reports Benjamin Netanyahu's fight for political survival is very much alive, with his bloc and its rival both claiming to have done enough to win a pivotal... Fuente: Sky News.</description>
-      <guid isPermaLink="false">cron-rss-noticias:41593cac3793cbb9</guid>
-      <pubDate>Wed, 28 Oct 2026 08:36:10 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <category>Europa</category>
-      <source url="https://www.facebook.com/skynews/">Sky News</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/870324885_1638367171118123_4042032323794568306_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=LL6eLSDSbVUQ7kNvwEnqkO-&amp;_nc_oc=Adp8c1hwdWseVI9VhKJ0ntJ5U6M-uWjxohEa_oOqFsUaun2WIVcdFJTrrsnKoOM8Fio&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=xl8uJ-qTpbkN_ECxcrbTTA&amp;_nc_ss=7f289&amp;oh=00_AQQuvKu5QHtq_MkY0pLBt6yDn5VUQaA_juI8EJEydNsJwg&amp;oe=6AE78C3B" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/870324885_1638367171118123_4042032323794568306_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=596eb7&amp;_nc_ohc=LL6eLSDSbVUQ7kNvwEnqkO-&amp;_nc_oc=Adp8c1hwdWseVI9VhKJ0ntJ5U6M-uWjxohEa_oOqFsUaun2WIVcdFJTrrsnKoOM8Fio&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=xl8uJ-qTpbkN_ECxcrbTTA&amp;_nc_ss=7f289&amp;oh=00_AQQuvKu5QHtq_MkY0pLBt6yDn5VUQaA_juI8EJEydNsJwg&amp;oe=6AE78C3B" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>16 mil reproducciones · 696 reacciones | O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas sobre a fuga do senador Flávio Bolsonaro (PL-RJ) para os Estados Unidos. Uma autoridade do governo de Donald Trump confirmou ao UOL que os Estados Unidos vão emitir vistos para Flávio e sua família. A saída do senador do Brasil surpreendeu aliados, que, segundo Marinho, não receberam informações sobre a viagem. #canaluol #uolnaseleições #eleições2026 #flaviobolsonaro #bolsonaro | UOL Notícias</title>
-      <link>https://www.facebook.com/reel/1525097219456436/?comment_id=1100997309473408&amp;__cft__%5B0%5D=AZhUDw27DQGEIiuQ2qPYbEHL-Ci5yqc7xVFd2pOI3CSseAbh1_gKKK2U_1FMgxVb9OUBL_pOBspsH23B4LpKZ4GDFPiEKUoZE9SWJPWOWueq_4MFt1AqFvyb_va-bxWW81oz7ASlA1WGbrGReYGyJmlGbIoo78Zsk_pJjSwPE-NriWh_Fbf7epu4yUdhnZHX0gJ7&amp;__tn__=R-R</link>
-      <description>O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que as lideranças do partido não foram avisadas... O senador Rogério Marinho (PL-RN) afirmou nesta terça-feira (27), após sair de uma reunião de emergência com o presidente do PL, Valdemar Costa Neto, que... Fuente: UOL Notícias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6f951c20ff349462</guid>
-      <pubDate>Wed, 28 Oct 2026 08:36:10 +0000</pubDate>
-      <category>politica</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/UOLNoticias/">UOL Notícias</source>
-      <media:content url="https://scontent-ord5-1.xx.fbcdn.net/v/t51.71878-15/868630388_1462673662477108_7582707508620781229_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=hdIAc_Adph0Q7kNvwFD2XXP&amp;_nc_oc=AdpD2kfLIcwmbg0V1j_lo8BR53Kt5QOZZeaUGzhPe8i1rlYtAekf7aImQeqd8F_TpB4&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=gqm-6B5Vgq9z-Al_kdO_oA&amp;_nc_ss=7f289&amp;oh=00_AQQPXC2rE9kJfS9RZtipJkG1hN6qoOrsKJpXEU68UGxH4g&amp;oe=6AE79E20" medium="image" />
-      <enclosure url="https://scontent-ord5-1.xx.fbcdn.net/v/t51.71878-15/868630388_1462673662477108_7582707508620781229_n.jpg?_nc_cat=106&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=hdIAc_Adph0Q7kNvwFD2XXP&amp;_nc_oc=AdpD2kfLIcwmbg0V1j_lo8BR53Kt5QOZZeaUGzhPe8i1rlYtAekf7aImQeqd8F_TpB4&amp;_nc_zt=23&amp;_nc_ht=scontent-ord5-1.xx&amp;_nc_gid=gqm-6B5Vgq9z-Al_kdO_oA&amp;_nc_ss=7f289&amp;oh=00_AQQPXC2rE9kJfS9RZtipJkG1hN6qoOrsKJpXEU68UGxH4g&amp;oe=6AE79E20" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Cidade portuguesa adota soluções sustentáveis sem alterar patrimônio histórico</title>
-      <link>https://www.facebook.com/folhadesp/posts/pfbid03ac5YqBCGRRhLkZSq9Bu8GnUe3rL17G38tipMVWUbnkFmCK5r6PQe5kWtCcArDegl?__cft__%5B0%5D=AZi8vQT19wjFlCBJptQ6Z-5N1copgGItJtQSy5VPFWLm6dAX1nWObj-CL2omaEu3cMB0qYPLCRBhV8DZk1h3apKDkavPcH3vKL660xeM6zmHKpBq80kjo4H3emsUVVulfgV29K5ShrH0FQD_cPD_dWav9KORALIjaOI_1u0E0sq0AfocRUI5MfEEIaQ&amp;__tn__=%2CO%2CP-R</link>
-      <description>Cidade portuguesa adota soluções sustentáveis sem alterar patrimônio histórico WWW1.FOLHA.UOL.COM.BR Fuente: Folha de S.Paulo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7534db5abcf669f7</guid>
-      <pubDate>Wed, 28 Oct 2026 08:10:22 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/folhadesp/">Folha de S.Paulo</source>
-      <media:content url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/13401628710303291835?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F10%2F23%2F17927858556adbbdbfd6fb2_1792785855_3x2_rt.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=cPuAQ6lSXjE4IbSFMJsyFA&amp;_nc_zt=3&amp;oh=06_Q3_EAcJn9hvo2XzoddqbA-wJL9EXBmlpa1efXsQGYKa4BjOc&amp;oe=6AE39BB3" medium="image" />
-      <enclosure url="https://external-iad3-2.xx.fbcdn.net/emg1/v/t13/13401628710303291835?url=https%3A%2F%2Ff.i.uol.com.br%2Ffotografia%2F2026%2F10%2F23%2F17927858556adbbdbfd6fb2_1792785855_3x2_rt.jpg&amp;fb_obo=1&amp;utld=uol.com.br&amp;_nc_sid=e17101&amp;_nc_ht=external-iad3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=cPuAQ6lSXjE4IbSFMJsyFA&amp;_nc_zt=3&amp;oh=06_Q3_EAcJn9hvo2XzoddqbA-wJL9EXBmlpa1efXsQGYKa4BjOc&amp;oe=6AE39BB3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel election results live: vote count continues as exit polls suggest no clear winner</title>
-      <link>https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news</link>
-      <description>Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom as Israel exit polls suggest Netanyahu and Eisenkot blocs tied Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel election: what we know so far One apparent loser from Tuesday’s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party’s result of six seats from the 2022 elections. But instead there was stunned silence… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b8d7d827d330153b</guid>
-      <pubDate>Wed, 28 Oct 2026 08:01:47 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <dc:creator>Frances Mao (now) and Jonathan Yerushalmy (earlier)</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d9cdbcf4938f3d8f701d31e374b8099" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/b327b608d8b9c67d152fa006b1df8f13666c0a21/0_0_5160_4128/master/5160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d9cdbcf4938f3d8f701d31e374b8099" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Several veterans groups have declared neutrality on President Trump’s triumphal arch, breaking from other veterans and advocacy groups that have said the towering struc... Ver más</title>
-      <link>https://www.facebook.com/washingtonpost/posts/pfbid02V8hEgn9PtxNVCsX99soxiFNBk9vvwwt7WrDn3aw3JEZ7seDAvVuiYRXsUQKk5MRXl?__cft__%5B0%5D=AZi_fGBATnGwaOUQw6aFNRxgy9x4kSzP0MB1A0TeSyBDpY-9gCNbB5SaBE0c0QqijUxV_PAIJWkjmD_Xh1X1sfSwED9cmmwpFFayv7xEl8Ag3KSIhDJyxQNtdZWWCayK2YgXc0lXdPjsqkFwYv5gNsnGnsgi8-yg1_BJiucTa64eMqJ3j6619xa1jvM&amp;__tn__=%2CO%2CP-R</link>
-      <description>Several veterans groups have declared neutrality on President Trump’s triumphal arch, breaking from other veterans and advocacy groups that have said the towering struc... Ver más WASHINGTONPOST.COM Some veterans groups sit out fight over Trump’s arch Fuente: The Washington Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0915dabc486d3a0e</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:44 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
-      <source url="https://www.facebook.com/washingtonpost/">The Washington Post</source>
-      <media:content url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16277803974655828617?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-27%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa906ebdd-0083-47b2-bbb4-ed615caef298&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Q3ZqErfTBSdoRlYP0UTRkw&amp;_nc_zt=3&amp;oh=06_Q3_EAabVbOfTWfwd_ECeW0V_NUQ0nNVV3hpMEUcfcExYArNU&amp;oe=6AE38A77" medium="image" />
-      <enclosure url="https://external-iad6-1.xx.fbcdn.net/emg1/v/t13/16277803974655828617?url=http%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fphotos.sproutsocial.com%2F2026-10-27%2F01952a82-56ca-7650-95e9-0d92c9957d01%2Fa906ebdd-0083-47b2-bbb4-ed615caef298&amp;fb_obo=1&amp;utld=amazonaws.com&amp;_nc_sid=e17101&amp;_nc_ht=external-iad6-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=Q3ZqErfTBSdoRlYP0UTRkw&amp;_nc_zt=3&amp;oh=06_Q3_EAabVbOfTWfwd_ECeW0V_NUQ0nNVV3hpMEUcfcExYArNU&amp;oe=6AE38A77" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Las elecciones en #Israel dejan varios hitos históricos que ayudan a entender el momento político que vive el país. Empezando por la histórica participación en las urnas</title>
-      <link>https://www.facebook.com/FRANCE24.Espanol/posts/pfbid0FReRLaaGoQ8L7sWS7ZYrJWEmDV1yLZQTTubCL1A9m6exJoDr9znVcDCbMScHSBQyl?__cft__%5B0%5D=AZgyPoc2wFDW_slLjmfdnoXBeWJzY9rbsZx_66KzGBjP36tRDJBT1FUvBBTCxNje-DFrfCMuVRg0AfDc2L8zvTDZjBuOe-A8es0kSIXWdEYQu5NElSD5nQ_mg4qkZGBmNgtbZ1L662H7JztpeVuvv0X5UyDwFnx3MGikGke1MJWRp4-MGB5veQz7-Kk&amp;__tn__=%2CO%2CP-R</link>
-      <description>Las elecciones en #Israel dejan varios hitos históricos que ayudan a entender el momento político que vive el país. Empezando por la histórica participación en las urnas FRANCE24.COM Informe desde Tel Aviv: tres sucesos clave por destacar en las elecciones en Israel Fuente: France 24 Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4d6ce5d20175f840</guid>
-      <pubDate>Wed, 28 Oct 2026 07:35:34 +0000</pubDate>
-      <category>politica</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.facebook.com/France24.Espanol/">France 24 Español</source>
-      <media:content url="https://external-lga3-2.xx.fbcdn.net/emg1/v/t13/8918675064180680183?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F2446170a92183df10fd110f4d7a919b7.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=u2cNQPSKc6H-wnUv94azew&amp;_nc_zt=3&amp;oh=06_Q3_EAbmqm88ISXwmUDlYYrtmKpPM6GdMTzsQp_9omhYi2wes&amp;oe=6AE39638" medium="image" />
-      <enclosure url="https://external-lga3-2.xx.fbcdn.net/emg1/v/t13/8918675064180680183?url=https%3A%2F%2Ffontan.io%2F1.91%3A1%2Fmedia%2Fwww.france24.com%2F2446170a92183df10fd110f4d7a919b7.jpg&amp;fb_obo=1&amp;utld=fontan.io&amp;_nc_sid=e17101&amp;_nc_ht=external-lga3-2.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=u2cNQPSKc6H-wnUv94azew&amp;_nc_zt=3&amp;oh=06_Q3_EAbmqm88ISXwmUDlYYrtmKpPM6GdMTzsQp_9omhYi2wes&amp;oe=6AE39638" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Gulliver fans celebrate three centuries of Jonathan Swift’s classic satire</title>
-      <link>https://www.theguardian.com/books/2026/oct/28/gullivers-travels-fans-celebrate-books-jonathan-swift-ireland-dublin</link>
-      <description>Events in Ireland explore origins of Gulliver’s Travels, the Dublin clergyman’s book that became an instant hit in 1726 In March 1726, an Irish clergyman visited London and arranged for a courier to deliver a manuscript to a publisher under cover of night. The dean of St Patrick’s Cathedral in Dublin knew his novel would cause trouble and wanted to publish it anonymously. His name was Jonathan Swift and the story was called Travels into Several Remote Nations of the World. The satirical work was published that October and is better known 300 years on as Gulliver’s Travels. Continue reading... Publicado también por: The Guardian - Culture. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:11c76b9d43454055</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:54 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>Rory Carroll Ireland correspondent</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/36fb74aa4ffc4b777dc01ad29035696b28f8cea5/169_877_1627_1301/master/1627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d97bcff796cc7028f5f975264a65bb0" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/36fb74aa4ffc4b777dc01ad29035696b28f8cea5/169_877_1627_1301/master/1627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d97bcff796cc7028f5f975264a65bb0" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
