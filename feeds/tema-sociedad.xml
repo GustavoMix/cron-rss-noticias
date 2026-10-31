@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 31 Oct 2026 02:27:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 09:44:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Líbano busca tomar control de la gobernanza de campamentos de refugiados palestinos</title>
+      <link>https://www.france24.com/es/video/20261031-l%C3%ADbano-busca-tomar-control-de-la-gobernanza-de-campamentos-de-refugiados-palestinos</link>
+      <description>Líbano inició un proceso de consulta para afinar un sistema de gobernanza en los campamentos de refugiados palestinos asentados en su territorio, manejados y administrados por grupos disidentes. El Gobierno libanés busca rehabilitar el Estado y sus instituciones, entre los que contempla ratificar su presencia en las comunidades palestinas y garantizar el desarme de los grupos palestinos. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:999bb409e39e186e</guid>
+      <pubDate>Sat, 31 Oct 2026 04:59:33 +0000</pubDate>
+      <category>sociedad</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/51344756-d4d3-11f1-905b-695cb59fade5/w:1024/p:16x9/ES-20261030-173924-174133-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/51344756-d4d3-11f1-905b-695cb59fade5/w:1024/p:16x9/ES-20261030-173924-174133-CS.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Los estudiantes serbios priorizan la destrucción del régimen de Vucic a la orientación proeuropea</title>
       <link>https://www.abc.es/internacional/estudiantes-serbios-priorizan-destruccion-regimen-vucic-orientacion-20261030010420-nt.html</link>
@@ -468,18 +482,6 @@
       <source url="https://www.france24.com/es/rss">France 24 - Español</source>
       <media:content url="https://s.france24.com/media/display/c569e682-d300-11f1-9945-811458fcf026/w:1024/p:16x9/ES-20261028-071324-072236-CS.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/c569e682-d300-11f1-9945-811458fcf026/w:1024/p:16x9/ES-20261028-071324-072236-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Muere a los 96 años Dolores Huerta, líder histórica del movimiento por los derechos civiles de los latinos y los trabadores migrantes en EE.UU.</title>
-      <link>https://www.bbc.com/mundo/articles/cwx29d8zkdzzo</link>
-      <description>Progresista y feminista, Huerta cofundó en la década de los 60 el que es hoy el mayor sindicato de trabajadores agrícolas del país, la Unión de Trabajadores Campesinos, y se mantuvo activa hasta el final. Fuente: BBC News Mundo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f3ce74e4484991ea</guid>
-      <pubDate>Wed, 28 Oct 2026 16:33:43 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a4e/live/952a8240-d2e9-11f1-8d86-83eebc838351.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4a4e/live/952a8240-d2e9-11f1-8d86-83eebc838351.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
