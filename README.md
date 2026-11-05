@@ -8,7 +8,7 @@ región, y publica el resultado como **feeds RSS listos para cualquier lector**.
 Corre solo, cada hora, con GitHub Actions. No necesita servidor.
 
 ```
-     RSS (61 fuentes)  ─┐
+     RSS (148 fuentes)  ─┐
                         ├─→  normalizar → deduplicar → clasificar  →  feeds/*.xml
      Facebook (80 pág.) ─┘                                             datos/*.json
 ```
@@ -21,7 +21,7 @@ Corre solo, cada hora, con GitHub Actions. No necesita servidor.
 | `feeds/destacadas.xml` | Lo que más medios distintos están publicando |
 | `feeds/tema-*.xml` | Un feed por tema: mundo, política, economía, tecnología, ciencia, salud, ambiente, deportes, cultura, sociedad, conflictos |
 | `feeds/region-*.xml` | Un feed por región: América Latina, Europa, Asia, África, Medio Oriente… |
-| `feeds/idioma-*.xml` | Un feed por idioma (es / en) |
+| `feeds/idioma-*.xml` | Un feed por idioma (es / en / pt) |
 | `feeds/index.html` | Índice navegable de todos los feeds |
 | `datos/noticias.json` | Lo mismo en JSON, para consumir desde una app |
 | `datos/estado_fuentes.json` | Diagnóstico: **por qué** una fuente trajo 0 items |
@@ -87,6 +87,8 @@ config/fuentes/agencias.yaml    agencias y organismos (ONU, OMS…)
 config/fuentes/mundo_en.yaml    medios globales en inglés
 config/fuentes/mundo_es.yaml    prensa en español
 config/fuentes/temas.yaml       tecnología, ciencia, economía, deportes, cultura
+config/fuentes/bolivia.yaml     prensa boliviana con RSS propio
+config/fuentes/portugues.yaml   medios en portugués
 config/fuentes/facebook.yaml    páginas públicas de Facebook
 ```
 
@@ -101,6 +103,13 @@ Una fuente RSS es una entrada más en el YAML:
     categoria: mundo
     region: América Latina
     peso: 3          # 1-5; decide qué versión gana cuando hay duplicados
+    navegador: true  # opcional: pedir con User-Agent de navegador (si da 403)
+```
+
+Para probar URLs nuevas antes de agregarlas:
+
+```bash
+python herramientas/validar_candidatos.py lista_de_urls.txt
 ```
 
 Para Facebook vale lo mismo con `tipo: facebook`. Con `tamano_grupo: 2`, cada
@@ -150,7 +159,7 @@ noticias/
   estado/historial.py       memoria de noticias entre corridas
   estado/rotacion.py        memoria de turnos de Facebook
 docs/                       estrategia, arquitectura, cron y lista de fuentes
-tests/                      73 tests, sin red
+tests/                      75 tests, sin red
 ```
 
 La regla que mantiene todo esto separado: los lectores no saben nada de

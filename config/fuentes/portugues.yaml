@@ -1,0 +1,47 @@
+# Medios en portugués (Brasil y servicios internacionales).
+
+fuentes:
+  - id: rss_g1_mundo
+    nombre: g1 - Mundo
+    tipo: rss
+    url: "https://g1.globo.com/rss/g1/mundo/"
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: rss_folha_mundo
+    nombre: Folha de S.Paulo - Mundo
+    tipo: rss
+    url: "https://feeds.folha.uol.com.br/mundo/rss091.xml"
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: rss_bbc_brasil
+    nombre: BBC News Brasil
+    tipo: rss
+    url: "https://feeds.bbci.co.uk/portuguese/rss.xml"
+    idioma: pt
+    categoria: mundo
+    region: Global
+    peso: 4
+
+  - id: rss_dw_br
+    nombre: DW Brasil
+    tipo: rss
+    url: "https://rss.dw.com/rdf/rss-br-all"
+    idioma: pt
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_agenciabrasil_int
+    nombre: Agência Brasil - Internacional
+    tipo: rss
+    url: "https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml"
+    idioma: pt
+    categoria: mundo
+    region: América Latina
+    peso: 3

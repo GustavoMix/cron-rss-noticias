@@ -49,6 +49,7 @@ fuentes:
     categoria: mundo
     region: Global
     peso: 5
+    activa: false   # rsshub y feedx ya no publican AP (403 / feed congelado). 05/11/2026
 
   - id: rss_efe_portada
     nombre: Agencia EFE
@@ -58,3 +59,4 @@ fuentes:
     categoria: mundo
     region: Global
     peso: 5
+    activa: false   # EFE responde 500/429 en todas sus URLs de feed. 05/11/2026

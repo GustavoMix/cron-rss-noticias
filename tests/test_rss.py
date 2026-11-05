@@ -168,3 +168,15 @@ def test_una_fuente_caida_no_arrastra_a_las_demas():
     estados = {r.fuente_id: r.estado for r in resultados}
     assert estados == {"rss_ok": "ok", "rss_rota": "error"}
     assert len(items) == 2  # las de la fuente sana llegaron igual
+
+
+def test_fuente_con_navegador_usa_user_agent_de_navegador():
+    from noticias.config import Fuente
+    from noticias.fuentes.rss import UA_NAVEGADOR, _cabeceras
+
+    normal = Fuente(id="a", nombre="A", tipo="rss", url="https://a.test/")
+    exigente = Fuente(id="b", nombre="B", tipo="rss", url="https://b.test/", extra={"navegador": True})
+    red = {"user_agent": "Bot/1.0"}
+
+    assert _cabeceras(red, None, normal)["User-Agent"] == "Bot/1.0"
+    assert _cabeceras(red, None, exigente)["User-Agent"] == UA_NAVEGADOR

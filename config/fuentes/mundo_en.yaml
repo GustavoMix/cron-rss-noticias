@@ -90,6 +90,7 @@ fuentes:
     categoria: mundo
     region: América del Norte
     peso: 3
+    navegador: true
 
   - id: rss_sky_world
     nombre: Sky News - World
@@ -162,3 +163,185 @@ fuentes:
     categoria: mundo
     region: Medio Oriente
     peso: 3
+
+  # --- Ampliación 05/11/2026 (validadas desde GitHub Actions) -------------
+
+  - id: rss_cbs_world
+    nombre: CBS News - World
+    tipo: rss
+    url: "https://www.cbsnews.com/latest/rss/world"
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_abcnews_int
+    nombre: ABC News - International
+    tipo: rss
+    url: "https://abcnews.go.com/abcnews/internationalheadlines"
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_latimes_world
+    nombre: Los Angeles Times - World & Nation
+    tipo: rss
+    url: "https://www.latimes.com/world-nation/rss2.0.xml"
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_pbs_world
+    nombre: PBS NewsHour - World
+    tipo: rss
+    url: "https://www.pbs.org/newshour/feeds/rss/world"
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_globeandmail_world
+    nombre: The Globe and Mail - World
+    tipo: rss
+    url: "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/world/"
+    idioma: en
+    categoria: mundo
+    region: América del Norte
+    peso: 3
+
+  - id: rss_politico_eu
+    nombre: POLITICO Europe
+    tipo: rss
+    url: "https://www.politico.eu/feed/"
+    idioma: en
+    categoria: politica
+    region: Europa
+    peso: 4
+
+  - id: rss_foreignpolicy
+    nombre: Foreign Policy
+    tipo: rss
+    url: "https://foreignpolicy.com/feed/"
+    idioma: en
+    categoria: politica
+    region: Global
+    peso: 4
+
+  - id: rss_dw_en_all
+    nombre: Deutsche Welle - All
+    tipo: rss
+    url: "https://rss.dw.com/rdf/rss-en-all"
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_rfi_en
+    nombre: RFI English
+    tipo: rss
+    url: "https://www.rfi.fr/en/rss"
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_lemonde_en
+    nombre: Le Monde in English
+    tipo: rss
+    url: "https://www.lemonde.fr/en/rss/une.xml"
+    idioma: en
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_japantimes
+    nombre: The Japan Times
+    tipo: rss
+    url: "https://www.japantimes.co.jp/feed/"
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_straitstimes_world
+    nombre: The Straits Times - World
+    tipo: rss
+    url: "https://www.straitstimes.com/news/world/rss.xml"
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_cna
+    nombre: CNA (Channel NewsAsia)
+    tipo: rss
+    url: "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311"
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_dawn
+    nombre: Dawn (Pakistán)
+    tipo: rss
+    url: "https://www.dawn.com/feeds/home"
+    idioma: en
+    categoria: mundo
+    region: Asia
+    peso: 3
+
+  - id: rss_middleeasteye
+    nombre: Middle East Eye
+    tipo: rss
+    url: "https://www.middleeasteye.net/rss"
+    idioma: en
+    categoria: mundo
+    region: Medio Oriente
+    peso: 3
+
+  - id: rss_anadolu_world
+    nombre: Anadolu Agency - World
+    tipo: rss
+    url: "https://www.aa.com.tr/en/rss/default?cat=world"
+    idioma: en
+    categoria: mundo
+    region: Medio Oriente
+    peso: 3
+
+  - id: rss_premiumtimes_ng
+    nombre: Premium Times (Nigeria)
+    tipo: rss
+    url: "https://www.premiumtimesng.com/feed"
+    idioma: en
+    categoria: mundo
+    region: África
+    peso: 3
+
+  - id: rss_allafrica
+    nombre: AllAfrica - Latest
+    tipo: rss
+    url: "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf"
+    idioma: en
+    categoria: mundo
+    region: África
+    peso: 3
+
+  - id: rss_mercopress
+    nombre: MercoPress
+    tipo: rss
+    url: "https://en.mercopress.com/rss/"
+    idioma: en
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_batimes
+    nombre: Buenos Aires Times
+    tipo: rss
+    url: "https://www.batimes.com.ar/feed"
+    idioma: en
+    categoria: mundo
+    region: América Latina
+    peso: 2

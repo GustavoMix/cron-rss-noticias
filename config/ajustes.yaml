@@ -41,7 +41,7 @@ rss:
   max_items_por_fuente: 40
   # En cuántos jobs de CI se reparte la lectura de RSS. No es por bloqueo, es
   # solo para que la corrida entera no dependa de un único job lento.
-  lotes: 3
+  lotes: 4
   # Guardar ETag/Last-Modified y mandarlos en la siguiente corrida: si el feed
   # no cambió, el servidor responde 304 y no se transfiere nada.
   usar_cache_condicional: true

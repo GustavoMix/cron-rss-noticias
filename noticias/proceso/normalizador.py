@@ -52,7 +52,9 @@ def normalizar_item(
     if not url.startswith(("http://", "https://")):
         return None
 
-    momento = fechas.parsear(item.publicado_en)
+    # "hace 3 h" se cuenta desde que se leyó la página, no desde que corre el
+    # build: entre un job y otro pueden pasar varios minutos (u horas en local).
+    momento = fechas.parsear(item.publicado_en, referencia=fechas.parsear(detectado_en))
     # Sin fecha confiable se usa el momento de detección: es lo que hace que la
     # nota aparezca ahora y no en un lugar arbitrario del feed.
     publicado_en = fechas.a_iso(momento) or detectado_en

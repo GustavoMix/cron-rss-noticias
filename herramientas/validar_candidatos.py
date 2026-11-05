@@ -1,4 +1,8 @@
-"""Prueba una lista de URLs de feeds y dice cuáles responden con items recientes."""
+"""Prueba una lista de URLs de feeds (una por línea, # para comentarios) y
+dice cuáles responden con items y qué tan recientes son. Uso:
+
+    python herramientas/validar_candidatos.py urls.txt
+"""
 import concurrent.futures as cf
 import sys
 import time

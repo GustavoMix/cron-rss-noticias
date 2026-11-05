@@ -1,0 +1,112 @@
+# Prensa boliviana por RSS. Validadas desde GitHub Actions el 05/11/2026.
+# El Deber, Correo del Sur, Erbol, Página Siete, Brújula y Fides no tienen un
+# RSS usable hoy (403/404/feed congelado): esos se cubren por Facebook.
+
+fuentes:
+  - id: rss_eldiario_bo
+    nombre: El Diario (Bolivia)
+    tipo: rss
+    url: "https://www.eldiario.net/portal/feed/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: rss_abi_bo
+    nombre: ABI - Agencia Boliviana de Información
+    tipo: rss
+    url: "https://abi.bo/feed/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: rss_atb_bo
+    nombre: ATB Digital
+    tipo: rss
+    url: "https://www.atb.com.bo/rss.xml"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: rss_opinion_bo
+    nombre: Opinión Bolivia
+    tipo: rss
+    url: "https://www.opinion.com.bo/rss/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: rss_opinion_bo_mundo
+    nombre: Opinión Bolivia - Mundo
+    tipo: rss
+    url: "https://www.opinion.com.bo/rss/mundo/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: rss_opinion_bo_deportes
+    nombre: Opinión Bolivia - Deportes
+    tipo: rss
+    url: "https://www.opinion.com.bo/rss/deportes/"
+    idioma: es
+    categoria: deportes
+    region: Bolivia
+    peso: 3
+
+  - id: rss_lostiempos_ultimas
+    nombre: Los Tiempos - Últimas
+    tipo: rss
+    url: "https://www.lostiempos.com/rss/ultimas"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4
+
+  - id: rss_lostiempos_economia
+    nombre: Los Tiempos - Economía
+    tipo: rss
+    url: "https://www.lostiempos.com/rss/actualidad/economia"
+    idioma: es
+    categoria: economia
+    region: Bolivia
+    peso: 3
+
+  - id: rss_eju_bo
+    nombre: eju.tv
+    tipo: rss
+    url: "https://eju.tv/feed/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 3
+
+  - id: rss_eju_bo_economia
+    nombre: eju.tv - Economía
+    tipo: rss
+    url: "https://eju.tv/category/economia/feed/"
+    idioma: es
+    categoria: economia
+    region: Bolivia
+    peso: 3
+
+  - id: rss_eju_bo_deportes
+    nombre: eju.tv - Deportes
+    tipo: rss
+    url: "https://eju.tv/category/deportes/feed/"
+    idioma: es
+    categoria: deportes
+    region: Bolivia
+    peso: 3
+
+  - id: rss_larazon_bo
+    nombre: La Razón (Bolivia)
+    tipo: rss
+    url: "https://larazon.bo/feed/"
+    idioma: es
+    categoria: mundo
+    region: Bolivia
+    peso: 4

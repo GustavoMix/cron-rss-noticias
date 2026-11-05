@@ -31,9 +31,25 @@ class ErrorDeFeed(RuntimeError):
     """El feed no se pudo descargar o no se pudo interpretar."""
 
 
-def _cabeceras(ajustes_red: Dict[str, Any], cache: Dict[str, str] | None) -> Dict[str, str]:
+# Algunos medios (CBC, elEconomista, National Geographic…) responden 403 o un
+# feed vacío a cualquier User-Agent que no parezca un navegador. Esas fuentes
+# llevan `navegador: true` en su YAML y se piden con este.
+UA_NAVEGADOR = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+)
+
+
+def _cabeceras(
+    ajustes_red: Dict[str, Any],
+    cache: Dict[str, str] | None,
+    fuente: Fuente | None = None,
+) -> Dict[str, str]:
+    agente = str(ajustes_red.get("user_agent", "NoticiasMundoBot/1.0"))
+    if fuente is not None and fuente.extra.get("navegador"):
+        agente = UA_NAVEGADOR
     cabeceras = {
-        "User-Agent": str(ajustes_red.get("user_agent", "NoticiasMundoBot/1.0")),
+        "User-Agent": agente,
         "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, */*;q=0.8",
         "Accept-Language": "es,en;q=0.8",
     }
@@ -60,7 +76,7 @@ def _descargar(
         try:
             respuesta = cliente.get(
                 fuente.url,
-                headers=_cabeceras(ajustes_red, cache),
+                headers=_cabeceras(ajustes_red, cache, fuente),
                 follow_redirects=True,
             )
         except httpx.HTTPError as exc:

@@ -13,7 +13,7 @@ fuentes:
   - id: rss_dw_es
     nombre: Deutsche Welle - Español
     tipo: rss
-    url: https://rss.dw.com/rdf/rss-es-all
+    url: https://rss.dw.com/xml/rss-sp-all
     idioma: es
     categoria: mundo
     region: Europa
@@ -63,6 +63,7 @@ fuentes:
     categoria: mundo
     region: Europa
     peso: 3
+    activa: false   # RTVE dejó de actualizar sus feeds temáticos. 05/11/2026
 
   - id: rss_cnn_espanol
     nombre: CNN en Español
@@ -72,11 +73,12 @@ fuentes:
     categoria: mundo
     region: América Latina
     peso: 4
+    activa: false   # CNN en Español eliminó sus feeds RSS (404 en todas las variantes). 05/11/2026
 
   - id: rss_infobae
     nombre: Infobae
     tipo: rss
-    url: https://www.infobae.com/feeds/rss/
+    url: https://www.infobae.com/arc/outboundfeeds/rss/
     idioma: es
     categoria: mundo
     region: América Latina
@@ -103,7 +105,7 @@ fuentes:
   - id: rss_pagina12_mundo
     nombre: Página/12 - El Mundo
     tipo: rss
-    url: https://www.pagina12.com.ar/rss/secciones/el-mundo/notas
+    url: https://www.pagina12.com.ar/arc/outboundfeeds/rss/?outputType=xml
     idioma: es
     categoria: mundo
     region: América Latina
@@ -112,7 +114,7 @@ fuentes:
   - id: rss_eluniversal_mx
     nombre: El Universal México
     tipo: rss
-    url: https://www.eluniversal.com.mx/rss.xml
+    url: https://www.eluniversal.com.mx/arc/outboundfeeds/rss/?outputType=xml
     idioma: es
     categoria: mundo
     region: América Latina
@@ -121,7 +123,7 @@ fuentes:
   - id: rss_lostiempos_bo
     nombre: Los Tiempos (Bolivia)
     tipo: rss
-    url: https://www.lostiempos.com/rss.xml
+    url: https://www.lostiempos.com/rss/portada
     idioma: es
     categoria: mundo
     region: Bolivia
@@ -135,6 +137,7 @@ fuentes:
     categoria: mundo
     region: Bolivia
     peso: 3
+    activa: false   # El Deber bloquea lectores con 403 (Cloudflare). Queda la página de Facebook. 05/11/2026
 
   - id: rss_erbol_bo
     nombre: ERBOL (Bolivia)
@@ -144,3 +147,168 @@ fuentes:
     categoria: mundo
     region: Bolivia
     peso: 3
+    activa: false   # El feed de Erbol está congelado desde 2021. Queda la página de Facebook. 05/11/2026
+
+  # --- Ampliación 05/11/2026 (validadas desde GitHub Actions) -------------
+
+  - id: rss_europapress_int
+    nombre: Europa Press - Internacional
+    tipo: rss
+    url: "https://www.europapress.es/rss/rss.aspx?ch=00069"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_elpais_america
+    nombre: El País - América
+    tipo: rss
+    url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/america/portada"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4
+
+  - id: rss_eltiempo_co_mundo
+    nombre: El Tiempo (Colombia) - Internacional
+    tipo: rss
+    url: "https://www.eltiempo.com/rss/mundo.xml"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_elcomercio_pe
+    nombre: El Comercio (Perú)
+    tipo: rss
+    url: "https://elcomercio.pe/arc/outboundfeeds/rss/?outputType=xml"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_eluniverso_ec
+    nombre: El Universo (Ecuador)
+    tipo: rss
+    url: "https://www.eluniverso.com/arc/outboundfeeds/rss/?outputType=xml"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_elnacional_ve
+    nombre: El Nacional (Venezuela)
+    tipo: rss
+    url: "https://www.elnacional.com/feed/"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_semana_co
+    nombre: Semana (Colombia)
+    tipo: rss
+    url: "https://www.semana.com/arc/outboundfeeds/rss/?outputType=xml"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_jornada_mx_mundo
+    nombre: La Jornada - Mundo
+    tipo: rss
+    url: "https://www.jornada.com.mx/rss/mundo.xml"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_lavanguardia_int
+    nombre: La Vanguardia - Internacional
+    tipo: rss
+    url: "https://www.lavanguardia.com/rss/internacional.xml"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_20minutos_int
+    nombre: 20minutos - Internacional
+    tipo: rss
+    url: "https://www.20minutos.es/rss/internacional/"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 2
+
+  - id: rss_eldiario_es_int
+    nombre: elDiario.es - Internacional
+    tipo: rss
+    url: "https://www.eldiario.es/rss/internacional/"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_euronews_es
+    nombre: Euronews en Español
+    tipo: rss
+    url: "https://es.euronews.com/rss"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 3
+
+  - id: rss_rfi_es
+    nombre: RFI en Español
+    tipo: rss
+    url: "https://www.rfi.fr/es/rss"
+    idioma: es
+    categoria: mundo
+    region: Europa
+    peso: 4
+
+  - id: rss_perfil_ar
+    nombre: Perfil (Argentina)
+    tipo: rss
+    url: "https://www.perfil.com/feed"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 2
+
+  - id: rss_lanacion_ar
+    nombre: La Nación (Argentina)
+    tipo: rss
+    url: "https://www.lanacion.com.ar/arc/outboundfeeds/rss/"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_clarin_ultimo
+    nombre: Clarín - Lo último
+    tipo: rss
+    url: "https://www.clarin.com/rss/lo-ultimo/"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 3
+
+  - id: rss_sputnik_es
+    nombre: Sputnik Mundo
+    tipo: rss
+    url: "https://noticiaslatam.lat/export/rss2/archive/index.xml"
+    idioma: es
+    categoria: mundo
+    region: Global
+    peso: 2
+
+  - id: rss_infobae_america
+    nombre: Infobae - América
+    tipo: rss
+    url: "https://www.infobae.com/arc/outboundfeeds/rss/category/america/"
+    idioma: es
+    categoria: mundo
+    region: América Latina
+    peso: 4

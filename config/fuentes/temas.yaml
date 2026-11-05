@@ -88,7 +88,7 @@ fuentes:
   - id: rss_esa
     nombre: European Space Agency
     tipo: rss
-    url: https://www.esa.int/rssfeed/Our_Activities/Space_News
+    url: https://www.esa.int/rss/news.rss
     idioma: en
     categoria: ciencia
     region: Europa
@@ -196,3 +196,350 @@ fuentes:
     categoria: ambiente
     region: Global
     peso: 3
+
+  # --- Ampliación 05/11/2026 (validadas desde GitHub Actions) -------------
+
+  - id: rss_bloomberglinea
+    nombre: Bloomberg Línea
+    tipo: rss
+    url: "https://www.bloomberglinea.com/arc/outboundfeeds/rss/?outputType=xml"
+    idioma: es
+    categoria: economia
+    region: América Latina
+    peso: 4
+
+  - id: rss_cincodias
+    nombre: Cinco Días
+    tipo: rss
+    url: "https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada"
+    idioma: es
+    categoria: economia
+    region: Europa
+    peso: 3
+
+  - id: rss_eleconomista_es
+    nombre: elEconomista - Economía
+    tipo: rss
+    url: "https://www.eleconomista.es/rss/rss-economia.php"
+    idioma: es
+    categoria: economia
+    region: Europa
+    peso: 3
+    navegador: true
+
+  - id: rss_eleconomista_mx
+    nombre: El Economista (México)
+    tipo: rss
+    url: "https://www.eleconomista.com.mx/rss/ultimas-noticias"
+    idioma: es
+    categoria: economia
+    region: América Latina
+    peso: 3
+
+  - id: rss_ambito
+    nombre: Ámbito Financiero
+    tipo: rss
+    url: "https://www.ambito.com/rss/pages/home.xml"
+    idioma: es
+    categoria: economia
+    region: América Latina
+    peso: 3
+
+  - id: rss_investing_es
+    nombre: Investing.com Español
+    tipo: rss
+    url: "https://es.investing.com/rss/news.rss"
+    idioma: es
+    categoria: economia
+    region: Global
+    peso: 3
+
+  - id: rss_ft_world
+    nombre: Financial Times - World
+    tipo: rss
+    url: "https://www.ft.com/world?format=rss"
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: rss_economist_int
+    nombre: The Economist - International
+    tipo: rss
+    url: "https://www.economist.com/international/rss.xml"
+    idioma: en
+    categoria: economia
+    region: Global
+    peso: 4
+
+  - id: rss_forbes_business
+    nombre: Forbes - Business
+    tipo: rss
+    url: "https://www.forbes.com/business/feed/"
+    idioma: en
+    categoria: economia
+    region: América del Norte
+    peso: 3
+
+  - id: rss_forbes_es
+    nombre: Forbes España
+    tipo: rss
+    url: "https://forbes.es/feed/"
+    idioma: es
+    categoria: economia
+    region: Europa
+    peso: 2
+
+  - id: rss_genbeta
+    nombre: Genbeta
+    tipo: rss
+    url: "https://www.genbeta.com/feedburner.xml"
+    idioma: es
+    categoria: tecnologia
+    region: Europa
+    peso: 3
+
+  - id: rss_hipertextual
+    nombre: Hipertextual
+    tipo: rss
+    url: "https://hipertextual.com/feed/"
+    idioma: es
+    categoria: tecnologia
+    region: Europa
+    peso: 3
+
+  - id: rss_xatakamovil
+    nombre: Xataka Móvil
+    tipo: rss
+    url: "https://www.xatakamovil.com/feedburner.xml"
+    idioma: es
+    categoria: tecnologia
+    region: Europa
+    peso: 2
+
+  - id: rss_wired
+    nombre: WIRED
+    tipo: rss
+    url: "https://www.wired.com/feed/rss"
+    idioma: en
+    categoria: tecnologia
+    region: América del Norte
+    peso: 4
+
+  - id: rss_engadget
+    nombre: Engadget
+    tipo: rss
+    url: "https://www.engadget.com/rss.xml"
+    idioma: en
+    categoria: tecnologia
+    region: América del Norte
+    peso: 3
+
+  - id: rss_mit_techreview
+    nombre: MIT Technology Review
+    tipo: rss
+    url: "https://www.technologyreview.com/feed/"
+    idioma: en
+    categoria: tecnologia
+    region: América del Norte
+    peso: 4
+
+  - id: rss_bleepingcomputer
+    nombre: BleepingComputer
+    tipo: rss
+    url: "https://www.bleepingcomputer.com/feed/"
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 3
+
+  - id: rss_hackernews_sec
+    nombre: The Hacker News
+    tipo: rss
+    url: "https://feeds.feedburner.com/TheHackersNews"
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 2
+
+  - id: rss_9to5google
+    nombre: 9to5Google
+    tipo: rss
+    url: "https://9to5google.com/feed/"
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 2
+
+  - id: rss_androidauthority
+    nombre: Android Authority
+    tipo: rss
+    url: "https://www.androidauthority.com/feed/"
+    idioma: en
+    categoria: tecnologia
+    region: Global
+    peso: 2
+
+  - id: rss_muyinteresante
+    nombre: Muy Interesante
+    tipo: rss
+    url: "https://muyinteresante.okdiario.com/feed/"
+    idioma: es
+    categoria: ciencia
+    region: Europa
+    peso: 3
+
+  - id: rss_natgeo_es
+    nombre: National Geographic España
+    tipo: rss
+    url: "https://www.nationalgeographic.com.es/feeds/rss.xml"
+    idioma: es
+    categoria: ciencia
+    region: Europa
+    peso: 3
+    navegador: true
+
+  - id: rss_newscientist
+    nombre: New Scientist
+    tipo: rss
+    url: "https://www.newscientist.com/feed/home/"
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 4
+
+  - id: rss_sciencenews
+    nombre: Science News
+    tipo: rss
+    url: "https://www.sciencenews.org/feed"
+    idioma: en
+    categoria: ciencia
+    region: América del Norte
+    peso: 4
+
+  - id: rss_space
+    nombre: Space.com
+    tipo: rss
+    url: "https://www.space.com/feeds.xml"
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 3
+
+  - id: rss_quanta
+    nombre: Quanta Magazine
+    tipo: rss
+    url: "https://www.quantamagazine.org/feed/"
+    idioma: en
+    categoria: ciencia
+    region: Global
+    peso: 3
+
+  - id: rss_statnews
+    nombre: STAT News
+    tipo: rss
+    url: "https://www.statnews.com/feed/"
+    idioma: en
+    categoria: salud
+    region: América del Norte
+    peso: 4
+
+  - id: rss_infosalus
+    nombre: Infosalus
+    tipo: rss
+    url: "https://www.infosalus.com/rss/rss.aspx"
+    idioma: es
+    categoria: salud
+    region: Europa
+    peso: 3
+
+  - id: rss_as
+    nombre: AS
+    tipo: rss
+    url: "https://feeds.as.com/mrss-s/pages/as/site/as.com/portada"
+    idioma: es
+    categoria: deportes
+    region: Europa
+    peso: 3
+
+  - id: rss_mundodeportivo
+    nombre: Mundo Deportivo
+    tipo: rss
+    url: "https://www.mundodeportivo.com/rss/home.xml"
+    idioma: es
+    categoria: deportes
+    region: Europa
+    peso: 3
+
+  - id: rss_sport_es
+    nombre: Sport
+    tipo: rss
+    url: "https://www.sport.es/es/rss/last-news/news.xml"
+    idioma: es
+    categoria: deportes
+    region: Europa
+    peso: 2
+    navegador: true
+
+  - id: rss_ole
+    nombre: Olé
+    tipo: rss
+    url: "https://www.ole.com.ar/rss/ultimas-noticias/"
+    idioma: es
+    categoria: deportes
+    region: América Latina
+    peso: 3
+
+  - id: rss_marca_futbol_int
+    nombre: Marca - Fútbol internacional
+    tipo: rss
+    url: "https://e00-marca.uecdn.es/rss/futbol/futbol-internacional.xml"
+    idioma: es
+    categoria: deportes
+    region: Europa
+    peso: 3
+
+  - id: rss_skysports
+    nombre: Sky Sports
+    tipo: rss
+    url: "https://www.skysports.com/rss/12040"
+    idioma: en
+    categoria: deportes
+    region: Europa
+    peso: 3
+
+  - id: rss_elpais_cultura
+    nombre: El País - Cultura
+    tipo: rss
+    url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"
+    idioma: es
+    categoria: cultura
+    region: Europa
+    peso: 3
+
+  - id: rss_hollywoodreporter
+    nombre: The Hollywood Reporter
+    tipo: rss
+    url: "https://www.hollywoodreporter.com/feed/"
+    idioma: en
+    categoria: cultura
+    region: América del Norte
+    peso: 3
+
+  - id: rss_rollingstone
+    nombre: Rolling Stone
+    tipo: rss
+    url: "https://www.rollingstone.com/feed/"
+    idioma: en
+    categoria: cultura
+    region: América del Norte
+    peso: 3
+
+  - id: rss_pitchfork
+    nombre: Pitchfork - News
+    tipo: rss
+    url: "https://pitchfork.com/feed/feed-news/rss"
+    idioma: en
+    categoria: cultura
+    region: América del Norte
+    peso: 2
