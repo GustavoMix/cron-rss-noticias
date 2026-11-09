@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sun, 08 Nov 2026 21:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:00:50 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-sociedad.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El papa cierra su visita a Uruguay con un mensaje contra la violencia de género en Latinoamérica</title>
+      <link>https://www.france24.com/es/am%C3%A9rica-latina/20261108-el-papa-cierra-su-visita-a-uruguay-con-un-mensaje-contra-la-violencia-de-g%C3%A9nero-en-latinoam%C3%A9rica</link>
+      <description>El papa León XIV exhortó este domingo 8 de noviembre a los hombres a respetar a sus esposas al concluir la primera etapa de su gira por Latinoamérica. En los últimos cinco años, la región registró casi 20.000 casos de mujeres asesinadas, la mayoría a manos de su pareja o expareja. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:936a7ca94a42dcb9</guid>
+      <pubDate>Sun, 08 Nov 2026 23:12:35 +0000</pubDate>
+      <category>sociedad</category>
+      <category>América Latina</category>
+      <category>Europa</category>
+      <dc:creator>France 24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/2ede0d02-dbc9-11f1-99dd-a575454bc579/w:1024/p:16x9/2026-11-08T140444Z-1461247001-RC2PJOAUWJU6-RTRMADP-3-POPE-LATAM-URUGUAY.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/2ede0d02-dbc9-11f1-99dd-a575454bc579/w:1024/p:16x9/2026-11-08T140444Z-1461247001-RC2PJOAUWJU6-RTRMADP-3-POPE-LATAM-URUGUAY.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Migrant boat sinks off Senegal, killing at least 34 people, authorities say</title>
       <link>https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say</link>
@@ -508,42 +522,6 @@
       <category>Europa</category>
       <category>Bolivia</category>
       <source url="https://www.facebook.com/eldiario.bolivia/">El Diario - Bolivia</source>
-    </item>
-    <item>
-      <title>Largely peaceful marches take place across France as workers stage strike</title>
-      <link>https://www.jpost.com/international/article-914021</link>
-      <description>Police fired tear gas in Paris and Lyon, and fireworks set a high school near Toulouse ablaze, as protests over living costs and public services spread across France. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:676463e13cc63a9c</guid>
-      <pubDate>Thu, 05 Nov 2026 22:29:49 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-    </item>
-    <item>
-      <title>Mass protests in France driven by nationwide strike action</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss</link>
-      <description>More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9c91c6499b78eacf</guid>
-      <pubDate>Thu, 05 Nov 2026 20:11:37 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Huelga general en Francia por el alto costo de la vida: así avanza la jornada</title>
-      <link>https://www.france24.com/es/video/20261105-huelga-general-en-francia-por-el-alto-costo-de-la-vida-as%C3%AD-avanza-la-jornada</link>
-      <description>Con un minuto de silencio, los manifestantes en Francia recordaron a las víctimas del acto racista de Trappes e iniciaron la huelga general convocada para este 5 de noviembre. El movimiento fue convocado por los sindicatos, pero también por estudiantes, jubilados y chalecos amarillos, por el alto costo de la vida. Nuestra periodista, Erika Olavarría, nos contó más. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e6bb048dc0cf0832</guid>
-      <pubDate>Thu, 05 Nov 2026 19:36:41 +0000</pubDate>
-      <category>sociedad</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/531121a6-d94d-11f1-98be-695cb59fade5/w:1024/p:16x9/ES-20261105-090428-090547-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/531121a6-d94d-11f1-98be-695cb59fade5/w:1024/p:16x9/ES-20261105-090428-090547-CS.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
