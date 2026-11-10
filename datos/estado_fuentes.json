@@ -1,18 +1,18 @@
 {
-  "generado_en": "2026-11-09T18:54:13+00:00",
+  "generado_en": "2026-11-10T02:16:42+00:00",
   "resumen": {
     "fuentes": 141,
     "por_estado": {
-      "ok": 109,
-      "sin_novedades": 19,
+      "ok": 100,
+      "sin_novedades": 28,
       "error": 13
     },
     "bloqueadas": 0,
     "con_error": 13,
     "descartes_en_proceso": {
-      "sin_titulo_o_url": 11,
-      "muy_vieja": 183,
-      "agrupadas_como_duplicado": 54
+      "sin_titulo_o_url": 7,
+      "muy_vieja": 139,
+      "agrupadas_como_duplicado": 61
     }
   },
   "fuentes": [
@@ -236,8 +236,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4041,
+      "items": 2,
+      "duracion_ms": 5732,
       "error": null
     },
     {
@@ -253,7 +253,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4040,
+      "duracion_ms": 4699,
       "error": null
     },
     {
@@ -269,7 +269,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4019,
+      "duracion_ms": 3883,
       "error": null
     },
     {
@@ -285,7 +285,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 6587,
+      "duracion_ms": 5804,
       "error": null
     },
     {
@@ -301,7 +301,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4977,
+      "duracion_ms": 4150,
       "error": null
     },
     {
@@ -316,8 +316,8 @@
       "peso": 5,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4573,
+      "items": 2,
+      "duracion_ms": 6701,
       "error": null
     },
     {
@@ -333,7 +333,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 7303,
+      "duracion_ms": 7078,
       "error": null
     },
     {
@@ -349,7 +349,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4574,
+      "duracion_ms": 4646,
       "error": null
     },
     {
@@ -365,7 +365,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 6287,
+      "duracion_ms": 6470,
       "error": null
     },
     {
@@ -381,7 +381,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 4332,
+      "duracion_ms": 4592,
       "error": null
     },
     {
@@ -397,7 +397,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4458,
+      "duracion_ms": 7124,
       "error": null
     },
     {
@@ -413,7 +413,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4300,
+      "duracion_ms": 7141,
       "error": null
     },
     {
@@ -429,7 +429,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4051,
+      "duracion_ms": 4352,
       "error": null
     },
     {
@@ -445,7 +445,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4277,
+      "duracion_ms": 4241,
       "error": null
     },
     {
@@ -459,9 +459,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4582,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4315,
       "error": null
     },
     {
@@ -475,9 +475,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 5795,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4206,
       "error": null
     },
     {
@@ -493,7 +493,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 5137,
+      "duracion_ms": 4223,
       "error": null
     },
     {
@@ -508,8 +508,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4364,
+      "items": 2,
+      "duracion_ms": 5988,
       "error": null
     },
     {
@@ -525,7 +525,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 5849,
+      "duracion_ms": 4408,
       "error": null
     },
     {
@@ -540,8 +540,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4061,
+      "items": 2,
+      "duracion_ms": 4818,
       "error": null
     },
     {
@@ -557,7 +557,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4296,
+      "duracion_ms": 4390,
       "error": null
     },
     {
@@ -573,7 +573,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 5536,
+      "duracion_ms": 6053,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4056,
+      "duracion_ms": 4417,
       "error": null
     },
     {
@@ -603,9 +603,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "sin_novedades",
-      "items": 0,
-      "duracion_ms": 4498,
+      "estado": "ok",
+      "items": 2,
+      "duracion_ms": 6139,
       "error": null
     },
     {
@@ -621,7 +621,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 6894,
+      "duracion_ms": 6303,
       "error": null
     },
     {
@@ -637,7 +637,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4380,
+      "duracion_ms": 4089,
       "error": null
     },
     {
@@ -651,9 +651,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "sin_novedades",
-      "items": 0,
-      "duracion_ms": 4211,
+      "estado": "ok",
+      "items": 1,
+      "duracion_ms": 5720,
       "error": null
     },
     {
@@ -669,7 +669,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 5043,
+      "duracion_ms": 4206,
       "error": null
     },
     {
@@ -683,9 +683,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 5733,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4599,
       "error": null
     },
     {
@@ -701,7 +701,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 6054,
+      "duracion_ms": 4017,
       "error": null
     },
     {
@@ -715,9 +715,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6176,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4358,
       "error": null
     },
     {
@@ -731,9 +731,9 @@
       "idioma": "es",
       "peso": 4,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4233,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4775,
       "error": null
     },
     {
@@ -749,7 +749,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4512,
+      "duracion_ms": 4387,
       "error": null
     },
     {
@@ -764,8 +764,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 3,
-      "duracion_ms": 7702,
+      "items": 2,
+      "duracion_ms": 6200,
       "error": null
     },
     {
@@ -780,8 +780,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4206,
+      "items": 2,
+      "duracion_ms": 6340,
       "error": null
     },
     {
@@ -797,7 +797,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4022,
+      "duracion_ms": 3769,
       "error": null
     },
     {
@@ -813,7 +813,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 5752,
+      "duracion_ms": 6197,
       "error": null
     },
     {
@@ -829,7 +829,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4324,
+      "duracion_ms": 7790,
       "error": null
     },
     {
@@ -844,8 +844,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6475,
+      "items": 1,
+      "duracion_ms": 4477,
       "error": null
     },
     {
@@ -860,8 +860,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6207,
+      "items": 1,
+      "duracion_ms": 4075,
       "error": null
     },
     {
@@ -877,7 +877,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 7120,
+      "duracion_ms": 6538,
       "error": null
     },
     {
@@ -893,7 +893,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 6141,
+      "duracion_ms": 5800,
       "error": null
     },
     {
@@ -909,7 +909,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 6166,
+      "duracion_ms": 6071,
       "error": null
     },
     {
@@ -925,7 +925,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4493,
+      "duracion_ms": 6059,
       "error": null
     },
     {
@@ -941,7 +941,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4031,
+      "duracion_ms": 6301,
       "error": null
     },
     {
@@ -957,7 +957,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4130,
+      "duracion_ms": 4002,
       "error": null
     },
     {
@@ -972,8 +972,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6532,
+      "items": 1,
+      "duracion_ms": 4315,
       "error": null
     },
     {
@@ -989,7 +989,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4057,
+      "duracion_ms": 4523,
       "error": null
     },
     {
@@ -1005,7 +1005,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4163,
+      "duracion_ms": 4335,
       "error": null
     },
     {
@@ -1021,7 +1021,7 @@
       "activa": true,
       "estado": "ok",
       "items": 3,
-      "duracion_ms": 7684,
+      "duracion_ms": 8584,
       "error": null
     },
     {
@@ -1037,7 +1037,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4138,
+      "duracion_ms": 3936,
       "error": null
     },
     {
@@ -1052,8 +1052,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4269,
+      "items": 2,
+      "duracion_ms": 6042,
       "error": null
     },
     {
@@ -1068,8 +1068,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6304,
+      "items": 1,
+      "duracion_ms": 5851,
       "error": null
     },
     {
@@ -1084,8 +1084,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6385,
+      "items": 1,
+      "duracion_ms": 7022,
       "error": null
     },
     {
@@ -1100,8 +1100,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4230,
+      "items": 2,
+      "duracion_ms": 5652,
       "error": null
     },
     {
@@ -1116,8 +1116,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4097,
+      "items": 2,
+      "duracion_ms": 6007,
       "error": null
     },
     {
@@ -1132,8 +1132,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4361,
+      "items": 2,
+      "duracion_ms": 6507,
       "error": null
     },
     {
@@ -1148,8 +1148,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6117,
+      "items": 1,
+      "duracion_ms": 7495,
       "error": null
     },
     {
@@ -1163,9 +1163,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 7304,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 5067,
       "error": null
     },
     {
@@ -1179,9 +1179,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "sin_novedades",
-      "items": 0,
-      "duracion_ms": 4595,
+      "estado": "ok",
+      "items": 1,
+      "duracion_ms": 8206,
       "error": null
     },
     {
@@ -1197,7 +1197,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4712,
+      "duracion_ms": 4728,
       "error": null
     },
     {
@@ -1211,9 +1211,9 @@
       "idioma": "en",
       "peso": 4,
       "activa": true,
-      "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6629,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4398,
       "error": null
     },
     {
@@ -1228,8 +1228,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 2,
-      "duracion_ms": 5983,
+      "items": 1,
+      "duracion_ms": 6340,
       "error": null
     },
     {
@@ -1244,8 +1244,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4663,
+      "items": 2,
+      "duracion_ms": 6350,
       "error": null
     },
     {
@@ -1261,7 +1261,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4250,
+      "duracion_ms": 4170,
       "error": null
     },
     {
@@ -1277,7 +1277,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4520,
+      "duracion_ms": 4420,
       "error": null
     },
     {
@@ -1293,7 +1293,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 4715,
+      "duracion_ms": 4144,
       "error": null
     },
     {
@@ -1307,9 +1307,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 2,
-      "duracion_ms": 6154,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4290,
       "error": null
     },
     {
@@ -1325,7 +1325,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4393,
+      "duracion_ms": 5006,
       "error": null
     },
     {
@@ -1340,8 +1340,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 5669,
+      "items": 2,
+      "duracion_ms": 6388,
       "error": null
     },
     {
@@ -1355,9 +1355,9 @@
       "idioma": "en",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 5089,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4518,
       "error": null
     },
     {
@@ -1372,8 +1372,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 1,
-      "duracion_ms": 4506,
+      "items": 2,
+      "duracion_ms": 6548,
       "error": null
     },
     {
@@ -1387,9 +1387,9 @@
       "idioma": "en",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 2,
-      "duracion_ms": 4650,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4385,
       "error": null
     },
     {
@@ -1405,7 +1405,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4299,
+      "duracion_ms": 4173,
       "error": null
     },
     {
@@ -1419,9 +1419,9 @@
       "idioma": "es",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 1,
-      "duracion_ms": 6626,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 4408,
       "error": null
     },
     {
@@ -1437,7 +1437,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 3911,
+      "duracion_ms": 4052,
       "error": null
     },
     {
@@ -1453,7 +1453,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 7227,
+      "duracion_ms": 6929,
       "error": null
     },
     {
@@ -1469,7 +1469,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4306,
+      "duracion_ms": 4151,
       "error": null
     },
     {
@@ -1485,7 +1485,7 @@
       "activa": true,
       "estado": "ok",
       "items": 1,
-      "duracion_ms": 4288,
+      "duracion_ms": 4153,
       "error": null
     },
     {
@@ -1501,7 +1501,7 @@
       "activa": true,
       "estado": "ok",
       "items": 2,
-      "duracion_ms": 4161,
+      "duracion_ms": 7890,
       "error": null
     },
     {
@@ -1517,7 +1517,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 164,
+      "duracion_ms": 135,
       "error": null
     },
     {
@@ -1533,7 +1533,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 78,
+      "duracion_ms": 149,
       "error": null
     },
     {
@@ -1549,7 +1549,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 141,
+      "duracion_ms": 98,
       "error": null
     },
     {
@@ -1565,7 +1565,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 246,
+      "duracion_ms": 156,
       "error": null
     },
     {
@@ -1581,7 +1581,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 66,
+      "duracion_ms": 78,
       "error": null
     },
     {
@@ -1597,7 +1597,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 75,
+      "duracion_ms": 9,
       "error": null
     },
     {
@@ -1613,7 +1613,7 @@
       "activa": true,
       "estado": "ok",
       "items": 34,
-      "duracion_ms": 288,
+      "duracion_ms": 53,
       "error": null
     },
     {
@@ -1629,7 +1629,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 111,
+      "duracion_ms": 380,
       "error": null
     },
     {
@@ -1644,8 +1644,8 @@
       "peso": 5,
       "activa": true,
       "estado": "ok",
-      "items": 24,
-      "duracion_ms": 216,
+      "items": 30,
+      "duracion_ms": 31,
       "error": null
     },
     {
@@ -1661,7 +1661,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 132,
+      "duracion_ms": 144,
       "error": null
     },
     {
@@ -1677,7 +1677,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 244,
+      "duracion_ms": 212,
       "error": null
     },
     {
@@ -1692,8 +1692,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 12,
-      "duracion_ms": 618,
+      "items": 13,
+      "duracion_ms": 499,
       "error": null
     },
     {
@@ -1709,7 +1709,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 136,
+      "duracion_ms": 640,
       "error": null
     },
     {
@@ -1724,8 +1724,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 24,
-      "duracion_ms": 134,
+      "items": 23,
+      "duracion_ms": 408,
       "error": null
     },
     {
@@ -1741,7 +1741,7 @@
       "activa": true,
       "estado": "ok",
       "items": 4,
-      "duracion_ms": 912,
+      "duracion_ms": 498,
       "error": null
     },
     {
@@ -1757,7 +1757,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 69,
+      "duracion_ms": 66,
       "error": null
     },
     {
@@ -1773,7 +1773,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 192,
+      "duracion_ms": 195,
       "error": null
     },
     {
@@ -1789,7 +1789,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 49,
+      "duracion_ms": 146,
       "error": null
     },
     {
@@ -1805,7 +1805,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 89,
+      "duracion_ms": 156,
       "error": null
     },
     {
@@ -1821,7 +1821,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 252,
+      "duracion_ms": 132,
       "error": null
     },
     {
@@ -1837,7 +1837,7 @@
       "activa": true,
       "estado": "ok",
       "items": 26,
-      "duracion_ms": 21,
+      "duracion_ms": 155,
       "error": null
     },
     {
@@ -1853,7 +1853,7 @@
       "activa": true,
       "estado": "ok",
       "items": 34,
-      "duracion_ms": 532,
+      "duracion_ms": 485,
       "error": null
     },
     {
@@ -1869,7 +1869,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 90,
+      "duracion_ms": 23,
       "error": null
     },
     {
@@ -1885,7 +1885,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 521,
+      "duracion_ms": 288,
       "error": null
     },
     {
@@ -1901,7 +1901,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 147,
+      "duracion_ms": 82,
       "error": null
     },
     {
@@ -1917,7 +1917,7 @@
       "activa": true,
       "estado": "ok",
       "items": 32,
-      "duracion_ms": 858,
+      "duracion_ms": 648,
       "error": null
     },
     {
@@ -1933,7 +1933,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 1033,
+      "duracion_ms": 245,
       "error": null
     },
     {
@@ -1949,7 +1949,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 28,
+      "duracion_ms": 283,
       "error": null
     },
     {
@@ -1965,7 +1965,7 @@
       "activa": true,
       "estado": "ok",
       "items": 32,
-      "duracion_ms": 107,
+      "duracion_ms": 152,
       "error": null
     },
     {
@@ -1981,7 +1981,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 133,
+      "duracion_ms": 61,
       "error": null
     },
     {
@@ -1997,7 +1997,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 530,
+      "duracion_ms": 239,
       "error": null
     },
     {
@@ -2013,7 +2013,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 226,
+      "duracion_ms": 135,
       "error": null
     },
     {
@@ -2029,7 +2029,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 32,
+      "duracion_ms": 61,
       "error": null
     },
     {
@@ -2045,7 +2045,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 251,
+      "duracion_ms": 122,
       "error": null
     },
     {
@@ -2061,7 +2061,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 244,
+      "duracion_ms": 131,
       "error": null
     },
     {
@@ -2077,7 +2077,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 379,
+      "duracion_ms": 76,
       "error": null
     },
     {
@@ -2093,7 +2093,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 689,
+      "duracion_ms": 848,
       "error": null
     },
     {
@@ -2108,8 +2108,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 10,
-      "duracion_ms": 134,
+      "items": 9,
+      "duracion_ms": 599,
       "error": null
     },
     {
@@ -2125,7 +2125,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 49,
+      "duracion_ms": 77,
       "error": null
     },
     {
@@ -2141,7 +2141,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 191,
+      "duracion_ms": 97,
       "error": null
     },
     {
@@ -2157,7 +2157,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 113,
+      "duracion_ms": 128,
       "error": null
     },
     {
@@ -2173,7 +2173,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 51,
+      "duracion_ms": 67,
       "error": null
     },
     {
@@ -2189,7 +2189,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 90,
+      "duracion_ms": 30,
       "error": null
     },
     {
@@ -2205,7 +2205,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 219,
+      "duracion_ms": 98,
       "error": null
     },
     {
@@ -2221,7 +2221,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 186,
+      "duracion_ms": 93,
       "error": null
     },
     {
@@ -2236,8 +2236,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 13,
-      "duracion_ms": 8120,
+      "items": 17,
+      "duracion_ms": 9050,
       "error": null
     },
     {
@@ -2251,9 +2251,9 @@
       "idioma": "en",
       "peso": 5,
       "activa": true,
-      "estado": "ok",
-      "items": 40,
-      "duracion_ms": 455,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 440,
       "error": null
     },
     {
@@ -2269,7 +2269,7 @@
       "activa": true,
       "estado": "ok",
       "items": 26,
-      "duracion_ms": 176,
+      "duracion_ms": 608,
       "error": null
     }
   ]
