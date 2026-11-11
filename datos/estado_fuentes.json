@@ -1,19 +1,19 @@
 {
-  "generado_en": "2026-11-11T14:55:17+00:00",
+  "generado_en": "2026-11-11T21:57:31+00:00",
   "resumen": {
     "fuentes": 141,
     "por_estado": {
       "no_ejecutada": 80,
-      "ok": 45,
-      "error": 13,
+      "ok": 43,
+      "error": 15,
       "sin_novedades": 3
     },
     "bloqueadas": 0,
-    "con_error": 13,
+    "con_error": 15,
     "descartes_en_proceso": {
-      "sin_titulo_o_url": 5,
-      "muy_vieja": 91,
-      "agrupadas_como_duplicado": 40
+      "sin_titulo_o_url": 4,
+      "muy_vieja": 80,
+      "agrupadas_como_duplicado": 35
     }
   },
   "fuentes": [
@@ -95,7 +95,7 @@
       "estado": "error",
       "items": 0,
       "duracion_ms": 0,
-      "error": "HTTP 403"
+      "error": "HTTP 500"
     },
     {
       "id": "rss_eldeber_bo",
@@ -111,7 +111,7 @@
       "estado": "error",
       "items": 0,
       "duracion_ms": 0,
-      "error": "HTTP 403"
+      "error": "feed ilegible: <unknown>:6:42: not well-formed (invalid token)"
     },
     {
       "id": "rss_eluniversal_mx",
@@ -219,6 +219,38 @@
       "region": "Europa",
       "idioma": "es",
       "peso": 3,
+      "activa": true,
+      "estado": "error",
+      "items": 0,
+      "duracion_ms": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "rss_un_news",
+      "nombre": "UN News",
+      "tipo": "rss",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "archivo": "agencias.yaml",
+      "categoria": "mundo",
+      "region": "Global",
+      "idioma": "en",
+      "peso": 5,
+      "activa": true,
+      "estado": "error",
+      "items": 0,
+      "duracion_ms": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "id": "rss_un_noticias_es",
+      "nombre": "Noticias ONU",
+      "tipo": "rss",
+      "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
+      "archivo": "agencias.yaml",
+      "categoria": "mundo",
+      "region": "Global",
+      "idioma": "es",
+      "peso": 5,
       "activa": true,
       "estado": "error",
       "items": 0,
@@ -1518,7 +1550,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 158,
+      "duracion_ms": 51,
       "error": null
     },
     {
@@ -1534,7 +1566,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 517,
+      "duracion_ms": 147,
       "error": null
     },
     {
@@ -1550,7 +1582,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 110,
+      "duracion_ms": 87,
       "error": null
     },
     {
@@ -1566,7 +1598,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 214,
+      "duracion_ms": 164,
       "error": null
     },
     {
@@ -1582,7 +1614,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 82,
+      "duracion_ms": 133,
       "error": null
     },
     {
@@ -1598,7 +1630,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 62,
+      "duracion_ms": 3,
       "error": null
     },
     {
@@ -1613,8 +1645,8 @@
       "peso": 5,
       "activa": true,
       "estado": "ok",
-      "items": 34,
-      "duracion_ms": 181,
+      "items": 33,
+      "duracion_ms": 129,
       "error": null
     },
     {
@@ -1630,7 +1662,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 49,
+      "duracion_ms": 243,
       "error": null
     },
     {
@@ -1645,8 +1677,8 @@
       "peso": 5,
       "activa": true,
       "estado": "ok",
-      "items": 23,
-      "duracion_ms": 250,
+      "items": 25,
+      "duracion_ms": 53,
       "error": null
     },
     {
@@ -1662,7 +1694,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 68,
+      "duracion_ms": 45,
       "error": null
     },
     {
@@ -1678,7 +1710,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 586,
+      "duracion_ms": 339,
       "error": null
     },
     {
@@ -1694,7 +1726,7 @@
       "activa": true,
       "estado": "ok",
       "items": 11,
-      "duracion_ms": 674,
+      "duracion_ms": 204,
       "error": null
     },
     {
@@ -1710,7 +1742,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 156,
+      "duracion_ms": 148,
       "error": null
     },
     {
@@ -1726,7 +1758,7 @@
       "activa": true,
       "estado": "ok",
       "items": 22,
-      "duracion_ms": 196,
+      "duracion_ms": 206,
       "error": null
     },
     {
@@ -1742,7 +1774,7 @@
       "activa": true,
       "estado": "ok",
       "items": 4,
-      "duracion_ms": 333,
+      "duracion_ms": 746,
       "error": null
     },
     {
@@ -1758,7 +1790,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 36,
+      "duracion_ms": 79,
       "error": null
     },
     {
@@ -1774,7 +1806,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 224,
+      "duracion_ms": 120,
       "error": null
     },
     {
@@ -1790,7 +1822,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 353,
+      "duracion_ms": 354,
       "error": null
     },
     {
@@ -1806,7 +1838,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 236,
+      "duracion_ms": 235,
       "error": null
     },
     {
@@ -1822,7 +1854,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 225,
+      "duracion_ms": 200,
       "error": null
     },
     {
@@ -1838,7 +1870,7 @@
       "activa": true,
       "estado": "ok",
       "items": 26,
-      "duracion_ms": 90,
+      "duracion_ms": 282,
       "error": null
     },
     {
@@ -1854,7 +1886,7 @@
       "activa": true,
       "estado": "ok",
       "items": 34,
-      "duracion_ms": 265,
+      "duracion_ms": 55,
       "error": null
     },
     {
@@ -1870,7 +1902,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 116,
+      "duracion_ms": 42,
       "error": null
     },
     {
@@ -1886,7 +1918,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 2315,
+      "duracion_ms": 2309,
       "error": null
     },
     {
@@ -1902,7 +1934,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 155,
+      "duracion_ms": 75,
       "error": null
     },
     {
@@ -1918,7 +1950,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 689,
+      "duracion_ms": 881,
       "error": null
     },
     {
@@ -1934,7 +1966,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 839,
+      "duracion_ms": 597,
       "error": null
     },
     {
@@ -1950,7 +1982,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 24,
+      "duracion_ms": 150,
       "error": null
     },
     {
@@ -1966,7 +1998,7 @@
       "activa": true,
       "estado": "ok",
       "items": 32,
-      "duracion_ms": 207,
+      "duracion_ms": 185,
       "error": null
     },
     {
@@ -1982,7 +2014,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 113,
+      "duracion_ms": 64,
       "error": null
     },
     {
@@ -1998,7 +2030,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 201,
+      "duracion_ms": 58,
       "error": null
     },
     {
@@ -2014,7 +2046,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 323,
+      "duracion_ms": 180,
       "error": null
     },
     {
@@ -2030,7 +2062,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 193,
+      "duracion_ms": 198,
       "error": null
     },
     {
@@ -2046,7 +2078,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 182,
+      "duracion_ms": 81,
       "error": null
     },
     {
@@ -2062,7 +2094,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 189,
+      "duracion_ms": 128,
       "error": null
     },
     {
@@ -2076,9 +2108,9 @@
       "idioma": "en",
       "peso": 3,
       "activa": true,
-      "estado": "ok",
-      "items": 40,
-      "duracion_ms": 300,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 163,
       "error": null
     },
     {
@@ -2094,7 +2126,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 554,
+      "duracion_ms": 587,
       "error": null
     },
     {
@@ -2110,7 +2142,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 104,
+      "duracion_ms": 122,
       "error": null
     },
     {
@@ -2126,7 +2158,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 50,
+      "duracion_ms": 48,
       "error": null
     },
     {
@@ -2142,7 +2174,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 146,
+      "duracion_ms": 357,
       "error": null
     },
     {
@@ -2158,7 +2190,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 76,
+      "duracion_ms": 63,
       "error": null
     },
     {
@@ -2174,39 +2206,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 302,
-      "error": null
-    },
-    {
-      "id": "rss_un_news",
-      "nombre": "UN News",
-      "tipo": "rss",
-      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "archivo": "agencias.yaml",
-      "categoria": "mundo",
-      "region": "Global",
-      "idioma": "en",
-      "peso": 5,
-      "activa": true,
-      "estado": "ok",
-      "items": 30,
-      "duracion_ms": 93,
-      "error": null
-    },
-    {
-      "id": "rss_un_noticias_es",
-      "nombre": "Noticias ONU",
-      "tipo": "rss",
-      "url": "https://news.un.org/feed/subscribe/es/news/all/rss.xml",
-      "archivo": "agencias.yaml",
-      "categoria": "mundo",
-      "region": "Global",
-      "idioma": "es",
-      "peso": 5,
-      "activa": true,
-      "estado": "ok",
-      "items": 30,
-      "duracion_ms": 115,
+      "duracion_ms": 170,
       "error": null
     },
     {
@@ -2222,7 +2222,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 163,
+      "duracion_ms": 185,
       "error": null
     },
     {
@@ -2237,8 +2237,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 16,
-      "duracion_ms": 10266,
+      "items": 14,
+      "duracion_ms": 9331,
       "error": null
     },
     {
@@ -2252,9 +2252,9 @@
       "idioma": "en",
       "peso": 5,
       "activa": true,
-      "estado": "sin_novedades",
-      "items": 0,
-      "duracion_ms": 193,
+      "estado": "ok",
+      "items": 40,
+      "duracion_ms": 262,
       "error": null
     },
     {
@@ -2270,7 +2270,7 @@
       "activa": true,
       "estado": "ok",
       "items": 26,
-      "duracion_ms": 159,
+      "duracion_ms": 178,
       "error": null
     }
   ]
