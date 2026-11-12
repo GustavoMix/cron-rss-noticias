@@ -7,9 +7,651 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 12 Nov 2026 11:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:55:33 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-tecnologia.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jensen Huang’s exit puts Nvidia’s support for open source in question</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
+      <description>Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:762e1575aac3f573</guid>
+      <pubDate>Thu, 12 Nov 2026 18:39:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Rebecca Bellan</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Netflix releases new trailer for Ray Gunn</title>
+      <link>https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/</link>
+      <description>"It's hard being the only honest players in a crooked game." Fuente: Ars Technica.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3cd8de882bf120d5</guid>
+      <pubDate>Thu, 12 Nov 2026 18:38:38 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Jennifer Ouellette</dc:creator>
+      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" medium="image" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn-1152x648.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Jensen Huang renuncia a Nvidia y sacude los mercados en plena carrera de la IA</title>
+      <link>https://www.france24.com/es/programas/econom%C3%ADa/20261112-jensen-huang-renuncia-a-nvidia-y-sacude-los-mercados-en-plena-carrera-de-la-ia</link>
+      <description>El director ejecutivo de Nvidia, Jensen Huang, presentó su renuncia a la compañía tecnológica después de que trascendieran deliberaciones sobre su posible salida. La incertidumbre provocó que las acciones de la fabricante de chips llegaran a desplomarse más de un 10% en la apertura de Wall Street, aunque posteriormente moderaron las pérdidas hasta cerca del 4%. Sus competidores vinculados a la inteligencia artificial registran ganancias y los principales índices bursátiles estadounidenses recuperan estabilidad. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f27e7c81d8898ca0</guid>
+      <pubDate>Thu, 12 Nov 2026 18:32:19 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <dc:creator>Juan Pablo Lucumí</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/a13d6d38-debd-11f1-a5c4-3f371022a770/w:1024/p:16x9/AP26316465276155.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/a13d6d38-debd-11f1-a5c4-3f371022a770/w:1024/p:16x9/AP26316465276155.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Outlook is down, and so is Microsoft's status page</title>
+      <link>https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/</link>
+      <description>Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 39 # Comments: 8 Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2d3c887c706658d3</guid>
+      <pubDate>Thu, 12 Nov 2026 18:20:48 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>dkpk</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+    </item>
+    <item>
+      <title>Ask HN: Microsoft/Azure Outage?</title>
+      <link>https://news.ycombinator.com/item?id=50471668</link>
+      <description>For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load. Comments URL: https://news.ycombinator.com/item?id=50471668 Points: 64 # Comments: 22 Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4ea294aa047860ff</guid>
+      <pubDate>Thu, 12 Nov 2026 18:17:13 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>nazgulsenpai</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+    </item>
+    <item>
+      <title>Show HN: AgentRun – open-source, Self-improving Managed Agents</title>
+      <link>https://github.com/Parcha-ai/agentrun/blob/main/README.md</link>
+      <description>We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations - Detailed analytics on how your agents behave You can bring your own agent. AgentRun works with Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. You can self-host it (see… Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:61fe1cd6277a6f4f</guid>
+      <pubDate>Thu, 12 Nov 2026 18:15:48 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>miguelrios</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+    </item>
+    <item>
+      <title>Verificar el código de Signal era un reto que llevaba años de trabajo de expertos. DeepMind dice que su IA lo ha hecho en un mes</title>
+      <link>https://www.xataka.com/seguridad/verificar-codigo-signal-era-reto-que-llevaba-anos-trabajo-expertos-deepmind-dice-que-su-ia-ha-hecho-mes</link>
+      <description>Google DeepMind dice que sus agentes de IA han demostrado matemáticamente que partes clave del código que está detrás del protocolo de cifrado de Signal hacen lo que se supone que deben hacer. El protocolo protege las conversaciones privadas en Signal y Google Messages, y también sustenta el cifrado de WhatsApp, tal y como comparten en Wired. La compañía lo describe como un hito en la seguridad del software, aunque los propios investigadores recalcan que es un paso en un proceso más largo. Comprobado, el protocolo funciona . La verificación formal significa usar matemáticas, en lugar de… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bc80c3a916204491</guid>
+      <pubDate>Thu, 12 Nov 2026 18:01:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>ciencia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>Antonio Vallejo</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Premios Xataka Verisure 2026: todavía puedes conseguir tus entradas (y te adelantamos una novedad)</title>
+      <link>https://www.xataka.com/xataka/premios-xataka-verisure-2026-todavia-puedes-conseguir-tus-entradas-te-adelantamos-novedad</link>
+      <description>Los Premios Xataka Verisure 2027 están a la vuelta de la esquina. En apenas unos días, el 17 de noviembre, descubriremos en una gala llena de sorpresas los mejores productos tecnológicos del año , desde el mejor coche eléctrico al mejor móvil fotográfico, pasando por el mejor router, el mejor smartwatch o la mejor freidora de aire. Es un año de muchos cambios, como salta a la vista, y uno de ellos tiene que ver con los presentadores. El tándem Joaquín Reyes y Ángela Blanco ha conducido la gala durante los últimos años, así que es el momento de darles un más que merecido descanso. Así que sí… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d93654feae2b9dac</guid>
+      <pubDate>Thu, 12 Nov 2026 18:01:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Jose García</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Show HN: Kapso – Iterative learning from enterprise data</title>
+      <link>https://news.ycombinator.com/item?id=50471281</link>
+      <description>Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-AI/kapso ), an engine that runs experiments, deploys the best solution, and learns from every run. The nature of data work is iterative: investigate, form hypotheses, experiment, and improve based on what you learn. This bottom-up process is the only way to deliver meaningful outcomes quickly in… Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8c12b9574f679e88</guid>
+      <pubDate>Thu, 12 Nov 2026 17:51:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>alireza_msh</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+    </item>
+    <item>
+      <title>El Black Friday de Sihoo deja la Doro C300 Pro V2 a precio mínimo histórico: una silla ergonómica perfecta para casa u oficina</title>
+      <link>https://www.xataka.com/seleccion/black-friday-sihoo-deja-doro-c300-pro-v2-a-precio-minimo-historico-silla-ergonomica-perfecta-para-casa-u-oficina</link>
+      <description>El Black Friday es uno de los momentos más importantes del año para hacer compras en todo tipo de dispositivos, especialmente de tecnología. No obstante, hace tiempo que todo tipo de tiendas y marcas se unieron a esta fecha. Una de ellas ha sido Sihoo , una marca que destaca especialmente por sus sillas ergonómicas . De hecho, la marca ahora mismo tiene en promoción la Sihoo Doro C300 Pro V2 . En este momento, la marca tiene disponible la silla por 484,99 euros . Pero la mejor opción está disponible en su tienda oficial, donde podemos encontrarla por 419,99 euros . Además, si usamos el cupón… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5226fabc0e5f41a0</guid>
+      <pubDate>Thu, 12 Nov 2026 17:45:22 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Fran San Nicolás</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>The Jensen Huang scandal is hardly over</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling</link>
+      <description>I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5d4dd017d082053f</guid>
+      <pubDate>Thu, 12 Nov 2026 17:44:33 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Elizabeth Lopatto</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit</title>
+      <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
+      <description>Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:898a54c22a969695</guid>
+      <pubDate>Thu, 12 Nov 2026 17:36:40 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Sarah Perez</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>En plenos escándalos de Jensen Huang, hay una guerra abierta en el Gobierno de EEUU por seguir vendiendo GPUs a China</title>
+      <link>https://www.xataka.com/empresas-y-economia/plenos-escandalos-jensen-huang-hay-guerra-abierta-gobierno-eeuu-seguir-vendiendo-gpus-a-china</link>
+      <description>Nvidia tiene tres problemas enormes y eso significa que Estados Unidos... también. Uno es el tremebundo lío que está provocando Jensen Huang con sus aventuras extramatrimoniales. Otro es buscar sustituto para Huang, ya que acaba de dimitir . El otro es que el desvío de chips de inteligencia artificial de Nvidia hacia China, pese a las restricciones, sigue dando dolores de cabeza a Washington. Además, según un informe de Axios del que se hace eco Reuters , es algo que está ocasionando un frente interno. Ni en el propio Gobierno liderado por Trump se ponen de acuerdo sobre cómo atajar el… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ca2a4cc307910e0c</guid>
+      <pubDate>Thu, 12 Nov 2026 17:31:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <dc:creator>Alejandro Alcolea</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Nvidia CEO Jensen Huang steps down, more affair details revealed</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss</link>
+      <description>Nvidia CEO Jensen Huang resigned Thursday after his extramarital affair raised national security concerns, in a spectacular downfall for the longtime head of the chipmaker, a vital player in the artificial intelligence boom. The scandal has sent shares of the multi-trillion-dollar company plunging, and the exit of Huang, who has been a key promoter of the artificial intelligence boom, leaves Nvidia without its leather-jacket-clad leader at a crucial time for the sector. Publicado también por: France 24 - English. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:11e409c2d3fdb4a5</guid>
+      <pubDate>Thu, 12 Nov 2026 17:25:58 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Medio Oriente</category>
+      <category>Europa</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://s.france24.com/media/display/13c71ad6-dead-11f1-9eba-f71d22e7fea9/w:1024/p:16x9/EN-20261112-160251-160416-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/13c71ad6-dead-11f1-9eba-f71d22e7fea9/w:1024/p:16x9/EN-20261112-160251-160416-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The amazing disappearing exoplanet</title>
+      <link>https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/</link>
+      <description>An exoplanet seems to have stopped transiting in front of its host star. Fuente: Ars Technica.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1fc4bccb86f2d52b</guid>
+      <pubDate>Thu, 12 Nov 2026 17:18:10 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>John Timmer</dc:creator>
+      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg" medium="image" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>United Airlines blocks AI agents from booking flights, citing cybersecurity risks</title>
+      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
+      <description>The airline said it will not allow customers to use AI agents to book flights and manage reservations. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2fb2c2774a19d28f</guid>
+      <pubDate>Thu, 12 Nov 2026 17:17:58 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Zack Whittaker</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Tras 40 días, fracasa en Valencia la segunda negociación por la vivienda y la acampada empieza a desalojarse</title>
+      <link>https://www.xataka.com/magnet/40-dias-fracasa-valencia-segunda-negociacion-vivienda-acampada-empieza-a-desalojarse</link>
+      <description>La acampada por la vivienda de Valencia termina hoy. Después de 40 días, sus integrantes ya están retirando las tiendas de la plaza del Ayuntamiento . El motivo inmediato es que la segunda mesa con las administraciones, que exigían como condición para irse, no salió adelante. Entre tanto dime y direte, esta es la secuencia completa de hechos y las versiones enfrentadas. Cómo empezó. Como ya documentamos , el 3 de octubre hubo manifestaciones por la vivienda en unas 50 ciudades. En Valencia la marcha acabó con cargas policiales ante el Palau de les Arts, donde se celebraba un congreso… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d502e83509f9b03f</guid>
+      <pubDate>Thu, 12 Nov 2026 17:01:26 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Medio Oriente</category>
+      <dc:creator>Isra Fdez</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Jensen Huang renunció como CEO de Nvidia tras el escándalo por su romance con una presunta espía</title>
+      <link>https://www.lanacion.com.ar/estados-unidos/jensen-huang-renuncio-como-ceo-de-nvidia-tras-el-escandalo-por-su-romance-con-una-presunta-espia-nid12112026/</link>
+      <description>De migrante a líder de la revolución tecnológica: la historia de Jensen Huang. Nacido en Taiwán y trasladado a Estados Unidos en su infancia, el fundador y CEO de NVIDIA transformó una pequeña empresa creada en 1993 en uno de los gigantes mundiales de los semiconductores y la inteligencia artificial. Su trayectoria refleja el auge de la computación, los videojuegos, la informática móvil y la IA. Sin embargo, su figura ahora se rodea de controversias por una presunta relación extramatrimonial con una ciudadana china acusada de espionaje, esto en medio de la creciente rivalidad tecnológica… Publicado también por: France 24 - Español. Fuente: La Nación - El Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6fd6d970effe2b21</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:03 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Guillermo Idiart</dc:creator>
+      <source url="https://www.lanacion.com.ar/arc/outboundfeeds/rss/category/el-mundo/">La Nación - El Mundo</source>
+      <media:content url="https://resizer.glanacion.com/resizer/v2/SJVEKXVN5JHMRLFAC3ST37Y6D4.jpg?auth=5a55e4015b2a2c64b25c00c3a1fd52862c3d9d891d91af91110aad97433f5cf1&amp;smart=true&amp;width=2000&amp;height=1333" medium="image" />
+      <enclosure url="https://resizer.glanacion.com/resizer/v2/SJVEKXVN5JHMRLFAC3ST37Y6D4.jpg?auth=5a55e4015b2a2c64b25c00c3a1fd52862c3d9d891d91af91110aad97433f5cf1&amp;smart=true&amp;width=2000&amp;height=1333" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Phota Labs uses AI to turn everyday photos into professional-looking shots</title>
+      <link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
+      <description>Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1e853c36b0c6bd75</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Aisha Malik</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>25 years later, Xbox is trying to reinvent itself again</title>
+      <link>https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad</link>
+      <description>Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:124ac7d962646f34</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Tom Warren</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>More game developers are starting to use generative AI</title>
+      <link>https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs</link>
+      <description>More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it "as part of their job," an increase from 36 percent in 2025. Usage was higher with game developers that […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ccad16f6c87def24</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Jay Peters</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>Google Wallet can finally unlock doors with digital home keys</title>
+      <link>https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout</link>
+      <description>Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone "over the coming weeks," according to Google's announcement. This was […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:933ef07b3f969e04</guid>
+      <pubDate>Thu, 12 Nov 2026 16:56:33 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Jess Weatherbed</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>En más de un año no hemos visto un descuento igual en este Apple Watch: hoy, Amazon lo tiene más barato que nunca</title>
+      <link>https://www.xataka.com/seleccion/ano-no-hemos-visto-descuento-igual-este-apple-watch-hoy-amazon-tiene-barato-que-nunca</link>
+      <description>Las tiendas están lanzando muy buenas ofertas antes del Black Friday. Amazon ha dado un pequeño adelanto de lo que veremos durante la última semana de noviembre, incluso en dispositivos de Apple como lo es el Apple Watch SE que está disponible por un precio de 289,99 euros , el precio más bajo que ha tenido la tienda hasta la fecha. Apple Watch SE 3 (GPS+Cellular) - 44 mm Hoy en Amazon — 289,99 € PcComponentes — 289,99 € El Corte Inglés — 349,00 € Reacondicionados Back Market — 247,00 € El precio podría variar. Obtenemos comisión por estos enlaces Un buen reloj para dar el salto al ecosistema… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b9d2063e4967f81f</guid>
+      <pubDate>Thu, 12 Nov 2026 16:45:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Alberto García</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry</title>
+      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
+      <description>Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c88117c0b9ed1a90</guid>
+      <pubDate>Thu, 12 Nov 2026 16:32:33 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Julie Bort</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Jensen Huang is out. What did China want from him?</title>
+      <link>https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump</link>
+      <description>Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:309896f428db5405</guid>
+      <pubDate>Thu, 12 Nov 2026 16:30:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <dc:creator>Nilay Patel</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>Cecotec reinventa su freidora de aire estrella: la nueva Cecofry&amp;Crunch cocina más rápido ocupando menos sitio en la encimera</title>
+      <link>https://www.xataka.com/seleccion/cecotec-reinventa-su-freidora-aire-estrella-nueva-cecofry-crunch-cocina-rapido-ocupando-sitio-encimera</link>
+      <description>Uno de los principales inconvenientes de las freidoras de aire de gran capacidad es el espacio que roban en la cocina: cuando buscas preparar raciones familiares de una sola tanda, te encuentras con aparatos voluminosos que apenas caben bajo los muebles altos. Para intentar resolver esto sin sacrificar potencia, la firma Cecotec ha presentado la Cecofry&amp;Crunch , una nueva familia de freidoras de aire que apuesta por motores sin escobillas y control térmico preciso para acortar tiempos de cocción y reducir dimensiones. Su precio, en estos momentos, es de 89,90 euros . Cecotec Freidora de Aire… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4345bd64b5f97251</guid>
+      <pubDate>Thu, 12 Nov 2026 16:15:26 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Fran León</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Trump floats Apple chairman Tim Cook as Jensen Huang’s successor</title>
+      <link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
+      <description>In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c995bba0daf9b908</guid>
+      <pubDate>Thu, 12 Nov 2026 16:12:44 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>América del Norte</category>
+      <dc:creator>Sarah Perez</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Whoop just launched a social network</title>
+      <link>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</link>
+      <description>Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1f260f9f8ea0acb6</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Connie Loizos</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang</link>
+      <description>Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5b56f133e7e0c7ff</guid>
+      <pubDate>Thu, 12 Nov 2026 15:48:12 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Terrence O’Brien</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>Lidl recibe la semana que viene esta afeitadora Remington con revestimiento cerámico: llega el 16 de noviembre a 11,99 euros</title>
+      <link>https://www.xataka.com/seleccion/lidl-recibe-semana-que-viene-esta-afeitadora-remington-revestimiento-ceramico-llega-16-noviembre-a-11-99-euros</link>
+      <description>Una recortadora para la barba es uno de esos dispositivos que nunca sobra en el baño o cuando nos vamos de viaje. Hay modelos con muchos rangos de precio diferentes, pero no hay que gastar una fortuna para hacernos con una este Black Friday. Lidl tiene esta recortadora Remington disponible en su página web, pero tal y como indica su catálogo , estará disponible a partir del próximo 16 de noviembre aún más barata : 11,99 euros . Recortadora de barba 'MB320C', con 11 peines guía. PVP en Lidl — 11,99 € El precio podría variar. Obtenemos comisión por estos enlaces Si prefieres comprar una ahora… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:49736022a8b67ecd</guid>
+      <pubDate>Thu, 12 Nov 2026 15:45:22 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Juan Lorente</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/</link>
+      <description>Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3b52249f9ec3c764</guid>
+      <pubDate>Thu, 12 Nov 2026 15:37:29 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Amanda Silberling</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Actualizar el PC gaming en 2026 no es barato, pero el Black Friday de PcComponentes tiene la solución para renovar CPU a buen precio</title>
+      <link>https://www.xataka.com/seleccion/actualizar-pc-gaming-2026-no-barato-black-friday-pccomponentes-tiene-solucion-para-renovar-cpu-a-buen-precio</link>
+      <description>Si en lo que llevamos de 2026 nos ha dado por intentar renovar algunos componentes de nuestro PC gaming nos habremos dado de frente contra una dura realidad: todo está por las nubes . Con mención especial a ciertas piezas, como los SSD o la memoria RAM , que no dejan de escalar y escalar desde hace un año. AMD Ryzen 7 9800X3D Hoy en Amazon — 399,90 € PcComponentes — 399,90 € Neobyte — 409,90 € Coolmod — 490,95 € El precio podría variar. Obtenemos comisión por estos enlaces En este sentido, el Black Friday que está al caer puede ser un salvavidas para nuestras carteras. Pero a falta de que… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f47dbf8575ec012a</guid>
+      <pubDate>Thu, 12 Nov 2026 15:31:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Carlos Castillo</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>A power bank that can quickly charge three gadgets is just $49</title>
+      <link>https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale</link>
+      <description>Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on the black or silver-colored models for $48.99 (originally $85.79) at Amazon. The 25,000mAh / 90Wh battery […] Fuente: The Verge.</description>
+      <guid isPermaLink="false">cron-rss-noticias:da81ee41656ad313</guid>
+      <pubDate>Thu, 12 Nov 2026 15:19:58 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Cameron Faulkner</dc:creator>
+      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
+    </item>
+    <item>
+      <title>Norwest pushes deeper into AI with new $4B fund</title>
+      <link>https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/</link>
+      <description>This is the investment firm's largest fund to date. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:cd1fa4f7ff4f4ff6</guid>
+      <pubDate>Thu, 12 Nov 2026 15:18:14 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Kirsten Korosec</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts</title>
+      <link>https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/</link>
+      <description>This is Fireworks' second data breach in as many months. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c9adf8662624bedd</guid>
+      <pubDate>Thu, 12 Nov 2026 15:02:28 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Zack Whittaker</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395</title>
+      <link>https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/</link>
+      <description>The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker. Fuente: Ars Technica.</description>
+      <guid isPermaLink="false">cron-rss-noticias:fdde2a6fb6ef03e4</guid>
+      <pubDate>Thu, 12 Nov 2026 14:50:17 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg" medium="image" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/WP_ALDEN-Carousel_Lifestyle-copy-1152x648.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El país sin mar que más se acerca a tener una costa: hizo el negocio del siglo al ceder un tramo de carretera a Ucrania antes de que llegara Rusia</title>
+      <link>https://www.xataka.com/magnet/pais-mar-que-se-acerca-a-tener-costa-hizo-negocio-siglo-al-ceder-tramo-carretera-a-ucrania-llegara-rusia</link>
+      <description>Cuando la Unión Soviética se desintegró en 1991, Moldavia se convirtió en un país independiente con un pequeño problema geográfico: tenía el mar Negro prácticamente a las puertas, pero carecía de litoral. Ocho años después, sus dirigentes encontraron una solución que pasaba por un insólito intercambio territorial con Ucrania. Moldavia cedió un trozo de carretera y recibió a cambio unos cientos de metros de ribera. Aquella operación terminaría convirtiéndose en uno de los negocios más importantes de su historia. A las puertas del mar. Encajada entre Rumanía y Ucrania, Moldavia ocupa una… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6b1b69bc1c4d8c42</guid>
+      <pubDate>Thu, 12 Nov 2026 14:44:17 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <dc:creator>Miguel Jorge</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Jensen Huang ha salvado a NVIDIA seis veces. La séptima crisis es él</title>
+      <link>https://www.xataka.com/empresas-y-economia/jensen-huang-ha-salvado-a-nvidia-seis-veces-septima-crisis</link>
+      <description>En dos semanas, el consejo de NVIDIA ha pasado de expresar su confianza en Jensen Huang a preparar su destitución . Según Bloomberg , ya está trabajando con una firma externa para encontrar candidatos y baraja nombrar a un CEO interino. Todavía no ha anunciado ninguna decisión. No tardará. Huang lleva más de tres décadas dirigiendo NVIDIA y la ha sacado del borde de la quiebra en al menos seis ocasiones. Pero esta vez el problema no es externo, es él mismo , y la empresa no tiene a nadie preparado para relevarlo. Qué ha ocurrido . El caso ha escalado en cuatro pasos: 29 de octubre . NVIDIA… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1b89136afc18cbbc</guid>
+      <pubDate>Thu, 12 Nov 2026 14:31:22 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Javier Lacort</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>The unfolding Jensen Huang scandal: a timeline</title>
+      <link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <description>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure. Publicado también por: The Hindu - International. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7e8dd410e4d3ae79</guid>
+      <pubDate>Thu, 12 Nov 2026 14:30:01 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <dc:creator>Amanda Silberling</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/bvjadl/article71681951.ece/alternates/LANDSCAPE_1200/2026-10-19T181225Z_1947160221_RC2H6OA4B07J_RTRMADP_3_GERMANY-POLITICS-MERZ-NVIDIA.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/bvjadl/article71681951.ece/alternates/LANDSCAPE_1200/2026-10-19T181225Z_1947160221_RC2H6OA4B07J_RTRMADP_3_GERMANY-POLITICS-MERZ-NVIDIA.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>El Samsung Galaxy S26+ no se pierde las ofertas previas al Black Friday: ya se puede comprar más barato</title>
+      <link>https://www.xataka.com/seleccion/samsung-galaxy-s26-no-se-pierde-ofertas-previas-al-black-friday-se-puede-comprar-barato</link>
+      <description>Quedan un par de semanas para que oficialmente se celebre el Viernes Negro del Black Friday , pero las tiendas ya han comenzado a dar buenos adelantos de ofertas en smartphones. Hoy, uno de los mejores chollos lo tenemos en el Samsung Galaxy S26+ , un móvil de gama alta que, pese a no recibir tantos descuentos como los otros dos modelos de su gama, ahora se puede comprar más barato en Amazon: por 896,22 euros . Samsung Galaxy S26+ (256 GB) PVP en Amazon — 896,22 € MediaMarkt — 1.149,00 € FNAC — 1.149,00 € Samsung — 1.149,00 € PcComponentes — 1.249,00 € Reacondicionados Back Market — 785,46 €… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c1d1aa080255bf26</guid>
+      <pubDate>Thu, 12 Nov 2026 14:15:25 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Alberto García</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Talking Zen 6 with Mike Clark at AMD In-Depth</title>
+      <link>https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at</link>
+      <description>Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 122 # Comments: 1 Fuente: Hacker News - Portada.</description>
+      <guid isPermaLink="false">cron-rss-noticias:c58055b6b3094540</guid>
+      <pubDate>Thu, 12 Nov 2026 14:12:37 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>dverlaeckt80</dc:creator>
+      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
+    </item>
+    <item>
+      <title>Huang powers and bankrolls AI revolution: Nvidia CEO caught between 'a rock and a very hard place'</title>
+      <link>https://www.france24.com/en/video/20261112-he-powers-and-bankrolls-ai-revolution-nvidia-ceo-huang-caught-between-rock-and-a-very-hard-place-1</link>
+      <description>Oliver Farry is pleased to welcome Bernard Benhamou, Secretary General of France's Institute of Digital Sovereignty. Benhamou examines the intersection of traditional espionage, geopolitical rivalry and the extraordinary concentration of power within the global AI industry. Discussing allegations surrounding Nvidia's leadership, he describes the chipmaker as "the banker of the global AI system," a striking characterization that captures the company's importance not merely as a semiconductor manufacturer, but as a central actor in the economic and technological infrastructure underpinning the… Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:dadb41e8e7286310</guid>
+      <pubDate>Thu, 12 Nov 2026 14:11:34 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/6a751712-de89-11f1-bfe8-f71d22e7fea9/w:1024/p:16x9/EN-20261112-080447-081419-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/6a751712-de89-11f1-bfe8-f71d22e7fea9/w:1024/p:16x9/EN-20261112-080447-081419-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO</title>
+      <link>https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/</link>
+      <description>Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d4678586d4352bf7</guid>
+      <pubDate>Thu, 12 Nov 2026 14:10:34 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <dc:creator>Ram Iyer, Julie Bort</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Encontró una portada renacentista en su casa de Úbeda y tras una década de litigios le han concedido un millón de euros</title>
+      <link>https://www.xataka.com/magnet/encontro-portada-renacentista-su-casa-ubeda-decada-litigios-le-han-concedido-millon-euros</link>
+      <description>Es normal que una casa guarde recuerdos, pero no que esos secretos tengan varios siglos de antigüedad y un valor que haga ganar un millón de euros al dueño de la vivienda. En la calle Cava de Úbeda, en la provincia de Jaén), un hogar ocultó durante cinco siglos un emparedado que era nada más y nada menos que un portón renacentista. Un martillo, un padre y un hijo con ganas de reformar y, tal y como informaron El País y otros muchos medios, dieron como resultado este hallazgo histórico. Y ahora, tras diez años del descubrimiento, la comisión de valoración de la Junta de Andalucía ha cifrado en… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0506bfedc0c64c08</guid>
+      <pubDate>Thu, 12 Nov 2026 14:01:26 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Isra Fdez</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Hundreds of streaming services and nothing to watch</title>
+      <link>https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/</link>
+      <description>Most viewers wish there was a TV Guide for streaming. Fuente: Ars Technica.</description>
+      <guid isPermaLink="false">cron-rss-noticias:47ffb267d5d01485</guid>
+      <pubDate>Thu, 12 Nov 2026 14:00:19 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Scharon Harding</dc:creator>
+      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" medium="image" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Who is behind Europe’s wave of bomb threats, cyberattacks?</title>
+      <link>https://www.jpost.com/international/islamic-terrorism/article-914704</link>
+      <description>“Targeting schools can maximize fear, media attention and pressure on the authorities, while involving relatively low costs and operational risks,” said intelligence expert Daniele Garofalo. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:78abbc4149fae0ea</guid>
+      <pubDate>Thu, 12 Nov 2026 13:31:43 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <dc:creator>BY GIORGIA VALENTE/THE MEDIA LINE</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+    </item>
+    <item>
+      <title>Blue quiere que dejes el iPhone por un Android con un agente de IA dentro. La gran duda es cómo pagarlo</title>
+      <link>https://www.xataka.com/telefono-movil/blue-quiere-que-dejes-iphone-android-agente-ia-dentro-gran-duda-como-pagarlo</link>
+      <description>El ecosistema de smartphones está suficientemente consolidado, es muy difícil que una nueva marca logre hacerse hueco. Pero eso no implica que los recién llegados dejen de intentarlo, sobre todo si se presentan con algo único: Blue , una startup respaldada por Y Combinator , quiere anticiparse a los grandes fabricantes con un móvil orquestado por un agente IA . Ya se puede comprar en Estados Unidos, aunque con matices. El Blue Phone . Este es un teléfono Android que admite aplicaciones del sistema operativo desde Google Play. El uso es el habitual en un smartphone, lo que cambia es el alcance… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7d8f2a72e28c2254</guid>
+      <pubDate>Thu, 12 Nov 2026 13:31:24 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <dc:creator>Iván Linares</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Escándalo de Nvidia: ¿cuál es el poder de los microchips que habrían terminado en China?</title>
+      <link>https://www.france24.com/es/programas/ciencia-y-tecnolog%C3%ADa/20261112-esc%C3%A1ndalo-de-nvidia-cu%C3%A1l-es-el-poder-de-los-microchips-que-habr%C3%ADan-terminado-en-china</link>
+      <description>China habría conseguido acceder a semiconductores avanzados de Nvidia, según reportes de inteligencia que apuntan a una presunta operación de adquisición y traslado de estos componentes al territorio chino. En el centro de las informaciones aparece Alice Huang, una empresaria china que habría comprado miles de estos chips a través de una compañía registrada en Singapur y que, según los reportes, mantendría vínculos personales con Jensen Huang, director ejecutivo de Nvidia. ¿Qué capacidad tecnológica tienen estos semiconductores y qué implicaciones podría tener su llegada a China? Analizamos… Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bc95292f08974ccb</guid>
+      <pubDate>Thu, 12 Nov 2026 13:31:07 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>Valentina T. Sánchez</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/ba6fbefa-de4a-11f1-b366-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-11NOV-CYT.png" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ba6fbefa-de4a-11f1-b366-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-11NOV-CYT.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition</title>
+      <link>https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</link>
+      <description>The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e36cd9c1967fb54f</guid>
+      <pubDate>Thu, 12 Nov 2026 13:26:25 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Kate Park</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+    </item>
+    <item>
+      <title>Este móvil incorpora una batería de nada menos que 25.500 mAh. Su pantalla tiene casi 7 pulgadas y está a la venta con un descuento</title>
+      <link>https://www.xataka.com/seleccion/este-movil-incorpora-bateria-nada-que-25-500-mah-su-pantalla-tiene-casi-7-pulgadas-esta-a-venta-descuento</link>
+      <description>Estamos viendo cómo muchos móviles incorporan batería de silicio-carbono con capacidades mucho más altas de las que veníamos viendo hasta hace un año. Pero lo cierto es que hay otros móviles que no solo superan la capacidad de estas baterías, sino que las duplican. Móviles como el Ulefone Armor 33 son grandes, pero también muy interesantes y, además, económicos. Este en concreto está disponible en Powerplanet de oferta por 349,99 euros . Ulefone Armor 33 (12 GB, 512 GB) PVP en Powerplanet — 349,99 € El precio podría variar. Obtenemos comisión por estos enlaces También tiene una buena pantalla… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1bdb331fcc79aab8</guid>
+      <pubDate>Thu, 12 Nov 2026 13:15:26 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Alberto García</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Solo quedan unos 720 ejemplares de esta ave en el mundo. Un experimento con semen congelado abre una nueva vía para salvarla</title>
+      <link>https://www.xataka.com/ecologia-y-naturaleza/solo-quedan-unos-720-ejemplares-esta-ave-mundo-experimento-semen-congelado-abre-nueva-via-para-salvarla</link>
+      <description>El rascón de Okinawa , o Hypotaenidia okinawae en su nombre científico, es un ave endémica de una isla en Japón que lleva décadas luchando contra su desaparición. Y no es para menos, puesto que la población estimada por BirdLife está situada en apenas 720 individuos y unos 480 de ellos son reproductores. Es por ello que la ciencia ha tenido que ponerse en marcha para poder incentivar el desarrollo embrionario en un laboratorio. Un nuevo avance. El protagonista de esta historia es el semen congelado, como se ha recogido en un artículo publicado recientemente en Nature , siendo el resultado de… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ffea9e37eb18ca97</guid>
+      <pubDate>Thu, 12 Nov 2026 13:01:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Asia</category>
+      <dc:creator>José A. Lizana</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Este WD de 2 TB es de los pocos SSD NVMe que compraría justo antes del Black Friday 2026</title>
+      <link>https://www.xataka.com/seleccion/este-wd-2-tb-pocos-ssd-nvme-que-compraria-justo-antes-black-friday-2026</link>
+      <description>Hace justo tres años compré un SSD NVMe de 2 TB de capacidad por algo menos de 200 euros, aprovechando una de esas ofertas previas al Black Friday de Amazon con la que conseguí ahorrarme algo de dinero. Hoy, en 2026, ese mismo SSD ronda los 500 euros. WD Blue SN5100 2 TB NVMe SSD PVP en Neobyte — 255,89 € Amazon — 284,99 € PcComponentes — 344,95 € El precio podría variar. Obtenemos comisión por estos enlaces El encarecimiento del hardware, con las memorias RAM y los SSD como máximos exponentes, hace que a día de hoy tengamos que pensarnos mucho actualizar nuestros equipos si no queremos pagar… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9c35c995f5bd8efb</guid>
+      <pubDate>Thu, 12 Nov 2026 12:45:23 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>Global</category>
+      <dc:creator>Carlos Castillo</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>BYD sitúa a España entre los países preseleccionados para su segunda fábrica en Europa</title>
+      <link>https://www.xataka.com/movilidad/byd-situa-a-espana-paises-preseleccionados-para-su-segunda-fabrica-europa</link>
+      <description>BYD ha incluido a España en la lista de preseleccionados para su próxima fábrica en Europa. Todavía queda partido, pues el fabricante de automóviles chino afirma que el proceso sigue abierto, pero las ganas del país por atraer este tipo de inversiones están ahí. Más músculo industrial . España es el segundo mayor productor de automóviles de Europa y lleva tiempo trabajando para convertir esa base industrial en un destino atractivo para las marcas chinas. BYD ha arrasado tanto en Europa, como a nivel global, por lo que una planta en España sería una gran victoria en ese aspecto. También… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:1fe1aa2f6264c3bc</guid>
+      <pubDate>Thu, 12 Nov 2026 12:40:14 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Antonio Vallejo</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Este teclado mecánico fue galardonado por PcComponentes. Renuncia a su pad numérico, pero no a una buena oferta</title>
+      <link>https://www.xataka.com/seleccion/este-teclado-mecanico-fue-galardonado-pccomponentes-renuncia-a-su-pad-numerico-no-a-buena-oferta</link>
+      <description>Que se acerca el Black Friday es algo que nos están dejando muy claro las tiendas, y es que gran parte de ellas han comenzado a lanzar sus campañas previas. PcComponentes mismamente ha publicado un enorme surtido de ofertas en periféricos de ordenador, y si estabas buscando un buen teclado mecánico, ojo con el Newskill Pyros Pro que se encuentra por 59,95 euros (antes 96,95 euros) en sus dos colores en blanco o negro. Newskill Pyros Pro PVP en PcComponentes — 59,95 € Amazon — 59,95 € MediaMarkt — 86,99 € El Corte Inglés — 96,99 € El precio podría variar. Obtenemos comisión por estos enlaces… Fuente: Xataka.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7df2970475ad93d8</guid>
+      <pubDate>Thu, 12 Nov 2026 12:15:21 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Alberto García</dc:creator>
+      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
+    </item>
+    <item>
+      <title>Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk</title>
+      <link>https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/</link>
+      <description>Apple's M6 keeps the iMac current without shaking things up much. Fuente: Ars Technica.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9efd8dc85495ecca</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:37 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Andrew Cunningham</dc:creator>
+      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
+      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" medium="image" />
+      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>New Zealand workers say AI tracking of toilet breaks forces them to ‘hold on’</title>
       <link>https://www.scmp.com/week-asia/economics/article/3374231/new-zealand-workers-say-ai-tracking-toilet-breaks-forces-them-hold</link>
@@ -247,6 +889,17 @@
       <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
       <media:content url="https://live-production.wcms.abc-cdn.net.au/c2134706f465102b12d80281266e1dca?impolicy=wcms_crop_resize&amp;cropH=1937&amp;cropW=3444&amp;xPos=208&amp;yPos=299&amp;width=862&amp;height=485" medium="image" />
       <enclosure url="https://live-production.wcms.abc-cdn.net.au/c2134706f465102b12d80281266e1dca?impolicy=wcms_crop_resize&amp;cropH=1937&amp;cropW=3444&amp;xPos=208&amp;yPos=299&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang</title>
+      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
+      <description>As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years. Fuente: TechCrunch.</description>
+      <guid isPermaLink="false">cron-rss-noticias:5f8bb21bd55c5149</guid>
+      <pubDate>Wed, 11 Nov 2026 23:28:45 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <dc:creator>Amanda Silberling</dc:creator>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
     </item>
     <item>
       <title>Jensen Huang accused of having another affair — with an Nvidia exec</title>
@@ -772,659 +1425,6 @@
       <category>Global</category>
       <dc:creator>Julie Bort</dc:creator>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Ocarina of Time is even better if you use a smartphone app</title>
-      <link>https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula</link>
-      <description>I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ed8b084c0673701c</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jay Peters</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
-      <description>Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:82fa201857a8d09b</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>ciencia</category>
-      <category>salud</category>
-      <category>Global</category>
-      <dc:creator>Robert Hart</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>¿Cuándo ha pasado el Xiaomi TV Box S 3rd Gen a costar casi el doble? Era la mejor alternativa al Fire TV Stick pero ya no lo es tanto</title>
-      <link>https://www.xataka.com/seleccion/cuando-ha-pasado-xiaomi-tv-box-s-3rd-gen-a-costar-casi-doble-era-mejor-alternativa-al-fire-tv-stick-no</link>
-      <description>Ha pasado poco más de un año desde que Xiaomi lanzó en España su TV Box S (3rd Gen) y desde entonces hemos visto una subida de precios en muchos dispositivos; buena culpa la tiene la crisis de la memoria RAM. Y este dispositivo en concreto parece que no se ha salvado, ya que en la tienda oficial de Xiaomi hemos notado un gran incremento en su precio: ahora cuesta nada menos que 119,99 euros . Xiaomi TV Box (3rd Gen) PVP en AliExpress (con cupón) — 61,74 € Powerplanet — 84,49 € PcComponentes — 84,99 € MediaMarkt — 99,99 € Xiaomi — 119,99 € El precio podría variar. Obtenemos comisión por estos… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:eec35574061ad130</guid>
-      <pubDate>Wed, 11 Nov 2026 14:45:50 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <dc:creator>Alberto García</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Durante años nos hemos obsesionado con ganar músculo. Ahora la ciencia tiene claro qué es lo que de verdad importa para envejecer bien</title>
-      <link>https://www.xataka.com/medicina-y-salud/durante-anos-nos-hemos-obsesionado-ganar-musculo-ahora-ciencia-tiene-claro-que-que-verdad-importa-para-envejecer-bien</link>
-      <description>Durante mucho tiempo, la imagen de la salud muscular ha estado muy ligada al volumen que se tenía en diferentes partes del cuerpo. Y desde la cultura del fitness hasta las recomendaciones médicas más tradicionales, el mensaje parecía claro: para no envejecer de forma frágil, había que mantener la masa muscular. Sin embargo, este concepto va cambiando en los últimos años para darle mucho más peso a la fuerza que se puede ejercer. El cambio de paradigma. El deterioro físico asociado a la edad se ha diagnosticado a través de la sarcopenia, un concepto que tradicionalmente ponía el foco en la… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0aa82d9d22834ab2</guid>
-      <pubDate>Wed, 11 Nov 2026 14:31:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>José A. Lizana</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Cinco móviles de oferta en AliExpress para aprovechar el 11 del 11 con marcas de Xiaomi, Honor y más</title>
-      <link>https://www.xataka.com/seleccion/cinco-moviles-oferta-aliexpress-para-aprovechar-11-11-marcas-xiaomi-honor</link>
-      <description>Quedan unas horas para que AliExpress finalice su promo del 11 del 11 , una campaña anual de ofertas donde solemos encontrar muy buenos precios en móviles . Por esta razón, en este artículo hemos reunido cinco de los mejores chollos que están ahora mismo disponibles, junto con sus respectivos cupones. Poco X8 Pro Max 5G por 304,49 euros , un móvil con buena batería y pantalla con resolución 1.5K. Redmi Note 17 Pro 5G por 200,14 euros , un modelo económico y con una batería enorme. Honor Magic 8 Elite 5G por 221,94 euros , un teléfono bonito, con buena pantalla y una buena batería. Realme 16… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:64f832e1f4462715</guid>
-      <pubDate>Wed, 11 Nov 2026 14:15:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Alberto García</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Google DeepMind just mathematically verified key parts of Signal</title>
-      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
-      <description>The four-week project hints that AI could make formal verification far more practical. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c234596f9f79d10c</guid>
-      <pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Lily Hay Newman, wired.com</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A pesar de estar en una lista negra de Estados Unidos, una universidad china compró chips Nvidia</title>
-      <link>https://www.france24.com/es/programas/revista-de-prensa/20261111-a-pesar-de-estar-en-una-lista-negra-de-estados-unidos-una-universidad-china-compr%C3%B3-chips-nvidia</link>
-      <description>En 'Revista de Prensa' analizamos nuevos capitulos del escándalo desatado en 'Nvidia', la tecnológica cuyo dueño Jensen Huang, habría sido objeto de una operación de espionaje de Beijing, según Estados Unidos. Ahora, la agencia 'Reuters' asegura que una universidad china compró chips de inteligencia artificial de forma indirecta a Nvidia a pesar de las restricciones de exportación de Washington. De su lado, el 'Wall Street Journal' refleja la creciente presión para limitar este comercio tecnológico al mundo. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:391c732bede2d73f</guid>
-      <pubDate>Wed, 11 Nov 2026 14:08:56 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <dc:creator>Dacil Lanza</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/64fa6746-ddd6-11f1-a2c7-f71d22e7fea9/w:1024/p:16x9/ES-20261111-081440-082201-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/64fa6746-ddd6-11f1-a2c7-f71d22e7fea9/w:1024/p:16x9/ES-20261111-081440-082201-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Un vecino de Salamanca se puso a lanzar bolas de papel mojado desde un sexto piso. Ahora se enfrenta a una multa publicada en el BOE</title>
-      <link>https://www.xataka.com/magnet/vecino-salamanca-se-puso-a-lanzar-bolas-papel-mojado-sexto-piso-ahora-se-enfrenta-a-multa-publicada-boe</link>
-      <description>Todavía recuerdo las clases donde más de uno y más de dos mojaban una bolita de papel, la introducían en el tubo vacío de un boli y, a modo de cerbatana, la proyectaban sobre el cuello o la mochila de algún cándido estudiante que ni sabía por dónde le había llegado el ataque. Ahora imagina esto a escala más “industrial”. Hace un par de meses, una patrulla de la Policía Local de Salamanca vio a alguien lanzar bolas de papel mojado desde la terraza de un sexto piso. Las bolas caían cerca de la terraza de un bar y salpicaban. Ahí quedó la cosa, ¿no? No: semanas más tarde, el Ayuntamiento publicó… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9d6a451965ebbd20</guid>
-      <pubDate>Wed, 11 Nov 2026 14:01:50 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Isra Fdez</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</title>
-      <link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</link>
-      <description>Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e80c081dbbfdc9b0</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Tim Fernholz</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</title>
-      <link>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</link>
-      <description>It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:23205f9bb4cfbb52</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Cameron Faulkner</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
-      <link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
-      <description>Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:cdbf381c9b9fc54d</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jess Weatherbed</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Microsoft promete hasta un 40% más de velocidad en los Windows 11 con solo 8 GB de RAM</title>
-      <link>https://www.xataka.com/ordenadores/microsoft-promete-40-velocidad-windows-11-solo-8-gb-ram</link>
-      <description>Durante las últimas dos décadas, la receta de Microsoft para hacer que Windows tuviera un comportamiento más fluido era sencilla: instalar más memoria RAM. Sin embargo, cuando la memoria RAM se ha convertido en un bien tan escaso (y sobre todo, caro. Carísimo ), a Microsoft no le ha quedado más remedio que hacer lo que tenían que haber hecho desde el principio: optimizar el uso de recursos de Windows. Por eso, Microsoft ha admitido que les ha tocado arremangarse para resolverlo, haciendo que Windows sea capaz de funcionar de forma más fluida en equipos con 8 GB de RAM. Más datos en RAM, menos… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d6e7459ea83ac2ee</guid>
-      <pubDate>Wed, 11 Nov 2026 13:31:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <dc:creator>Rubén Andrés</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Solo hoy puedes llevarte (en el Single Day de MediaMarkt) esta PS Portal por apenas 180 euros</title>
-      <link>https://www.xataka.com/seleccion/solo-hoy-puedes-llevarte-single-day-mediamarkt-esta-ps-portal-apenas-180-euros</link>
-      <description>Aunque el 11.11 de AliExpress es una de las campañas más esperadas hoy, MediaMarkt ha decidido contraatacar y está celebrando su propio Single Day hasta mañana a las 9 de la mañana. Uno de los chollos más atractivos que hemos encontrado (sobre todo para los usuarios que juegan en PS5) es la PlayStation Portal , que ahora puedes llevártela por 180,96 euros , alcanzando así su precio mínimo histórico. PlayStation Portal PVP en MediaMarkt (PVP en carrito) — 180,96 € FNAC — 242,00 € El Corte Inglés — 249,90 € PcComponentes — 249,99 € Xtralife — 249,99 € El precio podría variar. Obtenemos comisión… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:274bfb324e7e7de3</guid>
-      <pubDate>Wed, 11 Nov 2026 13:31:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Los cinco chollos de Xiaomi en el 11.11 de AliExpress que merecen la pena: smart TVs, móviles y más</title>
-      <link>https://www.xataka.com/seleccion/cinco-chollos-xiaomi-11-11-aliexpress-que-merecen-pena-smart-tvs-moviles</link>
-      <description>AliExpress está celebrando hoy el 11.11 (y en Xataka lo estamos siguiendo en este directo ), el conocido popularmente como el Día de los Solteros, una jornada de compras con buenos descuentos previa al popular Black Friday . Si estás pensando en renovar algunos de tus dispositivos, te mostramos los cinco mejores chollos en productos Xiaomi que hemos encontrado hoy, 11 de noviembre. Smartphone Xiaomi Poco X8 Pro Max por 382,01 euros : de 6,83 pulgadas y con 512 GB. Smart TV Xiaomi S Mini 55 (2025) por 340,59 euros : QD-MiniLED de 55 pulgadas y con Google TV. Localizador Xiaomi Tag por 11,42… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:92e8a2ed4cb47e73</guid>
-      <pubDate>Wed, 11 Nov 2026 13:15:46 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>I asked every TV manufacturer 17 questions about how they spy on you</title>
-      <link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
-      <description>Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be […] Publicado también por: Hacker News - Portada. Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:911bfadc9d54ea24</guid>
-      <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>John Higgins</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Not everyone is loving their new iPhone Duo</title>
-      <link>https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps</link>
-      <description>For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:da98a056652fa48d</guid>
-      <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Allison Johnson</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>MediaMarkt dedica sus Ofertas del Día a Apple: un iPad y un iPhone Pro muy rebajados como adelanto del Black Friday</title>
-      <link>https://www.xataka.com/seleccion/mediamarkt-dedica-sus-ofertas-dia-a-apple-ipad-iphone-pro-muy-rebajados-como-adelanto-black-friday</link>
-      <description>MediaMarkt tiene una sección llamada Ofertas del Día en la que, diariamente, lanza algunas ofertas bastante interesantes; de hecho, algunas de las mejores de la tienda suelen dejarse ver por esta sección. Y hoy, a falta de unas semanas para la llegada del Black Friday, ha lanzado dos buenos descuentos en dispositivos de Apple: iPad (11ª Gen) por 579 euros . iPhone 17 Pro por 1.199 euros . iPhone 17 Pro (256 GB) PVP en MediaMarkt — 1.199,00 € El Corte Inglés — 1.199,00 € PcComponentes — 1.319,00 € Reacondicionados Back Market — 946,00 € El precio podría variar. Obtenemos comisión por estos… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:15230ebd8814c989</guid>
-      <pubDate>Wed, 11 Nov 2026 12:31:48 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Alberto García</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Ya es oficial: el nuevo router Mini 2 de Starlink ahora promete WiFi vía satélite sin estar conectado a la corriente</title>
-      <link>https://www.xataka.com/servicios/oficial-nuevo-router-mini-2-starlink-ahora-promete-wifi-via-satelite-estar-conectado-a-corriente</link>
-      <description>El pasado verano, Starlink presentó su nueva antena V5 , y hace unas semanas, anunció la siguiente generación de su router, el router 4 , cuya principal novedad es que trae a bordo un chipset WiFi 7. Todo indicaba que el siguiente paso de la compañía sería renovar su router de viaje. Y así ha sido. Starlink ha presentado oficialmente el nuevo router portátil Mini 2, un equipo pensado mantenerse conectado mientras viajas , independientemente de lo remoto que sea tu destino. Esta nueva generación mantiene el tamaño compacto y el diseño resistente a las inclemencias meteorológicas del router… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:c5e98795860fec2d</guid>
-      <pubDate>Wed, 11 Nov 2026 12:31:48 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <dc:creator>Laura Sacristán</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>In US or China, firms need AI they can independently verify and trust</title>
-      <link>https://www.scmp.com/opinion/world-opinion/article/3373829/us-or-china-firms-need-ai-they-can-independently-verify-and-trust</link>
-      <description>When the Magnificent Seven, America’s top tech companies, shed more than US$1 trillion in a single trading session, the usual question returned: is artificial intelligence (AI) a bubble? Yet as global headlines are transfixed by the personal and governance crises shaking Silicon Valley’s titan icons, that debate is already stale. Separate technology from stock prices and a harder truth emerges: multitrillion-dollar empires cannot merely survive on founder mythology and self-policing. The public... Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:53f2634541e0458e</guid>
-      <pubDate>Wed, 11 Nov 2026 12:30:07 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Asia</category>
-      <dc:creator>Ruby Tong</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/d609153c-8865-4cb2-a6c2-18b91e6e701b_966d792b.jpg?itok=2Do_JA77&amp;v=1794365896" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/d609153c-8865-4cb2-a6c2-18b91e6e701b_966d792b.jpg?itok=2Do_JA77&amp;v=1794365896" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Serve Robotics wants to democratize sidewalk delivery robots</title>
-      <link>https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery</link>
-      <description>Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8060cbde067032f2</guid>
-      <pubDate>Wed, 11 Nov 2026 12:30:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>Andrew J. Hawkins</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Apple is killing its Support Community forum next week</title>
-      <link>https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</link>
-      <description>It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7e0ae6df31b8bd0a</guid>
-      <pubDate>Wed, 11 Nov 2026 12:19:10 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jess Weatherbed</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h</title>
-      <link>https://pietromiotti.com/latest/maya-site/</link>
-      <description>Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 273 # Comments: 112 Fuente: Hacker News - Portada.</description>
-      <guid isPermaLink="false">cron-rss-noticias:537476634db87a8e</guid>
-      <pubDate>Wed, 11 Nov 2026 12:05:22 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>ciencia</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>eyvindn</dc:creator>
-      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
-    </item>
-    <item>
-      <title>La solución con la que llevar Internet a cualquier rincón de casa que hemos encontrado en el Black Friday anticipado de Amazon</title>
-      <link>https://www.xataka.com/seleccion/solucion-que-llevar-internet-a-cualquier-rincon-casa-que-hemos-encontrado-black-friday-anticipado-amazon</link>
-      <description>Luchar contra las zonas muertas del WiFi en casas de varias plantas, con muros gruesos o con pasillos largos es una constante cuando dependemos únicamente del router básico que instalan las operadoras de telefonía. Los repetidores tradicionales suelen ofrecer una conexión inestable que reduce drásticamente la velocidad, pero las redes WiFi Mesh han llegado para cambiar las reglas del juego. Con motivo del Black Friday anticipado de Amazon, ahora puedes llevarte el Amazon eero 6+ con un 40% de descuento. Su precio recomendado es de 149,99 euros, pero ahora está disponible por 89,99 euros en su… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7873961785d4bf9d</guid>
-      <pubDate>Wed, 11 Nov 2026 12:01:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Seagate revive los discos híbridos con el FireCuda Forge: combina un HDD de hasta 20 TB con un SSD que corre de tu cuenta</title>
-      <link>https://www.xataka.com/componentes/seagate-firecuda-forge-ficha-tecnica-caracteristicas-fotos-precio-fecha</link>
-      <description>Seagate ha lanzado una unidad externa con la particularidad de que combina un disco duro de gran capacidad con un SSD rápido que tú mismo tienes que introducir. El objetivo es que cuando conectes esta unidad combinada, tu PC la considere como una sola unidad externa, utilizando el SSD para agilizar las transferencias. La idea no es nueva, pero viendo como están los precios últimamente por el auge de la IA generativa , tiene sentido que el fabricante reviva dispositivos similares. Seagate FireCuda Forge, ficha técnica Seagate FireCuda Forge Tipo de unidad Disco duro externo de sobremesa con… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0ed9b6f0a5252f23</guid>
-      <pubDate>Wed, 11 Nov 2026 11:45:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Antonio Vallejo</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Sólo hoy en MediaMarkt, este portátil gaming con RTX 5070, 16" y doble descuento es un chollo que se adelanta al Black Friday</title>
-      <link>https://www.xataka.com/seleccion/solo-hoy-mediamarkt-este-portatil-gaming-rtx-5070-16-doble-descuento-chollo-que-se-adelanta-al-black-friday</link>
-      <description>El Black Friday está a la vuelta de la esquina, en un año en el que cobra más importancia que nunca para ahorrarnos lo máximo posible en un contexto, como es el actual, en el que todo sube de PVP sin parar . Pero ni siquiera hace falta esperarse a entonces para aprovechar descuentazos, porque hoy (11 de noviembre) muchas tiendas están celebrando el Single's Day . Asus TUF A16 PVP en MediaMarkt — 1.075,62 € Amazon — 1.699,99 € El precio podría variar. Obtenemos comisión por estos enlaces AliExpress y MediaMarkt son algunas de ellas y tienen muy buenas ofertas en toda clase de dispositivos, a… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:25dc580745e5d39e</guid>
-      <pubDate>Wed, 11 Nov 2026 11:31:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Carlos Castillo</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Indexa, ganadora del Premio Xataka especial a la mejor empresa tecnológica española de 2026: la democratización de las finanzas</title>
-      <link>https://www.xataka.com/xataka/indexa-ganadora-premio-xataka-especial-a-mejor-empresa-tecnologica-espanola-2026-democratizacion-finanzas</link>
-      <description>El próximo 17 de noviembre celebraremos una nueva edición de los Premios Xataka 2026 . Como todos los años, la gala premiará los mejores productos tecnológicos del año y entregará dos galardones honoríficos: el Premio Xataka Leyenda para Jimmy Wales , fundador de la Wikipedia, y el Premio Xataka especial a la mejor empresa tecnológica española de 2026. Si el año pasado se lo entregamos a Freepik , hoy Magnific, en esta ocasión es el turno de Indexa Capital . Quienes durante los últimos diez años hayan estado familiarizados con la inversión financiera conocerán perfectamente los logros de… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:113b29d6849b1419</guid>
-      <pubDate>Wed, 11 Nov 2026 11:31:48 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Andrés P. Mohorte</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>EU ready for 'united response' after France blames Iran for fridge hacks</title>
-      <link>https://www.france24.com/en/eu-ready-for-united-response-after-france-blames-iran-for-fridge-hacks</link>
-      <description>The EU said Tuesday it would look to provide a "swift and united response" after France blamed Iran for a cyberattack on hundreds of supermarket fridges. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:64795790004d68a2</guid>
-      <pubDate>Wed, 11 Nov 2026 11:16:36 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/be4cb28e-ddb0-11f1-b909-695cb59fade5/w:1024/p:16x9/EN-20261111-081243-081432-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/be4cb28e-ddb0-11f1-b909-695cb59fade5/w:1024/p:16x9/EN-20261111-081243-081432-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>AliExpress celebra el 11 del 11 con todos estos chollos en consolas, televisores, móviles y más</title>
-      <link>https://www.xataka.com/seleccion/aliexpress-celebra-11-11-todos-estos-chollos-consolas-televisores-moviles</link>
-      <description>AliExpress está celebrando su habitual campaña previa al Black Friday, la promo del 11 del 11 con ofertas en todo tipo de productos. Hay bastante donde elegir y muchos cupones que podemos aprovechar, por lo que en este artículo vamos a repasar algunos de los mejores chollos que están ya disponibles. Nintendo Switch 2 por 459,35 euros , la consola junto con un videojuego y una suscripción. Xiaomi TV Box S 3rd Gen por 61,74 euros , un dispositivo ideal para disfrutar de contenido en streaming. Sony WH-1000XM6 por 236,39 euros , unos auriculares de gama alta con una excelente cancelación activa… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:181406455e27bf2b</guid>
-      <pubDate>Wed, 11 Nov 2026 11:15:48 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Alberto García</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>El escándalo de Jensen Huang iba a ser un problema para Jensen Huang. Va a acabar siendo un problema para los chips de NVIDIA</title>
-      <link>https://www.xataka.com/empresas-y-economia/escandalo-jensen-huang-iba-a-ser-problema-para-jensen-huang-va-a-acabar-siendo-problema-para-chips-nvidia</link>
-      <description>El escándalo de espionaje que rodea a Jensen Huang está inclinando contra NVIDIA la pelea por los chips en el Congreso . Lo curioso es lo que podría salir de ahí. La medida con más opciones de aprobarse no toca a Huang, sino a sus chips, que tendrían que poder decir en todo momento dónde están. Qué ha ocurrido . Todo empezó cuando The New York Times contó que el espionaje chino tenía a Huang en el punto de mira . Días después él mismo admitió una relación extramatrimonial con Alice Huang, exdirectiva de la empresa singapurense Megaspeed. Según Trump, el FBI ya está investigando . Entre líneas… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:518741e672127ecb</guid>
-      <pubDate>Wed, 11 Nov 2026 11:01:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>América del Norte</category>
-      <dc:creator>Javier Lacort</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>MediaMarkt celebra el Single Day dejado este Google Pixel a menos de 390 euros</title>
-      <link>https://www.xataka.com/seleccion/mediamarkt-celebra-single-day-dejado-este-google-pixel-a-390-euros</link>
-      <description>El Single Day (11/11) se ha consolidado como una de las grandes citas de compras previas al Black Friday y la campaña navideña, y las mejores ofertas suelen agotarse en cuestión de horas. Entre los chollos más destacados de esta jornada en tecnología, MediaMarkt ha dejado el Google Pixel 10a a precio mínimo ( 389,22 euros ), convirtiéndolo en una buena opción dentro de la gama media-alta. Google Pixel 10a - 128GB PVP en MediaMarkt (PVP en carrito) — 389,22 € Amazon — 499,00 € El precio podría variar. Obtenemos comisión por estos enlaces Fotografía de nivel profesional, pantalla fluida y… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:17cb5f593b6008b1</guid>
-      <pubDate>Wed, 11 Nov 2026 10:01:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Southeast Asian live streamers hustle to fuel booming e-commerce sales</title>
-      <link>https://www.scmp.com/week-asia/lifestyle-culture/article/3374070/southeast-asian-live-streamers-hustle-fuel-booming-e-commerce-sales</link>
-      <description>In a makeshift studio inside his public housing flat in Singapore, Shane Soh stands before his smartphone, running his fingers through a towel as he extols its softness to viewers watching his live stream. A ring light illuminates his face while more than a dozen other products sit on a shelf behind him, waiting for their moment on camera. “Don’t just buy one towel today, but get bedsheets as well. It’s perfect for Hari Raya or Christmas, and the thread count is 1,800 … It’s the best kind of... Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6196591a9bcfbafb</guid>
-      <pubDate>Wed, 11 Nov 2026 10:00:11 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Asia</category>
-      <dc:creator>Kolette Lim</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/34cf8cc8-d1a6-436b-9951-46f275707dc2_a59e177e.jpg?itok=wBUHrkZP&amp;v=1794388877" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/34cf8cc8-d1a6-436b-9951-46f275707dc2_a59e177e.jpg?itok=wBUHrkZP&amp;v=1794388877" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>El Single's Day de MediaMarkt acaba en menos de 24 horas: cinco de sus mejores ofertas en teles, portátiles, móviles y más</title>
-      <link>https://www.xataka.com/seleccion/single-s-day-mediamarkt-acaba-24-horas-cinco-sus-mejores-ofertas-teles-portatiles-moviles</link>
-      <description>El 11 de noviembre es conocido como el Día del Soltero (o Single's Day) y no son pocas las tiendas que lanzan alguna campaña de descuentos temporal. Ayer mismo os hablábamos de Samsung y en esta ocasión toca hablar de MediaMarkt, que tiene un buen montón de ofertas en tecnologías que merecen mucho la pena. Eso sí: solo hasta mañana a las 9 de la mañana . Google Pixel 11 - Smartphone Android libre - Obsidiana, 256GB | Con Gemini Intelligence, batería de más de 30 horas y pantalla Super Actua de 6,3" PVP en MediaMarkt (con descuentos) — 692,64 € El Corte Inglés — 799,90 € Amazon — 999,00 € El… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e2380b7350c630d7</guid>
-      <pubDate>Wed, 11 Nov 2026 09:45:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Juan Lorente</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>MediaMarkt tiene a precio de outlet esta tele Hisense con pantalla antirreflejos, hasta 165 Hz y Dolby Vision IQ</title>
-      <link>https://www.xataka.com/seleccion/mediamarkt-tiene-a-precio-outlet-esta-tele-hisense-pantalla-antirreflejos-165-hz-dolby-vision-iq</link>
-      <description>MediaMarkt sigue lanzando campañas y ofertas por el Black Friday en la tienda principal con descuentos bastante llamativos en un enorme surtido de dispositivos. En cuanto a teles, una de las más interesantes es la de la Hisense U7S Pro , que ahora se puede comprar por 729 euros . Hisense U7S Pro (65 pulgadas) PVP en MediaMarkt — 729,00 € Amazon — 729,00 € El Corte Inglés — 796,00 € El precio podría variar. Obtenemos comisión por estos enlaces También es compatible con HDR10+ y Dolby Atmos La Hisense U7S Pro es una smart TV MiniLED que se puede comprar a este precio en su configuración con… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ccc2534b7a0564c2</guid>
-      <pubDate>Wed, 11 Nov 2026 09:15:49 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Alberto García</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Ninja tiene una cafetera superautomática 3 en 1 que ahora puedes comprar con más de 200 euros de descuento</title>
-      <link>https://www.xataka.com/seleccion/ninja-tiene-cafetera-superautomatica-3-1-que-ahora-puedes-comprar-200-euros-descuento</link>
-      <description>Encontrar una única cafetera que sea capaz de complacer tanto a los amantes del espresso intenso por la mañana como a quienes prefieren un café helado o preparar un termo grande de café de filtro para llevar al trabajo no es tarea sencilla. Un modelo que resuelve esto es la Ninja Luxe Premier , una cafetera superautomática 3 en 1 que combina la extracción inteligente con molinillo integrado y que, ahora, en Amazon, ha pasado a costar 311,21 euros frente a los 549,99 euros que tiene de PVP recomendado. Ninja Luxe Premier, Cafetera 3 en 1, con Molinillo y Espumador Hoy en Amazon — 311,21 €… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e5a78c8853bd2bb2</guid>
-      <pubDate>Wed, 11 Nov 2026 08:50:17 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Chollo en Nintendo Switch 2 antes del Black Friday: aquí, con casi 150 euros de descuento frente a su nuevo PVP</title>
-      <link>https://www.xataka.com/seleccion/chollo-nintendo-switch-2-antes-black-friday-aqui-casi-150-euros-descuento-frente-a-su-nuevo-pvp</link>
-      <description>En apenas unos días tendrá lugar el Black Friday de 2026 que, como cada año, esperamos suponga la llegada de las mejores ofertas de los últimos meses . Lo que en esta ocasión tendrá aún más importancia de lo habitual, teniendo en cuenta que muchas compañías han subido el PVP de muchos de sus productos. Nintendo Switch 2 PVP en AliExpress — 359,47 € Amazon — 449,00 € MediaMarkt — 449,00 € Carrefour — 499,00 € El Corte Inglés — 499,90 € PcComponentes — 499,98 € Nintendo Store — 499,99 € El precio podría variar. Obtenemos comisión por estos enlaces Una de ellas es Nintendo, que desde septiembre… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7a23c76839bfefb1</guid>
-      <pubDate>Wed, 11 Nov 2026 08:41:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Carlos Castillo</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Nvidia’s crisis has corporate governance experts reaching for the popcorn</title>
-      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
-      <description>The governance experts we talked to say nobody has seen anything like what's unfolding right now. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a7bd4db9faf6079b</guid>
-      <pubDate>Wed, 11 Nov 2026 07:30:51 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Connie Loizos</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Hoy en Action (por 16,77 euros): la bomba de aire inalámbrica 3 en 1 de Grundig para llevar siempre en el coche</title>
-      <link>https://www.xataka.com/seleccion/hoy-action-16-77-euros-bomba-aire-inalambrica-3-1-grundig-para-llevar-siempre-coche</link>
-      <description>Tener a mano una solución rápida para ajustar la presión de los neumáticos antes de salir a la carretera, hinchar la rueda de la bicicleta o inflar un colchón de camping suele requerir herramientas aparatosas o pasar por la gasolinera. Para resolver esta necesidad con un dispositivo compacto y asequible, la cadena de tiendas Action tiene rebajada desde hoy (y hasta el próximo 17 de noviembre) esta bomba de aire inalámbrica 3 en 1 de Grundig , que pasa de su precio habitual a quedarse en 16,77 euros . Si no tienes cerca una tienda Action o cuando vayas está agotada, en Amazon tienes este… Fuente: Xataka.</description>
-      <guid isPermaLink="false">cron-rss-noticias:baf1806f77a48e23</guid>
-      <pubDate>Wed, 11 Nov 2026 06:31:48 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Fran León</dc:creator>
-      <source url="https://www.xataka.com/feedburner.xml">Xataka</source>
-    </item>
-    <item>
-      <title>Show HN: Black Ops II statically recompiled to native ARM64 macOS</title>
-      <link>https://github.com/adrbn/bo2-mac</link>
-      <description>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam… Fuente: Hacker News - Portada.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e79dc0ddfe93abff</guid>
-      <pubDate>Wed, 11 Nov 2026 04:56:47 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>adrbn</dc:creator>
-      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
-    </item>
-    <item>
-      <title>China dad modifies TV to quiz son on school subjects every 10 minutes to curb screen addiction</title>
-      <link>https://www.scmp.com/news/people-culture/trending-china/article/3374007/china-dad-modifies-tv-quiz-son-school-subjects-every-10-minutes-curb-screen-addiction</link>
-      <description>A father in southern China used artificial intelligence (AI) to modify his home TV system and tackle his son’s TV addiction. The system requires the boy to answer academic questions every 10 minutes to continue watching. His method has gone viral on mainland Chinese social media, with many parents asking him to share a tutorial on modifying their TV sets, Shenzhen TV reported. The father, from Shenzhen, was not named in the report. He said that while he works as a taxi driver, his son, a junior... Fuente: South China Morning Post.</description>
-      <guid isPermaLink="false">cron-rss-noticias:46091cf29f5280cb</guid>
-      <pubDate>Wed, 11 Nov 2026 02:11:27 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Asia</category>
-      <dc:creator>Alice Yan</dc:creator>
-      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/66509d77-703a-4df8-9ba0-7fb9ac016be0_ff09bb6b.jpg?itok=jHkB0xg_&amp;v=1794363071" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/66509d77-703a-4df8-9ba0-7fb9ac016be0_ff09bb6b.jpg?itok=jHkB0xg_&amp;v=1794363071" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>X launches its own clipping feature to spur influencer engagement</title>
-      <link>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</link>
-      <description>X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d142b06e467b8480</guid>
-      <pubDate>Wed, 11 Nov 2026 01:02:13 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Lucas Ropek</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</title>
-      <link>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</link>
-      <description>Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1791294558a85400</guid>
-      <pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jay Peters</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Seagate's new hybrid drive raises some old questions</title>
-      <link>https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/</link>
-      <description>The FireCuda Forge revisits an old idea, with some familiar questions. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:aed0bd559f2b13f0</guid>
-      <pubDate>Tue, 10 Nov 2026 23:30:56 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Nick Indge</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>EDUCAÇÃO | O Ministério da Educação (MEC) criou, nesta terça-feira, diretrizes para o uso da inteligência artificial para todas etapas da educação brasileira. Aprovação... Ver más</title>
-      <link>https://www.facebook.com/jornaloglobo/posts/pfbid02bBGSkozrv9C7wJfFpcgs4yFf6dqkJ3zs5Checi3JA9sG5t7mdxbTgikvPNJuW17jl?__cft__%5B0%5D=AZgtl6bbCYul6sBpgF7rCDbqTWSVzi5S9Uo_PYhWVongZyZYjcLqo1Re9XHKwOdAPNBNZFZwPW-ALkIefuso2db8euDjBvBVyh3XV0TM6ywu-T436yxV57GNImyRiCmr79Div4YxumGuevRX1-nFhbr7BtHSW8oRgrkxZWrkV3cOrNv_4f1uFrEltec&amp;__tn__=%2CO%2CP-R</link>
-      <description>Fuente: O Globo.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5116176c1d4cfd13</guid>
-      <pubDate>Tue, 10 Nov 2026 23:01:08 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>América Latina</category>
-      <source url="https://www.facebook.com/jornaloglobo/">O Globo</source>
-      <media:content url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/903795928_2610200612820822_3247626495229402830_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1T_ZbhabTqkQ7kNvwGLhYE2&amp;_nc_oc=Ado5DdxT2RKCZDvGeaTQVaUjqTJiVB7ycogm5xKZfsdUZHtLcDETr6EvdF0c5-NtCos&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=W8wiUsxgNaIZcR9pyJ5nAQ&amp;_nc_ss=7f289&amp;oh=00_AQT5hr3nHbius1K0rm5X3GlWsliMwG1eMn9n5iYLusMv2w&amp;oe=6AF990EC" medium="image" />
-      <enclosure url="https://scontent-iad3-2.xx.fbcdn.net/v/t39.99422-6/903795928_2610200612820822_3247626495229402830_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=1T_ZbhabTqkQ7kNvwGLhYE2&amp;_nc_oc=Ado5DdxT2RKCZDvGeaTQVaUjqTJiVB7ycogm5xKZfsdUZHtLcDETr6EvdF0c5-NtCos&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-2.xx&amp;_nc_gid=W8wiUsxgNaIZcR9pyJ5nAQ&amp;_nc_ss=7f289&amp;oh=00_AQT5hr3nHbius1K0rm5X3GlWsliMwG1eMn9n5iYLusMv2w&amp;oe=6AF990EC" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Ring cameras go mobile as Amazon debuts AI-powered security drone and robot</title>
-      <link>https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/</link>
-      <description>Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:342d660f932b3299</guid>
-      <pubDate>Tue, 10 Nov 2026 22:35:01 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jeremy Hsu</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The VR Disney Plus app on Meta Quest now has 3D movies</title>
-      <link>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</link>
-      <description>Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e59f7c552110382f</guid>
-      <pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jay Peters</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/</link>
-      <description>Democrats accuse FCC nominee of evading questions about Carr, her current boss. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fa35fbf11c4be38d</guid>
-      <pubDate>Tue, 10 Nov 2026 21:55:26 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jon Brodkin</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
-      <link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
-      <description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […] Fuente: The Verge.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4fc0fc1e9bc68f4a</guid>
-      <pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>economia</category>
-      <category>Global</category>
-      <dc:creator>Stevie Bonifield</dc:creator>
-      <source url="https://www.theverge.com/rss/index.xml">The Verge</source>
-    </item>
-    <item>
-      <title>Apple has new Mac app coming to make running local AI models easy</title>
-      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
-      <description>Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 365 # Comments: 365 Fuente: Hacker News - Portada.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ec0f6fd490d194e0</guid>
-      <pubDate>Tue, 10 Nov 2026 21:25:03 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>conflictos</category>
-      <category>Global</category>
-      <dc:creator>linolevan</dc:creator>
-      <source url="https://hnrss.org/frontpage">Hacker News - Portada</source>
-    </item>
-    <item>
-      <title>OpenAI Acquires Odessia, travel startup created by Sonder founder</title>
-      <link>https://www.facebook.com/techcrunch/posts/pfbid0GUbND8sRnCErGTemdgKm6QCRkGL1z5uTb1uA7Cuz4ofztB8J23kCbtLeGPuPovoMl?__cft__%5B0%5D=AZhFiokJUDKAo6VutIhEjBSgNxFY8VM6og2UFijQkQ4_R2coxlx-dSAn97jQ7TkVUbCvdJG0c7TJs7U1K7-_HPrwH7nCflyeLgGT9RSYEzYzNIKDP-WLJ81ZE8m24qUHNKZmnv7KWoWEGW0SQiI_b-TProLio8Nm6nAaja72hNSwaqxlx6TMCLuDME0&amp;__tn__=%2CO%2CP-R</link>
-      <description>OpenAI Acquires Odessia, travel startup created by Sonder founder TECHCRUNCH.COM OpenAI Acquires Odessia, travel startup created by Sonder founder | TechCrunch Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:27526a0e3c700a6b</guid>
-      <pubDate>Tue, 10 Nov 2026 21:23:30 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <source url="https://www.facebook.com/techcrunch/">TechCrunch</source>
-      <media:content url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/17972361244260878750?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FGettyImages-2207801992.jpg%3Fresize%3D1200%2C801&amp;fb_obo=1&amp;utld=techcrunch.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=hJSUVcsIpu5jzOSt2F-sNg&amp;_nc_zt=3&amp;oh=06_Q3_FAfp6yGPKnPBicr8rd1YC-kIJwPRTJZelhY6D2XUYQnAl&amp;oe=6AF59BF3" medium="image" />
-      <enclosure url="https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/17972361244260878750?url=https%3A%2F%2Ftechcrunch.com%2Fwp-content%2Fuploads%2F2025%2F04%2FGettyImages-2207801992.jpg%3Fresize%3D1200%2C801&amp;fb_obo=1&amp;utld=techcrunch.com&amp;_nc_sid=e17101&amp;_nc_ht=external-sea5-1.xx.fbcdn.net&amp;stp=c0.5000x0.5000f_dst-jpg_flffffff_p500x261_q75_tt6&amp;ccb=18-1&amp;_nc_gid=hJSUVcsIpu5jzOSt2F-sNg&amp;_nc_zt=3&amp;oh=06_Q3_FAfp6yGPKnPBicr8rd1YC-kIJwPRTJZelhY6D2XUYQnAl&amp;oe=6AF59BF3" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
-      <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
-      <description>Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them. Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:054f67c77d3477fc</guid>
-      <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Dan Goodin</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
-      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
-      <description>OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d252e478480e4caf</guid>
-      <pubDate>Tue, 10 Nov 2026 21:08:52 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Julie Bort</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</title>
-      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
-      <description>New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:27e866ef885fd834</guid>
-      <pubDate>Tue, 10 Nov 2026 20:52:13 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>América del Norte</category>
-      <dc:creator>Rebecca Bellan</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>Proximal Ventures raises debut fund to back startups bringing AI to drug development</title>
-      <link>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</link>
-      <description>Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3f3190611cb94848</guid>
-      <pubDate>Tue, 10 Nov 2026 20:47:05 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Marina Temkin</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>X-energy gets green light to build its first small modular nuclear reactors</title>
-      <link>https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/</link>
-      <description>X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas. Fuente: TechCrunch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:10fbe6445b25d65f</guid>
-      <pubDate>Tue, 10 Nov 2026 20:43:55 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>América del Norte</category>
-      <dc:creator>Tim De Chant</dc:creator>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-    </item>
-    <item>
-      <title>What happens to mathematics when AI becomes an oracle?</title>
-      <link>https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/</link>
-      <description>Mathematician Steven Strogatz discusses his new book, Big Math: The Hidden Codes That Run Our World . Fuente: Ars Technica.</description>
-      <guid isPermaLink="false">cron-rss-noticias:d80c1e923e662714</guid>
-      <pubDate>Tue, 10 Nov 2026 20:30:01 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Global</category>
-      <dc:creator>Jennifer Ouellette</dc:creator>
-      <source url="https://feeds.arstechnica.com/arstechnica/index">Ars Technica</source>
-      <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg" medium="image" />
-      <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/Mathematics-formula-1152x648.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>What the hack? Europeans face growing psyops and cyberattacks</title>
-      <link>https://www.france24.com/en/tv-shows/the-debate/20261110-what-the-hack-europeans-face-growing-psyops-and-cyberattacks</link>
-      <description>So this time, it's Iran, not Russia? France - reportedly acting on US intelligence - summoning Tehran’s ambassador over last month’s hacking of hundreds of supermarket refrigerators that overheated, 15 of which even caught fire. Why now at a time when Iran’s trying to break its international isolation? Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9d365c92c3119126</guid>
-      <pubDate>Tue, 10 Nov 2026 20:19:22 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <dc:creator>François PICARD</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/1a631970-dd37-11f1-a0a6-5f54d898a954/w:1024/p:16x9/2026-11-02T165044Z-1626694227-RC2RFOAXAHW0-RTRMADP-3-EUROPE-CYBERATTACK-IRELAND.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/1a631970-dd37-11f1-a0a6-5f54d898a954/w:1024/p:16x9/2026-11-02T165044Z-1626694227-RC2RFOAXAHW0-RTRMADP-3-EUROPE-CYBERATTACK-IRELAND.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
