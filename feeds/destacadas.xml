@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 14 Nov 2026 03:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:26:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -28,7 +28,7 @@
     <item>
       <title>FAA lifts nationwide ground stop on all US flights</title>
       <link>https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights</link>
-      <description>Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety," while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, "There has been a temporary telecommunications outage […] Publicado también por: MarketWatch, The Hindu - International, The Verge, Al Jazeera English. Fuente: France 24 - English.</description>
+      <description>Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET "due to extraordinary circumstances and for reasons of safety," while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, "There has been a temporary telecommunications outage […] Publicado también por: MarketWatch, The Hindu - International, The Verge, Al Jazeera English, The Jerusalem Post - International. Fuente: France 24 - English.</description>
       <guid isPermaLink="false">cron-rss-noticias:5970bb82c1c62569</guid>
       <pubDate>Sat, 14 Nov 2026 02:50:21 +0000</pubDate>
       <category>mundo</category>
@@ -252,6 +252,19 @@
       <enclosure url="https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d8a9602c72b78e256430ffca4ad58ef" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption</title>
+      <link>https://www.bbc.co.uk/news/articles/c6rrg51rkz09o</link>
+      <description>The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed there was 'no Microsoft link' to the US air traffic stoppage. Publicado también por: BBC News - Business, France 24 - English. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b64fb7d71d8b0685</guid>
+      <pubDate>Fri, 13 Nov 2026 21:14:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Spain: Clashes erupt in Barcelona after peaceful general strike march</title>
       <link>http://www.africanews.com/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march/</link>
       <description>Burning barricades and clashes with riot police erupted in Barcelona after a peaceful march against soaring housing costs. Police used projectiles to disperse masked protesters as violence spread through the city centre. Publicado también por: Euronews, BBC News - World. Fuente: Africanews.</description>
@@ -388,18 +401,6 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/z31pou/article71688107.ece/alternates/LANDSCAPE_1200/House_Republicans_8819_.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/z31pou/article71688107.ece/alternates/LANDSCAPE_1200/House_Republicans_8819_.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption</title>
-      <link>https://www.bbc.co.uk/news/articles/c6rrg51rkz09o</link>
-      <description>Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b64fb7d71d8b0685</guid>
-      <pubDate>Fri, 13 Nov 2026 21:14:22 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil</title>
@@ -589,6 +590,21 @@
       <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/8e64df85-991b-4d85-8af3-c4d9c12a9c1c_6e13c9c5.jpg?itok=itwUtFw-&amp;v=1794459068" medium="image" />
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/8e64df85-991b-4d85-8af3-c4d9c12a9c1c_6e13c9c5.jpg?itok=itwUtFw-&amp;v=1794459068" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>U.S. flights resume after FAA ground stop, but travel disruption continues</title>
+      <link>https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html</link>
+      <description>The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now "opened up," and blamed "old hardware" for the travel chaos. Publicado también por: France 24 - English. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2e7c404e3b47a39e</guid>
+      <pubDate>Sat, 14 Nov 2026 10:04:43 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>conflictos</category>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+      <media:content url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/de33210e-dfd2-11f1-8675-29048b396e03/w:1024/p:16x9/AP26317844187470.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>US flights resume after nationwide ground stop lifted</title>
@@ -1070,6 +1086,20 @@
       <source url="https://www.facebook.com/financialtimes/">Financial Times</source>
     </item>
     <item>
+      <title>Musk ordered to preserve records on Ukraine’s Starlink access by Democratic US senators</title>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3374425/musk-ordered-preserve-records-ukraines-starlink-access-democratic-us-senators</link>
+      <description>Democratic US senators have told Elon Musk to preserve all records related to his company SpaceX’s restrictions on Ukraine’s use of its Starlink and Starshield satellite services. Ukrainian forces say Starshield, the military-grade version of ‌Starlink, is vital for frontline communications and drone operations in their defence against Russian drone and missile attacks. But in mid-October, Ukrainian officials complained that the service had been restricted without explanation or warning,... Publicado también por: The Hindu - International. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0e09d234b30fd2fc</guid>
+      <pubDate>Sat, 14 Nov 2026 05:31:58 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>Reuters</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/c6545ba5-92e5-4880-a8d4-70d7a8580239_e6cc6b08.jpg?itok=6n9XpdsI&amp;v=1794634306" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/c6545ba5-92e5-4880-a8d4-70d7a8580239_e6cc6b08.jpg?itok=6n9XpdsI&amp;v=1794634306" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Ukraine: Russian drone attacks hit Kyiv hospital, leave two dead in Odesa</title>
       <link>http://www.africanews.com/2026/11/13/ukraine-russian-drone-attacks-hit-kyiv-hospital-leave-one-dead-in-odesa/</link>
       <description>Russian overnight attacks on Ukraine killed at least two person in Odesa and injured another at a hospital in Kyiv. Rescuers evacuated patients, including people using wheelchairs and crutches, as firefighters battled the flames. Publicado también por: Euronews. Fuente: Africanews.</description>
@@ -1211,6 +1241,19 @@
       <source url="https://feeds.npr.org/1004/rss.xml">NPR - World</source>
       <media:content url="https://th-i.thgim.com/public/incoming/f969qw/article71688695.ece/alternates/LANDSCAPE_1200/APTOPIX_Congo_Ebola_64547.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/f969qw/article71688695.ece/alternates/LANDSCAPE_1200/APTOPIX_Congo_Ebola_64547.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Guardian to follow lives of eight young people in their search for work</title>
+      <link>https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work</link>
+      <description>How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in eight – are struggling to make the leap from school to the world of work on a lasting basis. Before the landmark Alan Milburn review , which is expected on Tuesday, the Guardian is launching a new series to chronicle the lives of eight young people battling to get a start on the career ladder… Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7e87a40cc72e0b1c</guid>
+      <pubDate>Sat, 14 Nov 2026 10:00:42 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>Richard Partington Senior economics correspondent</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/19987d2be5f3f7d0f862fc37ab9d9eb935fc7b4c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d129ae269b3c60af00d1fa2af52e7077" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/19987d2be5f3f7d0f862fc37ab9d9eb935fc7b4c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d129ae269b3c60af00d1fa2af52e7077" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – Europe live</title>
@@ -1527,17 +1570,17 @@
       <enclosure url="https://scontent-sea5-1.xx.fbcdn.net/v/t39.99422-6/902601618_1734692527596541_2395815926865890_n.png?stp=dst-jpg_tt6&amp;cstp=mx1080x1350&amp;ctp=s640x640&amp;_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=127cfc&amp;_nc_ohc=zFpIlOk6IvMQ7kNvwEsLv7y&amp;_nc_oc=AdppcLciXS9yZhoXCM0QEUMkCh8fxnyvExR4WLw8JxwtpyJJRCgdXxBpenqgf3NLwL8&amp;_nc_zt=14&amp;_nc_ht=scontent-sea5-1.xx&amp;_nc_gid=X4z-9jsgMIe5Rbboechu6A&amp;_nc_ss=7f289&amp;oh=00_AQS4-yiFI7Tg38RHr0ipfZXZpk14AFTpg74PkCc4e0zgVA&amp;oe=6AF9628E" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>3 comentarios | 🔴EN VIVO🔴 ➡Aurora Empató con Fc Universitario y Cerró la Fecha 25 del Torneo Todos Contra Todos ➡La Selección Boliviana de Fútbol ya se Concentra en Santa Cruz. ➡Semifinales de la Copa Paceña | ATB Digital</title>
-      <link>https://www.facebook.com/ATBDigital/videos/2200926014159969/?comment_id=1134579775836575&amp;__cft__%5B0%5D=AZi1R3c3Lws9XkvB-ikFGb4Od2f0NOLM5G0DwjXwA4iP1Qi5AoYnJiEjfUdYJD5lSnGhdxSTeMmxgVFdBF-v8AYzQ09H-bylUGH2kA-bRBcI3tgPJULsnAqjAvywhbb4I9kYtiI0sLjZiqtVRWIpYtTecEGtb0WenoLFx-RMinczFXoZrBllVHzkhkwtZ72CTP4&amp;__tn__=R-R</link>
-      <description>🔴EN VIVO🔴 ➡Aurora Empató con Fc Universitario y Cerró la Fecha 25 del Torneo Todos Contra Todos ➡La Selección Boliviana de Fútbol ya se Concentra en Santa Cruz. ➡Semifinales de la Copa Paceña 🔴EN VIVO🔴 ➡Aurora Empató con Fc Universitario y Cerró la Fecha 25 del Torneo Todos Contra Todos ➡La Selección Boliviana de Fútbol ya se Concentra en... Fuente: ATB Digital.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5db5530258827786</guid>
-      <pubDate>Tue, 10 Nov 2026 17:56:32 +0000</pubDate>
-      <category>deportes</category>
-      <category>América Latina</category>
-      <category>Bolivia</category>
-      <source url="https://www.facebook.com/ATBDigital/">ATB Digital</source>
-      <media:content url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/894059651_1684891169912175_8052577506697370919_n.jpg?_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2aAA7sg68jAQ7kNvwHboQnq&amp;_nc_oc=Adoc1IR6G-6aXqW9zvYrNdysAxcxTha81jWOfOtsp5rT5Po8v2tQbAMm-nOzoPCcLy8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=QJJQ1WHtETeGQQ2sAnIRyA&amp;_nc_ss=7f289&amp;oh=00_AQQ4-BQ_eh28EmLzJdAkwySMv-8EZWAXeuWhRdBCT_5Y2A&amp;oe=6AF93A33" medium="image" />
-      <enclosure url="https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/894059651_1684891169912175_8052577506697370919_n.jpg?_nc_cat=100&amp;_nc_map=urlgen_bucketless&amp;ccb=1-7&amp;_nc_sid=a27664&amp;_nc_ohc=2aAA7sg68jAQ7kNvwHboQnq&amp;_nc_oc=Adoc1IR6G-6aXqW9zvYrNdysAxcxTha81jWOfOtsp5rT5Po8v2tQbAMm-nOzoPCcLy8&amp;_nc_zt=23&amp;_nc_ht=scontent-iad6-1.xx&amp;_nc_gid=QJJQ1WHtETeGQQ2sAnIRyA&amp;_nc_ss=7f289&amp;oh=00_AQQ4-BQ_eh28EmLzJdAkwySMv-8EZWAXeuWhRdBCT_5Y2A&amp;oe=6AF93A33" type="image/jpeg" length="0" />
+      <title>Trump, Putin and Xi plan historic joint meeting in China next week, White House says</title>
+      <link>https://www.bbc.co.uk/news/articles/ckz74jzpy18do</link>
+      <description>Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4b8bd3bf301d5379</guid>
+      <pubDate>Sat, 14 Nov 2026 05:52:31 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>FAA declares rare, nationwide ground stop on flights, citing ‘extraordinary circumstances’</title>
@@ -1592,50 +1635,6 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/d9221q/article71696948.ece/alternates/LANDSCAPE_1200/Ireland_Ukraine_Envoy_58762.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/d9221q/article71696948.ece/alternates/LANDSCAPE_1200/Ireland_Ukraine_Envoy_58762.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Who is Colette Kress? Nvidia's new interim CEO following Jensen Huang’s exit</title>
-      <link>https://www.thehindu.com/news/international/who-is-nvidia-new-interim-ceo-colette-kress-after-jensen-huang-exit/article71696530.ece</link>
-      <description>A 13-year Nvidia veteran, Colette Kress will lead the chipmaker whose processors power cutting-edge AI data centers and supercomputers, as the board weighs a longer-term successor. Publicado también por: TechCrunch, CNBC - World. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:fdd568be978d81a7</guid>
-      <pubDate>Fri, 13 Nov 2026 06:34:22 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/ajs5we/article71696788.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%2011.49.12%20AM.jpeg" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/ajs5we/article71696788.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-13%20at%2011.49.12%20AM.jpeg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US: New Congress members pose for traditional photo at Capitol</title>
-      <link>http://www.africanews.com/2026/11/13/us-new-congress-members-pose-for-traditional-photo-at-capitol/</link>
-      <description>Newly elected US lawmakers gathered on Capitol Hill on Thursday 12 November for a traditional group photograph ahead of the opening of the 120th Congress. The incoming House members are attending orientation following the November midterm elections. Publicado también por: Euronews. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6da5a97a935405a7</guid>
-      <pubDate>Thu, 12 Nov 2026 23:08:13 +0000</pubDate>
-      <category>politica</category>
-      <category>África</category>
-      <category>Europa</category>
-      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/09/99/07/41/640x360_cmsv2_f8df9b3d-89de-57fe-832c-f26dc60763b7-9990741.jpg?1794523755" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/09/99/07/41/640x360_cmsv2_f8df9b3d-89de-57fe-832c-f26dc60763b7-9990741.jpg?1794523755" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Trump threatens to double Mexico tariffs if it does not stop migrants heading toward border</title>
-      <link>https://www.jpost.com/international/article-914748</link>
-      <description>President Donald Trump on Thursday threatened to double tariffs on Mexico if it does not stop ‌more than a thousand migrants walking north towards the United States after last week’s US election, warning that they would not be allowed to enter. “Here we go ⁠again!” Trump wrote on social media. “They will not ‌be accepted! MEXICO MUST STOP THEM, NOW, and if they do ‌not do so, the Tariffs on Mexico ⁠will ⁠be IMMEDIATELY DOUBLED. MEXICO, THE GOVERNOR OF TEXAS, THE ‌VERY LIBERAL NEW GOVERNOR OF... Publicado también por: South China Morning Post. Fuente: The Jerusalem Post - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4c7acb634e5fff81</guid>
-      <pubDate>Thu, 12 Nov 2026 17:57:14 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>economia</category>
-      <category>sociedad</category>
-      <category>América Latina</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <dc:creator>BY REUTERS</dc:creator>
-      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
-      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/908fb398-8028-4239-bb1f-bbbc9d41c4e2_9cfa1d1a.jpg?itok=lbCR46ge&amp;v=1794487538" medium="image" />
-      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/908fb398-8028-4239-bb1f-bbbc9d41c4e2_9cfa1d1a.jpg?itok=lbCR46ge&amp;v=1794487538" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

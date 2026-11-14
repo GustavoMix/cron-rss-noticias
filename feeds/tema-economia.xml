@@ -7,9 +7,44 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 14 Nov 2026 03:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:26:21 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-economia.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>China, US discuss tariffs, farm trade ahead of Xi-Trump meeting</title>
+      <link>https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html</link>
+      <description>Beijing has repeatedly urged Washington to implement the $60 billion tariff-reduction deal, calling it a prerequisite for increasing purchases of US farm goods. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:27b8fc4fcc75a253</guid>
+      <pubDate>Sat, 14 Nov 2026 08:16:44 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one</title>
+      <link>https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html</link>
+      <description>Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:e26664e701972782</guid>
+      <pubDate>Sat, 14 Nov 2026 07:08:45 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>Aranceles: las exportaciones europeas a Estados Unidos se hunden en 54.500 millones</title>
+      <link>https://www.expansion.com/economia/2026/11/14/aranceles-exportaciones-europeas-estados-unidos-hunden-54-500-millones.html</link>
+      <description>El comercio exterior europeo sigue acusando el impacto del mazazo arancelario de Trump: sus ventas al otro lado del Atlántico se redujeron un 12,4% en los nueve primeros meses del año y el superávit comercial se recortó en un 36,5%. Leer Fuente: Expansión - Economía.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f7f286426161dc4c</guid>
+      <pubDate>Sat, 14 Nov 2026 04:02:07 +0000</pubDate>
+      <category>economia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>Jesús Díaz</dc:creator>
+      <source url="https://e00-expansion.uecdn.es/rss/economia.xml">Expansión - Economía</source>
+      <media:content url="https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/14/17946289120908.jpg" medium="image" />
+      <enclosure url="https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/14/17946289120908.jpg" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Dos semanas para el 29-N: la campaña más crucial en la que España se juega su futuro</title>
       <link>https://www.expansion.com/economia/politica/2026/11/14/dos-semanas-29-n-campana-crucial-espana-juega-futuro.html</link>
@@ -1412,36 +1447,6 @@
       <source url="https://feeds.content.dowjones.io/public/rss/mw_topstories">MarketWatch</source>
       <media:content url="https://images.mktw.net/im-07328527" medium="image" />
       <enclosure url="https://images.mktw.net/im-07328527" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>China's Ministry of State Security thrust into the spotlight by Nvidia CEO affair</title>
-      <link>https://www.cnbc.com/2026/11/12/china-ministry-state-security-nvidia-ceo.html</link>
-      <description>China's Ministry of State Security is getting attention after news of Nvidia CEO Jensen Huang's affair with an alleged MSS spy. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a2c120185c79d3ee</guid>
-      <pubDate>Thu, 12 Nov 2026 07:28:48 +0000</pubDate>
-      <category>economia</category>
-      <category>Asia</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>AI borrowers now drive nearly half of long-dated U.S. IG issuance. PIMCO sees 3 diversifiers</title>
-      <link>https://www.cnbc.com/2026/11/12/ai-credit-debt-bond-markets-pimco.html</link>
-      <description>AI-related borrowing is concentrating long-dated corporate debt — and PIMCO sees three big plays for portfolio diversification. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0ab54c358736087c</guid>
-      <pubDate>Thu, 12 Nov 2026 06:59:59 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>The world's super-rich are piling into alternative investments. Here's why</title>
-      <link>https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html</link>
-      <description>Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4c2ded99d833b75b</guid>
-      <pubDate>Thu, 12 Nov 2026 03:36:44 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
     </item>
   </channel>
 </rss>
