@@ -1,6 +1,6 @@
 {
-  "generado_en": "2026-11-15T01:55:31+00:00",
-  "total": 25,
+  "generado_en": "2026-11-15T09:24:12+00:00",
+  "total": 23,
   "feeds": [
     {
       "archivo": "mundo.xml",
@@ -66,7 +66,7 @@
       "archivo": "tema-salud.xml",
       "titulo": "Noticias del Mundo — Salud",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-salud.xml",
-      "items": 52
+      "items": 51
     },
     {
       "archivo": "tema-sociedad.xml",
@@ -97,12 +97,6 @@
       "titulo": "Noticias del Mundo — Asia",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-asia.xml",
       "items": 120
-    },
-    {
-      "archivo": "region-bolivia.xml",
-      "titulo": "Noticias del Mundo — Bolivia",
-      "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/region-bolivia.xml",
-      "items": 7
     },
     {
       "archivo": "region-europa.xml",
@@ -145,12 +139,6 @@
       "titulo": "Noticias del Mundo — ES",
       "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/idioma-es.xml",
       "items": 120
-    },
-    {
-      "archivo": "idioma-pt.xml",
-      "titulo": "Noticias del Mundo — PT",
-      "url": "https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/idioma-pt.xml",
-      "items": 7
     }
   ]
 }
