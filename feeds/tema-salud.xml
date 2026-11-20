@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 19 Nov 2026 21:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:13:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-salud.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -31,6 +31,7 @@
       <pubDate>Thu, 19 Nov 2026 18:21:18 +0000</pubDate>
       <category>salud</category>
       <category>Asia</category>
+      <category>América del Norte</category>
       <dc:creator>Reuters</dc:creator>
       <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
       <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/f06f4bef-6317-4090-be72-e3b4601f2f6f_ed37d302.jpg?itok=D5740Z5A&amp;v=1795112471" medium="image" />
@@ -650,20 +651,6 @@
       <source url="https://www.france24.com/en/rss">France 24 - English</source>
       <media:content url="https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg" medium="image" />
       <enclosure url="https://s.france24.com/media/display/188735cc-e1fc-11f1-bd41-f71d22e7fea9/w:1024/p:16x9/000-D7N43WG.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly</title>
-      <link>https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html</link>
-      <description>Even as it talks peace, Russia has opened a bombing campaign intended to strip Kyiv and other cities of heat, running water and sanitation this winter. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f02b0a3d8d49ebc9</guid>
-      <pubDate>Mon, 16 Nov 2026 19:43:53 +0000</pubDate>
-      <category>salud</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <dc:creator>Marc Santora and Liubov Sholudko</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/11/16/multimedia/16int-ukraine-winter-01-cjfl/16int-ukraine-winter-01-cjfl-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
