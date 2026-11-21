@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 21 Nov 2026 01:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:48:40 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -170,32 +170,6 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Moment Russian military plane crashes in Siberia, killing 19</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss</link>
-      <description>Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region. Publicado también por: BBC News - World, The Independent - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7c7180085289f4b8</guid>
-      <pubDate>Tue, 17 Nov 2026 21:25:43 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Jensen Huang says he'd be honoured to return to Nvidia as CEO</title>
-      <link>https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo</link>
-      <description>Jensen Huang makes his first public statement since resigning from Nvidia, saying he'd be honoured to return to his job amid support from the tech world. It comes ahead of a much anticipated earnings call this Tuesday, with analysts expecting the group to report a 90% jump in revenue to about $109 billion. Publicado también por: BBC News - World, TechCrunch, BBC News - Business. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0e3470c2131adc60</guid>
-      <pubDate>Tue, 17 Nov 2026 20:56:06 +0000</pubDate>
-      <category>economia</category>
-      <category>Europa</category>
-      <dc:creator>Camille KNIGHT</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/d6c722b0-e2c7-11f1-94bc-c5c0357b2a0c/w:1024/p:16x9/capture-78a98eba.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/d6c722b0-e2c7-11f1-94bc-c5c0357b2a0c/w:1024/p:16x9/capture-78a98eba.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Elon Musk says record spending on US midterms was 'pretty foolish'</title>
@@ -402,6 +376,19 @@
       <enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend</title>
+      <link>https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo</link>
+      <description>It comes after Russian forces launched a major wave of strikes against Ukraine from Thursday night into Friday morning, killing at least seven people in Kyiv and damaging key bridges across the Dnipro River. Publicado también por: Euronews. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:96591b22125b8bcc</guid>
+      <pubDate>Sat, 21 Nov 2026 08:10:25 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad75/live/e17f2c40-e56d-11f1-b01f-57dbbf219200.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Anthropic shares fall after blockbuster opening as wider tech sell-off continues</title>
       <link>https://www.bbc.co.uk/news/articles/c6808ym10vzgo</link>
       <description>Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
@@ -488,19 +475,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>American soldier arrested by UK police on suspicion of spying taken into US military custody</title>
-      <link>https://www.bbc.co.uk/news/articles/c6x284ez38vdo</link>
-      <description>Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said. Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police ‌on 10 November in Gloucestershire over allegations relating ⁠to espionage. Continue reading... Publicado también por: The Guardian - World. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6ebbaed46954b513</guid>
-      <pubDate>Tue, 17 Nov 2026 20:44:54 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Xi Jinping recibió a Donald Trump y Vladimir Putin en una histórica reunión trilateral en China</title>
@@ -598,18 +572,6 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>US loses measles elimination status after 26 years amid record case numbers</title>
-      <link>https://www.bbc.co.uk/news/articles/c977p71jx0xxo</link>
-      <description>States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e28dde71e1fb9c31</guid>
-      <pubDate>Tue, 17 Nov 2026 21:04:00 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>'Our culture and identity': Deaf Nigerians embrace indigenous sign languages</title>
@@ -763,34 +725,6 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/vkjh7v/article71714386.ece/alternates/LANDSCAPE_1200/Israel_Politics_23729.jpg" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/vkjh7v/article71714386.ece/alternates/LANDSCAPE_1200/Israel_Politics_23729.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life</title>
-      <link>https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people</link>
-      <description>Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory. According to the NGO Survival International, members of the Awá people, who live in voluntary isolation, arrived on Monday in a village and made contact with a government team in a “historic encounter”. Continue reading... Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5b95693c451cce73</guid>
-      <pubDate>Tue, 17 Nov 2026 21:40:56 +0000</pubDate>
-      <category>mundo</category>
-      <category>América Latina</category>
-      <dc:creator>Agence France-Presse</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7745631c366ee976f0d03e776f119921" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/dde5ccc76241e935a3052e3e3dd59bb8f8f29473/755_0_4561_3648/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7745631c366ee976f0d03e776f119921" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Nabeel Rajab, Bahraini Human Rights Activist, Dies at 62</title>
-      <link>https://www.nytimes.com/2026/11/17/world/middleeast/nabeel-rajab-bahrain-dies.html</link>
-      <description>Mr. Rajab spent his life fighting for greater political freedoms in his home country, undeterred by years in prison. He died in exile. Publicado también por: The Hindu - International. Fuente: The New York Times - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1093ed93bb6d9af8</guid>
-      <pubDate>Tue, 17 Nov 2026 21:22:40 +0000</pubDate>
-      <category>salud</category>
-      <category>sociedad</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <dc:creator>Vivian Nereim and Nazeeha Saeed</dc:creator>
-      <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
-      <media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17int-bahrain-2-fqzp/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17int-bahrain-2-fqzp/17int-bahrain-2-fqzp-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>A new Nepal, an old neighbour - Balendra Shah's India test</title>
@@ -1006,6 +940,19 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/99/90/36/640x360_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg?1795070447" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/99/90/36/640x360_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg?1795070447" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Live: France braces for fresh protests as social unrest enters sixth week</title>
+      <link>https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week</link>
+      <description>France is bracing for a sixth consecutive Saturday of protests,with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f54da73003bc8f55</guid>
+      <pubDate>Sat, 21 Nov 2026 08:29:53 +0000</pubDate>
+      <category>politica</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE 24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/d32f2854-e584-11f1-99ca-13439ca2fe89/w:1024/p:16x9/2026-11-20T132656Z-204991454-RC2PROA8887Z-RTRMADP-3-EUROPE-PROTEST-FRANCE.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/d32f2854-e584-11f1-99ca-13439ca2fe89/w:1024/p:16x9/2026-11-20T132656Z-204991454-RC2PROA8887Z-RTRMADP-3-EUROPE-PROTEST-FRANCE.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Two men killed after glider crashes into Loch Leven in Scotland</title>
@@ -1245,6 +1192,18 @@
       <enclosure url="https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c8dfda336983f7d8e6f8e93e5b384b5" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Fight over fossil fuels leaves COP31 climate talks in deadlock</title>
+      <link>https://www.bbc.co.uk/news/articles/c6ly5w40eg07o</link>
+      <description>Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d705fc000df1d6f0</guid>
+      <pubDate>Sat, 21 Nov 2026 07:31:05 +0000</pubDate>
+      <category>ciencia</category>
+      <category>América Latina</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Dead pets were meant to be cremated - then their bodies appeared on a livestream</title>
       <link>https://www.bbc.co.uk/news/articles/cmn502ek17yvo</link>
       <description>Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for. Fuente: BBC News - World.</description>
@@ -1475,6 +1434,34 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/3kou7l/article71714334.ece/alternates/LANDSCAPE_1200/2026-11-17T191624Z_384802040_RC2ER4AT06N3_RTRMADP_3_NVIDIA-CEO-INSURANCE-LIABILITY.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Yemen’s Houthis launch strikes on Riyadh after Saudi coalition ‘special operation’</title>
+      <link>https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation</link>
+      <description>Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. A journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a... Publicado también por: France 24 - English. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ccb1fe8e0636efc4</guid>
+      <pubDate>Sat, 21 Nov 2026 05:40:01 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <category>Europa</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/1930ee50-41ec-4f4a-85a6-3dc03db533b4_8899baac.jpg?itok=DZEFtHSD&amp;v=1795239596" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/1930ee50-41ec-4f4a-85a6-3dc03db533b4_8899baac.jpg?itok=DZEFtHSD&amp;v=1795239596" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper</title>
+      <link>https://news.sky.com/story/denmark-says-it-thwarted-russian-plot-to-kill-us-ukrainian-rapper-kyivstoner-13614604</link>
+      <description>Police thwarted a Russian plot to kill a US-Ukrainian rapper who was performing in Denmark, according to authorities. Publicado también por: Al Jazeera English. Fuente: Sky News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:93936ad211e3ca4c</guid>
+      <pubDate>Sat, 21 Nov 2026 05:15:00 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.skynews.com/feeds/rss/world.xml">Sky News - World</source>
+      <media:content url="https://e3.365dm.com/26/11/1920x1080/skynews-rasmus-kieffer-kristensen_7412023.jpg?20261121053937" medium="image" />
+      <enclosure url="https://e3.365dm.com/26/11/1920x1080/skynews-rasmus-kieffer-kristensen_7412023.jpg?20261121053937" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Iran war live: Saudi-led coalition downs Houthi missiles</title>
       <link>https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss</link>
       <description>Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles. Fuente: Al Jazeera English.</description>
@@ -1603,6 +1590,17 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd548202b629035c561b80f699fa5ef7" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd548202b629035c561b80f699fa5ef7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Mozambique — Emergency Tracking Tool Report — Movement Alert #171 (17 November 2026)</title>
+      <link>https://reliefweb.int/report/mozambique/mozambique-emergency-tracking-tool-report-movement-alert-171-17-november-2026</link>
+      <description>Country: Mozambique Source: International Organization for Migration Please refer to the attached Infographic. Fuente: ReliefWeb - Emergencias.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a72a8437d7d1819d</guid>
+      <pubDate>Fri, 20 Nov 2026 01:33:59 +0000</pubDate>
+      <category>mundo</category>
+      <category>Global</category>
+      <dc:creator>International Organization for Migration</dc:creator>
+      <source url="https://reliefweb.int/updates/rss.xml">ReliefWeb - Emergencias</source>
     </item>
   </channel>
 </rss>
