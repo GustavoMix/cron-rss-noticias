@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 21 Nov 2026 09:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 17:31:04 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -362,18 +362,29 @@
       <enclosure url="https://s.france24.com/media/display/19354cee-e340-11f1-ba69-c5c0357b2a0c/w:1024/p:16x9/EN-20261118-103422-103517-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker</title>
-      <link>https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss</link>
-      <description>The Israeli parliament on Tuesday elected as new speaker an ally of Gadi Eisenkot, the party leader currently working to form the next government and replace current Israeli Prime Minister Benjamin Netanyahu. Matan Kahana, a former special forces soldier, is expected as soon as Wednesday to start the process of undoing much of the agenda of Netanyahu. Publicado también por: The New York Times - World, France 24 - English. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1e97d3b0a34d8abe</guid>
-      <pubDate>Tue, 17 Nov 2026 23:28:54 +0000</pubDate>
-      <category>politica</category>
-      <category>Medio Oriente</category>
-      <category>América del Norte</category>
+      <title>Man convicted of starting palisades fire</title>
+      <link>https://www.france24.com/en/man-convicted-of-starting-palisades-fire</link>
+      <description>A Los Angeles County jury found former rideshare driver Jonathan Rinderknecht guilty on Friday of starting the 2025 Palisades fire, which caused widespread destruction and loss of life. He faces a prison sentence of between five and 40 years. Liza Kaminov has more. Publicado también por: BBC News - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a031b49134a06808</guid>
+      <pubDate>Sat, 21 Nov 2026 17:21:55 +0000</pubDate>
+      <category>mundo</category>
       <category>Europa</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg" medium="image" />
-      <enclosure url="https://static01.nyt.com/images/2026/11/17/multimedia/17Israel-Knesset-vzcg/17Israel-Knesset-vzcg-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/60c67bd8-e5ce-11f1-90ca-ebb478925cf0/w:1024/p:16x9/EN-20261121-161200-161355-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/60c67bd8-e5ce-11f1-90ca-ebb478925cf0/w:1024/p:16x9/EN-20261121-161200-161355-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>FBI reportedly investigating apparent hack of its criminal database</title>
+      <link>https://www.bbc.co.uk/news/articles/cvze7de86pk3o</link>
+      <description>Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 128 # Comments: 66 Publicado también por: Hacker News - Portada. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4e463e8bbeae4671</guid>
+      <pubDate>Sat, 21 Nov 2026 16:35:15 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend</title>
@@ -574,6 +585,47 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f9de/live/369f6d80-df7d-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>FBI criminal database hacked</title>
+      <link>https://www.france24.com/en/fbi-criminal-database-hacked</link>
+      <description>The FBI is investigating a reported major cyberattack targeting its national law enforcement database, the National Crime Information Center (NCIC), which holds sensitive criminal justice records, including information on fugitives, missing persons, criminal histories and stolen property. President Donald Trump said he had just been briefed on the incident, describing it as “not good”. FRANCE 24’s Fraser Jackson reports from Washington DC. Publicado también por: CNBC - World. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7402a034055c98b0</guid>
+      <pubDate>Sat, 21 Nov 2026 17:23:18 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/24146280-e5cf-11f1-94fc-13439ca2fe89/w:1024/p:16x9/EN-20261121-170210-170558-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/24146280-e5cf-11f1-94fc-13439ca2fe89/w:1024/p:16x9/EN-20261121-170210-170558-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Israeli strike kills three in vehicle distributing aid in Gaza, witnesses say</title>
+      <link>https://www.thehindu.com/news/international/israeli-strike-kills-three-in-vehicle-distributing-aid-in-gaza-witnesses-say/article71729327.ece</link>
+      <description>Afterwards, meals of cooked rice were scattered around the vehicle, which was partially covered in the blood of the victims of the attack Publicado también por: Al Jazeera English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8887a967fa5283eb</guid>
+      <pubDate>Sat, 21 Nov 2026 16:59:42 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/1zuy55/article71729334.ece/alternates/LANDSCAPE_1200/2026-11-21T120120Z_409129061_RC2ASOA4XSW9_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/1zuy55/article71729334.ece/alternates/LANDSCAPE_1200/2026-11-21T120120Z_409129061_RC2ASOA4XSW9_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>States agree to UN talks aiming to regulate 'killer robots' by 2028</title>
+      <link>https://www.thehindu.com/news/international/states-agree-toun-talks-aiming-to-regulate-killer-robots-by-2028/article71729173.ece</link>
+      <description>Around 100 ⁠countries backed this position, but big arms-producing nations like the U.S., Russia, and Israel opposed this, resulting in a watered-down agreement that left open the question of whether future ​measures would be legally ‌binding Publicado también por: CNBC - World. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bbda410e12566614</guid>
+      <pubDate>Sat, 21 Nov 2026 16:19:08 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/iqr9rp/article71729215.ece/alternates/LANDSCAPE_1200/AFP_D7KZ2WF.jpg" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/iqr9rp/article71729215.ece/alternates/LANDSCAPE_1200/AFP_D7KZ2WF.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>'Our culture and identity': Deaf Nigerians embrace indigenous sign languages</title>
       <link>https://www.france24.com/en/video/20261120-our-culture-and-identity-deaf-nigerians-embrace-indigenous-sign-languages</link>
       <description>With a quick flick of the wrist, Umaru Zayyanu conveys the phrase "I am a Nigerian". But the 37-year-old is not signing, rather in the west African nation's official sign language. Instead, he's using Hausa sign language. Such indigenous sign languages abound in Africa's most populous country, where deaf people were communicating with each other long before the advent of formal sign language taught in deaf schools, in 1960. Publicado también por: Africanews. Fuente: France 24 - English.</description>
@@ -727,6 +779,19 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/vkjh7v/article71714386.ece/alternates/LANDSCAPE_1200/Israel_Politics_23729.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>French police officers sentenced to jail for assaulting Black music producer</title>
+      <link>http://www.africanews.com/2026/11/21/french-police-officers-sentenced-to-jail-for-assaulting-black-music-producer/</link>
+      <description>In a landmark ruling, a court gave all three men five years in prison with varying portions suspended, finding racism an aggravated factor. Publicado también por: BBC News - World. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:250e592eb6a2bdf8</guid>
+      <pubDate>Sat, 21 Nov 2026 13:41:48 +0000</pubDate>
+      <category>mundo</category>
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Rédaction Africanews)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/10/00/27/19/640x360_cmsv2_361476fe-3b58-5cf6-b5fc-de1a1f419049-10002719.jpg?1795261189" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/10/00/27/19/640x360_cmsv2_361476fe-3b58-5cf6-b5fc-de1a1f419049-10002719.jpg?1795261189" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>A new Nepal, an old neighbour - Balendra Shah's India test</title>
       <link>https://www.bbc.co.uk/news/articles/c6jre8xd83qgo</link>
       <description>Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart. Publicado también por: The Hindu - International. Fuente: BBC News - World.</description>
@@ -825,55 +890,28 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb1d/live/c5d2fbf0-e330-11f1-9c56-6ffaf0e1e706.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>American soldier held in UK suspected of spying for Russia taken into US military custody</title>
-      <link>https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody</link>
-      <description>Lt Col Brandon Carroll Tyner was arrested by British police on 10 November over allegations related to espionage A US soldier who was arrested in the UK on suspicion of spying for Russia has been taken into custody by the US military, police have said. Lt Col Brandon Carroll Tyner, 41, was detained by British counter-terrorism police ‌on 10 November in Gloucestershire over allegations relating ⁠to espionage. Continue reading... Publicado también por: BBC News - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:baa60833d3d7f072</guid>
-      <pubDate>Wed, 18 Nov 2026 00:16:07 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>Nadeem Badshah</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2014d5315ebf8cbdfd7cd9f306c8d931" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/bfa6c9d4f1002c0b8223acda3bec846d3b60534c/0_0_2498_2000/master/2498.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2014d5315ebf8cbdfd7cd9f306c8d931" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Russian military transport plane crashes in Siberia, killing 19: Defence Ministry</title>
-      <link>https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece</link>
-      <description>The An-12 aircraft went down in an unpopulated area near the city of Kemerovo, about 3,000 kilometres (about 1,860 miles) east of Moscow Publicado también por: BBC News - World. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ac241f53d6171b7c</guid>
-      <pubDate>Tue, 17 Nov 2026 23:39:28 +0000</pubDate>
-      <category>conflictos</category>
-      <category>Europa</category>
+      <title>India’s opposition stages protests against Meta over account removals</title>
+      <link>https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss</link>
+      <description>Prime Minister Modi's government says it orders content to be taken down only if it breaches local laws, or can harm public safety or national security. Publicado también por: CNBC - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:d6c655d4f9298994</guid>
+      <pubDate>Sat, 21 Nov 2026 16:14:01 +0000</pubDate>
+      <category>politica</category>
       <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/maecpj/article71713628.ece/alternates/LANDSCAPE_1200/2026-11-17T183007Z_1896887606_RC2UPOAT81QH_RTRMADP_3_RUSSIA-PLANE.JPG" type="image/jpeg" length="0" />
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
-      <title>As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal</title>
-      <link>https://www.bbc.co.uk/news/articles/c5vg23g92rj4o</link>
-      <description>China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7c5c7acecedc5ce2</guid>
-      <pubDate>Tue, 17 Nov 2026 23:02:12 +0000</pubDate>
-      <category>mundo</category>
+      <title>Mexico seizes cartel boss ‘El Chapo Isidro,’ among FBI’s most wanted</title>
+      <link>https://www.washingtonpost.com/world/2026/11/21/mexico-seizes-cartel-boss-el-chapo-isidro-among-fbis-most-wanted/</link>
+      <description>Fausto Isidro Meza Flores, one of the FBI’s ten most-wanted fugitives, was arrested in a military operation involving US intelligence cooperation. Gunfire, burning vehicles and panic among civilians followed the raid in northern Mexico. Publicado también por: Euronews. Fuente: The Washington Post - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0dafe69aee4fa143</guid>
+      <pubDate>Sat, 21 Nov 2026 15:57:42 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América Latina</category>
       <category>América del Norte</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits</title>
-      <link>https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo</link>
-      <description>The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang. Fuente: BBC News - Business.</description>
-      <guid isPermaLink="false">cron-rss-noticias:054eee079f3a4576</guid>
-      <pubDate>Tue, 17 Nov 2026 22:19:22 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <dc:creator>Diana Baptista, Samantha Schmidt</dc:creator>
+      <source url="https://feeds.washingtonpost.com/rss/world">The Washington Post - World</source>
     </item>
     <item>
       <title>Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?</title>
@@ -942,9 +980,33 @@
       <enclosure url="http://images.euronews.com/articles/stories/09/99/90/36/640x360_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg?1795070447" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>England beat New Zealand by record margin</title>
+      <link>https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo</link>
+      <description>England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:65e6b3e63debc9d0</guid>
+      <pubDate>Sat, 21 Nov 2026 16:28:09 +0000</pubDate>
+      <category>deportes</category>
+      <category>Oceanía</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b8/live/234086c0-e5c7-11f1-a094-5fdc692f3e33.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b8/live/234086c0-e5c7-11f1-a094-5fdc692f3e33.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Superb England run up record win over New Zealand</title>
+      <link>https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo</link>
+      <description>England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka. Fuente: BBC Sport.</description>
+      <guid isPermaLink="false">cron-rss-noticias:03028b02ce016f89</guid>
+      <pubDate>Sat, 21 Nov 2026 16:08:59 +0000</pubDate>
+      <category>deportes</category>
+      <category>Oceanía</category>
+      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc0/live/c8a34840-e5c8-11f1-99a1-253766e7ad8b.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afc0/live/c8a34840-e5c8-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Live: France braces for fresh protests as social unrest enters sixth week</title>
       <link>https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week</link>
-      <description>France is bracing for a sixth consecutive Saturday of protests,with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments. Fuente: France 24 - English.</description>
+      <description>Turnout ⁠was down ​at largely peaceful demonstrations on Saturday compared to a week earlier, with 82,500 people protesting across France, including 21,500 in Paris, according to the interior ministry. Organisers ⁠put the figure at 150,000, including 45,000 in the capital. Follow our liveblog for the latest developments. Fuente: France 24 - English.</description>
       <guid isPermaLink="false">cron-rss-noticias:f54da73003bc8f55</guid>
       <pubDate>Sat, 21 Nov 2026 08:29:53 +0000</pubDate>
       <category>politica</category>
@@ -1192,6 +1254,19 @@
       <enclosure url="https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c8dfda336983f7d8e6f8e93e5b384b5" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Yemen's Houthis launch strikes after Saudi coalition's 'special operation'</title>
+      <link>https://www.thehindu.com/news/international/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation/article71729354.ece</link>
+      <description>Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. A journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a... Publicado también por: South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:79b28815607a8ead</guid>
+      <pubDate>Sat, 21 Nov 2026 17:14:14 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/askzn3/article71729367.ece/alternates/LANDSCAPE_1200/2026-11-20T183453Z_567340809_RC2UROA5J1V6_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/askzn3/article71729367.ece/alternates/LANDSCAPE_1200/2026-11-20T183453Z_567340809_RC2UROA5J1V6_RTRMADP_3_IRAN-CRISIS-YEMEN.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Fight over fossil fuels leaves COP31 climate talks in deadlock</title>
       <link>https://www.bbc.co.uk/news/articles/c6ly5w40eg07o</link>
       <description>Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement. Fuente: BBC News - World.</description>
@@ -1434,6 +1509,57 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/3kou7l/article71714334.ece/alternates/LANDSCAPE_1200/2026-11-17T191624Z_384802040_RC2ER4AT06N3_RTRMADP_3_NVIDIA-CEO-INSURANCE-LIABILITY.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020</title>
+      <link>https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html</link>
+      <description>Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:869692eb3fd45c20</guid>
+      <pubDate>Sat, 21 Nov 2026 16:40:05 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>EU and Indonesia sign trade deal</title>
+      <link>https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf</link>
+      <description>The EU and Indonesia officially signed a trade deal to open up their markets in Brussels on Saturday, paving the way for the accord to come into force early next year. EU chief Ursula von der Leyen and Indonesian Minister of Economic Affairs Airlangga Hartarto attended a signing ceremony for a pact that Brussels said is projected to increase European Union exports to Southeast Asia’s largest economy by almost 40 per cent within 15 years. “This is one of the most ambitious deals the European... Publicado también por: South China Morning Post. Fuente: Deutsche Welle - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6fbc6d0f071aaf33</guid>
+      <pubDate>Sat, 21 Nov 2026 15:21:00 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://rss.dw.com/rdf/rss-en-world">Deutsche Welle - World</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/a19afd8c-8876-4faf-9e3b-4dfc160e9ae0_6a2c5432.jpg?itok=9PZLccGM&amp;v=1795268772" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/a19afd8c-8876-4faf-9e3b-4dfc160e9ae0_6a2c5432.jpg?itok=9PZLccGM&amp;v=1795268772" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Finland detects drone attack on Russian cargo ship in Baltic</title>
+      <link>https://www.thehindu.com/news/international/finland-detects-drone-attack-on-russian-cargo-ship-in-baltic/article71728516.ece</link>
+      <description>A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic Sea. Publicado también por: France 24 - English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:77271d758cbc41ce</guid>
+      <pubDate>Sat, 21 Nov 2026 13:56:11 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/i5kwff/article71728519.ece/alternates/LANDSCAPE_1200/2026-11-21T121758Z_39228957_RC2BSOAQS763_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/i5kwff/article71728519.ece/alternates/LANDSCAPE_1200/2026-11-21T121758Z_39228957_RC2BSOAQS763_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-VESSEL.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>México captura al líder narco 'Chapo Isidro', uno de los más buscados por el FBI</title>
+      <link>https://www.france24.com/es/video/20261121-m%C3%A9xico-captura-al-l%C3%ADder-narco-chapo-isidro-uno-de-los-m%C3%A1s-buscados-por-el-fbi</link>
+      <description>El Ejército mexicano habría detenido a Fausto Isidro Meza Flores, alias el 'Chapo Isidro', señalado como uno de los principales líderes del narcotráfico en el norte de Sinaloa, según fuentes cercanas al gabinete de seguridad citadas por medios locales. En febrero de 2025, el FBI lo incluyó en su lista de los diez fugitivos más buscados y ofreció una recompensa de cinco millones de dólares por información que condujera a su captura. Estados Unidos lo acusa de participar en el tráfico de cocaína, heroína y fentanilo. Durante el operativo se registraron episodios de violencia que obligaron a los… Publicado también por: El Mundo - Internacional. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ced65d08f593f835</guid>
+      <pubDate>Sat, 21 Nov 2026 13:17:01 +0000</pubDate>
+      <category>mundo</category>
+      <category>América Latina</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/75166098-e5ac-11f1-ae09-1bac47ab2f5d/w:1024/p:16x9/ES-20261121-073202-073332-CS.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/75166098-e5ac-11f1-ae09-1bac47ab2f5d/w:1024/p:16x9/ES-20261121-073202-073332-CS.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Yemen’s Houthis launch strikes on Riyadh after Saudi coalition ‘special operation’</title>
       <link>https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation</link>
       <description>Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them. Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis. A journalist reported hearing two explosions shortly after authorities issued an alert, later lifted, saying the city was “under a... Publicado también por: France 24 - English. Fuente: South China Morning Post.</description>
@@ -1481,126 +1607,6 @@
       <category>economia</category>
       <category>Global</category>
       <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'</title>
-      <link>https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html</link>
-      <description>Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China. Publicado también por: ABC News Australia. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b1b78a49a321fd70</guid>
-      <pubDate>Fri, 20 Nov 2026 19:15:01 +0000</pubDate>
-      <category>politica</category>
-      <category>economia</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/d522adf378f0819aebc696fdcb7c2822?impolicy=wcms_crop_resize&amp;cropH=1359&amp;cropW=2416&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/d522adf378f0819aebc696fdcb7c2822?impolicy=wcms_crop_resize&amp;cropH=1359&amp;cropW=2416&amp;xPos=0&amp;yPos=128&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence</title>
-      <link>https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html</link>
-      <description>Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0ac36fea454b345f</guid>
-      <pubDate>Fri, 20 Nov 2026 18:38:37 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>UK and EU strike ‘landmark’ deal to rebuild ties after Brexit</title>
-      <link>https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit</link>
-      <description>🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon emission quotas. Publicado también por: Deutsche Welle - World. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1489ca8fe76bb408</guid>
-      <pubDate>Fri, 20 Nov 2026 17:06:59 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Directo París y la candidatura oficial de Dominique de Villepin para las presidenciales en Francia</title>
-      <link>https://www.france24.com/es/video/20261120-directo-par%C3%ADs-y-la-candidatura-oficial-de-dominique-de-villepin-para-las-presidenciales-en-francia</link>
-      <description>El escritor y exprimer ministro francés Dominique de Villepin presentó su candidatura a la Presidencia de Francia para 2027. Advierte de una guerra civil si la líder ultraderechista Marine Le Pen gana en los comicios y critica a Emmanuel Macron por ser un “presidente fantasma”. Ampliamos la información sobre su perfil con nuestra periodista, Erika Olavarría. Publicado también por: El País - Internacional. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4f162618320247d5</guid>
-      <pubDate>Fri, 20 Nov 2026 16:20:36 +0000</pubDate>
-      <category>politica</category>
-      <category>conflictos</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/3771717a-e4f2-11f1-83e2-1bac47ab2f5d/w:1024/p:16x9/ES-20261120-072451-072905-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/3771717a-e4f2-11f1-83e2-1bac47ab2f5d/w:1024/p:16x9/ES-20261120-072451-072905-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor’s hat</title>
-      <link>https://www.france24.com/en/video/20261120-cincinnati-zoo-s-famed-fiona-the-hippo-dies-days-after-eating-a-visitor-s-hat</link>
-      <description>Fiona, the hippo whose premature birth and fight for survival at the Cincinnati Zoo turned her into a global sensation nearly a decade ago, died Thursday from complications after swallowing a knit hat that was accidentally flung into her enclosure. She was 9 years old. “It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,” the zoo said in a statement. Publicado también por: Euronews. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:1569a8ee73c7e222</guid>
-      <pubDate>Fri, 20 Nov 2026 14:48:52 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/f0ea273a-e4ef-11f1-a4bb-6b451f569414/w:1024/p:16x9/EN-20261120-135316-135437-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/f0ea273a-e4ef-11f1-a4bb-6b451f569414/w:1024/p:16x9/EN-20261120-135316-135437-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Kataib Hezbollah faces deadline to leave Iraqi stronghold</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss</link>
-      <description>Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:627bbae50fa373da</guid>
-      <pubDate>Fri, 20 Nov 2026 11:10:06 +0000</pubDate>
-      <category>mundo</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates</title>
-      <link>https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html</link>
-      <description>A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:79220ee0742d4d53</guid>
-      <pubDate>Fri, 20 Nov 2026 10:45:41 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>Can the Rohingya genocide verdict deliver justice?</title>
-      <link>https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss</link>
-      <description>The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:66269f07231c0d5b</guid>
-      <pubDate>Fri, 20 Nov 2026 10:45:20 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
-      <title>California’s coastal communities on alert as biggest waves in years hit state</title>
-      <link>https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state</link>
-      <description>Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure generated powerful swells and large breaking waves for coastal communities. Beaches and piers were closed last weekend as large waves crashed into California’s coastline. Offshore National Oceanic and Atmospheric Administration buoys recorded wave heights of greater than 30ft (9 metres) last Friday. The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:5fd9d676d81c8fe8</guid>
-      <pubDate>Fri, 20 Nov 2026 09:03:20 +0000</pubDate>
-      <category>conflictos</category>
-      <category>América del Norte</category>
-      <dc:creator>Alice Nightingale-Smith for MetDesk</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd548202b629035c561b80f699fa5ef7" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd548202b629035c561b80f699fa5ef7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mozambique — Emergency Tracking Tool Report — Movement Alert #171 (17 November 2026)</title>
-      <link>https://reliefweb.int/report/mozambique/mozambique-emergency-tracking-tool-report-movement-alert-171-17-november-2026</link>
-      <description>Country: Mozambique Source: International Organization for Migration Please refer to the attached Infographic. Fuente: ReliefWeb - Emergencias.</description>
-      <guid isPermaLink="false">cron-rss-noticias:a72a8437d7d1819d</guid>
-      <pubDate>Fri, 20 Nov 2026 01:33:59 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <dc:creator>International Organization for Migration</dc:creator>
-      <source url="https://reliefweb.int/updates/rss.xml">ReliefWeb - Emergencias</source>
     </item>
   </channel>
 </rss>
