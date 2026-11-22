@@ -7,9 +7,23 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 21 Nov 2026 23:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:12:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-tecnologia.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>"Diré que no es bueno": Trump se refiere al supuesto ciberataque a una base de datos del FBI</title>
+      <link>https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261122-dir%C3%A9-que-no-es-bueno-trump-se-refiere-al-supuesto-ciberataque-a-una-base-de-datos-del-fbi</link>
+      <description>Donald Trump se refirió este sábado 21 de noviembre al supuesto ciberataque que sufrió el FBI contra su Centro Nacional de Información Criminal, pero matizó que el hecho puede servir para obtener información valiosa que de otro modo no se habría conocido. Fuente: France 24 - Español.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4461f88bef788349</guid>
+      <pubDate>Sun, 22 Nov 2026 00:02:03 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <dc:creator>France 24</dc:creator>
+      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
+      <media:content url="https://s.france24.com/media/display/3a84f6de-b757-11f1-82b7-4d7b41827f6c/w:1024/p:16x9/shinyhunters-fbi.png" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/3a84f6de-b757-11f1-82b7-4d7b41827f6c/w:1024/p:16x9/shinyhunters-fbi.png" type="image/jpeg" length="0" />
+    </item>
     <item>
       <title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</title>
       <link>https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/</link>
@@ -1408,20 +1422,6 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/10/00/12/52/640x360_cmsv2_7bc30524-5305-510e-aa10-ac64aa22aa33-10001252.jpg?1795163843" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/10/00/12/52/640x360_cmsv2_7bc30524-5305-510e-aa10-ac64aa22aa33-10001252.jpg?1795163843" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>UK acts to secure thousands of commercial fridges after Europe cyberattacks</title>
-      <link>https://timesofindia.indiatimes.com/world/uk/uk-acts-to-secure-thousands-of-commercial-fridges-after-europe-cyberattacks/articleshow/136022486.cms</link>
-      <description>Fuente: The Times of India - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7560565f7af5cd97</guid>
-      <pubDate>Fri, 20 Nov 2026 10:19:15 +0000</pubDate>
-      <category>tecnologia</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>Prisha Patnaik</dc:creator>
-      <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
-      <media:content url="https://static.toiimg.com/photo/msid-136022721,imgsize-132544.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-136022721,imgsize-132544.cms" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>

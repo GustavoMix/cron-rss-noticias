@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Sat, 21 Nov 2026 23:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 03:12:49 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/tema-economia.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -22,6 +22,34 @@
       <source url="https://feeds.content.dowjones.io/public/rss/mw_topstories">MarketWatch</source>
       <media:content url="https://images.mktw.net/im-29241577" medium="image" />
       <enclosure url="https://images.mktw.net/im-29241577" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Dudas y temores en los mercados por el apogeo de los colosos de la Inteligencia Artificial</title>
+      <link>https://www.clarin.com/mundo/dudas-temores-mercados-apogeo-colosos-inteligencia-artificial_0_cs4yRbbpkl.html</link>
+      <description>Anthropic rompió récords en su salida a Bolsa, pero se afirma que también agotó la confianza de los inversionistas preocupados por este fenómeno. Temores de los expertos y un futuro en duda. Fuente: Clarín - Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:489e96a10d47eb3b</guid>
+      <pubDate>Sat, 21 Nov 2026 22:30:54 +0000</pubDate>
+      <category>economia</category>
+      <category>tecnologia</category>
+      <category>América Latina</category>
+      <dc:creator>Clarin.com - Home</dc:creator>
+      <source url="https://www.clarin.com/rss/mundo/">Clarín - Mundo</source>
+      <media:content url="https://www.clarin.com/img/2026/11/21/ZJUdlEKcr_1200x630__1.jpg" medium="image" />
+      <enclosure url="https://www.clarin.com/img/2026/11/21/ZJUdlEKcr_1200x630__1.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>EU-Indonesia agreement sees the light after ten years of negotiations</title>
+      <link>https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations</link>
+      <description>The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest economy: 98.5 per cent of them. For Europe, it means access to a market of 280 million people and a steadier supply of nickel for batteries. For Indonesia, easier exports of palm oil, textiles and footwear, and it arrives just before its current EU trade preferences end on the 1st of January. To discuss the deal Airlangga Hartarto, Coordinating Minister for Economic Affairs in Indonesia joined us on the programme. Fuente: France 24 - English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:0ea20b5930c7141b</guid>
+      <pubDate>Sat, 21 Nov 2026 22:23:03 +0000</pubDate>
+      <category>economia</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>FRANCE24</dc:creator>
+      <source url="https://www.france24.com/en/rss">France 24 - English</source>
+      <media:content url="https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg" medium="image" />
+      <enclosure url="https://s.france24.com/media/display/ea9d9328-e5f6-11f1-b921-1bac47ab2f5d/w:1024/p:16x9/capture-a5f225a1.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>A tale of two Nvidias</title>
@@ -1424,29 +1452,6 @@
       <source url="https://feeds.content.dowjones.io/public/rss/mw_topstories">MarketWatch</source>
       <media:content url="https://images.mktw.net/im-64330534" medium="image" />
       <enclosure url="https://images.mktw.net/im-64330534" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The surprising reason the U.S. economy is speeding up — and might have more room to run</title>
-      <link>https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories</link>
-      <description>The main engine of U.S. growth is in overdrive. Fuente: MarketWatch.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7b5601fc95018dfa</guid>
-      <pubDate>Thu, 19 Nov 2026 19:13:00 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <dc:creator>Jeffry Bartash</dc:creator>
-      <source url="https://feeds.content.dowjones.io/public/rss/mw_topstories">MarketWatch</source>
-      <media:content url="https://images.mktw.net/im-25062036" medium="image" />
-      <enclosure url="https://images.mktw.net/im-25062036" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Anthropic IPO will create thousands of multimillionaire employees</title>
-      <link>https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html</link>
-      <description>The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:ce3c8964c12cda5d</guid>
-      <pubDate>Thu, 19 Nov 2026 19:05:45 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
     </item>
   </channel>
 </rss>
