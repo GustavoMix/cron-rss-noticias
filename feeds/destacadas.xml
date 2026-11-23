@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Mon, 23 Nov 2026 00:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:02:58 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -67,20 +67,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Democrats nominate Hakeem Jeffries to be US Speaker of the House</title>
-      <link>https://www.bbc.co.uk/news/articles/cmy49873dn95o</link>
-      <description>Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats elected him their leader on Wednesday following a sweeping midterm election triumph. The 56-year-old New Yorker secured 251 votes in a closed-door, secret ballot, with 11 cast against his nomination, according to US media. Jeffries faced no declared challenger, although opposition from some newly elected progressives had exposed divisions over how Democrats should wield their... Publicado también por: France 24 - English, The Hindu - International, South China Morning Post. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:122ca649dc15be3f</guid>
-      <pubDate>Wed, 18 Nov 2026 21:13:06 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Van Gogh painting sells for record $190.4 million after Nazi-era restitution dispute resolved</title>
@@ -306,16 +292,19 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Can Anthropic's record-breaking IPO stop the AI bubble bursting?</title>
-      <link>https://www.bbc.co.uk/news/articles/cj4gnpzll020o</link>
-      <description>Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3952a8f50343bb97</guid>
-      <pubDate>Wed, 18 Nov 2026 21:28:08 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg" type="image/jpeg" length="0" />
+      <title>Drone strikes hit homes and UN premises in Sudan's capital</title>
+      <link>http://www.africanews.com/2026/11/23/drone-strikes-hit-homes-and-un-premises-in-sudans-capital/</link>
+      <description>Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year. Publicado también por: France 24 - English, The Hindu - International. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f7fd50947596eaec</guid>
+      <pubDate>Mon, 23 Nov 2026 06:43:08 +0000</pubDate>
+      <category>conflictos</category>
+      <category>África</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <dc:creator>editorial@africanews.com</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/10/00/35/16/640x360_cmsv2_f11c0980-2ac7-56a4-a2ac-73a362b920cc-10003516.jpg?1795362243" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/10/00/35/16/640x360_cmsv2_f11c0980-2ac7-56a4-a2ac-73a362b920cc-10003516.jpg?1795362243" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank</title>
@@ -420,7 +409,7 @@
     <item>
       <title>Explosion on Russian ship at Libya port caused by suspected drone attack, officials say</title>
       <link>https://www.bbc.co.uk/news/articles/cr894gjz0j0yo</link>
-      <description>A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base. Publicado también por: Al Jazeera English. Fuente: BBC News - World.</description>
+      <description>Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia. Publicado también por: Al Jazeera English. Fuente: BBC News - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:67672f245b718661</guid>
       <pubDate>Sun, 22 Nov 2026 19:26:54 +0000</pubDate>
       <category>mundo</category>
@@ -850,19 +839,6 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/3u4ar5/article71717508.ece/alternates/LANDSCAPE_1200/2026-11-18T191216Z_1009111022_RC2IQOA7IH3N_RTRMADP_3_VENEZUELA-USA.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Alexander Zverev officially notified of lawsuit by ex-partner in abuse case</title>
-      <link>https://www.abc.net.au/news/2026-11-19/alexander-zverev-officially-notified-of-lawsuit-by-ex-partner/107401880</link>
-      <description>Men’s world No 1 allegedly violated terms of settlement Lawyers say Zverev will ‘defend himself against lawsuit’ Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday. The latest legal case against the men’s world No 1 brought by the mother of the former couple’s daughter alleges that Zverev violated the terms of an out-of-court settlement between the pair after the woman accused him of assaulting her. The lawsuit brought by Brenda Patea in Germany takes issue with Zverev reportedly saying in an… Publicado también por: The Guardian - World. Fuente: ABC News Australia.</description>
-      <guid isPermaLink="false">cron-rss-noticias:30ea4f24bf7fe373</guid>
-      <pubDate>Wed, 18 Nov 2026 21:28:30 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>Oceanía</category>
-      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/173eab94b19a48cbfccbef377bd9a44e?impolicy=wcms_crop_resize&amp;cropH=1743&amp;cropW=3098&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/173eab94b19a48cbfccbef377bd9a44e?impolicy=wcms_crop_resize&amp;cropH=1743&amp;cropW=3098&amp;xPos=0&amp;yPos=161&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>México: capturan a 'Chapo Isidro', uno de los narcos más buscados por el FBI</title>
       <link>https://www.france24.com/es/video/20261122-m%C3%A9xico-capturan-a-chapo-isidro-uno-de-los-narcos-m%C3%A1s-buscados-por-el-fbi</link>
       <description>El 'Chapo Isidrio', considerado uno de los fugitivos más buscados por el FBI y señalado como líder de una facción vinculada al grupo de los Beltrán Leyva, fue detenido en un operativo en el estado de Sinaloa realizado con apoyo de labores de inteligencia de México y Estados Unidos. Publicado también por: BBC News Mundo. Fuente: France 24 - Español.</description>
@@ -952,16 +928,16 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Why has Waymo pulled all its driverless cars from US freeways?</title>
-      <link>https://www.bbc.co.uk/news/videos/cmx2ryw97x4go</link>
-      <description>The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:11e7767f784df7e5</guid>
-      <pubDate>Wed, 18 Nov 2026 23:47:46 +0000</pubDate>
+      <title>Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya</title>
+      <link>https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss</link>
+      <description>The attacks came after a drone hit a Russian cargo ship in the eastern Baltic Sea on Saturday, close to the waters of Finland, whose border guard said the strike was Ukrainian. Publicado también por: Euronews. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:729155122fc6e74c</guid>
+      <pubDate>Mon, 23 Nov 2026 07:37:09 +0000</pubDate>
       <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg" type="image/jpeg" length="0" />
+      <category>Europa</category>
+      <category>África</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
       <title>India’s opposition stages protests against Meta over account removals</title>
@@ -1012,6 +988,19 @@
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
     <item>
+      <title>Democrats clinch a historic House majority of at least 258 seats, largest since 1992</title>
+      <link>https://www.thehindu.com/news/international/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-largest-since-1992/article71733328.ece</link>
+      <description>House Democrats have secured their best general election result in decades, winning at least 258 seats in an election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in US President Donald Trump’s first midterm in 2018. The 258-seat tally was reached Sunday after Democrat Chuck Hubbard defeated Republican... Publicado también por: South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9634a30a5e783f2a</guid>
+      <pubDate>Mon, 23 Nov 2026 05:11:52 +0000</pubDate>
+      <category>politica</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/w2z0gg/article71733398.ece/alternates/LANDSCAPE_1200/2026-11-12T133329Z_1278758595_RC2DMOAFZYCJ_RTRMADP_3_USA-CONGRESS.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/w2z0gg/article71733398.ece/alternates/LANDSCAPE_1200/2026-11-12T133329Z_1278758595_RC2DMOAFZYCJ_RTRMADP_3_USA-CONGRESS.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Ukraine: Rescue teams search wreckage after deadly Russian strike on Kyiv</title>
       <link>http://www.africanews.com/2026/11/20/ukraine-rescue-teams-search-wreckage-after-deadly-russian-strike-on-kyiv/</link>
       <description>A Russian overnight attack on Kyiv, Ukraine, killed eight people on Friday 20 November 2026, according to Associated Press, leaving buildings and warehouses damaged across the capital. Firefighters battled blazes as emergency crews searched the wreckage and police collected evidence. Publicado también por: Euronews. Fuente: Africanews.</description>
@@ -1052,6 +1041,34 @@
       <source url="https://www.africanews.com/feed/rss">Africanews</source>
       <media:content url="http://images.euronews.com/articles/stories/09/99/90/36/640x360_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg?1795070447" medium="image" />
       <enclosure url="http://images.euronews.com/articles/stories/09/99/90/36/640x360_cmsv2_7a81b3d7-374f-5fa0-ae03-ff59a82d1502-9999036.jpg?1795070447" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live</title>
+      <link>https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates</link>
+      <description>President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Ukraine’s president Volodymyr Zelenskyy has claimed responsibility for sinking a Russian warship at a Libyan naval base on Sunday, saying it was part of Kyiv’s response to Russia’s continuing aggression. “An exemplary Ukrainian operation in response to Russia’s war,” he said in a post on X, with a video showing the moment the corvette was hit by Ukrainian drones. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:334ffaf6ebd8f041</guid>
+      <pubDate>Mon, 23 Nov 2026 08:50:48 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>África</category>
+      <dc:creator>Jakub Krupa</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3fea44607549cbbdc4de25ec543522" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3fea44607549cbbdc4de25ec543522" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd</title>
+      <link>https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert</link>
+      <description>Police declare major incident after concertgoers at Don Toliver gig report eye and respiratory symptoms One person was taken to hospital and more than 50 were assessed by medics after a substance was let off in the crowd at Manchester’s Co-op Live arena, officials have said. Police declared a major incident after the release of the substance, which was initially thought to be teargas, as they sought to protect the 12,000 people in the crowd at a Don Toliver concert. Continue reading... Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:213a71e94502e48f</guid>
+      <pubDate>Mon, 23 Nov 2026 07:48:31 +0000</pubDate>
+      <category>salud</category>
+      <category>cultura</category>
+      <category>Global</category>
+      <dc:creator>Kevin Rawlinson</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/34d84297e8f9e2ff1677094b19ec2646b2f2ed6d/136_0_4261_3409/master/4261.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=587959d0783e1d667cffb93d4d6f0f7c" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/34d84297e8f9e2ff1677094b19ec2646b2f2ed6d/136_0_4261_3409/master/4261.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=587959d0783e1d667cffb93d4d6f0f7c" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’</title>
@@ -1372,19 +1389,31 @@
       <enclosure url="https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc6c883bc7739c7c41e75c2a5cdd55f7" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Trump, Xi y Putin: a qué apunta cada uno en su histórica cumbre en China</title>
-      <link>https://www.france24.com/es/asia-pac%C3%ADfico/20261118-trump-xi-y-putin-a-qu%C3%A9-apunta-cada-uno-en-su-hist%C3%B3rica-cumbre-en-china</link>
-      <description>Frenar la venta de armas a Taiwán, recuperarse de una contundente derrota electoral o proyectar una imagen de igualdad de oportunidades con las dos superpotencias mundiales: Xi Jinping, Donald Trump y Vladimir Putin abordan su reunión trilateral en Shenzhen con objetivos y agendas diferentes. Fuente: France 24 - Español.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7004b6ea41b3af5c</guid>
-      <pubDate>Wed, 18 Nov 2026 21:14:41 +0000</pubDate>
+      <title>Brazil: Colourful costumes and dancing take over Copacabana Pride</title>
+      <link>http://www.africanews.com/2026/11/23/brazil-colourful-costumes-and-dancing-take-over-copacabana-pride/</link>
+      <description>Thousands of people filled Copacabana's beachfront in Rio de Janeiro, Brazil, on Sunday 22 November 2026, for the city's 31st Pride Parade, celebrating LGBT+ diversity and calling for greater equality. Publicado también por: Euronews. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:2b55ac8de2cfaf26</guid>
+      <pubDate>Mon, 23 Nov 2026 08:03:02 +0000</pubDate>
       <category>mundo</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
+      <category>América Latina</category>
+      <category>África</category>
       <category>Europa</category>
-      <dc:creator>France 24</dc:creator>
-      <source url="https://www.france24.com/es/rss">France 24 - Español</source>
-      <media:content url="https://s.france24.com/media/display/762b4c88-5519-11f1-a6e6-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-AEA-20MAY.png" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/762b4c88-5519-11f1-a6e6-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-AEA-20MAY.png" type="image/jpeg" length="0" />
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/10/00/40/46/640x360_cmsv2_01e49985-b323-53cf-89c8-2bfae1ab9976-10004046.jpg?1795419793" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/10/00/40/46/640x360_cmsv2_01e49985-b323-53cf-89c8-2bfae1ab9976-10004046.jpg?1795419793" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say</title>
+      <link>https://www.bbc.co.uk/news/articles/cqdr15l32d3go</link>
+      <description>Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:b1ddcc037c696f37</guid>
+      <pubDate>Mon, 23 Nov 2026 05:33:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least 14 people missing after Russian drone hit building in Kyiv region, Zelensky says</title>
@@ -1596,30 +1625,6 @@
       <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
       <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ead6/live/066e7440-e3af-11f1-8476-9fd445fc522b.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Survivors of Uganda's deadly landslide seek justice at the UN</title>
-      <link>https://www.bbc.co.uk/news/articles/c920xgxp5785o</link>
-      <description>Survivors reject relocation plans they say ignore their safety, land rights and livelihoods. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:e2cd79a10e4ed3d0</guid>
-      <pubDate>Thu, 19 Nov 2026 09:21:54 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Mary Peltola wins in Alaska, securing 56-44 US Senate majority for Democrats</title>
-      <link>https://timesofindia.indiatimes.com/world/us/mary-peltola-wins-in-alaska-securing-56-44-us-senate-majority-for-democrats/articleshow/135975353.cms</link>
-      <description>Alaska’s isolated communities can make its election counts unusually lengthy. The race was further complicated by allegations that Democrats helped recruit an independent candidate as a spoiler Publicado también por: The Hindu - International. Fuente: The Times of India - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b9ac301786875bd5</guid>
-      <pubDate>Thu, 19 Nov 2026 02:08:15 +0000</pubDate>
-      <category>politica</category>
-      <category>Asia</category>
-      <source url="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms">The Times of India - World</source>
-      <media:content url="https://static.toiimg.com/photo/msid-135975352,imgsize-71448.cms" medium="image" />
-      <enclosure url="https://static.toiimg.com/photo/msid-135975352,imgsize-71448.cms" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
