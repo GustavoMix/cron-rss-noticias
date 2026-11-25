@@ -1,19 +1,19 @@
 {
-  "generado_en": "2026-11-25T02:26:19+00:00",
+  "generado_en": "2026-11-25T12:52:36+00:00",
   "resumen": {
     "fuentes": 141,
     "por_estado": {
       "no_ejecutada": 80,
-      "ok": 44,
-      "error": 15,
+      "ok": 45,
+      "error": 14,
       "sin_novedades": 2
     },
     "bloqueadas": 0,
-    "con_error": 15,
+    "con_error": 14,
     "descartes_en_proceso": {
-      "sin_titulo_o_url": 5,
-      "muy_vieja": 72,
-      "agrupadas_como_duplicado": 39
+      "sin_titulo_o_url": 4,
+      "muy_vieja": 92,
+      "agrupadas_como_duplicado": 45
     }
   },
   "fuentes": [
@@ -144,22 +144,6 @@
       "items": 0,
       "duracion_ms": 0,
       "error": "HTTP 404"
-    },
-    {
-      "id": "rss_independent_world",
-      "nombre": "The Independent - World",
-      "tipo": "rss",
-      "url": "https://www.independent.co.uk/news/world/rss",
-      "archivo": "mundo_en.yaml",
-      "categoria": "mundo",
-      "region": "Europa",
-      "idioma": "en",
-      "peso": 3,
-      "activa": true,
-      "estado": "error",
-      "items": 0,
-      "duracion_ms": 0,
-      "error": "HTTP 429"
     },
     {
       "id": "rss_infobae",
@@ -1550,7 +1534,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 304,
+      "duracion_ms": 148,
       "error": null
     },
     {
@@ -1566,7 +1550,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 184,
+      "duracion_ms": 46,
       "error": null
     },
     {
@@ -1582,7 +1566,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 106,
+      "duracion_ms": 49,
       "error": null
     },
     {
@@ -1598,7 +1582,7 @@
       "activa": true,
       "estado": "ok",
       "items": 25,
-      "duracion_ms": 182,
+      "duracion_ms": 140,
       "error": null
     },
     {
@@ -1614,7 +1598,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 124,
+      "duracion_ms": 38,
       "error": null
     },
     {
@@ -1630,7 +1614,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 27,
+      "duracion_ms": 22,
       "error": null
     },
     {
@@ -1646,7 +1630,7 @@
       "activa": true,
       "estado": "ok",
       "items": 34,
-      "duracion_ms": 227,
+      "duracion_ms": 330,
       "error": null
     },
     {
@@ -1662,7 +1646,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 360,
+      "duracion_ms": 112,
       "error": null
     },
     {
@@ -1677,8 +1661,8 @@
       "peso": 5,
       "activa": true,
       "estado": "ok",
-      "items": 31,
-      "duracion_ms": 281,
+      "items": 30,
+      "duracion_ms": 115,
       "error": null
     },
     {
@@ -1694,7 +1678,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 109,
+      "duracion_ms": 47,
       "error": null
     },
     {
@@ -1710,7 +1694,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 330,
+      "duracion_ms": 298,
       "error": null
     },
     {
@@ -1725,8 +1709,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 11,
-      "duracion_ms": 475,
+      "items": 12,
+      "duracion_ms": 259,
       "error": null
     },
     {
@@ -1742,7 +1726,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 177,
+      "duracion_ms": 208,
       "error": null
     },
     {
@@ -1757,8 +1741,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 23,
-      "duracion_ms": 90,
+      "items": 24,
+      "duracion_ms": 100,
       "error": null
     },
     {
@@ -1774,7 +1758,7 @@
       "activa": true,
       "estado": "ok",
       "items": 4,
-      "duracion_ms": 687,
+      "duracion_ms": 776,
       "error": null
     },
     {
@@ -1790,7 +1774,7 @@
       "activa": true,
       "estado": "sin_novedades",
       "items": 0,
-      "duracion_ms": 135,
+      "duracion_ms": 131,
       "error": null
     },
     {
@@ -1806,7 +1790,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 193,
+      "duracion_ms": 101,
       "error": null
     },
     {
@@ -1822,7 +1806,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 519,
+      "duracion_ms": 333,
       "error": null
     },
     {
@@ -1838,7 +1822,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 212,
+      "duracion_ms": 98,
       "error": null
     },
     {
@@ -1854,7 +1838,7 @@
       "activa": true,
       "estado": "ok",
       "items": 24,
-      "duracion_ms": 128,
+      "duracion_ms": 77,
       "error": null
     },
     {
@@ -1870,7 +1854,7 @@
       "activa": true,
       "estado": "ok",
       "items": 26,
-      "duracion_ms": 70,
+      "duracion_ms": 181,
       "error": null
     },
     {
@@ -1886,7 +1870,7 @@
       "activa": true,
       "estado": "ok",
       "items": 34,
-      "duracion_ms": 266,
+      "duracion_ms": 132,
       "error": null
     },
     {
@@ -1902,7 +1886,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 106,
+      "duracion_ms": 45,
       "error": null
     },
     {
@@ -1918,7 +1902,23 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 2343,
+      "duracion_ms": 1456,
+      "error": null
+    },
+    {
+      "id": "rss_independent_world",
+      "nombre": "The Independent - World",
+      "tipo": "rss",
+      "url": "https://www.independent.co.uk/news/world/rss",
+      "archivo": "mundo_en.yaml",
+      "categoria": "mundo",
+      "region": "Europa",
+      "idioma": "en",
+      "peso": 3,
+      "activa": true,
+      "estado": "ok",
+      "items": 40,
+      "duracion_ms": 171,
       "error": null
     },
     {
@@ -1934,7 +1934,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 97,
+      "duracion_ms": 104,
       "error": null
     },
     {
@@ -1950,7 +1950,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 646,
+      "duracion_ms": 372,
       "error": null
     },
     {
@@ -1966,7 +1966,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 307,
+      "duracion_ms": 957,
       "error": null
     },
     {
@@ -1982,7 +1982,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 144,
+      "duracion_ms": 85,
       "error": null
     },
     {
@@ -1998,7 +1998,7 @@
       "activa": true,
       "estado": "ok",
       "items": 32,
-      "duracion_ms": 177,
+      "duracion_ms": 195,
       "error": null
     },
     {
@@ -2014,7 +2014,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 52,
+      "duracion_ms": 66,
       "error": null
     },
     {
@@ -2030,7 +2030,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 215,
+      "duracion_ms": 44,
       "error": null
     },
     {
@@ -2046,7 +2046,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 270,
+      "duracion_ms": 122,
       "error": null
     },
     {
@@ -2062,7 +2062,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 46,
+      "duracion_ms": 37,
       "error": null
     },
     {
@@ -2078,7 +2078,7 @@
       "activa": true,
       "estado": "ok",
       "items": 30,
-      "duracion_ms": 319,
+      "duracion_ms": 181,
       "error": null
     },
     {
@@ -2092,9 +2092,9 @@
       "idioma": "en",
       "peso": 4,
       "activa": true,
-      "estado": "ok",
-      "items": 20,
-      "duracion_ms": 1498,
+      "estado": "sin_novedades",
+      "items": 0,
+      "duracion_ms": 287,
       "error": null
     },
     {
@@ -2110,7 +2110,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 405,
+      "duracion_ms": 515,
       "error": null
     },
     {
@@ -2126,7 +2126,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 505,
+      "duracion_ms": 372,
       "error": null
     },
     {
@@ -2142,7 +2142,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 279,
+      "duracion_ms": 15,
       "error": null
     },
     {
@@ -2158,7 +2158,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 100,
+      "duracion_ms": 246,
       "error": null
     },
     {
@@ -2174,7 +2174,7 @@
       "activa": true,
       "estado": "ok",
       "items": 40,
-      "duracion_ms": 86,
+      "duracion_ms": 50,
       "error": null
     },
     {
@@ -2190,7 +2190,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 149,
+      "duracion_ms": 50,
       "error": null
     },
     {
@@ -2206,7 +2206,7 @@
       "activa": true,
       "estado": "ok",
       "items": 20,
-      "duracion_ms": 138,
+      "duracion_ms": 129,
       "error": null
     },
     {
@@ -2222,7 +2222,7 @@
       "activa": true,
       "estado": "ok",
       "items": 10,
-      "duracion_ms": 303,
+      "duracion_ms": 121,
       "error": null
     },
     {
@@ -2237,8 +2237,8 @@
       "peso": 4,
       "activa": true,
       "estado": "ok",
-      "items": 10,
-      "duracion_ms": 9145,
+      "items": 13,
+      "duracion_ms": 201,
       "error": null
     },
     {
@@ -2252,9 +2252,9 @@
       "idioma": "en",
       "peso": 5,
       "activa": true,
-      "estado": "sin_novedades",
-      "items": 0,
-      "duracion_ms": 579,
+      "estado": "ok",
+      "items": 40,
+      "duracion_ms": 777,
       "error": null
     },
     {
@@ -2269,8 +2269,8 @@
       "peso": 3,
       "activa": true,
       "estado": "ok",
-      "items": 26,
-      "duracion_ms": 238,
+      "items": 30,
+      "duracion_ms": 30,
       "error": null
     }
   ]
