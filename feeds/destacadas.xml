@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 26 Nov 2026 15:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:51:52 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -51,6 +51,20 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Two Italians killed in drone attack in Kuwait</title>
+      <link>https://www.thehindu.com/news/international/drone-attack-kuwait-us-iran-war-death-november-27-2026/article71748337.ece</link>
+      <description>‘Around 2:00 p.m. today, several Iranian-made drones targeted Kuwaiti military installations, including an air-defence detection station where two Italian technicians from Rheinmetall were working,’ Italian FM Antonio Tajani said Publicado también por: The New York Times - World, Al Jazeera English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:9a157917e54140cd</guid>
+      <pubDate>Thu, 26 Nov 2026 23:39:13 +0000</pubDate>
+      <category>conflictos</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/col18g/article71748862.ece/alternates/LANDSCAPE_1200/2026-04-04T150829Z_926261471_RC2EIKA1Z4FH_RTRMADP_3_IRAN-CRISIS-BAHRAIN.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/col18g/article71748862.ece/alternates/LANDSCAPE_1200/2026-04-04T150829Z_926261471_RC2EIKA1Z4FH_RTRMADP_3_IRAN-CRISIS-BAHRAIN.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>At least 30 killed as fuel tanker crash ignites large fire on Cairo highway</title>
@@ -233,20 +247,6 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9451/live/7a525660-e7fb-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Democrats win largest House majority since 1992 with North Carolina seat</title>
-      <link>https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss</link>
-      <description>The milestone sets up a divided government, with the Senate also in Democratic hands and a Republican president in the White House. Publicado también por: ABC News Australia, BBC News - World. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:6c208608bb34be91</guid>
-      <pubDate>Sun, 22 Nov 2026 22:19:47 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Medio Oriente</category>
-      <category>Oceanía</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://live-production.wcms.abc-cdn.net.au/9e33a43ffcb65db6ea2e60b1f8b31977?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image" />
-      <enclosure url="https://live-production.wcms.abc-cdn.net.au/9e33a43ffcb65db6ea2e60b1f8b31977?impolicy=wcms_crop_resize&amp;cropH=2813&amp;cropW=5000&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture</title>
       <link>https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump</link>
       <description>North Korea didn't say where the nuclear materials production factories that Kim Jong Un visited this week are located; U.S President Trump reiterated his eagerness to restore diplomacy with Mr. Kim as he visited China last week for the APEC summit Publicado también por: Euronews, The Hindu - International. Fuente: NPR - World.</description>
@@ -312,33 +312,18 @@
       <enclosure url="https://th-i.thgim.com/public/incoming/c3d16q/article71735364.ece/alternates/LANDSCAPE_1200/2026-11-23T141719Z_364830081_RC2REMAEENOQ_RTRMADP_3_NVIDIA-CEO.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Drone strikes hit homes and UN premises in Sudan's capital</title>
-      <link>http://www.africanews.com/2026/11/23/drone-strikes-hit-homes-and-un-premises-in-sudans-capital/</link>
-      <description>Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year. Publicado también por: France 24 - English, The Hindu - International. Fuente: Africanews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f7fd50947596eaec</guid>
-      <pubDate>Mon, 23 Nov 2026 06:43:08 +0000</pubDate>
-      <category>conflictos</category>
-      <category>África</category>
+      <title>French actor Gerard Depardieu to stand trial for alleged 2018 rape</title>
+      <link>https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss</link>
+      <description>Film star ⁠Gerard Depardieu, one of the ⁠leading faces of French cinema, will face trial on charges of raping actress Charlotte Arnould in 2018, after a Paris appeal court on Thursday rejected his bid to avoid having the case tried. Arnould first accused Depardieu of rape in ‌2018, saying the assaults occurred in his Paris home on two separate occasions when she was in her early twenties. Depardieu, 77, has denied wrongdoing in the case, and his legal team last year appealed the investigative... Publicado también por: South China Morning Post, BBC News - World. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:277fdc0f07d71d1a</guid>
+      <pubDate>Thu, 26 Nov 2026 17:18:24 +0000</pubDate>
+      <category>cultura</category>
       <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>editorial@africanews.com</dc:creator>
-      <source url="https://www.africanews.com/feed/rss">Africanews</source>
-      <media:content url="http://images.euronews.com/articles/stories/10/00/35/16/640x360_cmsv2_f11c0980-2ac7-56a4-a2ac-73a362b920cc-10003516.jpg?1795362243" medium="image" />
-      <enclosure url="http://images.euronews.com/articles/stories/10/00/35/16/640x360_cmsv2_f11c0980-2ac7-56a4-a2ac-73a362b920cc-10003516.jpg?1795362243" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank</title>
-      <link>https://www.thehindu.com/news/international/israels-eisenkot-condemns-arson-attacks-by-jewish-settlers-in-west-bank/article71732544.ece</link>
-      <description>Israeli opposition leader Gadi Eisenkot on Sunday condemned arson attacks by settlers on Palestinian villages in the West Bank as “Jewish terrorism.” Israeli police said they opened an investigation into the attacks, which came nearly a month after an inconclusive election stripped incumbent Prime Minister ⁠Benjamin Netanyahu of his majority. Publicado también por: France 24 - English, ABC News Australia. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:be495c0e8fa7e8c8</guid>
-      <pubDate>Sun, 22 Nov 2026 22:02:28 +0000</pubDate>
-      <category>politica</category>
       <category>Medio Oriente</category>
       <category>Asia</category>
-      <category>Europa</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/qxpda3/article71732548.ece/alternates/LANDSCAPE_1200/2026-11-17T132413Z_1399649141_RC2OPOA2Q1HS_RTRMADP_3_ISRAEL-POLITICS.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/qxpda3/article71732548.ece/alternates/LANDSCAPE_1200/2026-11-17T132413Z_1399649141_RC2OPOA2Q1HS_RTRMADP_3_ISRAEL-POLITICS.JPG" type="image/jpeg" length="0" />
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/cae33cb8-c748-430b-91ba-e3c676b1dd76_3358b993.jpg?itok=xL8oNS_e&amp;v=1795704354" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/26/cae33cb8-c748-430b-91ba-e3c676b1dd76_3358b993.jpg?itok=xL8oNS_e&amp;v=1795704354" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>FedEx cargo plane overshoots runway at Miami airport</title>
@@ -537,7 +522,7 @@
     <item>
       <title>Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs</title>
       <link>https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps</link>
-      <description>Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour MPs – including a handful of frontbenchers – writing to the prime minister to express their opposition to the project. Ninety-two backbenchers and at least four frontbenchers have signed a letter to Andy Burnham urging him not to let his ministers approve the scheme for the biggest undeveloped field in UK waters. Continue… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <description>Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next? Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour MPs – including a handful of frontbenchers – writing to the prime minister to express their opposition to the project. Ninety-two backbenchers and at least four frontbenchers have signed a letter to Andy Burnham urging him not to let his ministers approve the scheme for the biggest undeveloped field… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
       <guid isPermaLink="false">cron-rss-noticias:c328971cb4e83e77</guid>
       <pubDate>Thu, 26 Nov 2026 15:00:37 +0000</pubDate>
       <category>politica</category>
@@ -802,21 +787,6 @@
       <enclosure url="https://s.france24.com/media/display/42bcf66a-e774-11f1-99b6-13439ca2fe89/w:1024/p:16x9/EN-20261123-201152-201640-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Drone strikes hit homes, United Nations building in Sudan's capital</title>
-      <link>https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital</link>
-      <description>Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year. Publicado también por: The Hindu - International. Fuente: France 24 - English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:8bfbb48fe6bb9323</guid>
-      <pubDate>Mon, 23 Nov 2026 00:43:36 +0000</pubDate>
-      <category>conflictos</category>
-      <category>África</category>
-      <category>Europa</category>
-      <category>Asia</category>
-      <dc:creator>FRANCE24</dc:creator>
-      <source url="https://www.france24.com/en/rss">France 24 - English</source>
-      <media:content url="https://s.france24.com/media/display/bea80488-e6d2-11f1-82d9-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000406-000527-CS.jpg" medium="image" />
-      <enclosure url="https://s.france24.com/media/display/bea80488-e6d2-11f1-82d9-1bac47ab2f5d/w:1024/p:16x9/EN-20261123-000406-000527-CS.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Tributes for Duran Duran guitarist Andy Taylor after his death aged 65</title>
       <link>https://www.bbc.co.uk/news/articles/cmp3vk6vr44po</link>
       <description>Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him Andy Taylor – a life in pictures Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading... Publicado también por: The Guardian - Culture. Fuente: BBC News - World.</description>
@@ -942,18 +912,6 @@
       <source url="https://rss.dw.com/rdf/rss-en-world">Deutsche Welle - World</source>
     </item>
     <item>
-      <title>Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya</title>
-      <link>https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss</link>
-      <description>The attacks came after a drone hit a Russian cargo ship in the eastern Baltic Sea on Saturday, close to the waters of Finland, whose border guard said the strike was Ukrainian. Publicado también por: Euronews. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:729155122fc6e74c</guid>
-      <pubDate>Mon, 23 Nov 2026 07:37:09 +0000</pubDate>
-      <category>mundo</category>
-      <category>Europa</category>
-      <category>África</category>
-      <category>Medio Oriente</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-    </item>
-    <item>
       <title>Pakistan: Emergency teams search for survivors beneath collapsed building</title>
       <link>http://www.africanews.com/2026/11/25/pakistan-emergency-teams-search-for-survivors-beneath-collapsed-building/</link>
       <description>At least one person was killed and 10 others injured when a multi-storey building under construction collapsed in Karachi, on Wednesday 25 November 2026. Emergency teams are searching the rubble for people feared missing. Publicado también por: Euronews. Fuente: Africanews.</description>
@@ -979,19 +937,6 @@
       <source url="https://feeds.bbci.co.uk/news/business/rss.xml">BBC News - Business</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Democrats clinch a historic House majority of at least 258 seats, largest since 1992</title>
-      <link>https://www.thehindu.com/news/international/democrats-clinch-a-historic-house-majority-of-at-least-258-seats-largest-since-1992/article71733328.ece</link>
-      <description>House Democrats have secured their best general election result in decades, winning at least 258 seats in an election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises and priorities. Democrats have gained 44 House seats so far, four more than the 40 they picked up in US President Donald Trump’s first midterm in 2018. The 258-seat tally was reached Sunday after Democrat Chuck Hubbard defeated Republican... Publicado también por: South China Morning Post. Fuente: The Hindu - International.</description>
-      <guid isPermaLink="false">cron-rss-noticias:9634a30a5e783f2a</guid>
-      <pubDate>Mon, 23 Nov 2026 05:11:52 +0000</pubDate>
-      <category>politica</category>
-      <category>América del Norte</category>
-      <category>Asia</category>
-      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/w2z0gg/article71733398.ece/alternates/LANDSCAPE_1200/2026-11-12T133329Z_1278758595_RC2DMOAFZYCJ_RTRMADP_3_USA-CONGRESS.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/w2z0gg/article71733398.ece/alternates/LANDSCAPE_1200/2026-11-12T133329Z_1278758595_RC2DMOAFZYCJ_RTRMADP_3_USA-CONGRESS.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Trump says he wants Putin to ‘pull back all military aggression’ in Europe – Europe live</title>
@@ -1408,71 +1353,31 @@
       <enclosure url="https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5434d79e2c7db3afb55b15a2183bcef2" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live</title>
-      <link>https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates</link>
-      <description>European Commission president Ursula von der Leyen sets out 22nd package of sanctions Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia. … But support needs to be concrete. We have to show Putin that his attempts to weaken our support will fail.” “Our citizens need to know that the lights will stay on, that their homes will stay warm, that hospitals, transport and communications… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:334ffaf6ebd8f041</guid>
-      <pubDate>Mon, 23 Nov 2026 08:50:48 +0000</pubDate>
-      <category>conflictos</category>
+      <title>Germany: Christmas markets open across the country amid tight security</title>
+      <link>http://www.africanews.com/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security/</link>
+      <description>Christmas markets across Germany are welcoming visitors with dazzling lights, traditional treats and festive attractions. Security remains a priority following deadly attacks in recent years. Publicado también por: Euronews. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:6ac3234ffce2f801</guid>
+      <pubDate>Thu, 26 Nov 2026 22:05:28 +0000</pubDate>
+      <category>mundo</category>
       <category>Europa</category>
       <category>África</category>
-      <dc:creator>Jakub Krupa</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3fea44607549cbbdc4de25ec543522" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da3fea44607549cbbdc4de25ec543522" type="image/jpeg" length="0" />
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/10/01/02/78/640x360_cmsv2_8e031cfe-481f-5a25-9ca1-bef200aa15c0-10010278.jpg?1795728036" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/10/01/02/78/640x360_cmsv2_8e031cfe-481f-5a25-9ca1-bef200aa15c0-10010278.jpg?1795728036" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd</title>
-      <link>https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert</link>
-      <description>Police declare major incident after concertgoers at Don Toliver gig report eye and respiratory symptoms One person was taken to hospital and more than 50 were assessed by medics after a substance was let off in the crowd at Manchester’s Co-op Live arena, officials have said. Police declared a major incident after the release of the substance, which was initially thought to be teargas, as they sought to protect the 12,000 people in the crowd at a Don Toliver concert. Continue reading... Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:213a71e94502e48f</guid>
-      <pubDate>Mon, 23 Nov 2026 07:48:31 +0000</pubDate>
-      <category>salud</category>
-      <category>cultura</category>
-      <category>Global</category>
-      <dc:creator>Kevin Rawlinson</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/34d84297e8f9e2ff1677094b19ec2646b2f2ed6d/136_0_4261_3409/master/4261.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=587959d0783e1d667cffb93d4d6f0f7c" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/34d84297e8f9e2ff1677094b19ec2646b2f2ed6d/136_0_4261_3409/master/4261.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=587959d0783e1d667cffb93d4d6f0f7c" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’</title>
-      <link>https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb</link>
-      <description>Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel… Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:247b1ff92c4c3e88</guid>
-      <pubDate>Mon, 23 Nov 2026 00:35:39 +0000</pubDate>
-      <category>politica</category>
-      <category>ciencia</category>
-      <category>América Latina</category>
-      <category>Oceanía</category>
-      <dc:creator>Krishani Dhanji</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbc12c2c80182dc2c76d78173051e481" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/2778355ecb84fbdd945291563fda9cdd5665b91e/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbc12c2c80182dc2c76d78173051e481" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Did Liverpool 'get lucky' with red card decision?</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o</link>
-      <description>Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps "lucky" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4b6d4a46168b23e3</guid>
-      <pubDate>Sun, 22 Nov 2026 23:59:59 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>A 'wow' player - why Ngumoha is already a Liverpool game-changer</title>
-      <link>https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo</link>
-      <description>Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United. Fuente: BBC Sport.</description>
-      <guid isPermaLink="false">cron-rss-noticias:3e859934817847fb</guid>
-      <pubDate>Sun, 22 Nov 2026 23:20:16 +0000</pubDate>
-      <category>deportes</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/sport/rss.xml">BBC Sport</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png" type="image/jpeg" length="0" />
+      <title>Two Italians killed in strike in Kuwait, as Iran denies responsibility</title>
+      <link>https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o</link>
+      <description>The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry. Fuente: BBC News - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:3b6ff68d81e3fbe9</guid>
+      <pubDate>Thu, 26 Nov 2026 21:17:53 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Iraq sentences eight French nationals to life for joining Islamic State</title>
@@ -1622,6 +1527,92 @@
       <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
       <media:content url="https://th-i.thgim.com/public/incoming/73sirj/article71737075.ece/alternates/LANDSCAPE_1200/2026-07-28T071553Z_449219015_RC2JHMA2JCW2_RTRMADP_3_XAI-BRITAIN-LAWMAKER.JPG" medium="image" />
       <enclosure url="https://th-i.thgim.com/public/incoming/73sirj/article71737075.ece/alternates/LANDSCAPE_1200/2026-07-28T071553Z_449219015_RC2JHMA2JCW2_RTRMADP_3_XAI-BRITAIN-LAWMAKER.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Turkish heiress paid former prince Andrew paid £750k bribe, UK court told</title>
+      <link>https://www.abc.net.au/news/2026-11-24/ex-prince-andrew-took-bribe-to-help-turkish-heiress-court-told/107419512</link>
+      <description>Britain’s former prince Andrew received £750,000 (US$976,000) as an alleged “bribe” to help a Turkish heiress, the High Court in London was told on Monday, with the disgraced British royal due to testify in the civil trial. The claim around the payment emerged at the start of the anticipated four-month trial, which pits Nebahat Isbilen, whose family founded the Evyap soap and cosmetics group, against her former adviser and businessman, Selman Turk. Isbilen, the wife of a jailed Turkish former... Publicado también por: South China Morning Post. Fuente: ABC News Australia.</description>
+      <guid isPermaLink="false">cron-rss-noticias:83f5311c7718da2f</guid>
+      <pubDate>Mon, 23 Nov 2026 21:07:17 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Oceanía</category>
+      <category>Asia</category>
+      <source url="https://www.abc.net.au/news/feed/51120/rss.xml">ABC News Australia</source>
+      <media:content url="https://live-production.wcms.abc-cdn.net.au/1be11a3351dc124f8c246687485285e4?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4097&amp;xPos=473&amp;yPos=230&amp;width=862&amp;height=485" medium="image" />
+      <enclosure url="https://live-production.wcms.abc-cdn.net.au/1be11a3351dc124f8c246687485285e4?impolicy=wcms_crop_resize&amp;cropH=2304&amp;cropW=4097&amp;xPos=473&amp;yPos=230&amp;width=862&amp;height=485" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Las acciones del gigante tecnológico Nvidia se disparan tras anunciarse el regreso de Jensen Huang como director ejecutivo 11 días después de su renuncia</title>
+      <link>https://www.bbc.com/mundo/articles/cm4gnx691zp5o</link>
+      <description>Las acciones del gigante de la inteligencia artificial se dispararon cerca de 30% tras el anuncio del regreso de Huang al inicio de la jornada bursátil. Fuente: BBC News Mundo.</description>
+      <guid isPermaLink="false">cron-rss-noticias:163db0bf5af3a909</guid>
+      <pubDate>Mon, 23 Nov 2026 16:19:52 +0000</pubDate>
+      <category>tecnologia</category>
+      <category>Global</category>
+      <source url="https://feeds.bbci.co.uk/mundo/rss.xml">BBC News Mundo</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8a0/live/f01ca330-e74e-11f1-88dc-f746e0cde621.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8a0/live/f01ca330-e74e-11f1-88dc-f746e0cde621.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates</title>
+      <link>https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html</link>
+      <description>Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:4d1eb508d152116d</guid>
+      <pubDate>Thu, 26 Nov 2026 23:10:27 +0000</pubDate>
+      <category>economia</category>
+      <category>Global</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+    </item>
+    <item>
+      <title>Southern and central Australia face summer of heightened bushfire risk and heatwaves</title>
+      <link>https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves</link>
+      <description>Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say, while heatwaves and extreme temperatures are likely nationwide. Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions –… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f6ff37e302e72f5b</guid>
+      <pubDate>Thu, 26 Nov 2026 21:33:36 +0000</pubDate>
+      <category>mundo</category>
+      <category>Oceanía</category>
+      <dc:creator>Petra Stock</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=278ed744cfe9442b1643227501f22648" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=278ed744cfe9442b1643227501f22648" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Musk pledges two SpaceX shares for every US child</title>
+      <link>https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss</link>
+      <description>SpaceX did ​not immediately respond ‌to a request for comment on whether Mr. Musk’s SpaceX share donations would be linked to Trump Accounts or ‌come with any kind of ​lockup period Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7be11cb157ccfe92</guid>
+      <pubDate>Thu, 26 Nov 2026 20:19:22 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/461lse/article71745716.ece/alternates/LANDSCAPE_1200/2026-11-24T060512Z_1931926631_RC224W9ZBY39_RTRMADP_3_SPACEX-M-A-TESLA.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/461lse/article71745716.ece/alternates/LANDSCAPE_1200/2026-11-24T060512Z_1931926631_RC224W9ZBY39_RTRMADP_3_SPACEX-M-A-TESLA.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Net migration to UK falls to lowest level since 1997 excluding pandemic</title>
+      <link>https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic</link>
+      <description>Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading... Publicado también por: The New York Times - World. Fuente: The Guardian - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:15c549db078b0718</guid>
+      <pubDate>Thu, 26 Nov 2026 20:01:47 +0000</pubDate>
+      <category>salud</category>
+      <category>América del Norte</category>
+      <dc:creator>Rajeev Syal Home affairs editor</dc:creator>
+      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
+      <media:content url="https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00fb07bfeee9a001fcfb3a1d8dfbc0a7" medium="image" />
+      <enclosure url="https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00fb07bfeee9a001fcfb3a1d8dfbc0a7" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Are we ready to live longer? | Centre Stage</title>
+      <link>https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss</link>
+      <description>Dr Slim Slama of Qatar Foundation's WISH talks to Al Jazeera about the future of healthcare. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:7ac3cf0124d8ef89</guid>
+      <pubDate>Thu, 26 Nov 2026 13:29:30 +0000</pubDate>
+      <category>mundo</category>
+      <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
     </item>
   </channel>
 </rss>
