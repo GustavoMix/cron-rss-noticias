@@ -7,7 +7,7 @@
     <language>es</language>
     <generator>cron-rss-noticias</generator>
     <docs>https://www.rssboard.org/rss-specification</docs>
-    <lastBuildDate>Thu, 26 Nov 2026 23:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:28:58 +0000</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://raw.githubusercontent.com/GustavoMix/cron-rss-noticias/claude/cron-rss-news-feed-hwyv4o/feeds/destacadas.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -24,6 +24,21 @@
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg" medium="image" />
       <enclosure url="https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Iran denies role in drone attack that killed Italians in Kuwait</title>
+      <link>https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait</link>
+      <description>A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months. Both Italy and Kuwait confirmed the deaths, blaming the attack on Iran. But Tehran’s foreign minister Abbas Araghchi insisted in calls to his Kuwaiti and Italian counterparts that it was not behind the deadly strike. Iran has in the last week ratcheted up attacks on Kuwait and Gulf neighbour Bahrain while it continues to fight the... Publicado también por: The Hindu - International, BBC News - World, The New York Times - World. Fuente: South China Morning Post.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8c3c42b6f10f6871</guid>
+      <pubDate>Fri, 27 Nov 2026 02:28:47 +0000</pubDate>
+      <category>mundo</category>
+      <category>Europa</category>
+      <category>Medio Oriente</category>
+      <category>Asia</category>
+      <dc:creator>Agence France-Presse</dc:creator>
+      <source url="https://www.scmp.com/rss/91/feed">South China Morning Post</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/08a21b46-4fcf-4df5-b84c-47b46179574b_9a039389.jpg?itok=9uc2FBTY&amp;v=1795746518" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/08a21b46-4fcf-4df5-b84c-47b46179574b_9a039389.jpg?itok=9uc2FBTY&amp;v=1795746518" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%</title>
@@ -122,20 +137,6 @@
       <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/25/985d3c6e-ddd8-4bc1-86d0-b26da5034084_211faad4.jpg?itok=QIUtALuq&amp;v=1795569424" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>South Korea’s education minister resigns after backlash over AI exam cheating rules</title>
-      <link>https://www.euronews.com/2026/11/23/south-koreas-education-minister-resigns-after-backlash-over-ai-exam-cheating-rules</link>
-      <description>South Korea’s university entrance exam can shape a student’s future. Hidden cameras and smart glasses have fuelled fears of AI-assisted cheating, prompting last-minute security measures that drew criticism and led to the education minister’s resignation. Publicado también por: BBC News - World, The New York Times - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:626841428611e296</guid>
-      <pubDate>Mon, 23 Nov 2026 15:35:18 +0000</pubDate>
-      <category>mundo</category>
-      <category>Asia</category>
-      <category>Europa</category>
-      <category>América del Norte</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
       <title>Duran Duran guitarist Andy Taylor dies aged 65</title>
       <link>https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65</link>
       <description>Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading... Publicado también por: The Washington Post - World, The Hindu - International, The Guardian - World. Fuente: France 24 - English.</description>
@@ -214,6 +215,7 @@
       <category>salud</category>
       <category>América del Norte</category>
       <category>Asia</category>
+      <category>Europa</category>
       <dc:creator>Stephen Castle</dc:creator>
       <source url="https://rss.nytimes.com/services/xml/rss/nyt/World.xml">The New York Times - World</source>
       <media:content url="https://static01.nyt.com/images/2026/11/26/multimedia/26int-uk-immigration-tbmc/26int-uk-immigration-tbmc-mediumSquareAt3X.jpg" medium="image" />
@@ -520,6 +522,20 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>Donald Trump urges Vladimir Putin to end ‘military aggression’ in Europe</title>
+      <link>https://www.thehindu.com/news/international/donald-trump-urges-vladimir-putin-to-end-military-aggression-in-europe/article71749343.ece</link>
+      <description>US President Donald Trump said Thursday he had asked Vladimir Putin to "pull back all military aggression" against Europe, in a shift in tone towards the leader Russian he called his friend just a week ago. Trump said he had made the request to Putin when they met in China last week, adding that he thought it would help lead to a deal to end Moscow's grinding war in Ukraine. The US leader's comments come a day after he hosted NATO chief Mark Rutte in Florida, after which they issued a joint statement calling on Russia not to expand the Ukraine war. FRANCE 24's international affairs editor… Publicado también por: France 24 - English. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:bf4672c44389f3ca</guid>
+      <pubDate>Fri, 27 Nov 2026 07:51:27 +0000</pubDate>
+      <category>conflictos</category>
+      <category>América del Norte</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/5cxd9a/article71749368.ece/alternates/LANDSCAPE_1200/2026-11-26T162433Z_1015617438_RC2TQOANQQ5V_RTRMADP_3_UKRAINE-CRISIS-TRUMP.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/5cxd9a/article71749368.ece/alternates/LANDSCAPE_1200/2026-11-26T162433Z_1015617438_RC2TQOANQQ5V_RTRMADP_3_UKRAINE-CRISIS-TRUMP.JPG" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs</title>
       <link>https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps</link>
       <description>Exclusive: Frontbenchers join scores of party colleagues urging Burnham not to let ministers approve project Opinion: Why Labour MPs are opposing Rosebank Podcast: are resignations next? Labour’s internal divisions over the giant Rosebank oilfield have spilled into the open, with nearly 100 Labour MPs – including a handful of frontbenchers – writing to the prime minister to express their opposition to the project. Ninety-two backbenchers and at least four frontbenchers have signed a letter to Andy Burnham urging him not to let his ministers approve the scheme for the biggest undeveloped field… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
@@ -531,6 +547,19 @@
       <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
       <media:content url="https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06908736da2a2aea64361929ef2eb91b" medium="image" />
       <enclosure url="https://i.guim.co.uk/img/media/3b4b8cb55704a3ce1cd05925a86f51425692e4d8/617_0_4074_3259/master/4074.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06908736da2a2aea64361929ef2eb91b" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Spain’s Pablo Hernández de Cos set to lead European Central Bank</title>
+      <link>https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html</link>
+      <description>Spain’s Pablo Hernandez de Cos will be the next head of the European Central Bank, taking over from Christine Lagarde, diplomats said on Thursday. His nomination comes at a time of tension on European bond markets and before a series of high-stakes elections in Europe next year, including in France. Hernandez de Cos, 55, has been head of the Swiss-based Bank for International Settlements (BIS) since last year, and previously led the Bank of Spain from 2018 to 2024. The ECB is the central bank... Publicado también por: South China Morning Post. Fuente: CNBC - World.</description>
+      <guid isPermaLink="false">cron-rss-noticias:f6b2aa2e13dd4618</guid>
+      <pubDate>Thu, 26 Nov 2026 14:59:47 +0000</pubDate>
+      <category>economia</category>
+      <category>Europa</category>
+      <category>Asia</category>
+      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
+      <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/05923e6f-dff9-448e-a29a-f53a3b89c491_6478b610.jpg?itok=79AU3tML&amp;v=1795753437" medium="image" />
+      <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/27/05923e6f-dff9-448e-a29a-f53a3b89c491_6478b610.jpg?itok=79AU3tML&amp;v=1795753437" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations</title>
@@ -787,6 +816,20 @@
       <enclosure url="https://s.france24.com/media/display/42bcf66a-e774-11f1-99b6-13439ca2fe89/w:1024/p:16x9/EN-20261123-201152-201640-CS.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
+      <title>New Zealand's ruling coalition falls one seat short of majority in final election results</title>
+      <link>https://www.jpost.com/international/article-916303</link>
+      <description>The center-right coalition won 65 seats, one short of a majority, after special votes were counted. Preliminary results had given it a two-seat edge. Publicado también por: BBC News - World. Fuente: The Jerusalem Post - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:a49e4ae5c3eeb869</guid>
+      <pubDate>Fri, 27 Nov 2026 03:49:56 +0000</pubDate>
+      <category>politica</category>
+      <category>Oceanía</category>
+      <category>Medio Oriente</category>
+      <dc:creator>BY REUTERS</dc:creator>
+      <source url="https://www.jpost.com/rss/rssfeedsinternational">The Jerusalem Post - International</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
       <title>Tributes for Duran Duran guitarist Andy Taylor after his death aged 65</title>
       <link>https://www.bbc.co.uk/news/articles/cmp3vk6vr44po</link>
       <description>Musician who had huge 1980s chart success had been diagnosed with prostate cancer in 2018 Duran Duran was transformed by Andy Taylor’s rock edge – and never quite the same without him Andy Taylor – a life in pictures Andy Taylor, the guitarist with 80s pop megastars Duran Duran, has died aged 65. He had been diagnosed with stage four metastatic prostate cancer in 2018, which he disclosed publicly in 2022 when Duran Duran were about to be inducted into the Rock and Roll Hall of Fame. Continue reading... Publicado también por: The Guardian - Culture. Fuente: BBC News - World.</description>
@@ -887,18 +930,6 @@
       <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
       <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg" medium="image" />
       <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>The rise and fall and rise again of Jensen Huang</title>
-      <link>https://www.bbc.co.uk/news/articles/cmze750zg0jeo</link>
-      <description>Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return. Publicado también por: BBC News - Business. Fuente: BBC News - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:b7e3c6aaa8e69e83</guid>
-      <pubDate>Mon, 23 Nov 2026 15:49:52 +0000</pubDate>
-      <category>mundo</category>
-      <category>Global</category>
-      <source url="https://feeds.bbci.co.uk/news/world/rss.xml">BBC News - World</source>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg" medium="image" />
-      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>FIFA says a cyberattack against it targeted a 'limited set of personal and business information'</title>
@@ -1340,17 +1371,31 @@
       <enclosure url="https://static01.nyt.com/images/2026/11/23/multimedia/23int-indonesia-fire-02-gqcm/23int-indonesia-fire-02-gqcm-mediumSquareAt3X.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>At least 24 people killed in Indonesia factory fire, police say</title>
-      <link>https://www.euronews.com/2026/11/23/at-least-24-people-killed-in-indonesia-factory-fire-police-say</link>
-      <description>Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities ​were still investigating the cause of the fire, which broke out on Saturday in the PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about 50km west of Jakarta. Continue reading... Publicado también por: The Guardian - World. Fuente: Euronews.</description>
-      <guid isPermaLink="false">cron-rss-noticias:0c96ee9318b92981</guid>
-      <pubDate>Mon, 23 Nov 2026 14:39:22 +0000</pubDate>
+      <title>Russia: Moscow's iconic Soviet-era expo park opens its 20,000-square-metre outdoor ice rink</title>
+      <link>http://www.africanews.com/2026/11/27/russia-moscows-iconic-soviet-era-expo-park-opens-its-20000-square-metre-outdoor-ice-rink/</link>
+      <description>Moscow's iconic VDNKh exhibition park has opened its vast outdoor ice rink for the winter season on Thursday 26 November 2026, welcoming skaters to 20,000 square metres of ice winding around the complex's landmark Soviet-era fountains. Publicado también por: Euronews. Fuente: Africanews.</description>
+      <guid isPermaLink="false">cron-rss-noticias:ecc1fe91662fed95</guid>
+      <pubDate>Fri, 27 Nov 2026 08:08:36 +0000</pubDate>
       <category>mundo</category>
-      <category>Asia</category>
       <category>Europa</category>
-      <source url="https://www.euronews.com/rss?level=theme&amp;name=news">Euronews</source>
-      <media:content url="https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5434d79e2c7db3afb55b15a2183bcef2" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/47cbe1be874ceb93fbcf458afaae7d1de459017b/308_0_3265_2613/master/3265.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5434d79e2c7db3afb55b15a2183bcef2" type="image/jpeg" length="0" />
+      <category>África</category>
+      <dc:creator>editorial@africanews.com (Alexis Caraco)</dc:creator>
+      <source url="https://www.africanews.com/feed/rss">Africanews</source>
+      <media:content url="http://images.euronews.com/articles/stories/10/01/06/97/640x360_cmsv2_30c319b2-ead3-549d-865d-7712e36491a7-10010697.jpg?1795765536" medium="image" />
+      <enclosure url="http://images.euronews.com/articles/stories/10/01/06/97/640x360_cmsv2_30c319b2-ead3-549d-865d-7712e36491a7-10010697.jpg?1795765536" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled</title>
+      <link>https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece</link>
+      <description>A powerful storm disrupted Thanksgiving celebrations for millions of Americans on Thursday, as New York’s famed Macy’s parade was postponed for the first time in its 100-year history. Heavy rain and strong winds from the “Nor-easter” battered the central and eastern United States, creating treacherous travel conditions during one of the country’s busiest holiday periods. As families were gathering for traditional holiday feasts, more than 900,000 homes and businesses were without power, with... Publicado también por: South China Morning Post. Fuente: The Hindu - International.</description>
+      <guid isPermaLink="false">cron-rss-noticias:45e81da1be461f6d</guid>
+      <pubDate>Fri, 27 Nov 2026 07:22:02 +0000</pubDate>
+      <category>mundo</category>
+      <category>América del Norte</category>
+      <category>Asia</category>
+      <source url="https://www.thehindu.com/news/international/feeder/default.rss">The Hindu - International</source>
+      <media:content url="https://th-i.thgim.com/public/incoming/3adbij/article71749239.ece/alternates/LANDSCAPE_1200/2026-11-26T233433Z_1433722125_RC2TVOA4DKZ5_RTRMADP_3_USA-WEATHER.JPG" medium="image" />
+      <enclosure url="https://th-i.thgim.com/public/incoming/3adbij/article71749239.ece/alternates/LANDSCAPE_1200/2026-11-26T233433Z_1433722125_RC2TVOA4DKZ5_RTRMADP_3_USA-WEATHER.JPG" type="image/jpeg" length="0" />
     </item>
     <item>
       <title>Germany: Christmas markets open across the country amid tight security</title>
@@ -1555,64 +1600,28 @@
       <enclosure url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8a0/live/f01ca330-e74e-11f1-88dc-f746e0cde621.jpg" type="image/jpeg" length="0" />
     </item>
     <item>
-      <title>Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates</title>
-      <link>https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html</link>
-      <description>Investors are wrapping up a turbulent trading week that was shortened due to the Thanksgiving holiday. Fuente: CNBC - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:4d1eb508d152116d</guid>
-      <pubDate>Thu, 26 Nov 2026 23:10:27 +0000</pubDate>
-      <category>economia</category>
-      <category>Global</category>
-      <source url="https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&amp;id=100727362">CNBC - World</source>
-    </item>
-    <item>
-      <title>Southern and central Australia face summer of heightened bushfire risk and heatwaves</title>
-      <link>https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves</link>
-      <description>Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say, while heatwaves and extreme temperatures are likely nationwide. Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions –… Publicado también por: The Guardian - Environment. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:f6ff37e302e72f5b</guid>
-      <pubDate>Thu, 26 Nov 2026 21:33:36 +0000</pubDate>
+      <title>Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?</title>
+      <link>https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss</link>
+      <description>The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:073b433e7f9fb9c8</guid>
+      <pubDate>Fri, 27 Nov 2026 07:11:19 +0000</pubDate>
       <category>mundo</category>
-      <category>Oceanía</category>
-      <dc:creator>Petra Stock</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=278ed744cfe9442b1643227501f22648" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=278ed744cfe9442b1643227501f22648" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Musk pledges two SpaceX shares for every US child</title>
-      <link>https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child?traffic_source=rss</link>
-      <description>SpaceX did ​not immediately respond ‌to a request for comment on whether Mr. Musk’s SpaceX share donations would be linked to Trump Accounts or ‌come with any kind of ​lockup period Publicado también por: The Hindu - International. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7be11cb157ccfe92</guid>
-      <pubDate>Thu, 26 Nov 2026 20:19:22 +0000</pubDate>
-      <category>mundo</category>
-      <category>América del Norte</category>
       <category>Medio Oriente</category>
+      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+    </item>
+    <item>
+      <title>India’s Pant plays for New Zealand side under false name ‘Stan Stan’</title>
+      <link>https://www.aljazeera.com/sports/2026/11/27/indias-pant-plays-for-new-zealand-side-under-false-name-stan-stan?traffic_source=rss</link>
+      <description>India wicketkeeper Rishabh Pant unexpectedly joins a club game in Christchurch before the second Test against New Zealand and scores 54 off 21 balls. Publicado también por: BBC Sport. Fuente: Al Jazeera English.</description>
+      <guid isPermaLink="false">cron-rss-noticias:8229b0e8d6f7d0c6</guid>
+      <pubDate>Fri, 27 Nov 2026 06:00:39 +0000</pubDate>
+      <category>mundo</category>
       <category>Asia</category>
-      <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
-      <media:content url="https://th-i.thgim.com/public/incoming/461lse/article71745716.ece/alternates/LANDSCAPE_1200/2026-11-24T060512Z_1931926631_RC224W9ZBY39_RTRMADP_3_SPACEX-M-A-TESLA.JPG" medium="image" />
-      <enclosure url="https://th-i.thgim.com/public/incoming/461lse/article71745716.ece/alternates/LANDSCAPE_1200/2026-11-24T060512Z_1931926631_RC224W9ZBY39_RTRMADP_3_SPACEX-M-A-TESLA.JPG" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Net migration to UK falls to lowest level since 1997 excluding pandemic</title>
-      <link>https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic</link>
-      <description>Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading... Publicado también por: The New York Times - World. Fuente: The Guardian - World.</description>
-      <guid isPermaLink="false">cron-rss-noticias:15c549db078b0718</guid>
-      <pubDate>Thu, 26 Nov 2026 20:01:47 +0000</pubDate>
-      <category>salud</category>
-      <category>América del Norte</category>
-      <dc:creator>Rajeev Syal Home affairs editor</dc:creator>
-      <source url="https://www.theguardian.com/world/rss">The Guardian - World</source>
-      <media:content url="https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00fb07bfeee9a001fcfb3a1d8dfbc0a7" medium="image" />
-      <enclosure url="https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00fb07bfeee9a001fcfb3a1d8dfbc0a7" type="image/jpeg" length="0" />
-    </item>
-    <item>
-      <title>Are we ready to live longer? | Centre Stage</title>
-      <link>https://www.aljazeera.com/video/centre-stage/2026/11/26/are-we-ready-to-live-longer-centre-stage?traffic_source=rss</link>
-      <description>Dr Slim Slama of Qatar Foundation's WISH talks to Al Jazeera about the future of healthcare. Fuente: Al Jazeera English.</description>
-      <guid isPermaLink="false">cron-rss-noticias:7ac3cf0124d8ef89</guid>
-      <pubDate>Thu, 26 Nov 2026 13:29:30 +0000</pubDate>
-      <category>mundo</category>
+      <category>Oceanía</category>
       <category>Medio Oriente</category>
       <source url="https://www.aljazeera.com/xml/rss/all.xml">Al Jazeera English</source>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b9b/live/5d230c90-e9b0-11f1-859a-37130cd3a1d7.jpg" medium="image" />
+      <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b9b/live/5d230c90-e9b0-11f1-859a-37130cd3a1d7.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
